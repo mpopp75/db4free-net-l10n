@@ -15,7 +15,7 @@ $translations = array(
 
     'h2' => 'About the new website (and more)',
 
-    'p2' => 'You may notice that <b>everything here is new</b>. <a href="http://www.mpopp.net/2014/06/db4free-net-relaunch/">Find out more about it!</a>',
+    'p2' => 'You may notice that <b>everything here is new</b>. <a href="http://www.mpopp.net/2014/07/db4free-net-relaunch/">Find out more about it!</a>',
 
     'h3' => 'What db4free.net is not',
 
