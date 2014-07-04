@@ -1,58 +1,59 @@
 <?php
 /*
 Section: system-messages
-Language: English
+Language: Traditional Chinese 繁體中文
+Translator: Trey Lin
 */
 
 $translations = array(
-    'database' => 'Database',
+    'database' => '資料庫',
 
-    'username' => 'Username',
+    'username' => '使用者名稱',
 
     'email' => 'Email',
 
-    'id-not-found' => 'The ID could not be found.',
+    'id-not-found' => '找不到此ID。',
 
-    'success-create-db' => 'The database has been created successfully.',
+    'success-create-db' => '成功建立資料庫。',
 
-    'error-create-db' => 'Error creating the database.',
+    'error-create-db' => '建立資料庫時發生錯誤。',
 
-    'success-data-change' => 'The data has been changed.',
+    'success-data-change' => '資料已修改。',
 
-    'error-data-change' => 'The data could not be changed.',
+    'error-data-change' => '資料無法修改。',
 
-    'success-account-delete' => 'The account has been deleted.',
+    'success-account-delete' => '帳號已被刪除。',
 
-    'error-account-delete' => 'The account could not be deleted.',
+    'error-account-delete' => '帳號無法刪除。',
 
-    'another-user-database' => 'Another user has already registered a database with following name: ',
+    'another-user-database' => '已有其他使用者註冊以下資料庫名稱: ',
 
-    'another-user-username' => 'Another user has already registered the following username: ',
+    'another-user-username' => '已有其他使用者註冊以下使用者名稱: ',
 
-    'passwords-not-identical' => 'The passwords are not identical.',
+    'passwords-not-identical' => '使用者密碼不一致。',
 
-    'password-too-short' => 'The password must be at least 6 characters long.',
+    'password-too-short' => '使用者密碼不可以少於6個字。',
 
-    'only-2-db-allowed' => 'Only 2 databases per email address are allowed.',
+    'only-2-db-allowed' => '每個Email只能建立兩個資料庫。',
 
-    'email-invalid' => 'The email address is invalid.',
+    'email-invalid' => 'Email無效。',
 
-    'user-not-exist' => 'The user does not exist.',
+    'user-not-exist' => '使用者不存在。',
 
-    'user-not-confirmed' => 'The user has not yet confirmed the verification mail.',
+    'user-not-confirmed' => '使用者還沒驗證信箱。',
 
-    'password-not-correct' => 'The password is not correct.',
+    'password-not-correct' => '使用者密碼錯誤。',
 
-    'confirmation-email' => 'You will receive an email to confirm the changes.',
+    'confirmation-email' => '你將會收到修改確認信函。',
 
-    'error-write-data' => 'An error has occured updating your data.',
+    'error-write-data' => '更新你的資料時發生錯誤。',
 
-    'error-send-email' => 'An error has occured sending the confirmation email.',
+    'error-send-email' => '發送確認信函時發生錯誤。',
 
-    'subject-signup' => 'Your database registration with db4free.net',
+    'subject-signup' => '你在 db4free.net 註冊的資料庫',
 
-    'subject-delete-account' => 'Deletion of your db4free.net account',
+    'subject-delete-account' => '刪除你在 db4free.net 的帳號',
 
-    'subject-change-password' => 'Your new db4free.net password',
+    'subject-change-password' => '你在 db4free.net 的新密碼',
 );
 ?>

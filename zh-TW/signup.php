@@ -1,64 +1,65 @@
 <?php
 /*
 Section: signup
-Language: English
+Language: Traditional Chinese 繁體中文
+Translator: Trey Lin
 */
 
 $translations = array(
-    'h1' => 'Signup',
+    'h1' => '註冊',
 
-    'mysql-db-name' => 'MySQL database name',
+    'mysql-db-name' => 'MySQL 資料庫名稱',
 
-    'mysql-user-name' => 'MySQL username',
+    'mysql-user-name' => 'MySQL 使用者名稱',
 
-    'mysql-user-password' => 'MySQL user password',
+    'mysql-user-password' => 'MySQL 使用者密碼',
 
-    'mysql-user-password-verification' => 'MySQL user password verification',
+    'mysql-user-password-verification' => 'MySQL 使用者密碼驗證',
 
-    'email-address' => 'Email address',
+    'email-address' => 'Email',
 
-    'agree-conditions' => 'I have read the <a href="conditions.php">conditions of use</a> and I agree with them.',
+    'agree-conditions' => '我已閱讀<a href="conditions.php">使用規範</a>並認可其內容。',
 
-    'ph1' => '4-16 chars., no upper-case, 1st must be char.',
+    'ph1' => '4到16個字元，不允許大寫字母，首字必須為英文字母。',
 
-    'ph2' => 'Min. 6 chars.',
+    'ph2' => '最少 6 個字',
 
-    'ph3' => 'Enter your email address',
+    'ph3' => '輸入你的Email',
 
-    'explanation' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">reserved words</a>!',
+    'explanation' => '使用者名稱與資料庫名稱限制4到16個字元，允許小寫字母、數字以及下底線。 不可使用 <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">保留字</a>！',
 
-    'maintenance-notice' => 'Due to database maintenance, no registrations are currently possible.',
+    'maintenance-notice' => '由於資料庫維修，暫停註冊。',
 
-    'agm-p1' => 'By registering for a db4free.net account you agree that:',
+    'agm-p1' => '註冊 db4free.net 帳號即代表你同意下列事項：',
 
-    'agm-li1' => 'db4free.net is a testing environment',
+    'agm-li1' => 'db4free.net 僅供測試環境使用。',
 
-    'agm-li2' => 'db4free.net is not suitable for production',
+    'agm-li2' => 'db4free.net 不適用於商業用途。',
 
-    'agm-li3' => 'if you decide to use your db4free.net database in production despite the warnings, you do that at your own risk (very frequent backups are highly recommended)',
+    'agm-li3' => '盡管以上諸多警告，如果你仍決定在生產環境下使用db4free.net資料庫，所有風險將自行承擔。(強烈建議定時備份)',
 
-    'agm-li4' => 'data loss and outages can happen at any time (any complaints about that will likely be ignored)',
+    'agm-li4' => '隨時都可能發生資料遺失以及損壞。 (我們將忽略任何有關資料遺失的投訴)',
 
-    'agm-li5' => 'the db4free.net team is not granting any warranty or liability of any kind',
+    'agm-li5' => 'the db4free.net 團隊不提供任何擔保或責任。',
 
-    'agm-li6' => 'the db4free.net team reserves the right to delete databases and/or accounts at any time without notice',
+    'agm-li6' => 'the db4free.net 團隊保留刪除資料庫以及帳號的權力，而不另行通知。',
 
-    'agm-li7' => 'it is up to you to get the latest information from <a href="/twitter.php">Twitter</a> and the <a href="/blog.php">db4free.net blog</a>',
+    'agm-li7' => '你可以從我們的 <a href="/twitter.php">Twitter</a> 獲取最新資訊，或者是 <a href="/blog.php">db4free.net blog</a>',
 
-    'agm-li8' => 'db4free.net provides only a MySQL database, but no web space (there is nowhere to upload any files)',
+    'agm-li8' => 'db4free.net 只提供使用 MySQL 資料庫，不提供網路空間。 (沒有檔案上傳的機制)',
 
-    'agm-p2' => 'Further:',
+    'agm-p2' => '此外：',
 
-    'agm-li9' => 'db4free.net is a service for testing, not for hosting. Databases that store more than 200 MB data will be cleared at irregular intervals without notification',
+    'agm-li9' => 'db4free.net 提供之服務僅供測試，不提供運行正式網站。 超過 200 MB 的資料庫將不定時清空資料，不另行通知。',
 
-    'agm-li10' => 'Please remove data which you no longer need, or <a href="/delete-account.php">delete your no longer needed account</a>. This makes it easier to recover if a server crash occurs.',
+    'agm-li10' => '請移除不需要的資料，若你已不需要使用本服務， <a href="/delete-account.php">請刪除你的帳號</a>。 當伺服器當機時，這將有利於更快地回復狀態。',
 
-    'signup-error1' => 'You have to agree with the conditions of use!',
+    'signup-error1' => '你必須同意使用規範！',
 
-    'signup-error2' => 'Error registering the data for your MySQL database!',
+    'signup-error2' => '註冊你的 MySQL database 時發生錯誤！',
 
-    'signup-error3' => 'Error sending the confirmation email!',
+    'signup-error3' => '傳送認證信件時發生錯誤！',
 
-    'signup-success' => 'Thank you for your registration! You will receive an email to confirm the registration.',
+    'signup-success' => '感謝你的註冊，你將收到帳號確認信函！',
 );
 ?>

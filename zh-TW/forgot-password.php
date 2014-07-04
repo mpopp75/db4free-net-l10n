@@ -1,20 +1,21 @@
 <?php
 /*
 Section: forgot-password
-Language: English
+Language: Traditional Chinese 繁體中文
+Translator: Trey Lin
 */
 
 $translations = array(
-    'h1' => 'Forgot your password?',
+    'h1' => '忘記你的密碼？',
 
-    'username' => 'Username',
+    'username' => '使用者名稱',
 
-    'request-new-password' => 'Request new password',
+    'request-new-password' => '索取新密碼',
 
-    'ph1' => 'Enter your username',
+    'ph1' => '輸入使用者名稱',
 
-    'error1' => 'The data you entered is not correct!',
+    'error1' => '你輸入的資訊錯誤！',
 
-    'success' => 'You have received an email with your new password!',
+    'success' => '你將會收到有著新密碼的信件！',
 );
 ?>

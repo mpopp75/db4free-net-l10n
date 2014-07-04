@@ -1,7 +1,8 @@
 <?php
 /*
 Section: twitter
-Language: English
+Language: Traditional Chinese 繁體中文
+Translator: Trey Lin
 */
 
 $translations = array(
