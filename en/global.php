@@ -46,5 +46,7 @@ $translations = array(
     'password' => 'Password',
 
     'login' => 'Login',
+
+    'switch_language' => 'Switch Language',
 );
 ?>

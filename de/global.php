@@ -36,5 +36,7 @@ $translations = array(
     'password' => 'Passwort',
 
     'login' => 'Einloggen',
+
+    'switch_language' => 'Sprache wechseln',
 );
 ?>
