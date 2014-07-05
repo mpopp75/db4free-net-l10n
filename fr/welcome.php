@@ -7,30 +7,30 @@ Language: Français
 $translations = array(
     'h1' => 'Bienvenue sur db4free.net',
 
-    'p1a' => 'db4free.net provides a testing service for the latest - sometimes even development - version of the <a href="http://www.mysql.com/">MySQL Server</a>. You can easily <a href="/signup.php">create an account for free</a> and test your applications, for example to make sure that they still work after a MySQL version update. db4free.net is also a good resource for education and to make yourself familiar with new features that were introduced in new versions.',
+    'p1a' => 'db4free.net fournit un service de tests des dernières versions de <a href="http://www.mysql.com/">MySQL Server</a>, parfois même en développement. Vous pouvez facilement <a href="/signup.php">créer un compte gratuit</a> et tester vos applications, pour vous assurer par exemple qu\'elles fonctionneront encore après un update de MySQL. db4free.net est également un bon outil pédagogique et pour vous familiariser avec les nouvelles fonctionnalités',
 
-    'p1b' => 'db4free.net aims to always provide either the latest production release or the latest development release. db4free.net\'s MySQL server will be updated very soon after a new version is released, usually on the same day or very soon after.',
+    'p1b' => 'Le but de db4free.net est de fournir soit la dernière version de production, soit la version en développement. Le serveur MySQL de db4free.net est mis à jour rapidement après la sortie d\'une nouvelle version, généralement le même jour ou dans les jours suivants.',
 
-    'p1c' => 'To access your data in a convenient way, db4free.net also provides an up-to-date version of <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin will also be updated very frequently, so you always get the very latest.',
+    'p1c' => 'Pour accéder facilement à vos données, db4free.net fournit également une version à jour de <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin sera également mis à jour régulièrement, afin que vous disposiez toujours de la dernière version.',
 
     'h2' => 'A propos de ce site (et plus)',
 
-    'p2' => 'You may notice that <b>everything here is new</b>. <a href="http://www.mpopp.net/2014/07/db4free-net-relaunch/">Find out more about it!</a>',
+    'p2' => 'Vous avez peut être remarqué que <b>tout a changé !</b>. <a href="http://www.mpopp.net/2014/07/db4free-net-relaunch/">Plus d\'infos à ce sujet</a>',
 
     'h3' => 'Ce que db4free.net n\'est pas',
 
-    'p3' => 'db4free.net is a <b>testing service</b> which means it is not suitable for production. There can be outages, data loss and security features do not meet the standards which you expect from a professional data hosting provider. If you need a MySQL database for production use, please do not use db4free.net!',
+    'p3' => 'db4free.net est <b>un service de test</b>, cela signifie qu\'il n\'est pas adapté à une utilisation en production. Il peut y avoir des coupures de courant, des pertes de données et des particularités en termes de sécurité qui ne correspondent pas à ceux d\'un hébergeur professionnel. Si vous avez besoin d\'une base MySQL pour un usage en production, merci de ne pas utiliser db4free.net !',
 
     'h4' => 'Pouvez-vous nous aider à traduire db4free.net ?',
 
-    'p4' => 'Do you speak a language well that this website doesn\'t offer? You can help us translate db4free.net. <a href="/translate.php">Find out how!</a>',
+    'p4' => 'Vous parlez une langue qui n\'est pas disponible sur le site ? Vous pouvez nous aider à traduire db4free.net. <a href="/translate.php">Découvrez comment!</a>',
 
     'h5' => 'Ressources',
 
-    'p5a' => 'There is a <a href="http://www.mpopp.net/category/db4free/">db4free.net section</a> in the <a href="http://www.mpopp.net/">mpopp.net blog</a> bringing you the News about db4free.net. Please subscribe to the <a href="http://www.mpopp.net/category/db4free/feed/">RSS Feed</a> to make sure you don\'t miss any news. db4free.net is also on <a href="/twitter.php">Twitter</a>, another great resource to stay on top of what is happening in the db4free.net world.',
+    'p5a' => 'La section <a href="http://www.mpopp.net/category/db4free/">db4free.net</a> sur le blog <a href="http://www.mpopp.net/">mpopp.net</a> rassemble les dernières informations sur db4free.net. Souscrivez au <a href="http://www.mpopp.net/category/db4free/feed/">flux RSS</a> pour ne rater aucune news. db4free.net est aussi sur <a href="/twitter.php">Twitter</a>, un autre moyen génial de rester au courant de ce qui se passe dans le monde de db4free.net.',
 
-    'p5b' => 'The best resources to learn more about MySQL are the <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Reference Manual</a> and <a href="http://planet.mysql.com/">PlanetMySQL</a>. The MySQL website offers a number of <a href="http://dev.mysql.com/tech-resources/articles/">Developer Articles</a> many of which explain new features that are being introduced in upcoming versions in excellent detail.',
+    'p5b' => 'Les meilleures ressources pour apprendre à utiliser Mysql sont sur la <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, le <a href="http://dev.mysql.com/doc/refman/5.6/fr/index.html">Manuel de Référence MySQL</a> et sur <a href="http://planet.mysql.com/">PlanetMySQL</a>. Le site officiel propose également un grand nombre d\' <a href="http://dev.mysql.com/tech-resources/articles/">articles sur le développement de MySQL</a>, et beaucoup d\'entre eux expliquent en détail les nouvelles fonctionnalités prévues.',
 
-    'p5c' => 'If you find a bug in the MySQL Server, please report it in the <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
+    'p5c' => 'Si vous trouvez un bug, merci de le signaler sur le <a href="http://bugs.mysql.com/">système de suivi de bugs de MySQL</a>.',
 );
 ?>
