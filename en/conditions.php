@@ -7,7 +7,7 @@ Language: English
 $translations = array(
     'h1' => 'Conditions of use',
 
-    'p1' => 'In no event shall we, the db4free.net team, be liable to any party for direct, indirect, special, incidental, or consequential damages, including lost profits, arising out of the use of or the unavailability of this host, its software, its services or its documentation even if the administrator has been advised of the possibility of such damage.',
+    'p1' => 'In no event shall we, the db4free.net team, be liable to any party for direct, indirect, special, incidental, or consequential damages, including lost profits, arising out of the use of or the unavailiability of this host, its software, its services or its documentation even if the administrator has been advised of the possibility of such damage.',
 
     'p2' => 'We specifically disclaim any warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The software and host provided hereunder is on an "as is" basis, and we have no obligations to provide maintenance, support, updates, enhancements, or modifications or continued availability of services. We are entitled to discontinue this service without notification and delete the databases irrevocably.',
 

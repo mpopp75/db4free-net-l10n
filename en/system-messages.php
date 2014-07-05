@@ -45,9 +45,9 @@ $translations = array(
 
     'confirmation-email' => 'You will receive an email to confirm the changes.',
 
-    'error-write-data' => 'An error has occurred updating your data.',
+    'error-write-data' => 'An error has occured updating your data.',
 
-    'error-send-email' => 'An error has occurred sending the confirmation email.',
+    'error-send-email' => 'An error has occured sending the confirmation email.',
 
     'subject-signup' => 'Your database registration with db4free.net',
 
