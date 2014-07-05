@@ -10,7 +10,7 @@ $translations = array(
 
     'p1a' => '我們在2014年對 db4free.net 網站及資料庫服務的更新，現在有了簡單的方法讓你協助 db4free.net 網站翻譯至更多語言！',
 
-    'p1b' => '網站內的所有文字都在 <a href="https://github.com/">GitHub</a>。 你可以從上面fork一份到自己的repository，完成你的翻譯接著送出 pull request 以供網站可以統整你的翻譯。',
+    'p1b' => '網站內的所有文字都在 <a href="https://github.com/">GitHub</a>。 你可以從上面fork一份到自己的repository，完成你的翻譯接著送出 pull request 以供網站可以整合你的翻譯。',
 
     'h2' => '怎麼做？',
 
