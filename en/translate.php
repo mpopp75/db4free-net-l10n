@@ -7,6 +7,10 @@ Language: English
 $translations = array(
     'h1' => 'Translations',
 
+    'l10ncredits' => 'Many thanks to the translation contributors',
+
+    'l10ncreditsclick' => 'Click to view list',
+
     'p1a' => 'Following the 2014 update of the db4free.net site and service there is now an easy way how you can translate the db4free.net website to more languages.',
 
     'p1b' => 'All the texts of the website are up on <a href="https://github.com/">GitHub</a>. You can fork the repository, apply your translations and send us a pull request so your translations can be integrated into the website.',

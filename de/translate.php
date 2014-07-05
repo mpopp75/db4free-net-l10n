@@ -7,6 +7,10 @@ Language: German
 $translations = array(
     'h1' => 'Übersetzungen',
 
+    'l10ncredits' => 'Vielen Dank an die Übersetzer',
+
+    'l10ncreditsclick' => 'Klicken Sie, um die Liste zu sehen',
+
     'p1a' => 'Seit dem 2014 db4free.net Update haben Sie nun eine einfache Möglichkeit, beim Übersetzen der db4free.net Website in andere Sprachen zu helfen.',
 
     'p1b' => 'Sämtliche Website-Texte sind nun auf <a href="https://github.com/">GitHub</a>. Sie können das Repository "forken", Ihre Übersetzungen hinzufügen und uns einen Pull Request schicken, sodass Ihre Übersetzungen in die Website integriert werden können.',
