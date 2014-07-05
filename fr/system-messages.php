@@ -1,7 +1,7 @@
 <?php
 /*
 Section: system-messages
-Language: Français
+Language: French Français
 */
 
 $translations = array(
@@ -25,9 +25,9 @@ $translations = array(
 
     'error-account-delete' => 'Le compte n\'a pas pu être supprimé.',
 
-    'another-user-database' => 'Un autre utilisateur a déjà enregistré une base avec le nom suivant : ',
+    'another-user-database' => 'Un autre utilisateur a déjà enregistré une base avec le nom suivant&nbsp;:',
 
-    'another-user-username' => 'Un autre utilisateur a déjà enregistré le nom suivant : ',
+    'another-user-username' => 'Un autre utilisateur a déjà enregistré le nom suivant&nbsp;:',
 
     'passwords-not-identical' => 'Les mots de passe ne sont pas identitques.',
 

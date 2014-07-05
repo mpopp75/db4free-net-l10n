@@ -1,7 +1,7 @@
 <?php
 /*
 Section: delete-account
-Language: Français
+Language: French Français
 */
 
 $translations = array(
@@ -17,8 +17,8 @@ $translations = array(
 
     'error1' => 'Vous allez recevoir un email confirmant la suppression de votre compte de base de données!',
 
-    'error2' => 'Cet utilisateur n\'existe pas !',
+    'error2' => 'Cet utilisateur n\'existe pas&nbsp;!',
 
-    'error3' => 'Mot de passe incorrect !',
+    'error3' => 'Mot de passe incorrect&nbsp;!',
 );
 ?>

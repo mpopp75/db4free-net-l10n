@@ -1,7 +1,7 @@
 <?php
 /*
 Section: history
-Language: Français
+Language: French Français
 */
 
 $translations = array(

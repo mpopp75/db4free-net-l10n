@@ -1,7 +1,7 @@
 <?php
 /*
 Section: blog
-Language: Français
+Language: French Français
 */
 
 $translations = array(
@@ -9,6 +9,6 @@ $translations = array(
 
     'visitblog' => 'Voir le blog mpopp.net (s\'ouvre dans un nouvel onglet)',
 
-    'listposts' => 'Liste des articles du blog :',
+    'listposts' => 'Liste des articles du blog&nbsp;:',
 );
 ?>

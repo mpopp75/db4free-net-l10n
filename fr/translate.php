@@ -1,7 +1,7 @@
 <?php
 /*
 Section: translate
-Language: Français
+Language: French Français
 */
 
 $translations = array(
@@ -11,23 +11,23 @@ $translations = array(
 
     'p1b' => 'Tous les textes du site son sur <a href="https://github.com/">GitHub</a>. Vous pouvez forker le dépôt, y ajouter votre traduction et nous envoyer une "pull request" afin que votre traduction soit intégrée au site.',
 
-    'h2' => 'Comment contribuer ?',
+    'h2' => 'Comment contribuer&nbsp;?',
 
-    'p2a' => 'Tout d\'abord, vous devez vous inscrire sur GitHub, à moins que cela ne soit déjà fait. Forkez le dépôt sur :',
+    'p2a' => 'Tout d\'abord, vous devez vous inscrire sur GitHub, à moins que cela ne soit déjà fait. Forkez le dépôt sur&nbsp;:',
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
-    'p2c' => ' afin d\'avoir une copie exacte du dépôt de traduction sur votre compte. Vous pouvez maintenant cloner votre dépôt afin d\'avoir une copie sur votre ordinateur. La commande git correspondante est :',
+    'p2c' => ' afin d\'avoir une copie exacte du dépôt de traduction sur votre compte. Vous pouvez maintenant cloner votre dépôt afin d\'avoir une copie sur votre ordinateur. La commande git correspondante est&nbsp;:',
 
     'p2d' => 'git clone git@github.com:[votre_nom_dutilisateur_github]/db4free-net-l10n.git',
 
-    'p2e' => 'Nous vous recommandons de créer une branche séparée pour votre traduction, comme ceci :',
+    'p2e' => 'Nous vous recommandons de créer une branche séparée pour votre traduction, comme ceci&nbsp;:',
 
     'p2f' => 'git checkout -b matraduction',
 
     'p2g' => 'S\'il n\'existe pas de répertoire pour la langue dans laquelle vous souhaitez traduire, faites une copie du répertoire "en" et renommez-le selon <a href="http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1">les codes de langue ISO 639-1</a>.',
 
-    'p2h' => 'Dans les fichiers de ce répertoire, remplacez les textes en anglais par les textes dans la langue choisie. Attention à ne pas changer les ID. Par exemple, remplacez :',
+    'p2h' => 'Dans les fichiers de ce répertoire, remplacez les textes en anglais par les textes dans la langue choisie. Attention à ne pas changer les ID. Par exemple, remplacez&nbsp;:',
 
     'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
 

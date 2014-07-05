@@ -1,7 +1,7 @@
 <?php
 /*
 Section: imprint
-Language: Français
+Language: French Français
 */
 
 $translations = array(
@@ -19,7 +19,7 @@ $translations = array(
 
     'h3' => 'Décharge de responsabilité',
 
-    'p5' => 'L\'auteur de ce site se dégage de toute responsabilité quant à la l\'actualité, l'\'exactitude et la qualité des informations fournies. Toute réclamation concernant un préjudice lié à la fiabilité des informations fournies, incluant notamment toute information incomplète ou incorrecte, sera rejetée.',
+    'p5' => 'L\'auteur de ce site se dégage de toute responsabilité quant à la l\'actualité, l\'exactitude et la qualité des informations fournies. Toute réclamation concernant un préjudice lié à la fiabilité des informations fournies, incluant notamment toute information incomplète ou incorrecte, sera rejetée.',
 
     'p6' => 'L\'auteur de ce site n\'est reponsable d\'aucun contenu issu d\'un lien ou faisant référence à ce site.',
 );

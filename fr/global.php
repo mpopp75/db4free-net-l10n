@@ -1,7 +1,7 @@
 <?php
 /*
 Section: global
-Language: Français
+Language: French Français
 */
 
 $translations = array(
@@ -37,7 +37,7 @@ $translations = array(
 
     'sidebar_2_5' => 'Supprimer votre compte',
 
-    'sidebar_2_6' => 'Mot de passe oublié ?',
+    'sidebar_2_6' => 'Mot de passe oublié&nbsp;?',
 
     'pmalogin' => 'phpMyAdmin Login',
 

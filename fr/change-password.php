@@ -1,7 +1,7 @@
 <?php
 /*
 Section: change-password
-Language: Français
+Language: French Français
 */
 
 $translations = array(

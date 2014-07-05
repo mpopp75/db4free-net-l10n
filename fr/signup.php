@@ -1,7 +1,7 @@
 <?php
 /*
 Section: signup
-Language: Français
+Language: French Français
 */
 
 $translations = array(
@@ -19,17 +19,17 @@ $translations = array(
 
     'agree-conditions' => 'J\'ai lu et j\'accepte <a href="conditions.php">les conditions d\'utilisation</a>.',
 
-    'ph1' => '4-16 caractères., pas de majuscules, le premier caractère doit être une lettre.',
+    'ph1' => '4-16 caractères, pas de majuscules, le premier caractère doit être une lettre.',
 
     'ph2' => 'Min. 6 caractères.',
 
     'ph3' => 'Saisissez votre adresse mail',
 
-    'explanation' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">de mots réservés</a> !',
+    'explanation' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">de mots réservés</a>&nbsp;!',
 
     'maintenance-notice' => 'En raison d\'une maintenance sur la base, aucune inscription n\'est possible actuellement.',
 
-    'agm-p1' => 'En vous enregistrant sur db4free.net, vous acceptez que :',
+    'agm-p1' => 'En vous enregistrant sur db4free.net, vous acceptez que&nbsp;:',
 
     'agm-li1' => 'db4free.net est un environnement de test',
 
@@ -47,18 +47,18 @@ $translations = array(
 
     'agm-li8' => 'db4free.net fournit uniquement une base de données MySQL, et aucun hébergement web (vous n\'avez pas la possibilité d\'uploader des fichiers)',
 
-    'agm-p2' => 'De plus :',
+    'agm-p2' => 'De plus&nbsp;:',
 
     'agm-li9' => 'db4free.net est un service de test, pas d\'hébergement. Les bases qui contiennent plus de 200 MB de données vidées à intervales aléatoires sans notification préalable.',
 
     'agm-li10' => 'merci de supprimer les données dont vous n\'avez plus besoin, et les comptes utilisateurs que vous n\'utilisez plus (http://www.db4free.net/delete-account.php). Cela facilite la récupération des données après un éventuel crash.',
 
-    'signup-error1' => 'Vous devez accepter les conditions d\'utilisation !',
+    'signup-error1' => 'Vous devez accepter les conditions d\'utilisation&nbsp;!',
 
-    'signup-error2' => 'Erreur lors de l\'enregistrement des données de votre base MySQL !',
+    'signup-error2' => 'Erreur lors de l\'enregistrement des données de votre base MySQL&nbsp;!',
 
-    'signup-error3' => 'Erreur lors de l\'envoi de l\'email de confirmation !',
+    'signup-error3' => 'Erreur lors de l\'envoi de l\'email de confirmation&nbsp;!',
 
-    'signup-success' => 'Merci pour votre inscription ! Vous allez recevoir un mail de confirmation.',
+    'signup-success' => 'Merci pour votre inscription&nbsp;! Vous allez recevoir un mail de confirmation.',
 );
 ?>

@@ -1,11 +1,11 @@
 <?php
 /*
 Section: forgot-password
-Language: Français
+Language: French Français
 */
 
 $translations = array(
-    'h1' => 'Mot de passe oublié ?',
+    'h1' => 'Mot de passe oublié&nbsp;?',
 
     'username' => 'Nom d\'utilisateur',
 
@@ -13,8 +13,8 @@ $translations = array(
 
     'ph1' => 'Saisissez votre nom d\'utilisateur',
 
-    'error1' => 'Les données que vous avez saisies sont incorrectes !',
+    'error1' => 'Les données que vous avez saisies sont incorrectes&nbsp;!',
 
-    'success' => 'Vous avez reçu un email contenant votre nouveau mot de passe !',
+    'success' => 'Vous avez reçu un email contenant votre nouveau mot de passe&nbsp;!',
 );
 ?>
