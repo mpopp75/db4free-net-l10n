@@ -10,8 +10,8 @@ $translations = array(
 
 你的新資料如下:
 
-Database user: {$user}
-Password: {$newData}
+資料庫使用者: {$user}
+密碼: {$newData}
 
 請按下以下連結來確認本次的變更:
 

@@ -44,7 +44,7 @@ $translations = array(
 
     'password-not-correct' => '使用者密碼錯誤。',
 
-    'confirmation-email' => '你將會收到修改確認信函。',
+    'confirmation-email' => '你將會收到修改密碼確認信函。',
 
     'error-write-data' => '更新你的資料時發生錯誤。',
 
