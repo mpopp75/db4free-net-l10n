@@ -9,7 +9,7 @@ $translations = array(
 
     'p1' => 'Dans cette section, vous pouvez créer votre compte utilisateur, le modifier ou le supprimer.',
 
-    'h2' => 'Qu\'est-ce qui nous rend "spéciaux" ?',
+    'h2' => 'Qu\'est-ce qui fait notre "particularité" ?',
 
     'p2' => 'Le but de notre projet est de fournir une <b>version récente</b> de MySQL au développeurs et aux testeurs qui en ont besoin. En mettant régulièrement à jour les versions de MySQL et de phpMyAdmin, vous avez l\'opportunité de tester votre site avec une version récente de MySQL. '
 

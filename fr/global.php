@@ -1,7 +1,7 @@
 <?php
 /*
 Section: global
-Language: English
+Language: Français
 */
 
 $translations = array(
@@ -25,7 +25,7 @@ $translations = array(
 
     'sidebar_1_4' => 'Changelog',
 
-    'sidebar_1_5' => 'Imprint',
+    'sidebar_1_5' => 'Mentions',
 
     'sidebar_2_1' => 'A propos de db4free.net',
 

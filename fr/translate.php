@@ -1,33 +1,33 @@
 <?php
 /*
 Section: translate
-Language: English
+Language: Français
 */
 
 $translations = array(
     'h1' => 'Traductions',
 
-    'p1a' => 'Following the 2014 update of the db4free.net site and service there is now an easy way how you can translate the db4free.net website to more languages.',
+    'p1a' => 'Suite à la mise à jour 2014 du site et du service db4free.net, vous pouvez désormais facilement traduire le site db4free.net dans de nombreux langages ',
 
-    'p1b' => 'All the texts of the website are up on <a href="https://github.com/">GitHub</a>. You can fork the repository, apply your translations and send us a pull request so your translations can be integrated into the website.',
+    'p1b' => 'Tous les textes du site son sur <a href="https://github.com/">GitHub</a>. Vous pouvez forker le dépôt, y ajouter votre traduction et nous envoyer une "pull request" afin que votre traduction soit intégrée au site.',
 
     'h2' => 'Comment contribuer ?',
 
-    'p2a' => 'First you need to sign up for a GitHub account unless you already have one. Fork the repository at ',
+    'p2a' => 'Tout d\'abord, vous devez vous inscrire sur GitHub, à moins que cela ne soit déjà fait. Forkez le dépôt sur :',
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
-    'p2c' => ' so you have an identical copy of the translation repository in your account. Now you can clone your repository to create a copy on your system. The git command for this is:',
+    'p2c' => ' afin d\'avoir une copie exacte du dépôt de traduction sur votre compte. Vous pouvez maintenant cloner votre dépôt afin d\'avoir une copie sur votre ordinateur. La commande git correspondante est :',
 
-    'p2d' => 'git clone git@github.com:[Your_GitHub_username]/db4free-net-l10n.git',
+    'p2d' => 'git clone git@github.com:[votre_nom_dutilisateur_github]/db4free-net-l10n.git',
 
-    'p2e' => 'We recommend you to create a separate branch for your translations, like so:',
+    'p2e' => 'Nous vous recommandons de créer une branche séparée pour votre traduction, comme ceci :',
 
-    'p2f' => 'git checkout -b mytranslations',
+    'p2f' => 'git checkout -b matraduction',
 
-    'p2g' => 'If there is no directory for the language which you want to apply translations to, make a copy of the "en" directory and name it according to <a href="http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 language codes</a>.',
+    'p2g' => 'S\'il n\'existe pas de répertoire pour la langue dans laquelle vous souhaitez traduire, faites une copie du répertoire "en" et renommez-le selon <a href="http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1">les codes de langue ISO 639-1</a>.',
 
-    'p2h' => 'In the files inside this directory, replace the English texts with texts of the new language. Please be careful not to change the ID. For example replace:',
+    'p2h' => 'Dans les fichiers de ce répertoire, remplacez les textes en anglais par les textes dans la langue choisie. Attention à ne pas changer les ID. Par exemple, remplacez :',
 
     'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
 
@@ -35,10 +35,10 @@ $translations = array(
 
     'p2k' => '\'h1\' => \'Bienvenido a db4free.net\',',
 
-    'p2l' => 'If a text is the same in English and the language you are translating to, you may delete the line or simply leave it.',
+    'p2l' => 'Si un texte est le même en anglais et dans la langue dans laquelle vous le traduisez, vous pouvez supprimer la ligne ou la laisser telle quelle.',
 
-    'p2m' => 'When your translations are finished, commit and push them to your GitHub repository. Switch to your new branch on GitHub and click "New Pull Request". Enter a short description what your translations are, any difficulties you faced or what you may not have been able to finish etc. and send off the Pull Request.',
+    'p2m' => 'Quand vos traductions sont terminées, committez et pushez les sur votre dépôt GitHub. Placez-vous sur votre nouvelle branche GitHub et cliquez sur "New Pull Request". Décrivez brièvement votre traduction, toute difficulté rencontrée ou ce que vous n\'avez pas été en mesure de terminer, etc. puis envoyez la Pull Request.',
 
-    'p2n' => 'If you like to contribute but you need further assistance before you can get started, please <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Open a Ticket at GitHub</a>.',
+    'p2n' => 'Si vous souhaitez contribuer mais avez besoin d\'aide supplémentaire, <a href="https://github.com/mpopp75/db4free-net-l10n/issues">ouvrez un ticket sur GitHub</a>.',
 );
 ?>

@@ -17,10 +17,10 @@ $translations = array(
 
     'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal für Mediendesigner (mit Farbumrechner uvm.)</a>',
 
-    'h3' => 'Disclaimer',
+    'h3' => 'Décharge de responsabilité',
 
-    'p5' => 'The author of this website reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.',
+    'p5' => 'L\'auteur de ce site se dégage de toute responsabilité quant à la l\'actualité, l'\'exactitude et la qualité des informations fournies. Toute réclamation concernant un préjudice lié à la fiabilité des informations fournies, incluant notamment toute information incomplète ou incorrecte, sera rejetée.',
 
-    'p6' => 'The author of this website is not responsible for any contents linked or referred to from this site.',
+    'p6' => 'L\'auteur de ce site n\'est reponsable d\'aucun contenu issu d\'un lien ou faisant référence à ce site.',
 );
 ?>

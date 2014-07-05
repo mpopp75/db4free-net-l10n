@@ -1,7 +1,7 @@
 <?php
 /*
 Section: signup
-Language: English
+Language: Français
 */
 
 $translations = array(
@@ -25,40 +25,40 @@ $translations = array(
 
     'ph3' => 'Saisissez votre adresse mail',
 
-    'explanation' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">reserved words</a>!',
+    'explanation' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">de mots réservés</a> !',
 
-    'maintenance-notice' => 'Due to database maintenance, no registrations are currently possible.',
+    'maintenance-notice' => 'En raison d\'une maintenance sur la base, aucune inscription n\'est possible actuellement.',
 
-    'agm-p1' => 'By registering for a db4free.net account you agree that:',
+    'agm-p1' => 'En vous enregistrant sur db4free.net, vous acceptez que :',
 
-    'agm-li1' => 'db4free.net is a testing environment',
+    'agm-li1' => 'db4free.net est un environnement de test',
 
-    'agm-li2' => 'db4free.net is not suitable for production',
+    'agm-li2' => 'db4free.net n\'est pas adapté à un usage en production',
 
-    'agm-li3' => 'if you decide to use your db4free.net database in production despite the warnings, you do that at your own risk (very frequent backups are highly recommended)',
+    'agm-li3' => 'si vous décidez d\'utiliser votre base de données db4free.net en production malgré les avertissements, vous le faites à vos risques et périls (des sauvegardes fréquentes sont très vivements recommandées)',
 
-    'agm-li4' => 'data loss and outages can happen at any time (any complaints about that will likely be ignored)',
+    'agm-li4' => 'des pertes de données et coupures de courant peuvent subvenir n\'importe quand (toute plainte à ce sujet sera ignorée)',
 
-    'agm-li5' => 'the db4free.net team is not granting any warranty or liability of any kind',
+    'agm-li5' => 'l\'équipe de db4free.net n\'apporte aucune garantie ni responsabilité d\'aucune sorte',
 
-    'agm-li6' => 'the db4free.net team reserves the right to delete databases and/or accounts at any time without notice',
+    'agm-li6' => 'l\'équipe de db4free.net se réserve le droit de supprimer toute base de données ou compte utilisateur sans préavis',
 
-    'agm-li7' => 'it is up to you to get the latest information from <a href="/twitter.php">Twitter</a> and the <a href="/blog.php">db4free.net blog</a>',
+    'agm-li7' => 'il vous revient de vous tenir informé des dernières actualités sur Twitter (https://twitter.com/db4free_net) et sur le blog de db4free.net (http://www.mpopp.net/category/db4free/)',
 
-    'agm-li8' => 'db4free.net provides only a MySQL database, but no web space (there is nowhere to upload any files)',
+    'agm-li8' => 'db4free.net fournit uniquement une base de données MySQL, et aucun hébergement web (vous n\'avez pas la possibilité d\'uploader des fichiers)',
 
-    'agm-p2' => 'Further:',
+    'agm-p2' => 'De plus :',
 
-    'agm-li9' => 'db4free.net is a service for testing, not for hosting. Databases that store more than 200 MB data will be cleared at irregular intervals without notification',
+    'agm-li9' => 'db4free.net est un service de test, pas d\'hébergement. Les bases qui contiennent plus de 200 MB de données vidées à intervales aléatoires sans notification préalable.',
 
-    'agm-li10' => 'Please remove data which you no longer need, or <a href="/delete-account.php">delete your no longer needed account</a>. This makes it easier to recover if a server crash occurs.',
+    'agm-li10' => 'merci de supprimer les données dont vous n\'avez plus besoin, et les comptes utilisateurs que vous n\'utilisez plus (http://www.db4free.net/delete-account.php). Cela facilite la récupération des données après un éventuel crash.',
 
-    'signup-error1' => 'You have to agree with the conditions of use!',
+    'signup-error1' => 'Vous devez accepter les conditions d\'utilisation !',
 
-    'signup-error2' => 'Error registering the data for your MySQL database!',
+    'signup-error2' => 'Erreur lors de l\'enregistrement des données de votre base MySQL !',
 
-    'signup-error3' => 'Error sending the confirmation email!',
+    'signup-error3' => 'Erreur lors de l\'envoi de l\'email de confirmation !',
 
-    'signup-success' => 'Thank you for your registration! You will receive an email to confirm the registration.',
+    'signup-success' => 'Merci pour votre inscription ! Vous allez recevoir un mail de confirmation.',
 );
 ?>
