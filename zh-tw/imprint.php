@@ -1,26 +1,27 @@
 <?php
 /*
 Section: imprint
-Language: English
+Language: Traditional Chinese 繁體中文
+Translator: Trey Lin
 */
 
 $translations = array(
-    'h1' => 'Imprint',
+    'h1' => '版權說明',
 
     'p1' => '&copy; 2005-2014 by',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
-    'h2' => 'Associated projects',
+    'h2' => '相關專案',
 
     'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
 
     'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal für Mediendesigner (mit Farbumrechner uvm.)</a>',
 
-    'h3' => 'Disclaimer',
+    'h3' => '免責聲明',
 
-    'p5' => 'The author of this website reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.',
+    'p5' => '本站作者保留對其所提供之資訊的時事性，正確性，完整性以及品質的免責權利。 作者不負責及不承擔任何因使用本站資訊，包含不完整、不正確的資訊而造成的損害或損失。',
 
-    'p6' => 'The author of this website is not responsible for any contents linked or referred to from this site.',
+    'p6' => '本站作者不對其網站連結的網站及內容承擔任何責任。',
 );
 ?>
