@@ -1,7 +1,7 @@
 <?php
 /*
 Section: history
-Language: Spanish
+Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 

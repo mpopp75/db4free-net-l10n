@@ -1,27 +1,27 @@
 <?php
 /*
 Section: change-password
-Language: Spanish
+Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
 $translations = array(
-    'h1' => 'Cambiar contrase&ntilde;a',
+    'h1' => 'Cambiar contraseña',
 
     'mysql-username' => 'Usuario MySQL',
 
-    'old-password' => 'Contrase&ntilde;a anterior',
+    'old-password' => 'Contraseña anterior',
 
-    'new-password' => 'Nueva contrase&ntilde;a',
+    'new-password' => 'Nueva contraseña',
 
-    'new-password-verification' => 'Verifique nueva contrase&ntilde;a',
+    'new-password-verification' => 'Verifique nueva contraseña',
 
     'ph1' => 'Ingrese su nombre de usuario',
 
-    'ph2' => 'Ingrese su contrase&ntilde;a actual',
+    'ph2' => 'Ingrese su contraseña actual',
 
-    'ph3' => 'Ingrese su nueva contrase&ntilde;a',
+    'ph3' => 'Ingrese su nueva contraseña',
 
-    'ph4' => 'Ingrese su nueva contrase&ntilde;a (otra vez)',
+    'ph4' => 'Ingrese su nueva contraseña (otra vez)',
 );
 ?>

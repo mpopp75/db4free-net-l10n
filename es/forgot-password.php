@@ -1,21 +1,21 @@
 <?php
 /*
 Section: forgot-password
-Language: Spanish
+Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
 $translations = array(
-    'h1' => '¿Olvid&oacute; su contrase&ntilde;a?',
+    'h1' => '¿Olvidó su contraseña?',
 
     'username' => 'Nombre de usuario',
 
-    'request-new-password' => 'Solicitar una nueva contrase&ntilde;a',
+    'request-new-password' => 'Solicitar una nueva contraseña',
 
     'ph1' => 'Introduzca su nombre de usuario',
 
-    'error1' => 'La informaci&oacute;n que ha introducido no es correcta!',
+    'error1' => 'La información que ha introducido no es correcta!',
 
-    'success' => 'Usted ha recibido un correo electr&oacute;nico con su nueva contrase&ntilde;a!',
+    'success' => 'Usted ha recibido un correo electrónico con su nueva contraseña!',
 );
 ?>

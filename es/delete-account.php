@@ -1,7 +1,7 @@
 <?php
 /*
 Section: delete-account
-Language: Spanish
+Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
@@ -10,13 +10,13 @@ $translations = array(
 
     'mysql-username' => 'Nmbre de usuario MySQL',
 
-    'mysql-user-password' => 'Contrase&ntilde;a de usuario MySQL',
+    'mysql-user-password' => 'Contraseña de usuario MySQL',
 
     'ph1' => 'Ingresa tu nombre de usuario',
 
-    'ph2' => 'Ingresa tu contrase&ntilde;a',
+    'ph2' => 'Ingresa tu contraseña',
 
-    'error1' => 'Usted recibir&aacute; un correo electr&oacute;nico para confirmar la eliminaci&oacute;n de su cuenta de base de datos!',
+    'error1' => 'Usted recibirá un correo electrónico para confirmar la eliminación de su cuenta de base de datos!',
 
     'error2' => '¡El usuario no existe!',
 

@@ -1,12 +1,12 @@
 <?php
 /*
 Section: imprint
-Language: Spanish
+Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
 $translations = array(
-    'h1' => 'Publicaci&oacute;n',
+    'h1' => 'Publicación',
 
     'p1' => '&copy; 2005-2014 por',
 
@@ -18,10 +18,10 @@ $translations = array(
 
     'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal für Mediendesigner (mit Farbumrechner uvm.)</a>',
 
-    'h3' => 'Aclaraci&oacute;n',
+    'h3' => 'Aclaración',
 
-    'p5' => 'El autor de esta web se reserva el derecho de no ser responsable de la pertinencia, correcci&oacute;n, integridad o calidad de la informaci&oacute;n proporcionada. Las reclamaciones de responsabilidad por daños causados​por el uso de cualquier informaci&oacute;n proporcionada, incluyendo cualquier tipo de informaci&oacute;n que sea incompleta o incorrecta, ser&aacute;n rechazadas.',
+    'p5' => 'El autor de esta web se reserva el derecho de no ser responsable de la pertinencia, corrección, integridad o calidad de la información proporcionada. Las reclamaciones de responsabilidad por daños causados​por el uso de cualquier información proporcionada, incluyendo cualquier tipo de información que sea incompleta o incorrecta, serán rechazadas.',
 
-    'p6' => 'El autor de esta web no se hace responsable de ning&uacute;n contenido ligado o referido de este sitio.',
+    'p6' => 'El autor de esta web no se hace responsable de ningún contenido ligado o referido de este sitio.',
 );
 ?>

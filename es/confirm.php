@@ -1,11 +1,11 @@
 <?php
 /*
 Section: confirm
-Language: Spanish
+Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
 $translations = array(
-    'h1' => 'Confirmaci&oacute;n',
+    'h1' => 'Confirmación',
 );
 ?>

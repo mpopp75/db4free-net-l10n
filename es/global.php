@@ -1,7 +1,7 @@
 <?php
 /*
 Section: global
-Language: Spanish
+Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
@@ -26,7 +26,7 @@ $translations = array(
 
     'sidebar_1_4' => 'Lista de cambios',
 
-    'sidebar_1_5' => 'Publicaci&oacute;n',
+    'sidebar_1_5' => 'Publicación',
 
     'sidebar_2_1' => 'Acerca de db4free.net',
 
@@ -38,14 +38,14 @@ $translations = array(
 
     'sidebar_2_5' => 'Eliminar cuenta',
 
-    'sidebar_2_6' => '¿Olvid&oacute; su contrase&ntilde;a?',
+    'sidebar_2_6' => '¿Olvidó su contraseña?',
 
     'pmalogin' => 'Ingreso phpMyAdmin',
 
     'username' => 'Usuario',
 
-    'password' => 'Contrase&ntilde;a',
+    'password' => 'Contraseña',
 
-    'login' => 'Iniciar sesi&oacute;n',
+    'login' => 'Iniciar sesión',
 );
 ?>

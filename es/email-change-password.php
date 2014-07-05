@@ -1,7 +1,7 @@
 <?php
 /*
 Section: email-change-password
-Language: Spanish
+Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
