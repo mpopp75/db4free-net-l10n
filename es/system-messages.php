@@ -1,4 +1,4 @@
-á<?php
+<?php
 
 /*
   Section: system-messages
