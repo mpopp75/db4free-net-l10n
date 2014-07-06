@@ -12,7 +12,7 @@ $translations = array(
 
     'p1b' => 'db4free.net tiene como objetivo proporcionar siempre la última versión de producción o la última versión en desarrollo. El servidor MySQL de db4free.net será actualizado al poco tiempo de haber sido lanzada una nueva versión, por lo general en el mismo día o poco después.',
 
-    'p1c' => 'Para acceder a sus datos de una manera conveniente, db4free.net también proporciona una versión actualizada de <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin tambien se actualizará frecuentemente, por lo cual siempre obtendrá la última versión',
+    'p1c' => 'Para acceder a sus datos de una manera conveniente, db4free.net también proporciona una versión actualizada de <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin tambien se actualizará frecuentemente, por lo cual siempre obtendrá la última versión.',
 
     'h2' => 'Acerca de la nueva página web (y más)',
 
@@ -28,9 +28,9 @@ $translations = array(
 
     'h5' => 'Recursos',
 
-    'p5a' => 'Hay una <a href="http://www.mpopp.net/category/db4free/">sección de db4free.net</a> en el <a href="http://www.mpopp.net/">blog de mpopp.net</a> presentándole los noticias sobre db4free.net. Por favor suscríbase al <a href="http://www.mpopp.net/category/db4free/feed/">RSS Feed</a> para asegurarse de que no se pierda ninguna noticia. db4free.net tambien está en  <a href="/twitter.php">Twitter</a>, otro gran recurso para estar al tanto de lo que está sucediendo en el mundo de db4free.net.',
+    'p5a' => 'Hay una <a href="http://www.mpopp.net/category/db4free/">sección de db4free.net</a> en el <a href="http://www.mpopp.net/">blog de mpopp.net</a> presentándole los noticias sobre db4free.net. Por favor suscríbase al <a href="http://www.mpopp.net/category/db4free/feed/">RSS Feed</a> para asegurarse de que no se pierda ninguna noticia. db4free.net tambien está en <a href="/twitter.php">Twitter</a>, otro gran recurso para estar al tanto de lo que está sucediendo en el mundo de db4free.net.',
 
-    'p5b' => 'Los mejores recursos para aprender más acerca de MySQL son la <a href="http://dev.mysql.com/">Zona de desarrolladores de MySQL (en inglés)</a>, el <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">manual de referencia MySQL (en inglés)</a> y en <a href="http://es.planet.mysql.com/">PlanetMySQL</a>. El sitio web de MySQL ofrece una serie de <a href="http://dev.mysql.com/tech-resources/articles/">artículos de desarrolladores</a>muchos de los cuales explican las nuevas características que se están introduciendo en las próximas versiones detalladas de manera excelente.',
+    'p5b' => 'Los mejores recursos para aprender más acerca de MySQL son la <a href="http://dev.mysql.com/">Zona de desarrolladores de MySQL (en inglés)</a>, el <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">manual de referencia MySQL (en inglés)</a> y en <a href="http://es.planet.mysql.com/">PlanetMySQL</a>. El sitio web de MySQL ofrece una serie de <a href="http://dev.mysql.com/tech-resources/articles/">artículos de desarrolladores</a> muchos de los cuales explican las nuevas características que se están introduciendo en las próximas versiones detalladas de manera excelente.',
 
     'p5c' => 'Si usted encuentra un error en el servidor MySQL, por favor repórtelo en el <a href="http://bugs.mysql.com/">Sistema de seguimiento de fallos de MySQL</a>.',
 );
