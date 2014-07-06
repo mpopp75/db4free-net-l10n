@@ -47,5 +47,7 @@ $translations = array(
     'password' => 'Contraseña',
 
     'login' => 'Iniciar sesión',
+
+    'switch_language' => 'Cambiar el idioma',
 );
 ?>
