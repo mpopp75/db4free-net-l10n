@@ -10,7 +10,7 @@ $translations = array(
     'h1' => '服务条款',
 
 	//'p1' => 'In no event shall we, the db4free.net team, be liable to any party for direct, indirect, special, incidental, or consequential damages, including lost profits, arising out of the use of or the unavailiability of this host, its software, its services or its documentation even if the administrator has been advised of the possibility of such damage.',
-    'p1' => 'db4free.net团队，将不承担任何第三方使用者所产生的直接、间接、附带、特别、衍生性或惩罚性赔偿责任，包括但不限于收入、利润、软件、服务、资料损失或其他无形损失（即使本站事先已被告知发生此种赔偿之可能性亦然）
+    'p1' => 'db4free.net团队，将不承担任何第三方使用者所产生的直接、间接、附带、特别、衍生性或惩罚性赔偿责任，包括但不限于收入、利润、软件、服务、资料损失或其他无形损失（即使本站事先已被告知发生此种赔偿之可能性亦然）',
 
     //'p2' => 'We specifically disclaim any warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The software and host provided hereunder is on an "as is" basis, and we have no obligations to provide maintenance, support, updates, enhancements, or modifications or continued availability of services. We are entitled to discontinue this service without notification and delete the databases irrevocably.',
     'p2' => '我们清楚明示不提供任何明示或暗示的担保或陈述，包括但不限于任何作品名目的拥有权、商业适售性、质量保证、特定用途适用性及未侵害他人权利等。本网站以“现况”及“现有”基础提供软件及网域服务，无任何义务提供维护、协助、更新、改进、修改或持续可用的服务。我们保留取消本服务及永久删除数据库的权利，而无须另行通知使用者。',

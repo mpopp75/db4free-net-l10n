@@ -20,9 +20,9 @@ $translations = array(
 
 	//'new-password-verification' => 'New password verification',
     'new-password-verification' => '新密码验证',
-    
+
 	//'ph1' => 'Enter your username',
-    'ph1' => '请输入用户名
+    'ph1' => '请输入用户名',
 	//'ph2' => 'Enter your current password',
     'ph2' => '请输入当前密码',
 
