@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 Section: welcome
 Language: Simplified Chinese 简体中文
@@ -32,6 +32,6 @@ $translations = array(
 
     'p5b' => '以下网站是你学习MySQL的最佳网络资源，<a href="http://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Reference Manual</a> 和 <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL官方网站也提供大量的 <a href="http://dev.mysql.com/tech-resources/articles/">开发者文章</a> 其中许多文章详细介绍了下个版本新增的许多功能。',
 
-    'p5c' => '如果您发现 MySQL 服务器的任何错误，請至 <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a> 报告错误。',
+    'p5c' => '如果您发现 MySQL 服务器的任何错误，请到 <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a> 报告错误。',
 );
 ?>
