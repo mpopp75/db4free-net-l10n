@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 Section: translate
 Language: Simplified Chinese 简体中文
@@ -18,7 +18,7 @@ $translations = array(
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
-    'p2c' => ' 您的账号内将会有一份与线上一样的repository。 接下来您可以clone一份数据到您的电脑上。 Git 指令是:',
+    'p2c' => ' 您的账号内将会有一份与线上一样的repository。 接下来您可以clone一份文件到您的电脑上。 Git 指令是:',
 
     'p2d' => 'git clone git@github.com:[您的GitHub账号]/db4free-net-l10n.git',
 
@@ -28,7 +28,7 @@ $translations = array(
 
     'p2g' => '如果项目内缺少您想翻译语言的文件夹，请从“en”文件夹复制一份，文件夹名称请参考语言代码表： <a href="http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 language codes</a>.',
 
-    'p2h' => '翻译时，您可以将英文原文以翻译文字覆盖。但要注意不可更改到ID的属性。 替换示例如下：',
+    'p2h' => '翻译时，您可以用翻译文字将英文原文覆盖。但要注意不可更改到ID的属性。 替换示例如下：',
 
     'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
 
