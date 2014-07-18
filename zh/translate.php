@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Section: translate
 Language: Simplified Chinese 简体中文
