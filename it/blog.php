@@ -1,14 +1,14 @@
 <?php
 /*
 Section: blog
-Language: English
+Language: Italian
 */
 
 $translations = array(
     'h1' => 'mpopp.net blog',
 
-    'visitblog' => 'Visit the mpopp.net blog site (opens new browser tab)',
+    'visitblog' => 'Visita il sito mpopp.net (Apre una nuova pagina nel browser)',
 
-    'listposts' => 'List of Blog Posts:',
+    'listposts' => 'Elenco dei Blog Posts:',
 );
 ?>

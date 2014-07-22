@@ -1,26 +1,26 @@
 <?php
 /*
 Section: change-password
-Language: English
+Language: Italian
 */
 
 $translations = array(
-    'h1' => 'Change password',
+    'h1' => 'Cambia password',
 
-    'mysql-username' => 'MySQL username',
+    'mysql-username' => 'Nome utente MySQL',
 
-    'old-password' => 'Old password',
+    'old-password' => 'Vecchia password',
 
-    'new-password' => 'New password',
+    'new-password' => 'Nuova password',
 
-    'new-password-verification' => 'New password verification',
+    'new-password-verification' => 'Verifica nuova password',
 
-    'ph1' => 'Enter your username',
+    'ph1' => 'Digita il tuo nome utente',
 
-    'ph2' => 'Enter your current password',
+    'ph2' => 'Digita la tua password attuale',
 
-    'ph3' => 'Enter your new password',
+    'ph3' => 'Digita la nuova password',
 
-    'ph4' => 'Enter your new password (again)',
+    'ph4' => 'Digita la nuova password (ancora)',
 );
 ?>

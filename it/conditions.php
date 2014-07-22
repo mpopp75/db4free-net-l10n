@@ -1,11 +1,11 @@
 <?php
 /*
 Section: conditions
-Language: English
+Language: Italian
 */
 
 $translations = array(
-    'h1' => 'Conditions of use',
+    'h1' => 'Condizioni d'uso',
 
     'p1' => 'In no event shall we, the db4free.net team, be liable to any party for direct, indirect, special, incidental, or consequential damages, including lost profits, arising out of the use of or the unavailability of this host, its software, its services or its documentation even if the administrator has been advised of the possibility of such damage.',
 
