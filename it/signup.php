@@ -1,64 +1,64 @@
 <?php
 /*
 Section: signup
-Language: English
+Language: Italian
 */
 
 $translations = array(
-    'h1' => 'Signup',
+    'h1' => 'Registrazione',
 
-    'mysql-db-name' => 'MySQL database name',
+    'mysql-db-name' => 'Nome del database MySQL',
 
-    'mysql-user-name' => 'MySQL username',
+    'mysql-user-name' => 'Nome utente MySQL',
 
-    'mysql-user-password' => 'MySQL user password',
+    'mysql-user-password' => 'Password utente MySQL',
 
-    'mysql-user-password-verification' => 'MySQL user password verification',
+    'mysql-user-password-verification' => 'Verifica password utente MySQL',
 
-    'email-address' => 'Email address',
+    'email-address' => 'Indirizzo Email',
 
-    'agree-conditions' => 'I have read the <a href="conditions.php">conditions of use</a> and I agree with them.',
+    'agree-conditions' => 'Ho letto ed accetto le <a href="conditions.php">condizioni d'uso</a>.',
 
-    'ph1' => '4-16 chars., no upper-case, 1st must be char.',
+    'ph1' => '4-16 car.ri., niente maiusc., il primo una lettera.',
 
-    'ph2' => 'Min. 6 chars.',
+    'ph2' => 'Min. 6 car.ri',
 
-    'ph3' => 'Enter your email address',
+    'ph3' => 'Digita il tuo indirizzo Email',
 
-    'explanation' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">reserved words</a>!',
+    'explanation' => 'Il nome utente ed il nome del database  possono contenere lettere minuscole, numeri e il carattere sottolineato (underscore)e devono essere lunghi tra i 4 ed i 16 caratteri. Non puoi usare le <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">parole riservate</a>!',
 
-    'maintenance-notice' => 'Due to database maintenance, no registrations are currently possible.',
+    'maintenance-notice' => 'A causa di manutenzione al database, non è possibile effettuare ora la registrazione.',
 
-    'agm-p1' => 'By registering for a db4free.net account you agree that:',
+    'agm-p1' => 'Registrandoti a db4free.net account accetti le seguenti condizioni:',
 
-    'agm-li1' => 'db4free.net is a testing environment',
+    'agm-li1' => 'db4free.net è un ambiente di testing',
 
-    'agm-li2' => 'db4free.net is not suitable for production',
+    'agm-li2' => 'db4free.net non non è adatto a ambienti di produzione',
 
-    'agm-li3' => 'if you decide to use your db4free.net database in production despite the warnings, you do that at your own risk (very frequent backups are highly recommended)',
+    'agm-li3' => 'se decidi di usare il tuo database db4free.net in produzione nonostante gli avvisi, lo fai a tuo proprio rischio (backup molto frequenti sono altamente consigliati)',
 
-    'agm-li4' => 'data loss and outages can happen at any time (any complaints about that will likely be ignored)',
+    'agm-li4' => 'perdita di dati o sospensioni del servizio possono avvenire in qualsiasi momento (qualsiasi lamentela a questo proposito sarà molto probabilmente ignorata)',
 
-    'agm-li5' => 'the db4free.net team is not granting any warranty or liability of any kind',
+    'agm-li5' => 'Il Team di db4free.net non ti fornisce nessuna garanzia o si assume nessuna resposabilità di qualsiasi tipo',
 
-    'agm-li6' => 'the db4free.net team reserves the right to delete databases and/or accounts at any time without notice',
+    'agm-li6' => 'Il Team di db4free.net si riserva il diritto di cancellare i databases e/o gli accounts in qualsiasi momento senza avviso',
 
-    'agm-li7' => 'it is up to you to get the latest information from <a href="/twitter.php">Twitter</a> and the <a href="/blog.php">db4free.net blog</a>',
+    'agm-li7' => 'è tua responsabilità restare informato seguento Twitter (https://twitter.com/db4free_net) e il blog di db4free.net (http://www.mpopp.net/category/db4free/)',
 
-    'agm-li8' => 'db4free.net provides only a MySQL database, but no web space (there is nowhere to upload any files)',
+    'agm-li8' => 'db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c'è nessuna funzione di upload files)',
 
-    'agm-p2' => 'Further:',
+    'agm-p2' => 'Inoltre:',
 
-    'agm-li9' => 'db4free.net is a service for testing, not for hosting. Databases that store more than 200 MB data will be cleared at irregular intervals without notification',
+    'agm-li9' => 'db4free.net è un servizio per testing, non per hosting. Databases che contengono più di 200 MB di dati saranno azzerati ad intervalli irregolari senze notifica',
 
-    'agm-li10' => 'Please remove data which you no longer need, or <a href="/delete-account.php">delete your no longer needed account</a>. This makes it easier to recover if a server crash occurs.',
+    'agm-li10' => 'Per favore, rimuovi i dati di cui non hai più bisogno, o cancella il tuo account se non ti serve più (http://www.db4free.net/delete-account.php). Questo fa in modo che sia più facile eseguire il recover nel caso avvenisse un crash sul server.',
 
-    'signup-error1' => 'You have to agree with the conditions of use!',
+    'signup-error1' => 'Devi accettare le condizioni d'uso illustrate!',
 
-    'signup-error2' => 'Error registering the data for your MySQL database!',
+    'signup-error2' => 'Errore nella registrazione dei dati per il tuo database MySQL!',
 
-    'signup-error3' => 'Error sending the confirmation email!',
+    'signup-error3' => 'Errore nell'invio della mail di conferma!',
 
-    'signup-success' => 'Thank you for your registration! You will receive an email to confirm the registration.',
+    'signup-success' => 'Grazie per esserti registrato! Riceverai una email di conferma della registrazione.',
 );
 ?>

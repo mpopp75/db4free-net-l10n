@@ -1,58 +1,58 @@
 <?php
 /*
 Section: system-messages
-Language: English
+Language: Italian
 */
 
 $translations = array(
     'database' => 'Database',
 
-    'username' => 'Username',
+    'username' => 'Nome utente',
 
     'email' => 'Email',
 
-    'id-not-found' => 'The ID could not be found.',
+    'id-not-found' => 'Il codice ID non è stato trovato.',
 
-    'success-create-db' => 'The database has been created successfully.',
+    'success-create-db' => 'Il database è stato creato correttamente.',
 
-    'error-create-db' => 'Error creating the database.',
+    'error-create-db' => 'Errore in creazione del database.',
 
-    'success-data-change' => 'The data has been changed.',
+    'success-data-change' => 'I dati sono stati modificati.',
 
-    'error-data-change' => 'The data could not be changed.',
+    'error-data-change' => 'I dati non possono essere modificati.',
 
-    'success-account-delete' => 'The account has been deleted.',
+    'success-account-delete' => 'L'account è stato cancellato.',
 
-    'error-account-delete' => 'The account could not be deleted.',
+    'error-account-delete' => 'L'account non può essere cancellato.',
 
-    'another-user-database' => 'Another user has already registered a database with following name: ',
+    'another-user-database' => 'Un altro utente ha già registrato un database con il nome seguente: ',
 
-    'another-user-username' => 'Another user has already registered the following username: ',
+    'another-user-username' => 'Un altro utente ha già registrato il 'nome utente' seguente: ',
 
-    'passwords-not-identical' => 'The passwords are not identical.',
+    'passwords-not-identical' => 'Le password non sono identiche.',
 
-    'password-too-short' => 'The password must be at least 6 characters long.',
+    'password-too-short' => 'La password deve essere lunga almeno 6 caratteri.',
 
-    'only-2-db-allowed' => 'Only 2 databases per email address are allowed.',
+    'only-2-db-allowed' => 'Solo 2 databases per indirizzo email sono ammessi.',
 
-    'email-invalid' => 'The email address is invalid.',
+    'email-invalid' => 'L'indirizzo email non è valido.',
 
-    'user-not-exist' => 'The user does not exist.',
+    'user-not-exist' => 'L'utente non esiste.',
 
-    'user-not-confirmed' => 'The user has not yet confirmed the verification mail.',
+    'user-not-confirmed' => 'L'utente non ha ancora confermato la mail di verifica.',
 
-    'password-not-correct' => 'The password is not correct.',
+    'password-not-correct' => 'La password non è corretta.',
 
-    'confirmation-email' => 'You will receive an email to confirm the changes.',
+    'confirmation-email' => 'Riceverai una email per confermare la modifiche.',
 
-    'error-write-data' => 'An error has occurred updating your data.',
+    'error-write-data' => 'Si è verificato un errore durante l'aggiornamento dei tuoi dati.',
 
-    'error-send-email' => 'An error has occurred sending the confirmation email.',
+    'error-send-email' => 'Si è verificato un errore nel tentativo di inviare la mail di conferma.',
 
-    'subject-signup' => 'Your database registration with db4free.net',
+    'subject-signup' => 'La tua registrazione con db4free.net',
 
-    'subject-delete-account' => 'Deletion of your db4free.net account',
+    'subject-delete-account' => 'Cancellazione del tuo account su db4free.net',
 
-    'subject-change-password' => 'Your new db4free.net password',
+    'subject-change-password' => 'La tua nuova passoword su db4free.net',
 );
 ?>
