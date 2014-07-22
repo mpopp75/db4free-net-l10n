@@ -17,7 +17,7 @@ $translations = array(
 
     'email-address' => 'Indirizzo Email',
 
-    'agree-conditions' => 'Ho letto ed accetto le <a href="conditions.php">condizioni d'uso</a>.',
+    'agree-conditions' => 'Ho letto ed accetto le <a href="conditions.php">condizioni d\'uso</a>.',
 
     'ph1' => '4-16 car.ri., niente maiusc., il primo una lettera.',
 
@@ -43,21 +43,21 @@ $translations = array(
 
     'agm-li6' => 'Il Team di db4free.net si riserva il diritto di cancellare i databases e/o gli accounts in qualsiasi momento senza avviso',
 
-    'agm-li7' => 'è tua responsabilità restare informato seguento Twitter (https://twitter.com/db4free_net) e il blog di db4free.net (http://www.mpopp.net/category/db4free/)',
+    'agm-li7' => 'è tua responsabilità restare informato seguento <a href="https://twitter.com/db4free_net">Twitter</a> e il <a href="http://www.mpopp.net/category/db4free/">blog di db4free.net</a>',
 
-    'agm-li8' => 'db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c'è nessuna funzione di upload files)',
+    'agm-li8' => 'db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c\'è nessuna funzione di upload files)',
 
     'agm-p2' => 'Inoltre:',
 
     'agm-li9' => 'db4free.net è un servizio per testing, non per hosting. Databases che contengono più di 200 MB di dati saranno azzerati ad intervalli irregolari senze notifica',
 
-    'agm-li10' => 'Per favore, rimuovi i dati di cui non hai più bisogno, o cancella il tuo account se non ti serve più (http://www.db4free.net/delete-account.php). Questo fa in modo che sia più facile eseguire il recover nel caso avvenisse un crash sul server.',
+    'agm-li10' => 'Per favore, rimuovi i dati di cui non hai più bisogno, o <a href="/delete-account.php">cancella il tuo account</a> se non ti serve più. Questo fa in modo che sia più facile eseguire il recover nel caso avvenisse un crash sul server.',
 
-    'signup-error1' => 'Devi accettare le condizioni d'uso illustrate!',
+    'signup-error1' => 'Devi accettare le condizioni d\'uso illustrate!',
 
     'signup-error2' => 'Errore nella registrazione dei dati per il tuo database MySQL!',
 
-    'signup-error3' => 'Errore nell'invio della mail di conferma!',
+    'signup-error3' => 'Errore nell\'invio della mail di conferma!',
 
     'signup-success' => 'Grazie per esserti registrato! Riceverai una email di conferma della registrazione.',
 );

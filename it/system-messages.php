@@ -21,13 +21,13 @@ $translations = array(
 
     'error-data-change' => 'I dati non possono essere modificati.',
 
-    'success-account-delete' => 'L'account è stato cancellato.',
+    'success-account-delete' => 'L\'account è stato cancellato.',
 
-    'error-account-delete' => 'L'account non può essere cancellato.',
+    'error-account-delete' => 'L\'account non può essere cancellato.',
 
     'another-user-database' => 'Un altro utente ha già registrato un database con il nome seguente: ',
 
-    'another-user-username' => 'Un altro utente ha già registrato il 'nome utente' seguente: ',
+    'another-user-username' => 'Un altro utente ha già registrato il \'nome utente\' seguente: ',
 
     'passwords-not-identical' => 'Le password non sono identiche.',
 
@@ -35,17 +35,17 @@ $translations = array(
 
     'only-2-db-allowed' => 'Solo 2 databases per indirizzo email sono ammessi.',
 
-    'email-invalid' => 'L'indirizzo email non è valido.',
+    'email-invalid' => 'L\'indirizzo email non è valido.',
 
-    'user-not-exist' => 'L'utente non esiste.',
+    'user-not-exist' => 'L\'utente non esiste.',
 
-    'user-not-confirmed' => 'L'utente non ha ancora confermato la mail di verifica.',
+    'user-not-confirmed' => 'L\'utente non ha ancora confermato la mail di verifica.',
 
     'password-not-correct' => 'La password non è corretta.',
 
     'confirmation-email' => 'Riceverai una email per confermare la modifiche.',
 
-    'error-write-data' => 'Si è verificato un errore durante l'aggiornamento dei tuoi dati.',
+    'error-write-data' => 'Si è verificato un errore durante l\'aggiornamento dei tuoi dati.',
 
     'error-send-email' => 'Si è verificato un errore nel tentativo di inviare la mail di conferma.',
 

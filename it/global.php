@@ -29,7 +29,7 @@ $translations = array(
 
     'sidebar_2_1' => 'Informazioni su db4free.net',
 
-    'sidebar_2_2' => 'Condizioni d'uso',
+    'sidebar_2_2' => 'Condizioni d\'uso',
 
     'sidebar_2_3' => 'Registrati',
 

@@ -19,8 +19,8 @@ $translations = array(
 
     'h3' => 'Avviso',
 
-    'p5' => 'L'autore di questo sito web si riserva il diritto di non essere responsabile per l'accuratezza, la correttezza, completezza o qualità delle informazioni fornite. Richieste di responsabilità riguardanti danni causato dall'uso delle informazioni fornite, includendo informazioni incomplete o incorrette saranno pertanto rigettati.',
+    'p5' => 'L\'autore di questo sito web si riserva il diritto di non essere responsabile per l\'accuratezza, la correttezza, completezza o qualità delle informazioni fornite. Richieste di responsabilità riguardanti danni causato dall\'uso delle informazioni fornite, includendo informazioni incomplete o incorrette saranno pertanto rigettati.',
 
-    'p6' => 'L'autore di questo sito web non è responsabile per qualsiasi contenuto collegato e referenziato da questo sito.',
+    'p6' => 'L\'autore di questo sito web non è responsabile per qualsiasi contenuto collegato e referenziato da questo sito.',
 );
 ?>

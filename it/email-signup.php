@@ -18,7 +18,7 @@ Per favore usa il collegamento seguente per completare la registrazione entro i 
 * Il Team di db4free.net non ti fornisce nessuna garanzia o si assume nessuna resposabilità di qualsiasi tipo
 * Il Team di db4free.net si riserva il diritto di cancellare i databases e/o gli accounts in qualsiasi momento senza avviso
 * è tua responsabilità restare informato seguento Twitter (https://twitter.com/db4free_net) e il blog di db4free.net (http://www.mpopp.net/category/db4free/)
-* db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c'è nessuna funzione di upload files)
+* db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c\'è nessuna funzione di upload files)
 
 Inoltre:
 
