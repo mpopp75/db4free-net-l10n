@@ -1,39 +1,39 @@
 <?php
 /*
 Section: email-signup
-Language: English
+Language: Italian
 */
 
 $translations = array(
-    'email' => 'Thank you for registering your database account {$user} with db4free.net.
+    'email' => 'Grazie per aver registrato il tuo account {$user} con db4free.net.
 
-After confirming the link below, you have access to db4free.net\'s MySQL 5.6 database server. The host name to access the server is db4free.net and the port is 3306 (which is the default port for MySQL). You can use phpMyAdmin on our website to log in to the server.
+Dopo aver confermato il collegamento seguente, avrai accesso al database MySql 5.6 sui server di db4free.net. Il nome host per accedere ai server è db4free.net ed il numero di porta è 3306 (Ovvero la porta di default per MySQL). Puoi usare phpMyAdmin sul nostro sito web per accedere al server.
 
-Please use the following link to finish the registration process within the next 14 days. By clicking this link you confirm (again) that you understand that:
+Per favore usa il collegamento seguente per completare la registrazione entro i prossimi 14 giorni. Cliccando questo collegamento confermi (ancora) che hai compreso le seguenti affermazioni:
 
-* db4free.net is a testing environment
-* db4free.net is not suitable for production
-* if you decide to use your db4free.net database in production despite the warnings, you do that at your own risk (very frequent backups are highly recommended)
-* data loss and outages can happen at any time (any complaints about that will likely be ignored)
-* the db4free.net team is not granting any warranty or liability of any kind
-* the db4free.net team reserves the right to delete databases and/or accounts at any time without notice
-* it is up to you to get the latest information from Twitter (https://twitter.com/db4free_net) and the db4free.net blog (http://www.mpopp.net/category/db4free/)
-* db4free.net provides only a MySQL database, but no web space (there is nowhere to upload any files)
+* db4free.net è un ambiente di test
+* db4free.net non è adatto a ambienti di produzione
+* se decidi di usare il tuo database db4free.net in produzione nonostante gli avvisi, lo fai a tuo proprio rischio (backup molto frequenti sono altamente consigliati)
+* perdita di dati o sospensioni del servizio possono avvenire in qualsiasi momento (qualsiasi lamentela a questo proposito sarà molto probabilmente ignorata)
+* Il Team di db4free.net non ti fornisce nessuna garanzia o si assume nessuna resposabilità di qualsiasi tipo
+* Il Team di db4free.net si riserva il diritto di cancellare i databases e/o gli accounts in qualsiasi momento senza avviso
+* è tua responsabilità restare informato seguento Twitter (https://twitter.com/db4free_net) e il blog di db4free.net (http://www.mpopp.net/category/db4free/)
+* db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c'è nessuna funzione di upload files)
 
-Further:
+Inoltre:
 
-* db4free.net is a service for testing, not for hosting. Databases that store more than 200 MB data will be cleared at irregular intervals without notification
-* Please remove data which you no longer need, or delete your no longer needed account (http://www.db4free.net/delete-account.php). This makes it easier to recover if a server crash occurs.
+* db4free.net è un servizio per testing, non per hosting. Databases che contengono più di 200 MB di dati saranno azzerati ad intervalli irregolari senze notifica
+* Per favore, rimuovi i dati di cui non hai più bisogno, o cancella il tuo account se non ti serve più (http://www.db4free.net/delete-account.php). Questo fa in modo che sia più facile eseguire il recover nel caso avvenisse un crash sul server.
 
 {$mailLink}
 
-Can you help translating the db4free.net website? Please go to http://www.db4free.net/translate.php
+Vuoi aiutare a tradurre il sito db4free.net? Per favore vai a http://www.db4free.net/translate.php
 
-If it was not you who has registered a database account on the db4free website, please ignore this email!
+Se non sei stato tu a registrare questo account sul sito db4free website, ignora questa email!
 
-We hope you enjoy working with your database!
+Speriamo che ti diverta a lavorare con il tuo database!
 
-The db4free.net team
+Il Team db4free.net
 http://www.db4free.net',
 );
 ?>

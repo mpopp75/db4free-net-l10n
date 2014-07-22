@@ -1,16 +1,16 @@
 <?php
 /*
 Section: donations
-Language: English
+Language: Italian
 */
 
 $translations = array(
-    'h1' => 'Donations',
+    'h1' => 'Donazioni',
 
-    'p1' => 'Making a donation you can help us to invest in better hardware and provide an even better service.',
+    'p1' => 'Se fai una donazione potrai aiutarci ad investire per un hardware più efficiente e fornire un servizio ancora migliore.',
 
-    'amount' => 'Amount',
+    'amount' => 'Importo',
 
-    'currency' => 'Currency',
+    'currency' => 'Valuta',
 );
 ?>

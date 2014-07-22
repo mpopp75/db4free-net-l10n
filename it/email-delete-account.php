@@ -1,21 +1,21 @@
 <?php
 /*
 Section: email-delete-account
-Language: English
+Language: Italian
 */
 
 $translations = array(
-    'email' => 'We have received your request to delete your db4free.net account "{$user}".
+    'email' => 'Abbiamo ricevuto la richiesta di cancellare il tuo account su db4free.net "{$user}".
 
-Please confirm the deletion by clicking the following link. Please be aware that all of your data in this database is irrevocably deleted!
+Per favore, conferma la cancellazione cliccando sul collegamento seguente. Ricorda che TUTTI i tuoi dati su questo database saranno irrimediabilmente cancellati!
 
 {$mailLink}
 
-If it was not you who has requested the deletion of your account on the db4free.net website, please ignore this email!
+Se non sei stato tu a richiedere la cancellazione del tuo account su db4free.net, ignora questa email!
 
-We hope you enjoyed working with your database!
+Speriamo che ti sia divertito a lavorare con il tuo database!
 
-The db4free.net team
+Il Team db4free.net
 http://www.db4free.net',
 );
 ?>

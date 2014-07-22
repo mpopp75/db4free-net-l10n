@@ -1,26 +1,26 @@
 <?php
 /*
 Section: email-change-password
-Language: English
+Language: Italian
 */
 
 $translations = array(
-    'email' => 'We have received your request to change your password.
+    'email' => 'Abbiamo ricevuto la tua richiesta di cambiare la password.
 
-The new data is as follows:
+I nuovo dati sono i seguenti:
 
-Database user: {$user}
+Nome utente database: {$user}
 Password: {$newData}
 
-Please confirm this change by clicking the following link:
+Per favore, conferma questa modifica cliccando sul collegamento seguente:
 
 {$mailLink}
 
-If it was not you who has requested to change your database account password on the db4free.net website, please ignore this email!
+Se non sei stato tu a richiedere la modifica della password su db4free.net, ignora questa mail!
 
-We hope you enjoy working with your database!
+Speriamo che ti stia divertendo a lavorare con il tuo database!
 
-The db4free.net team
+Il Team db4free.net
 http://www.db4free.net',
 );
 ?>
