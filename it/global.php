@@ -1,7 +1,7 @@
 <?php
 /*
 Section: global
-Language: English
+Language: Italian
 */
 
 $translations = array(
@@ -9,7 +9,7 @@ $translations = array(
 
     'sitetitle2' => 'MySQL Database for free',
 
-    'topnav1' => 'Welcome',
+    'topnav1' => 'Benvenuto',
 
     'topnav2' => 'Database',
 
@@ -19,34 +19,34 @@ $translations = array(
 
     'topnav5' => 'phpMyAdmin',
 
-    'sidebar_1_2' => 'Donations',
+    'sidebar_1_2' => 'Donazioni',
 
-    'sidebar_1_3' => 'Translations',
+    'sidebar_1_3' => 'Traduzioni',
 
-    'sidebar_1_4' => 'Changelog',
+    'sidebar_1_4' => 'Storico',
 
     'sidebar_1_5' => 'Imprint',
 
-    'sidebar_2_1' => 'About db4free.net',
+    'sidebar_2_1' => 'Informazioni su db4free.net',
 
-    'sidebar_2_2' => 'Conditions of use',
+    'sidebar_2_2' => 'Condizioni d'uso',
 
-    'sidebar_2_3' => 'Signup',
+    'sidebar_2_3' => 'Registrati',
 
-    'sidebar_2_4' => 'Change Password',
+    'sidebar_2_4' => 'Cambia Password',
 
-    'sidebar_2_5' => 'Delete account',
+    'sidebar_2_5' => 'Cancella account',
 
-    'sidebar_2_6' => 'Forgot your password?',
+    'sidebar_2_6' => 'Hai dimenticato la tua password?',
 
     'pmalogin' => 'phpMyAdmin Login',
 
-    'username' => 'Username',
+    'username' => 'Nome utente',
 
     'password' => 'Password',
 
     'login' => 'Login',
 
-    'switch_language' => 'Switch Language',
+    'switch_language' => 'Cambia Linguaggio',
 );
 ?>

@@ -1,7 +1,7 @@
 <?php
 /*
 Section: imprint
-Language: English
+Language: Italian
 */
 
 $translations = array(
@@ -15,12 +15,12 @@ $translations = array(
 
     'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
 
-    'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal für Mediendesigner (mit Farbumrechner uvm.)</a>',
+    'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal fÃ¼r Mediendesigner (mit Farbumrechner uvm.)</a>',
 
-    'h3' => 'Disclaimer',
+    'h3' => 'Avviso',
 
-    'p5' => 'The author of this website reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.',
+    'p5' => 'L'autore di questo sito web si riserva il diritto di non essere responsabile per l'accuratezza, la correttezza, completezza o qualità delle informazioni fornite. Richieste di responsabilità riguardanti danni causato dall'uso delle informazioni fornite, includendo informazioni incomplete o incorrette saranno pertanto rigettati.',
 
-    'p6' => 'The author of this website is not responsible for any contents linked or referred to from this site.',
+    'p6' => 'L'autore di questo sito web non è responsabile per qualsiasi contenuto collegato e referenziato da questo sito.',
 );
 ?>
