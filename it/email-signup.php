@@ -29,7 +29,7 @@ Inoltre:
 
 Vuoi aiutare a tradurre il sito db4free.net? Per favore vai a http://www.db4free.net/translate.php
 
-Se non sei stato tu a registrare questo account sul sito db4free website, ignora questa email!
+Se non sei stato tu a registrare questo account sul sito db4free.net website, ignora questa email!
 
 Speriamo che ti diverta a lavorare con il tuo database!
 

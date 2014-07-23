@@ -29,7 +29,7 @@ Weiters:
 
 Können Sie helfen, die db4free.net Website in weitere Sprachen zu übersetzen? Erfahren Sie näheres auf http://www.db4free.net/translate.php
 
-Wenn Sie keinen Datenbank-Account auf der db4free Website registriert haben, bitten wir Sie, diese Email zu ignorieren!
+Wenn Sie keinen Datenbank-Account auf der db4free.net Website registriert haben, bitten wir Sie, diese Email zu ignorieren!
 
 Wir hoffen, dass Sie viel Freude mit Ihrer Datenbank haben!
 

@@ -29,7 +29,7 @@ Further:
 
 Can you help translating the db4free.net website? Please go to http://www.db4free.net/translate.php
 
-If it was not you who has registered a database account on the db4free website, please ignore this email!
+If it was not you who has registered a database account on the db4free.net website, please ignore this email!
 
 We hope you enjoy working with your database!
 
