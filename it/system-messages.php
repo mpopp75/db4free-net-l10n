@@ -53,6 +53,6 @@ $translations = array(
 
     'subject-delete-account' => 'Cancellazione del tuo account su db4free.net',
 
-    'subject-change-password' => 'La tua nuova passoword su db4free.net',
+    'subject-change-password' => 'La tua nuova password su db4free.net',
 );
 ?>
