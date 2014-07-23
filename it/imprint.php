@@ -11,7 +11,7 @@ $translations = array(
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
-    'h2' => 'Associated projects',
+    'h2' => 'Progetti collegati',
 
     'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
 
@@ -19,7 +19,7 @@ $translations = array(
 
     'h3' => 'Avviso',
 
-    'p5' => 'L\'autore di questo sito web si riserva il diritto di non essere responsabile per l\'accuratezza, la correttezza, completezza o qualità delle informazioni fornite. Richieste di responsabilità riguardanti danni causato dall\'uso delle informazioni fornite, includendo informazioni incomplete o incorrette saranno pertanto rigettati.',
+    'p5' => 'L\'autore di questo sito web si riserva il diritto di non essere responsabile per l\'accuratezza, la correttezza, completezza o qualità delle informazioni fornite. Richieste di responsabilità riguardanti danni causati dall\'uso delle informazioni fornite, includendo informazioni incomplete o incorrette saranno pertanto rigettati.',
 
     'p6' => 'L\'autore di questo sito web non è responsabile per qualsiasi contenuto collegato e referenziato da questo sito.',
 );

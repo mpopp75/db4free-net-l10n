@@ -11,17 +11,17 @@ $translations = array(
 
     'l10ncreditsclick' => 'Cliccare per visualizzare l\'elenco dei traduttori',
 
-    'p1a' => 'In seguito all\'aggiornamento del 2014 del sito e dei servizi db4free.net esiste ora un semplice sistema per tradurre il sito db4free.net in molti linguaggi.',
+    'p1a' => 'In seguito all\'aggiornamento del sito e dei servizi db4free.net avvenuto nel 2014 esiste ora un semplice sistema per tradurre il sito db4free.net in molti linguaggi.',
 
-    'p1b' => 'Tutti i testi del sito sono su <a href="https://github.com/">GitHub</a>. E possibile effettuare una fork del repository, applicare la vostra traduzione e mandarci una richiesta \'pull\' in modo tale che la vostra traduzione sia integrata nel sito web.',
+    'p1b' => 'Tutti i testi del sito sono su <a href="https://github.com/">GitHub</a>. E' possibile effettuare una fork del repository, applicare la vostra traduzione e mandarci una richiesta \'pull\' in modo tale che la vostra traduzione sia integrata nel sito web.',
 
     'h2' => 'Come funziona?',
 
-    'p2a' => 'Per prima cosa devi registrare un account su GitHub a meno che tu non ne abbia già uno. Effettuare il Fork del repository a ',
+    'p2a' => 'Per prima cosa devi registrare un account su GitHub a meno che tu non ne abbia già uno. Quindi effettua il Fork del repository a ',
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
-    'p2c' => ' così avrai una copia identica del repository delle traduzioni sul tuo account. Ora è possibile duplicare il tuo repository per crearne una copia sul tuo computer. Il comando GIT per questo è:',
+    'p2c' => ' così avrai una copia identica del repository delle traduzioni sul tuo account. Ora devi duplicare il tuo repository per crearne una copia sul tuo computer. Il comando GIT per questo è:',
 
     'p2d' => 'git clone git@github.com:[Your_GitHub_username]/db4free-net-l10n.git',
 
@@ -41,8 +41,8 @@ $translations = array(
 
     'p2l' => 'Se il testo è lo stesso in inglese e nel linguaggio che in cui stai traducendo, puoi cancellare la riga o semplicemente lasciarla così com\'è.',
 
-    'p2m' => 'Quando la tua traduzione è completa, commit e push sul tuo GitHub repository. Cambia sul tuo nuovo branch su GitHub e clicca "New Pull Request". Inseirisci una breve descrizione della tua traduzione, qualsiasi difficoltà incontrata o cosa non sei stato capace di completare ed invia la Pull Request.',
+    'p2m' => 'Quando la tua traduzione è completa, esegui il commit ed il push sul tuo repository in GitHub. Su GitHub passa al tuo nuovo branch  e clicca "New Pull Request". Inserisci una breve descrizione della tua traduzione, le difficoltà incontrate o cosa non sei stato in grado di completare ed invia la Pull Request.',
 
-    'p2n' => 'Se vorresti contribuire ma hai bisogno di ulteriore assistenza prima di iniziare, per favore <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Apri una richiesta di assistenza su GitHub</a>.',
+    'p2n' => 'Se desideri contribuire ma hai bisogno di ulteriore assistenza <a href="https://github.com/mpopp75/db4free-net-l10n/issues">apri una richiesta di assistenza su GitHub</a> prima di iniziare.',
 );
 ?>

@@ -7,7 +7,7 @@ Language: Italian
 $translations = array(
     'email' => 'Abbiamo ricevuto la richiesta di cancellare il tuo account su db4free.net "{$user}".
 
-Per favore, conferma la cancellazione cliccando sul collegamento seguente. Ricorda che TUTTI i tuoi dati su questo database saranno irrimediabilmente cancellati!
+Per favore, conferma la cancellazione cliccando sul collegamento seguente. Ricorda che TUTTI i tuoi dati (database compresi) saranno irrimediabilmente cancellati!
 
 {$mailLink}
 

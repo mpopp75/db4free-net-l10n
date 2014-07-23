@@ -7,7 +7,7 @@ Language: Italian
 $translations = array(
     'email' => 'Abbiamo ricevuto la tua richiesta di cambiare la password.
 
-I nuovo dati sono i seguenti:
+I nuovi dati sono i seguenti:
 
 Nome utente database: {$user}
 Password: {$newData}
