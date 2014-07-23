@@ -13,7 +13,7 @@ $translations = array(
 
     'p1a' => 'In seguito all\'aggiornamento del sito e dei servizi db4free.net avvenuto nel 2014 esiste ora un semplice sistema per tradurre il sito db4free.net in molti linguaggi.',
 
-    'p1b' => 'Tutti i testi del sito sono su <a href="https://github.com/">GitHub</a>. E' possibile effettuare una fork del repository, applicare la vostra traduzione e mandarci una richiesta \'pull\' in modo tale che la vostra traduzione sia integrata nel sito web.',
+    'p1b' => 'Tutti i testi del sito sono su <a href="https://github.com/">GitHub</a>. E\' possibile effettuare una fork del repository, applicare la vostra traduzione e mandarci una richiesta \'pull\' in modo tale che la vostra traduzione sia integrata nel sito web.',
 
     'h2' => 'Come funziona?',
 
