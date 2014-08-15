@@ -10,6 +10,6 @@ $translations = array(
 
     'visitblog' => 'Navštivte také blog mpopp.net (otevře se v nové záložce prohlížeče)',
 
-    'listposts' => 'Seznam příspěvky na blogu:',
+    'listposts' => 'Seznam příspěvků na blogu:',
 );
 ?>

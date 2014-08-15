@@ -16,21 +16,21 @@ $translations = array(
 
     'h2' => 'O nové webové stránky (a více)',
 
-    'p2' => 'Můžete si všimnout, že <b>vše je zde nový</b>. <a href="http://www.mpopp.net/2014/07/db4free-net-relaunch/">Zjistěte více o tom!</a>',
+    'p2' => 'Můžete si všimnout, že <b>vše je zde nový</b>. <a href="http://www.mpopp.net/2014/07/db4free-net-relaunch/">Zjistěte o tom více!</a>',
 
-    'h3' => 'Proč db4free.net není',
+    'h3' => 'Proč db4free.net nemohu použít jako hlavní databázi?',
 
-    'p3' => 'db4free.net je <b>testovací služba</b>, což znamená, že není vhodný pro bussies a komerční účely. Mohou se vysytpvat výpadky, které vedou ke ztrátou dat a funkce zabezpečení nesplňují standardy, které očekáváte od profesionálního poskytovatele datových hostingu. Potřebujete-li MySQL databáze pro produkční použití, prosím, nepoužívejte db4free.net!',
+    'p3' => 'db4free.net je <b>testovací služba</b>, což znamená, že není vhodný pro bussies a komerční účely. Mohou také nastat výpadky, které vedou ke ztrátě data zabezpečení nesplňují standardy, které očekáváte od profesionálního poskytovatele datových hostingu. Potřebujete-li MySQL databáze pro produkční použití, prosím, nepoužívejte db4free.net!',
 
     'h4' => 'Můžete pomoci přeložit db4free.net?',
 
-    'p4' => 'Ovládáte několik jazyku perfektně? Můžete nám pomoci přeložit db4free.net. <a href="/translate.php">Zjistěte, jak na to!</a>',
+    'p4' => 'Ovládáte několik jazyku perfektně? Můžete nám pomoci přeložit db4free.net. <a href="/translate.php">Dozvěděte se, jak na to!</a>',
 
     'h5' => 'Zdroje',
 
     'p5a' => 'Zde je <a href="http://www.mpopp.net/category/db4free/">db4free.net odkaz</a> na <a href="http://www.mpopp.net/">mpopp.net blog</a>, který Vám přináší novinky o db4free.net. Prosím, přihlaste se do <a href="http://www.mpopp.net/category/db4free/feed/">RSS</a> a nenechte si ujít žádnou novinku. db4free.net je také na <a href="/twitter.php">Twitteru</a>.',
 
-    'p5b' => 'Nejlepšími zdroji, které vás budou informovat ohledne MySQL jsou <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL reference Manual</a> a <a href="http://planet.mysql.com/">PlanetMySQL</a>. Na webových stránkách MySQL nabízí řadu <a href="http://dev.mysql.com/tech-resources/articles/">Developer článků</a> z nichž mnohé vysvětlují, nové funkce, které jsou zavedeny v nadcházejících verzích.',
+    'p5b' => 'Nejlepšími zdroji, které vás budou informovat ohledně MySQL jsou <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL reference Manual</a> a <a href="http://planet.mysql.com/">PlanetMySQL</a>. Na webových stránkách MySQL nabízí řadu <a href="http://dev.mysql.com/tech-resources/articles/">Developer článků</a> z nichž mnohé vysvětlují, nové funkce, které jsou zavedeny v nadcházejících verzích.',
 
     'p5c' => 'Pokud najdete chybu v MySQL serveru, oznamte to prosím na <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );

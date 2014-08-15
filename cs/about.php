@@ -8,7 +8,7 @@ Translator: SierraHawk <sierrahawk@outlook.com>
 $translations = array(
     'h1' => 'O projektu db4free.net',
 
-    'p1' => 'V této sekci si můžete vytvořit svůj účet pro databázi, následně jí upravit a nebo také odstraňit.',
+    'p1' => 'V této sekci si můžete vytvořit svůj účet pro databázi, následně jí upravit a nebo také odstranit.',
 
     'h2' => 'Co nás dělá "speciálními"?',
 
