@@ -22,6 +22,6 @@ $translations = array(
 
     'p7' => 'Vyhrazujeme si právo na změnu tohoto prohlášení bez předchozího upozornění.',
 
-    'p8' => 'Heidenreichstein, Austria<br>29 June 2014',
+    'p8' => 'Heidenreichstein, Rakousko<br>29. června 2014',
 );
 ?>

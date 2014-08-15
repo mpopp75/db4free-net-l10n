@@ -1,7 +1,7 @@
 <?php
 /*
 Section: translate
-Language: English
+Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
@@ -12,7 +12,7 @@ $translations = array(
 
     'l10ncreditsclick' => 'Klikněte pro zobrazení seznamu',
 
-    'p1a' => 'Po aktualizace stránek v roce 201č db4free.net a servisu je nyní snadnšjčí způsob, jak můžete přeložit webové stránky db4free.net do více jazyků.',
+    'p1a' => 'Po aktualizace stránek v roce 2014 db4free.net a servisu je nyní snadnšjčí způsob, jak můžete přeložit webové stránky db4free.net do více jazyků.',
 
     'p1b' => 'Všechny texty naleznete na stránkách <a href="https://github.com/">GitHubu</a>. Můžete si stáhnout repozitář, a použít pro překlad. Zašlete nám žádost o pull, takže vaše překlady mohou být integrovány do webové stránky.',
 
@@ -22,7 +22,7 @@ $translations = array(
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
-    'p2c' => ' takže budete mít identickou kopii překladu úložiště ve vašem účtu. Nyní si můžete naklonovat repozitář vytvořit kopii na vašem systému.Příkaz git pro to je:',
+    'p2c' => ' takže budete mít identickou kopii překladu úložiště ve vašem účtu. Nyní si můžete naklonovat repozitář vytvořit kopii na vašem systému. Příkaz git pro to je:',
 
     'p2d' => 'git clone git@github.com:[Your_GitHub_username]/db4free-net-l10n.git',
 

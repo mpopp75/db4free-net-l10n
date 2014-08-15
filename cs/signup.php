@@ -18,7 +18,7 @@ $translations = array(
 
     'email-address' => 'Emailová adresa',
 
-    'agree-conditions' => 'Přečetl jsem si <a href="conditions.php"> podmínky použití </a> a souhlasím s nimi.',
+    'agree-conditions' => 'Přečetl jsem si <a href="conditions.php">podmínky použití</a> a souhlasím s nimi.',
 
     'ph1' => '4-16 znaků., Ne velkými písmeny, první musí být písmeno.',
 
@@ -26,7 +26,7 @@ $translations = array(
 
     'ph3' => 'Zadejte svou e-mailovou adresu',
 
-    'explanation' => 'Uživatelské databáze a název databáze musí obsahovat malá písmena, číslice a podtržítko a musí být déleku mezi 4 a 16 znaky. Nesmíte používat <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html"> vyhrazená slova </a>!',
+    'explanation' => 'Uživatelské databáze a název databáze musí obsahovat malá písmena, číslice a podtržítko a musí být déleku mezi 4 a 16 znaky. Nesmíte používat <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">vyhrazená slova</a>!',
 
     'maintenance-notice' => 'Z důvodu údržby databáze, nyní nemůžete registrovat svou databázi',
 
@@ -44,7 +44,7 @@ $translations = array(
 
     'agm-li6' => 'db4free.net tým si vyhrazuje právo smazat databází a nebo účty kdykoliv bez předchozího upozornění',
 
-    'agm-li7' => 'Je na vás, abyste si se dozvěděli o nejnovějších informacích z <a href="/twitter.php"> Twitteru </a> a <a href="/blog.php"> db4free.net blogu </a>',
+    'agm-li7' => 'Je na vás, abyste si se dozvěděli o nejnovějších informacích z <a href="/twitter.php">Twitteru</a> a <a href="/blog.php">db4free.net blogu</a>',
 
     'agm-li8' => 'db4free.net poskytuje pouze databáze MySQL!',
 
@@ -52,7 +52,7 @@ $translations = array(
 
     'agm-li9' => 'db4free.net je služba pro testování, nikoli pro hosting. Databáze, které uchovávají více než 200 MB dat bude vymazány v nepravidelných intervalech bez předchozího oznámení',
 
-    'agm-li10' => 'Prosím, odstraňte data, která jsou již nepotřebná, nebo <a href="/delete-account.php"> smazat účet v případě neaktivity </a>.',
+    'agm-li10' => 'Prosím, odstraňte data, která jsou již nepotřebná, nebo <a href="/delete-account.php">smazat účet v případě neaktivity</a>.',
 
     'signup-error1' => 'Musíte souhlasit s podmínkami použití!',
 
