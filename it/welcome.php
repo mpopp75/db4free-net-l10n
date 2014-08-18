@@ -13,24 +13,20 @@ $translations = array(
 
     'p1c' => 'Per accedere ai tuoi dati in modo conveniente, db4free.net fornisce anche una versione aggiornata di <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin viene aggiornato molto frequentemente, in tal modo avrete sempre l\'ultimissima versione disponibile.',
 
-    'h2' => 'A proposito del nuovo sito web (ed altro)',
+    'h2' => 'Che cosa db4free.net NON  E\'',
 
-    'p2' => 'Avrete notato che <b>qui tutto è nuovo</b>. <a href="http://www.mpopp.net/2014/07/db4free-net-relaunch/">Scopri ulteriori informazioni!</a>',
+    'p2' => 'db4free.net è un <b>servizio di test</b> e questo significa che non è adatto ad un ambiente di produzione. Ci possono essere disconnessioni, perdite di dati e le funzioni di sicurezza non sono adeguate per gli standard che potreste aspettarvi da un servizio di hosting professionale. Se avete bisogno di un database MySQL per produzione allora, per favore, non usate db4free.net!',
 
-    'h3' => 'Che cosa db4free.net NON  E\'',
+    'h3' => 'Puoi aiutarci a tradurre db4free.net?',
 
-    'p3' => 'db4free.net è un <b>servizio di test</b> e questo significa che non è adatto ad un ambiente di produzione. Ci possono essere disconnessioni, perdite di dati e le funzioni di sicurezza non sono adeguate per gli standard che potreste aspettarvi da un servizio di hosting professionale. Se avete bisogno di un database MySQL per produzione allora, per favore, non usate db4free.net!',
+    'p3' => 'Parli bene un linguaggio che questo sito non offre? Puoi aiutarci a tradurre db4free.net. <a href="/translate.php">Scopri come!</a>',
 
-    'h4' => 'Puoi aiutarci a tradurre db4free.net?',
+    'h4' => 'Risorse',
 
-    'p4' => 'Parli bene un linguaggio che questo sito non offre? Puoi aiutarci a tradurre db4free.net. <a href="/translate.php">Scopri come!</a>',
+    'p4a' => 'C\'è una <a href="http://www.mpopp.net/category/db4free/">sezione db4free.net</a> nel <a href="http://www.mpopp.net/">blog mpopp.net </a> che contiene le ultime notizie su db4free.net. Per favore abbonati al <a href="http://www.mpopp.net/category/db4free/feed/">Feed RSS</a> per assicurarti di non perdere nessuna novità. db4free.net si trova anche su <a href="/twitter.php">Twitter</a>, un\'altra grande risorsa per rimanere aggiornato su tutto quello che avviene nel mondo di db4free.net.',
 
-    'h5' => 'Risorse',
+    'p4b' => 'Le migliori risorse per imparare di più su MySQL sono la <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, il <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Reference Manual</a> e <a href="http://planet.mysql.com/">PlanetMySQL</a>. Il sito di MySQL offre numerosi <a href="http://dev.mysql.com/tech-resources/articles/">articoli per sviluppatori</a>, molti dei quali spiegano le funzioni che verranno introdotte nelle future versioni con un eccellente livello di dettaglio.',
 
-    'p5a' => 'C\'è una <a href="http://www.mpopp.net/category/db4free/">sezione db4free.net</a> nel <a href="http://www.mpopp.net/">blog mpopp.net </a> che contiene le ultime notizie su db4free.net. Per favore abbonati al <a href="http://www.mpopp.net/category/db4free/feed/">Feed RSS</a> per assicurarti di non perdere nessuna novità. db4free.net si trova anche su <a href="/twitter.php">Twitter</a>, un\'altra grande risorsa per rimanere aggiornato su tutto quello che avviene nel mondo di db4free.net.',
-
-    'p5b' => 'Le migliori risorse per imparare di più su MySQL sono la <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, il <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Reference Manual</a> e <a href="http://planet.mysql.com/">PlanetMySQL</a>. Il sito di MySQL offre numerosi <a href="http://dev.mysql.com/tech-resources/articles/">articoli per sviluppatori</a>, molti dei quali spiegano le funzioni che verranno introdotte nelle future versioni con un eccellente livello di dettaglio.',
-
-    'p5c' => 'Se trovi un bug su MySQL Server, per favore, informa gli sviluppatori tramite <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
+    'p4c' => 'Se trovi un bug su MySQL Server, per favore, informa gli sviluppatori tramite <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );
 ?>
