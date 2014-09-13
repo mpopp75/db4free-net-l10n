@@ -26,7 +26,7 @@ $translations = array(
 
     'p4a' => 'Az <a href="http://www.mpopp.net/">mpopp.net blog</a>, <a href="http://www.mpopp.net/category/db4free/">db4free.net szekciójában</a> megtalálod a legfrissebb híreket. Kérjük iratkozz fel az <a href="http://www.mpopp.net/category/db4free/feed/">RSS csatornára</a>, hogy biztos legyél benne, hogy nem mulasztasz el egy hírt sem. A db4free.net fennt van <a href="/twitter.php">Twitteren</a> is, egy másik remek hírforrás, hogy képben legyél mi történik a db4free.net világában.',
 
-    'p4b' => 'A legjobb forrás ,hogy többet tudj a MySQL-ről, az a <a href="http://dev.mysql.com/">MySQL Fejlesztői Zóna</a>, a <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Referencia leírás</a> és a <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL oldalán sok <a href="http://dev.mysql.com/tech-resources/articles/">fejlesztői cikket</a> találsz, sok ezek közül bemutatja azon funkciókat, amelyek a következő verziókban fognak megjelenni.',
+    'p4b' => 'A legjobb forrás, hogy többet tudj a MySQL-ről, az a <a href="http://dev.mysql.com/">MySQL Fejlesztői Zóna</a>, a <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Referencia leírás</a> és a <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL oldalán sok <a href="http://dev.mysql.com/tech-resources/articles/">fejlesztői cikket</a> találsz, sok ezek közül bemutatja azon funkciókat, amelyek a következő verziókban fognak megjelenni.',
 
     'p4c' => 'Ha találsz egy bugot a MySQL szerverben, kérjük jelezd a <a href="http://bugs.mysql.com/">MySQL bugkövető rendszerben</a>.',
 );
