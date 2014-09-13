@@ -6,7 +6,7 @@ Translator: uno20001 <regisztralo111@gmail.com>
 */
 
 $translations = array(
-    'h1' => 'Fordítások',
+    'h1' => 'Fordítás',
 
     'l10ncredits' => 'Nagyon sok köszönet a fordítóknak',
 
@@ -44,6 +44,6 @@ $translations = array(
 
     'p2m' => 'Ha kész vagy a fordítással, akkor commit-olj és push-olj a GitHub repository-dba. Válts az új ágra (branch) és klikkelj  a "New Pull Request"-re. Írj egy rövid leírást, milyen nehézségekkel néztél szembe, mit nem tudtál mgé befejezni, stb., és küldd el a "Pull Request"-et.',
 
-    'p2n' => 'Ha szeretnél fordítani, de további segítségre van szükséged mielőtt elkezded, kérlek <a href="https://github.com/mpopp75/db4free-net-l10n/issues">"nyiss egy jegyet a GitHubon"</a>.',
+    'p2n' => 'Ha szeretnél fordítani, de további segítségre van szükséged mielőtt elkezded, kérlek <a href="https://github.com/mpopp75/db4free-net-l10n/issues">jelezd nekünk GitHubon</a>.',
 );
 ?>

@@ -34,7 +34,7 @@ $translations = array(
 
     'sidebar_2_3' => 'Regisztráció',
 
-    'sidebar_2_4' => 'Jelszó megváltoztatás',
+    'sidebar_2_4' => 'Jelszó megváltoztatása',
 
     'sidebar_2_5' => 'Fiók törlése',
 

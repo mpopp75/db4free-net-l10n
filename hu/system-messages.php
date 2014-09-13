@@ -32,7 +32,7 @@ $translations = array(
 
     'passwords-not-identical' => 'A jelszavak nem egyeznek.',
 
-    'password-too-short' => 'A jelszónak min. 6 karakter hosszúnak kell lenni.',
+    'password-too-short' => 'A jelszónak min. 6 karakter hosszúnak kell lennie.',
 
     'only-2-db-allowed' => 'Egy email fiókhoz csak kettő adatbázis regisztrálható.',
 
@@ -46,9 +46,9 @@ $translations = array(
 
     'confirmation-email' => 'Kapni fogsz egy emailt a változtatásokról.',
 
-    'error-write-data' => 'Egy hiba történt az adataid frissítése közben.',
+    'error-write-data' => 'Hiba történt az adataid frissítése közben.',
 
-    'error-send-email' => 'Egy hiba történet a megerősítő email küldése közben.',
+    'error-send-email' => 'Hiba történet a megerősítő email küldése közben.',
 
     'subject-signup' => 'Regisztráltál a db4free.net-en',
 

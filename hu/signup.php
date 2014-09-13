@@ -20,7 +20,7 @@ $translations = array(
 
     'agree-conditions' => 'Elolvastam a <a href="conditions.php">felhasználási feltételeket</a> és egyetértek velük.',
 
-    'ph1' => '4-16 karakter, nincs nagybetű, az 1. karakternek betűnek kell lennie.',
+    'ph1' => '4-16 karakter, nem lehet nagybetű, az 1. karakternek betűnek kell lennie.',
 
     'ph2' => 'Min. 6 karakter.',
 
@@ -52,7 +52,7 @@ $translations = array(
 
     'agm-li9' => 'A db4free.net egy tesztelő szolgáltatás, nem "éles" szolgáltatásokhoz készült. Azok az adatbázisok, amelyek 200 MB-nál több adatot tartalmaznak, értesítés nélkül kiürítésre kerülnek.',
 
-    'agm-li10' => 'Kérlek távolítsd el azokat az adatokat és/vagy fiókot amikre/amelyre már nincs szükséged (http://www.db4free.net/delete-account.php). Ez megkönnyíti a ténylegesen használt adatok visszaállítását, ha a szerver "összeomlik"',
+    'agm-li10' => 'Kérlek <a href="/delete-account.php">távolítsd el</a> azokat az adatokat és/vagy fiókot amikre/amelyre már nincs szükséged. Ez megkönnyíti a ténylegesen használt adatok visszaállítását, ha a szerver "összeomlik"',
 
     'signup-error1' => 'El kell fogadnod a felhasználási feltételeket!',
 
