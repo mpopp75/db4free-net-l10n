@@ -1,23 +1,23 @@
 <?php
 /*
 Section: email-change-password
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
-    'email' => 'Şifre değiştirme talebinizi aldık.
+    'email' => 'Ãifre deÃ°iÃ¾tirme talebinizi aldÃ½k.
 
-Yeni verileriniz şöyledir:
+Yeni verileriniz Ã¾Ã¶yledir:
 
-Veritabanı Kullanıcı Adı: {$user}
-Şifre: {$newData}
+VeritabanÃ½ KullanÃ½cÃ½ AdÃ½: {$user}
+Ãifre: {$newData}
 
-Aşağıdaki linke tıklayarak bu değişikliği onaylayınız:
+AÃ¾aÃ°Ã½daki linke tÃ½klayarak bu deÃ°iÃ¾ikliÃ°i onaylayÃ½nÃ½z:
 
 {$mailLink}
-db4free.net şifrenizi değiştirmek istemediyseniz bu e-postayı yoksayabilirsiniz!
+db4free.net Ã¾ifrenizi deÃ°iÃ¾tirmek istemediyseniz bu e-postayÃ½ yoksayabilirsiniz!
 
-Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
+VeritabanÃ½nÃ½zÃ½ kullanmayÃ½ sevdiÃ°inizi umuyoruz!
 
 db4free.net ekibi
 http://www.db4free.net',

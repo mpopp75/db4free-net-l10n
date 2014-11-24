@@ -1,20 +1,20 @@
 <?php
 /*
 Section: forgot-password
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
-    'h1' => 'Þifrenizi mi Unuttunuz?',
+    'h1' => 'Ãžifrenizi mi Unuttunuz?',
 
-    'username' => 'Kullanýcý Adý',
+    'username' => 'KullanÃ½cÃ½ AdÃ½',
 
-    'request-new-password' => 'Yeni Þifre Ýste',
+    'request-new-password' => 'Yeni Ãžifre Ãste',
 
-    'ph1' => 'Kullanýcý Adýnýzý Girin',
+    'ph1' => 'KullanÃ½cÃ½ AdÃ½nÃ½zÃ½ Girin',
 
-    'error1' => 'Girdiðiniz bilgi doðru deðildir!',
+    'error1' => 'GirdiÃ°iniz bilgi doÃ°ru deÃ°ildir!',
 
-    'success' => 'Yeni þifrenizi içeren bir e-posta aldýnýz!',
+    'success' => 'Yeni Ã¾ifrenizi iÃ§eren bir e-posta aldÃ½nÃ½z!',
 );
 ?>

@@ -1,48 +1,48 @@
 <?php
 /*
 Section: translate
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
-    'h1' => 'Çeviriler',
+    'h1' => 'Ã‡eviriler',
 
-    'l10ncredits' => 'Çevirmenlere çok teşekkürler',
+    'l10ncredits' => 'Ã‡evirmenlere Ã§ok teÃ¾ekkÃ¼rler',
 
-    'l10ncreditsclick' => 'Listeyi görmek için tıklayın',
+    'l10ncreditsclick' => 'Listeyi gÃ¶rmek iÃ§in tÃ½klayÃ½n',
 
-    'p1a' => 'db4free.net 2014 site ve hizmet güncellemesinden sonra db4free.net websitesini daha fazla dile çevirmek için artık kolay bir yöntem var.',
+    'p1a' => 'db4free.net 2014 site ve hizmet gÃ¼ncellemesinden sonra db4free.net websitesini daha fazla dile Ã§evirmek iÃ§in artÃ½k kolay bir yÃ¶ntem var.',
 
-    'p1b' => 'Bu websitesindeki tüm metinler <a href="https://github.com/">GitHub</a> a dayalıdır. Kaynağı hesabınıza aktarıp,çevirilerinizi uygulayıp kendi dilinizi web sitemize entegre etmemiz için istek gönderebilirsiniz.',
+    'p1b' => 'Bu websitesindeki tÃ¼m metinler <a href="https://github.com/">GitHub</a> a dayalÃ½dÃ½r. KaynaÃ°Ã½ hesabÃ½nÃ½za aktarÃ½p,Ã§evirilerinizi uygulayÃ½p kendi dilinizi web sitemize entegre etmemiz iÃ§in istek gÃ¶nderebilirsiniz.',
 
-    'h2' => 'Nasıl Çalışır?',
+    'h2' => 'NasÃ½l Ã‡alÃ½Ã¾Ã½r?',
 
-    'p2a' => 'Eğer bir hesabınız yoksa Github a kaydolmalısınız. kaynağa buradan erişin ',
+    'p2a' => 'EÃ°er bir hesabÃ½nÃ½z yoksa Github a kaydolmalÃ½sÃ½nÃ½z. kaynaÃ°a buradan eriÃ¾in ',
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
-    'p2c' => ' artık kendi hesabınızda çeviri deposuna sahip olacaksınız. Kaynağı kendi sisteminizde kullanmak üzere kopyalabilirsiniz. Bunun için git komutu:',
+    'p2c' => ' artÃ½k kendi hesabÃ½nÃ½zda Ã§eviri deposuna sahip olacaksÃ½nÃ½z. KaynaÃ°Ã½ kendi sisteminizde kullanmak Ã¼zere kopyalabilirsiniz. Bunun iÃ§in git komutu:',
 
     'p2d' => 'git clone git@github.com:[github_Kullanici_Adiniz]/db4free-net-l10n.git',
 
-    'p2e' => 'Çeviriniz için yeni bir dal oluşturmanızı öneriyoruz, şöyle:',
+    'p2e' => 'Ã‡eviriniz iÃ§in yeni bir dal oluÃ¾turmanÃ½zÃ½ Ã¶neriyoruz, Ã¾Ã¶yle:',
 
     'p2f' => 'git checkout -b cevirilerim',
 
-    'p2g' => 'Eğer çeviri yapmak istediğiniz dile ait bir klasör yoksa, "en" klasörünü kopyalayın ve  <a href="http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 dil kodları</a>na göre adlandırın',
+    'p2g' => 'EÃ°er Ã§eviri yapmak istediÃ°iniz dile ait bir klasÃ¶r yoksa, "en" klasÃ¶rÃ¼nÃ¼ kopyalayÃ½n ve  <a href="http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 dil kodlarÃ½</a>na gÃ¶re adlandÃ½rÃ½n',
 
-    'p2h' => 'Bu klasör içindeki dosyalarda, İngilizce metinleri kendi dilinizle değiştirin. Lütfen ID leri değiştirmemeye dikkat edin. Örneğin :',
+    'p2h' => 'Bu klasÃ¶r iÃ§indeki dosyalarda, Ãngilizce metinleri kendi dilinizle deÃ°iÃ¾tirin. LÃ¼tfen ID leri deÃ°iÃ¾tirmemeye dikkat edin. Ã–rneÃ°in :',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\','i,
+    'p2i' => '\'h1\' => \'Welcome to db4free.net\'',
 
-    'p2j' => 'böyle değiştirin',
+    'p2j' => 'bÃ¶yle deÃ°iÃ¾tirin',
 
-    'p2k' => '\'h1\' => \'db4free.net e Hoşgeldiniz\',',
+    'p2k' => '\'h1\' => \'db4free.net e HoÃ¾geldiniz\',',
 
-    'p2l' => 'Eğer metin İngilizcede de kendi dilinizde de aynı ise,satırı silebilirsiniz yada öylece bırakabilirsiniz.',
+    'p2l' => 'EÃ°er metin Ãngilizcede de kendi dilinizde de aynÃ½ ise,satÃ½rÃ½ silebilirsiniz yada Ã¶ylece bÃ½rakabilirsiniz.',
 
-    'p2m' => 'Çeviri bittiğinde kaynağı gitHub deponuza aktarınız. Yeni branşa geçininiz ve  "New Pull Request"a tıklayınız. Değiştirdikleriniz,karşılaştığınız zorluklar ve tamamlamadığınız kısımlar hakkında kısa bir açıklama giriniz. Ve isteği gönderiniz.',
+    'p2m' => 'Ã‡eviri bittiÃ°inde kaynaÃ°Ã½ gitHub deponuza aktarÃ½nÃ½z. Yeni branÃ¾a geÃ§ininiz ve  "New Pull Request"a tÃ½klayÃ½nÃ½z. DeÃ°iÃ¾tirdikleriniz,karÃ¾Ã½laÃ¾tÃ½Ã°Ã½nÃ½z zorluklar ve tamamlamadÃ½Ã°Ã½nÃ½z kÃ½sÃ½mlar hakkÃ½nda kÃ½sa bir aÃ§Ã½klama giriniz. Ve isteÃ°i gÃ¶nderiniz.',
 
-    'p2n' => 'Katkıda bulunmak istiyor ve daha fazla yardıma ihtiyacınız var, lütfen göz atın:<a href="https://github.com/mpopp75/db4free-net-l10n/issues">Open a Ticket at GitHub</a>.',
+    'p2n' => 'KatkÃ½da bulunmak istiyor ve daha fazla yardÃ½ma ihtiyacÃ½nÃ½z var, lÃ¼tfen gÃ¶z atÃ½n:<a href="https://github.com/mpopp75/db4free-net-l10n/issues">Open a Ticket at GitHub</a>.',
 );
 ?>

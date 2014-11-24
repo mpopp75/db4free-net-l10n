@@ -1,14 +1,14 @@
 <?php
 /*
 Section: blog
-Language: Turkish,Turkce
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
     'h1' => 'mpopp.net blog',
 
-    'visitblog' => 'mpopp.net blog sitesini ziyaret et. (Yeni sekmede açýlýr)',
+    'visitblog' => 'mpopp.net blog sitesini ziyaret et. (Yeni sekmede aÃ§Ã½lÃ½r)',
 
-    'listposts' => 'Blog Gönderileri Listesi:',
+    'listposts' => 'Blog GÃ¶nderileri Listesi:',
 );
-?
+?>

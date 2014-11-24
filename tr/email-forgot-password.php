@@ -1,21 +1,21 @@
 <?php
 /*
 Section: email-forgot-password
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
-    'email' => 'hesabınız için yeni bir şifre talep ettiniz "{$user}"
+    'email' => 'hesabÃ½nÃ½z iÃ§in yeni bir Ã¾ifre talep ettiniz "{$user}"
 
-Yeni şifreniz : {$newData}
+Yeni Ã¾ifreniz : {$newData}
 
-Aşağıdaki linke tıklayarak bu bilgiyi doğrulayınız:
+AÃ¾aÃ°Ã½daki linke tÃ½klayarak bu bilgiyi doÃ°rulayÃ½nÃ½z:
 
 {$mailLink}
 
-db4free.net web sitesinden yeni şifre talebiniz olmadıysa, bu e postayı yoksayabilirsiniz!
+db4free.net web sitesinden yeni Ã¾ifre talebiniz olmadÃ½ysa, bu e postayÃ½ yoksayabilirsiniz!
 
-Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
+VeritabanÃ½nÃ½zÃ½ kullanmayÃ½ sevdiÃ°inizi umuyoruz!
 
 db4free.net ekibi
 http://www.db4free.net',

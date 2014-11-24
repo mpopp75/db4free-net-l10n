@@ -1,24 +1,24 @@
 <?php
 /*
 Section: delete-account
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
     'h1' => 'Hesap Sil',
 
-    'mysql-username' => 'MySQL Kullanýcý Adý',
+    'mysql-username' => 'MySQL KullanÃ½cÃ½ AdÃ½',
 
     'mysql-user-password' => 'MySQL Parola',
 
-    'ph1' => 'Kullanýcý Adýnýzý Girin',
+    'ph1' => 'KullanÃ½cÃ½ AdÃ½nÃ½zÃ½ Girin',
 
-    'ph2' => 'Þifrenizi Girin',
+    'ph2' => 'Ãžifrenizi Girin',
 
-    'error1' => 'Veritabaný hesabýnýzýn silinmesini doðrulayan bir e-posta alacaksýnýz.!',
+    'error1' => 'VeritabanÃ½ hesabÃ½nÃ½zÃ½n silinmesini doÃ°rulayan bir e-posta alacaksÃ½nÃ½z.!',
 
-    'error2' => 'Kullanýcý bulunamadý!',
+    'error2' => 'KullanÃ½cÃ½ bulunamadÃ½!',
 
-    'error3' => 'Þifre Hatalý!',
+    'error3' => 'Ãžifre HatalÃ½!',
 );
 ?>

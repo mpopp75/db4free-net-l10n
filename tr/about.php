@@ -1,7 +1,7 @@
 ﻿<?php
 /*
 Section: about
-Language: Turkish,Türkçe
+Language: Turkish, Türkçe
 */
 
 $translations = array(

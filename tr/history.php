@@ -1,10 +1,10 @@
 <?php
 /*
 Section: history
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
-    'h1' => 'Deðiþiklik Kayýtlarý',
+    'h1' => 'DeÃ°iÃ¾iklik KayÃ½tlarÃ½',
 );
 ?>

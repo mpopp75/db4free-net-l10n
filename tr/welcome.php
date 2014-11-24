@@ -1,32 +1,32 @@
 <?php
 /*
 Section: welcome
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
-    'h1' => 'db4free.net e Hoşgeldiniz',
+    'h1' => 'db4free.net e HoÃ¾geldiniz',
 
-    'p1a' => 'db4free.net son hatta geliştirme aşamasındaki <a href="http://www.mysql.com/">MySQL Server</a> için test ortamı sunar. Kolaylıkla <a href="/signup.php"> ücretsiz hesap oluşturabilir</a> ve uygulamalarınızı test edebilirsiniz,örnek olarak MySQL ün son güncellemesinden sonra sisteminizin çalışırlığını test edebilirsiniz . db4free.net ayrıca eğitim amaçlı olarak veya son gelişmeler hakkında bilgi sahibi olmak için kullanacağınız bir ortamdır.',
+    'p1a' => 'db4free.net son hatta geliÃ¾tirme aÃ¾amasÃ½ndaki <a href="http://www.mysql.com/">MySQL Server</a> iÃ§in test ortamÃ½ sunar. KolaylÃ½kla <a href="/signup.php"> Ã¼cretsiz hesap oluÃ¾turabilir</a> ve uygulamalarÃ½nÃ½zÃ½ test edebilirsiniz,Ã¶rnek olarak MySQL Ã¼n son gÃ¼ncellemesinden sonra sisteminizin Ã§alÃ½Ã¾Ã½rlÃ½Ã°Ã½nÃ½ test edebilirsiniz . db4free.net ayrÃ½ca eÃ°itim amaÃ§lÃ½ olarak veya son geliÃ¾meler hakkÃ½nda bilgi sahibi olmak iÃ§in kullanacaÃ°Ã½nÃ½z bir ortamdÃ½r.',
 
-    'p1b' => 'db4free.net her zaman son yayınlanan yada son geliştirilen versiyonu sunmayı hedefler. db4free.net\'in MySQL sunucuları yeni bir versiyon yayınlandıktan sonra kısa bir süre içinde güncellenir bu süre genellikle aynı gündür.',
+    'p1b' => 'db4free.net her zaman son yayÃ½nlanan yada son geliÃ¾tirilen versiyonu sunmayÃ½ hedefler. db4free.net\'in MySQL sunucularÃ½ yeni bir versiyon yayÃ½nlandÃ½ktan sonra kÃ½sa bir sÃ¼re iÃ§inde gÃ¼ncellenir bu sÃ¼re genellikle aynÃ½ gÃ¼ndÃ¼r.',
 
-    'p1c' => 'Verilerinize en uygun yöntemle ulaşmak için,db4free.net <a href="http://www.phpmyadmin.net">phpMyAdmin</a> paneli sunar. phpMyAdmin paneli de sık sık güncellenir böylece her zaman güncel kalırsınız.',
+    'p1c' => 'Verilerinize en uygun yÃ¶ntemle ulaÃ¾mak iÃ§in,db4free.net <a href="http://www.phpmyadmin.net">phpMyAdmin</a> paneli sunar. phpMyAdmin paneli de sÃ½k sÃ½k gÃ¼ncellenir bÃ¶ylece her zaman gÃ¼ncel kalÃ½rsÃ½nÃ½z.',
 
-    'h2' => 'db4free.net ne değildir',
+    'h2' => 'db4free.net ne deÃ°ildir',
 
-    'p2' => 'db4free.net <b>test hizmetidir</b> bu üretim için uygun olmadığı anlamına gelir. Standart veri alanı sağlayacılarından beklediğiniz güvenlik önlemleri olmayabilir,veri kaybı yaşanabilir. Eğer üretim için MySQL veritabanı ihtiyacınız varsa lütfen db4free.net i kullanmayınız!',
+    'p2' => 'db4free.net <b>test hizmetidir</b> bu Ã¼retim iÃ§in uygun olmadÃ½Ã°Ã½ anlamÃ½na gelir. Standart veri alanÃ½ saÃ°layacÃ½larÃ½ndan beklediÃ°iniz gÃ¼venlik Ã¶nlemleri olmayabilir,veri kaybÃ½ yaÃ¾anabilir. EÃ°er Ã¼retim iÃ§in MySQL veritabanÃ½ ihtiyacÃ½nÃ½z varsa lÃ¼tfen db4free.net i kullanmayÃ½nÃ½z!',
 
-    'h3' => 'db4free.net i diğer dillere çevirmemize yardım eder misiniz?',
+    'h3' => 'db4free.net i diÃ°er dillere Ã§evirmemize yardÃ½m eder misiniz?',
 
-    'p3' => 'Bu sitenin kullanılabilir olmadığı bir dili mi konuşuyorsunuz? db4free.net i çevirmemize yardım edebilirsiniz. <a href="/translate.php">Nasıl!</a>',
+    'p3' => 'Bu sitenin kullanÃ½labilir olmadÃ½Ã°Ã½ bir dili mi konuÃ¾uyorsunuz? db4free.net i Ã§evirmemize yardÃ½m edebilirsiniz. <a href="/translate.php">NasÃ½l!</a>',
 
     'h4' => 'Kaynaklar',
 
-    'p4a' => '<a href="http://www.mpopp.net/category/db4free/">db4free.net sekmesi</a> <a href="http://www.mpopp.net/">mpopp.net blog</a> unda site hakkında bir çok haberi içerir. Lütfen <a href="http://www.mpopp.net/category/db4free/feed/">RSS Besleme</a> kanalına abone olarak son gelişmelerden haberdar kalın.db4free.net ayrıca <a href="/twitter.php">Twitter</a> da, db4free.net dünyasında en son gelişmeleri takip etme imkanı sunar.',
+    'p4a' => '<a href="http://www.mpopp.net/category/db4free/">db4free.net sekmesi</a> <a href="http://www.mpopp.net/">mpopp.net blog</a> unda site hakkÃ½nda bir Ã§ok haberi iÃ§erir. LÃ¼tfen <a href="http://www.mpopp.net/category/db4free/feed/">RSS Besleme</a> kanalÃ½na abone olarak son geliÃ¾melerden haberdar kalÃ½n.db4free.net ayrÃ½ca <a href="/twitter.php">Twitter</a> da, db4free.net dÃ¼nyasÃ½nda en son geliÃ¾meleri takip etme imkanÃ½ sunar.',
 
-    'p4b' => 'MySQL öğrenmek için en iyi kaynaklar <a href="http://dev.mysql.com/">MySQL Geliştirici Bölgesi</a>, <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Kullanım Kılavuzu</a> ve <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL websitesi bir çok <a href="http://dev.mysql.com/tech-resources/articles/">Geliştirici Makaleleri </a> sunar bu makaleler yayınlanan son versiyonlar hakkında daha detaylı bilgiler içerir.
+    'p4b' => 'MySQL Ã¶Ã°renmek iÃ§in en iyi kaynaklar <a href="http://dev.mysql.com/">MySQL GeliÃ¾tirici BÃ¶lgesi</a>, <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL KullanÃ½m KÃ½lavuzu</a> ve <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL websitesi bir Ã§ok <a href="http://dev.mysql.com/tech-resources/articles/">GeliÃ¾tirici Makaleleri </a> sunar bu makaleler yayÃ½nlanan son versiyonlar hakkÃ½nda daha detaylÃ½ bilgiler iÃ§erir.',
 
-    'p4c' => 'Eğer MySQL Serverda bir açık bulduysanız, lütfen <a href="http://bugs.mysql.com/">MySQL Hata İzleme Sistemi</a>nden bildiriniz.',
+    'p4c' => 'EÃ°er MySQL Serverda bir aÃ§Ã½k bulduysanÃ½z, lÃ¼tfen <a href="http://bugs.mysql.com/">MySQL Hata Ãzleme Sistemi</a>nden bildiriniz.',
 );
 ?>

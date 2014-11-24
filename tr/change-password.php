@@ -1,7 +1,7 @@
 <?php
 /*
 Section: change-password
-Language: Turkish,Türkçe
+Language: Turkish, Türkçe
 */
 
 $translations = array(

@@ -1,7 +1,7 @@
 <?php
 /*
 Section: confirm
-Language: English
+Language: Turkish, Türkçe
 */
 
 $translations = array(

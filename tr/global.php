@@ -1,17 +1,17 @@
 <?php
 /*
 Section: global
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
     'sitetitle1' => 'db4free.net',
 
-    'sitetitle2' => 'Ücretsiz MySQL Veritabaný hesabý',
+    'sitetitle2' => 'Ãœcretsiz MySQL VeritabanÃ½ hesabÃ½',
 
-    'topnav1' => 'Hoþgeldiniz',
+    'topnav1' => 'HoÃ¾geldiniz',
 
-    'topnav2' => 'Veritabaný',
+    'topnav2' => 'VeritabanÃ½',
 
     'topnav3' => 'Twitter',
 
@@ -19,34 +19,34 @@ $translations = array(
 
     'topnav5' => 'phpMyAdmin',
 
-    'sidebar_1_2' => 'Baðýþlar',
+    'sidebar_1_2' => 'BaÃ°Ã½Ã¾lar',
 
-    'sidebar_1_3' => 'Çeviriler',
+    'sidebar_1_3' => 'Ã‡eviriler',
 
-    'sidebar_1_4' => 'Deðiþiklik Kayýtlarý',
+    'sidebar_1_4' => 'DeÃ°iÃ¾iklik KayÃ½tlarÃ½',
 
-    'sidebar_1_5' => 'Künye',
+    'sidebar_1_5' => 'KÃ¼nye',
 
-    'sidebar_2_1' => 'db4free.net hakkýnda',
+    'sidebar_2_1' => 'db4free.net hakkÃ½nda',
 
-    'sidebar_2_2' => 'Kullaným Þartlarý',
+    'sidebar_2_2' => 'KullanÃ½m ÃžartlarÃ½',
 
     'sidebar_2_3' => 'Kaydol',
 
-    'sidebar_2_4' => 'Þifre Deðiþtir',
+    'sidebar_2_4' => 'Ãžifre DeÃ°iÃ¾tir',
 
-    'sidebar_2_5' => 'Hesabý Sil',
+    'sidebar_2_5' => 'HesabÃ½ Sil',
 
-    'sidebar_2_6' => 'Þifrenizi mi Unuttunuz?',
+    'sidebar_2_6' => 'Ãžifrenizi mi Unuttunuz?',
 
-    'pmalogin' => 'phpMyAdmin Giriþ',
+    'pmalogin' => 'phpMyAdmin GiriÃ¾',
 
-    'username' => 'Kullanýcý Adý',
+    'username' => 'KullanÃ½cÃ½ AdÃ½',
 
-    'password' => 'Þifre',
+    'password' => 'Ãžifre',
 
-    'login' => 'Giriþ',
+    'login' => 'GiriÃ¾',
 
-    'switch_language' => 'Dili Deðiþtir',
+    'switch_language' => 'Dili DeÃ°iÃ¾tir',
 );
 ?>

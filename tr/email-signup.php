@@ -1,37 +1,37 @@
 <?php
 /*
 Section: email-signup
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
     'email' => 'Thank you for registering your database account {$user} with db4free.net.
 
-Aşağıdaki linki onayladıktan sonra, db4free.net\'in MySQL 5.6 veritabanı sunucularına erişiminiz olacaktır. Sunucuya ulaşmak için host adı: db4free.net ve port: 3306 (MySQL için varsayılan değer) olacaktır. Websitemizdeki phpMyAdmin panelini kullanarak sunucuya giriş yapabilirsiniz.
+AÃ¾aÃ°Ã½daki linki onayladÃ½ktan sonra, db4free.net\'in MySQL 5.6 veritabanÃ½ sunucularÃ½na eriÃ¾iminiz olacaktÃ½r. Sunucuya ulaÃ¾mak iÃ§in host adÃ½: db4free.net ve port: 3306 (MySQL iÃ§in varsayÃ½lan deÃ°er) olacaktÃ½r. Websitemizdeki phpMyAdmin panelini kullanarak sunucuya giriÃ¾ yapabilirsiniz.
 
-Lütfen 14 gün içerisinde aşağıdaki linki kullanarak kayıt işlemini tamamlayınız. Linke tıklayarak aşağıdaki şartları tekrar onaylamış sayılacaksınız:
+LÃ¼tfen 14 gÃ¼n iÃ§erisinde aÃ¾aÃ°Ã½daki linki kullanarak kayÃ½t iÃ¾lemini tamamlayÃ½nÃ½z. Linke tÃ½klayarak aÃ¾aÃ°Ã½daki Ã¾artlarÃ½ tekrar onaylamÃ½Ã¾ sayÃ½lacaksÃ½nÃ½z:
 
-* db4free.net bir test ortamıdır.
-* db4free.net üretim için uygun değildir.
-* Eğer tüm uyarılara rağmen db4free.net veritabanını üretimde kullanırsanız, bunun sorumluluğu size aittir. (Sık yedeklemeler şiddetle önerilir)
-* Zaiyat ve veri kaybı her zaman olabilir (bunla ilgili tüm şikayetler yoksayılacaktır)
-* db4free.net ekibi hiç bir tür sorumluluğu ve garantiyi kabul etmecektir.
-* db4free.net ekibi önceden bildirmeksizin hesap silme yada veritabanlarını silme hakkını saklı tutar.
-* Bizi Twitterdan (https://twitter.com/db4free_net) ve db4free.net blog (http://www.mpopp.net/category/db4free/) sitemizden takip edip son gelişmeler hakkında bilgi sahibi olabilirsiniz.
-* db4free.net sadece MySQL veritabanı sağlar, webde alan sağlamaz (dosyalarınızı yükleyecek bir alanınız olmayacak)
+* db4free.net bir test ortamÃ½dÃ½r.
+* db4free.net Ã¼retim iÃ§in uygun deÃ°ildir.
+* EÃ°er tÃ¼m uyarÃ½lara raÃ°men db4free.net veritabanÃ½nÃ½ Ã¼retimde kullanÃ½rsanÃ½z, bunun sorumluluÃ°u size aittir. (SÃ½k yedeklemeler Ã¾iddetle Ã¶nerilir)
+* Zaiyat ve veri kaybÃ½ her zaman olabilir (bunla ilgili tÃ¼m Ã¾ikayetler yoksayÃ½lacaktÃ½r)
+* db4free.net ekibi hiÃ§ bir tÃ¼r sorumluluÃ°u ve garantiyi kabul etmecektir.
+* db4free.net ekibi Ã¶nceden bildirmeksizin hesap silme yada veritabanlarÃ½nÃ½ silme hakkÃ½nÃ½ saklÃ½ tutar.
+* Bizi Twitterdan (https://twitter.com/db4free_net) ve db4free.net blog (http://www.mpopp.net/category/db4free/) sitemizden takip edip son geliÃ¾meler hakkÃ½nda bilgi sahibi olabilirsiniz.
+* db4free.net sadece MySQL veritabanÃ½ saÃ°lar, webde alan saÃ°lamaz (dosyalarÃ½nÃ½zÃ½ yÃ¼kleyecek bir alanÃ½nÃ½z olmayacak)
 
-Dahası:
+DahasÃ½:
 
-* db4free.net test için bir hizmettir, hosting servisi değildir. 200 MB dan daha fazla bilgi taşıyan veritabanlı düzensiz aralıklarla bildirim yapılmadan silinecektir
-* Lütfen ihtiyacınız olmayacak veriyi yada hesabınızı silin (http://www.db4free.net/delete-account.php). Böylece sunucularda oluşan problemlerde kurtarma yapmamız kolaylaşacaktır.
+* db4free.net test iÃ§in bir hizmettir, hosting servisi deÃ°ildir. 200 MB dan daha fazla bilgi taÃ¾Ã½yan veritabanlÃ½ dÃ¼zensiz aralÃ½klarla bildirim yapÃ½lmadan silinecektir
+* LÃ¼tfen ihtiyacÃ½nÃ½z olmayacak veriyi yada hesabÃ½nÃ½zÃ½ silin (http://www.db4free.net/delete-account.php). BÃ¶ylece sunucularda oluÃ¾an problemlerde kurtarma yapmamÃ½z kolaylaÃ¾acaktÃ½r.
 
 {$mailLink}
 
-db4free.net websitesini tercüme etmemize yardımcı olur musunuz? Lütfen http://www.db4free.net/translate.php adresine gidin.
+db4free.net websitesini tercÃ¼me etmemize yardÃ½mcÃ½ olur musunuz? LÃ¼tfen http://www.db4free.net/translate.php adresine gidin.
 
-Eğer db4free.net veritabanı hesabını kaydetmek istemediyseniz,lütfen bu e postayı yoksayınız.
+EÃ°er db4free.net veritabanÃ½ hesabÃ½nÃ½ kaydetmek istemediyseniz,lÃ¼tfen bu e postayÃ½ yoksayÃ½nÃ½z.
 
-Umarız veritabanınızla çalışırken eğlenirsiniz!
+UmarÃ½z veritabanÃ½nÃ½zla Ã§alÃ½Ã¾Ã½rken eÃ°lenirsiniz!
 
 db4free.net ekibi
 http://www.db4free.net',

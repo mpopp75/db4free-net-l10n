@@ -1,7 +1,7 @@
 ﻿<?php
 /*
 Section: imprint
-Language: English
+Language: Turkish, Türkçe
 */
 
 $translations = array(
@@ -24,4 +24,3 @@ $translations = array(
     'p6' => 'Site sahibi bağlantılanan veya alıntılanan herhangi bir içerikten sorumlu değildir.',
 );
 ?>
-

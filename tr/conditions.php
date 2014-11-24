@@ -1,7 +1,7 @@
 ﻿<?php
 /*
 Section: conditions
-Language: English
+Language: Turkish, Türkçe
 */
 
 $translations = array(
@@ -17,7 +17,7 @@ $translations = array(
 
     'p5' => 'db4free.net veritabanını önemli bir veri yada amaç için kullanmanızı tavsiye etmiyoruz! Bizler birbirimize şirket üzerinden bağlantılı olsakda, bu özel ve ticari olmayan bir projedir.Herhangi bir garantiyi ve sorumluluğu reddediyoruz!',
 
-    'p6' => db4free.net ekibi bağlantılanmış hiçbir sayfanın sorumluluğunu üstlenmemektedir.',
+    'p6' => 'db4free.net ekibi bağlantılanmış hiçbir sayfanın sorumluluğunu üstlenmemektedir.',
 
     'p7' => 'Bu sözleşmeyi önceden bildiri yapmadan değiştirme hakkı saklıdır.',
 

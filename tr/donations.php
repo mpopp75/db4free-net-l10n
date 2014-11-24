@@ -1,13 +1,13 @@
 <?php
 /*
 Section: donations
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
-    'h1' => 'Baðýþ',
+    'h1' => 'BaÃ°Ã½Ã¾',
 
-    'p1' => 'Baðýþ yaparak daha iyi sistemlere sahip olup daha iyi hizmet vermemizi saðlayabilirsiniz.',
+    'p1' => 'BaÃ°Ã½Ã¾ yaparak daha iyi sistemlere sahip olup daha iyi hizmet vermemizi saÃ°layabilirsiniz.',
 
     'amount' => 'Miktar',
 

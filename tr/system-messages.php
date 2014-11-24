@@ -1,58 +1,58 @@
 <?php
 /*
 Section: system-messages
-Language: English
+Language: Turkish, TÃ¼rkÃ§e
 */
 
 $translations = array(
-    'database' => 'Veritabaný',
+    'database' => 'VeritabanÃ½',
 
-    'username' => 'Kullanýcý Adý',
+    'username' => 'KullanÃ½cÃ½ AdÃ½',
 
     'email' => 'E-Posta',
 
-    'id-not-found' => 'ID Bulunamadý',
+    'id-not-found' => 'ID BulunamadÃ½',
 
-    'success-create-db' => 'Veritabaný baþarýlý bir þekilde oluþturuldu',
+    'success-create-db' => 'VeritabanÃ½ baÃ¾arÃ½lÃ½ bir Ã¾ekilde oluÃ¾turuldu',
 
-    'error-create-db' => 'Veritabaný oluþturma hatasý.',
+    'error-create-db' => 'VeritabanÃ½ oluÃ¾turma hatasÃ½.',
 
-    'success-data-change' => 'Veri Deðiþti.',
+    'success-data-change' => 'Veri DeÃ°iÃ¾ti.',
 
-    'error-data-change' => 'Veri Deðiþtirilemedi.',
+    'error-data-change' => 'Veri DeÃ°iÃ¾tirilemedi.',
 
     'success-account-delete' => 'Hesap Silindi.',
 
     'error-account-delete' => 'Hesap Silinemedi.',
 
-    'another-user-database' => 'Bu isimde baþka bir veritabaný kullanýcýsý kayýtlý: ',
+    'another-user-database' => 'Bu isimde baÃ¾ka bir veritabanÃ½ kullanÃ½cÃ½sÃ½ kayÃ½tlÃ½: ',
 
-    'another-user-username' => 'Bu isimde baþka bir kullanýcý kayýtlý: ',
+    'another-user-username' => 'Bu isimde baÃ¾ka bir kullanÃ½cÃ½ kayÃ½tlÃ½: ',
 
-    'passwords-not-identical' => 'Þifreler uyuþmuyor.',
+    'passwords-not-identical' => 'Ãžifreler uyuÃ¾muyor.',
 
-    'password-too-short' => 'Þifre en az 6 karakter uzunluðunda olmalýdýr.',
+    'password-too-short' => 'Ãžifre en az 6 karakter uzunluÃ°unda olmalÃ½dÃ½r.',
 
-    'only-2-db-allowed' => 'Herbir e posta adresi için sadece 2 veritabaný oluþturulabilir.',
+    'only-2-db-allowed' => 'Herbir e posta adresi iÃ§in sadece 2 veritabanÃ½ oluÃ¾turulabilir.',
 
-    'email-invalid' => 'E posta adresi geçerli deðil.',
+    'email-invalid' => 'E posta adresi geÃ§erli deÃ°il.',
 
-    'user-not-exist' => 'Kullanýcý bulunamadý.',
+    'user-not-exist' => 'KullanÃ½cÃ½ bulunamadÃ½.',
 
-    'user-not-confirmed' => 'Kullanýcý aktivasyon postasýný henüz doðrulamadý.',
+    'user-not-confirmed' => 'KullanÃ½cÃ½ aktivasyon postasÃ½nÃ½ henÃ¼z doÃ°rulamadÃ½.',
 
-    'password-not-correct' => 'Þifre Yanlýþ.',
+    'password-not-correct' => 'Ãžifre YanlÃ½Ã¾.',
 
-    'confirmation-email' => 'Deðiþiklikleri doðrulamak için bir e posta alacaksýnýz.',
+    'confirmation-email' => 'DeÃ°iÃ¾iklikleri doÃ°rulamak iÃ§in bir e posta alacaksÃ½nÃ½z.',
 
-    'error-write-data' => 'Verileri güncellerken bir hata oluþtu.',
+    'error-write-data' => 'Verileri gÃ¼ncellerken bir hata oluÃ¾tu.',
 
-    'error-send-email' => 'Doðrulama postasýný gönderirken bir hata oluþtu.',
+    'error-send-email' => 'DoÃ°rulama postasÃ½nÃ½ gÃ¶nderirken bir hata oluÃ¾tu.',
 
-    'subject-signup' => 'db4free.net ile veritabaný kaydýnýz',
+    'subject-signup' => 'db4free.net ile veritabanÃ½ kaydÃ½nÃ½z',
 
-    'subject-delete-account' => 'db4free.net hesabýnýzýn silinmesi',
+    'subject-delete-account' => 'db4free.net hesabÃ½nÃ½zÃ½n silinmesi',
 
-    'subject-change-password' => 'Yeni db4free.net þifreniz',
+    'subject-change-password' => 'Yeni db4free.net Ã¾ifreniz',
 );
 ?>
