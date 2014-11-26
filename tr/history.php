@@ -5,6 +5,6 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'h1' => 'Deðiþiklik Kayýtlarý',
+    'h1' => 'Değişiklik Kayıtları',
 );
 ?>

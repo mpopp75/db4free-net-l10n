@@ -5,17 +5,17 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'email' => 'hesabýnýz için yeni bir þifre talep ettiniz "{$user}"
+    'email' => 'hesabınız için yeni bir şifre talep ettiniz "{$user}"
 
-Yeni þifreniz : {$newData}
+Yeni şifreniz : {$newData}
 
-Aþaðýdaki linke týklayarak bu bilgiyi doðrulayýnýz:
+Aşağıdaki linke tıklayarak bu bilgiyi doğrulayınız:
 
 {$mailLink}
 
-db4free.net web sitesinden yeni þifre talebiniz olmadýysa, bu e postayý yoksayabilirsiniz!
+db4free.net web sitesinden yeni şifre talebiniz olmadıysa, bu e postayı yoksayabilirsiniz!
 
-Veritabanýnýzý kullanmayý sevdiðinizi umuyoruz!
+Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
 http://www.db4free.net',

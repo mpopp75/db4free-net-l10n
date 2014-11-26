@@ -5,9 +5,9 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'h1' => 'Baðýþ',
+    'h1' => 'Bağış',
 
-    'p1' => 'Baðýþ yaparak daha iyi sistemlere sahip olup daha iyi hizmet vermemizi saðlayabilirsiniz.',
+    'p1' => 'Bağış yaparak daha iyi sistemlere sahip olup daha iyi hizmet vermemizi sağlayabilirsiniz.',
 
     'amount' => 'Miktar',
 

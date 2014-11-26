@@ -7,17 +7,17 @@ Language: Turkish, Türkçe
 $translations = array(
     'h1' => 'Kaydol',
 
-    'mysql-db-name' => 'MySQL veritabaný adý',
+    'mysql-db-name' => 'MySQL veritabanı adı',
 
-    'mysql-user-name' => 'MySQL kullanýcý adý',
+    'mysql-user-name' => 'MySQL kullanıcı adı',
 
-    'mysql-user-password' => 'MySQL kullanýcý parola',
+    'mysql-user-password' => 'MySQL kullanıcı parola',
 
-    'mysql-user-password-verification' => 'MySQL kullanýcý parola doðrulamasý',
+    'mysql-user-password-verification' => 'MySQL kullanıcı parola doğrulaması',
 
     'email-address' => 'Eposta Adresi',
 
-    'agree-conditions' => '<a href="conditions.php">Kullaným Þartlarý</a> ný okudum ve kabul ediyorum.',
+    'agree-conditions' => '<a href="conditions.php">Kullanım Şartları</a> nı okudum ve kabul ediyorum.',
 
     'ph1' => '4-16 karakter, büyük harf olmadan, birinci karakter olmak üzere.',
 
@@ -25,40 +25,40 @@ $translations = array(
 
     'ph3' => 'E posta adresinizi girin',
 
-    'explanation' => 'Veritabaný kullanýcý adý ve veritabaný adý küçük harfler, sayýlar ve alt tire içerebilir ve 4-16 karakter uzunluðunda olmalýdýr.<a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">Anahtar Sözcükler</a>i kullanmamalýsýnýz!',
+    'explanation' => 'Veritabanı kullanıcı adı ve veritabanı adı küçük harfler, sayılar ve alt tire içerebilir ve 4-16 karakter uzunluğunda olmalıdır.<a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">Anahtar Sözcükler</a>i kullanmamalısınız!',
 
-    'maintenance-notice' => 'Veritabaný bakýmýndan dolayý þu an kayýt yapýlamamaktadýr.',
+    'maintenance-notice' => 'Veritabanı bakımından dolayı şu an kayıt yapılamamaktadır.',
 
-    'agm-p1' => 'db4free.net hesabý oluþtururak kabul ediyorum:',
+    'agm-p1' => 'db4free.net hesabı oluştururak kabul ediyorum:',
 
-    'agm-li1' => 'db4free.net test ortamýdýr.',
+    'agm-li1' => 'db4free.net test ortamıdır.',
 
-    'agm-li2' => 'db4free.net üretim için uygun deðildir.',
+    'agm-li2' => 'db4free.net üretim için uygun değildir.',
 
-    'agm-li3' => 'Eðer tüm uyarýlara raðmen db4free.net veritabanýný üretimde kullanýrsanýz, bunun sorumluluðu size aittir. (Sýk yedeklemeler þiddetle önerilir)',
+    'agm-li3' => 'Eğer tüm uyarılara rağmen db4free.net veritabanını üretimde kullanırsanız, bunun sorumluluğu size aittir. (Sık yedeklemeler şiddetle önerilir)',
 
-    'agm-li4' => 'Zaiyat ve veri kaybý her zaman olabilir (bunla ilgili tüm þikayetler yoksayýlacaktýr)',
+    'agm-li4' => 'Zaiyat ve veri kaybı her zaman olabilir (bunla ilgili tüm şikayetler yoksayılacaktır)',
 
-    'agm-li5' => 'db4free.net ekibi hiç bir tür sorumluluðu ve garantiyi kabul etmecektir.',
+    'agm-li5' => 'db4free.net ekibi hiç bir tür sorumluluğu ve garantiyi kabul etmecektir.',
 
-    'agm-li6' => 'db4free.net ekibi önceden bildirmeksizin hesap silme yada veritabanlarýný silme hakkýný saklý tutar.',
+    'agm-li6' => 'db4free.net ekibi önceden bildirmeksizin hesap silme yada veritabanlarını silme hakkını saklı tutar.',
 
-    'agm-li7' => 'Son bilgileri <a href="/twitter.php">Twitter</a> ve <a href="/blog.php">db4free.net blog</a> kanallarýndan almak size kalmýþtýr',
+    'agm-li7' => 'Son bilgileri <a href="/twitter.php">Twitter</a> ve <a href="/blog.php">db4free.net blog</a> kanallarından almak size kalmıştır',
 
-    'agm-li8' => 'db4free.net sadece MySQL veritabaný saðlar, webde alan saðlamaz (dosyalarýnýzý yükleyecek bir alanýnýz olmayacak)',
+    'agm-li8' => 'db4free.net sadece MySQL veritabanı sağlar, webde alan sağlamaz (dosyalarınızı yükleyecek bir alanınız olmayacak)',
 
-    'agm-p2' => 'Dahasý:',
+    'agm-p2' => 'Dahası:',
 
-    'agm-li9' => 'db4free.net test için bir hizmettir, hosting servisi deðildir. 200 MB dan daha fazla bilgi taþýyan veritabanlý düzensiz aralýklarla bildirim yapýlmadan silinecektir',
+    'agm-li9' => 'db4free.net test için bir hizmettir, hosting servisi değildir. 200 MB dan daha fazla bilgi taşıyan veritabanlı düzensiz aralıklarla bildirim yapılmadan silinecektir',
 
-    'agm-li10' => 'Lütfen ihtiyacýnýz olmayacak veriyi yada hesabýnýzý silin (http://www.db4free.net/delete-account.php). Böylece sunucularda oluþan problemlerde kurtarma yapmamýz kolaylaþacaktýr.',
+    'agm-li10' => 'Lütfen ihtiyacınız olmayacak veriyi yada hesabınızı silin (http://www.db4free.net/delete-account.php). Böylece sunucularda oluşan problemlerde kurtarma yapmamız kolaylaşacaktır.',
 
-    'signup-error1' => 'Kullaným Þartlarýn kabul etmelisiniz!',
+    'signup-error1' => 'Kullanım Şartların kabul etmelisiniz!',
 
-    'signup-error2' => 'MySQL veritabaný kayýt hatasý!',
+    'signup-error2' => 'MySQL veritabanı kayıt hatası!',
 
-    'signup-error3' => 'Doðrulama E Postasý gönderme hatasý!',
+    'signup-error3' => 'Doğrulama E Postası gönderme hatası!',
 
-    'signup-success' => 'Kaydolduðunuz için teþekkürler.Eposta hesabýnýza doðrulama postasý alacaksýnýz.',
+    'signup-success' => 'Kaydolduğunuz için teşekkürler.Eposta hesabınıza doğrulama postası alacaksınız.',
 );
 ?>

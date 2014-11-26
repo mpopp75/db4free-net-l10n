@@ -5,54 +5,54 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'database' => 'Veritabaný',
+    'database' => 'Veritabanı',
 
-    'username' => 'Kullanýcý Adý',
+    'username' => 'Kullanıcı Adı',
 
     'email' => 'E-Posta',
 
-    'id-not-found' => 'ID Bulunamadý',
+    'id-not-found' => 'ID Bulunamadı',
 
-    'success-create-db' => 'Veritabaný baþarýlý bir þekilde oluþturuldu',
+    'success-create-db' => 'Veritabanı başarılı bir şekilde oluşturuldu',
 
-    'error-create-db' => 'Veritabaný oluþturma hatasý.',
+    'error-create-db' => 'Veritabanı oluşturma hatası.',
 
-    'success-data-change' => 'Veri Deðiþti.',
+    'success-data-change' => 'Veri Değişti.',
 
-    'error-data-change' => 'Veri Deðiþtirilemedi.',
+    'error-data-change' => 'Veri Değiştirilemedi.',
 
     'success-account-delete' => 'Hesap Silindi.',
 
     'error-account-delete' => 'Hesap Silinemedi.',
 
-    'another-user-database' => 'Bu isimde baþka bir veritabaný kullanýcýsý kayýtlý: ',
+    'another-user-database' => 'Bu isimde başka bir veritabanı kullanıcısı kayıtlı: ',
 
-    'another-user-username' => 'Bu isimde baþka bir kullanýcý kayýtlý: ',
+    'another-user-username' => 'Bu isimde başka bir kullanıcı kayıtlı: ',
 
-    'passwords-not-identical' => 'Þifreler uyuþmuyor.',
+    'passwords-not-identical' => 'Şifreler uyuşmuyor.',
 
-    'password-too-short' => 'Þifre en az 6 karakter uzunluðunda olmalýdýr.',
+    'password-too-short' => 'Şifre en az 6 karakter uzunluğunda olmalıdır.',
 
-    'only-2-db-allowed' => 'Herbir e posta adresi için sadece 2 veritabaný oluþturulabilir.',
+    'only-2-db-allowed' => 'Herbir e posta adresi için sadece 2 veritabanı oluşturulabilir.',
 
-    'email-invalid' => 'E posta adresi geçerli deðil.',
+    'email-invalid' => 'E posta adresi geçerli değil.',
 
-    'user-not-exist' => 'Kullanýcý bulunamadý.',
+    'user-not-exist' => 'Kullanıcı bulunamadı.',
 
-    'user-not-confirmed' => 'Kullanýcý aktivasyon postasýný henüz doðrulamadý.',
+    'user-not-confirmed' => 'Kullanıcı aktivasyon postasını henüz doğrulamadı.',
 
-    'password-not-correct' => 'Þifre Yanlýþ.',
+    'password-not-correct' => 'Şifre Yanlış.',
 
-    'confirmation-email' => 'Deðiþiklikleri doðrulamak için bir e posta alacaksýnýz.',
+    'confirmation-email' => 'Değişiklikleri doğrulamak için bir e posta alacaksınız.',
 
-    'error-write-data' => 'Verileri güncellerken bir hata oluþtu.',
+    'error-write-data' => 'Verileri güncellerken bir hata oluştu.',
 
-    'error-send-email' => 'Doðrulama postasýný gönderirken bir hata oluþtu.',
+    'error-send-email' => 'Doğrulama postasını gönderirken bir hata oluştu.',
 
-    'subject-signup' => 'db4free.net ile veritabaný kaydýnýz',
+    'subject-signup' => 'db4free.net ile veritabanı kaydınız',
 
-    'subject-delete-account' => 'db4free.net hesabýnýzýn silinmesi',
+    'subject-delete-account' => 'db4free.net hesabınızın silinmesi',
 
-    'subject-change-password' => 'Yeni db4free.net þifreniz',
+    'subject-change-password' => 'Yeni db4free.net şifreniz',
 );
 ?>

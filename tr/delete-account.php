@@ -7,18 +7,18 @@ Language: Turkish, Türkçe
 $translations = array(
     'h1' => 'Hesap Sil',
 
-    'mysql-username' => 'MySQL Kullanýcý Adý',
+    'mysql-username' => 'MySQL Kullanıcı Adı',
 
     'mysql-user-password' => 'MySQL Parola',
 
-    'ph1' => 'Kullanýcý Adýnýzý Girin',
+    'ph1' => 'Kullanıcı Adınızı Girin',
 
-    'ph2' => 'Þifrenizi Girin',
+    'ph2' => 'Şifrenizi Girin',
 
-    'error1' => 'Veritabaný hesabýnýzýn silinmesini doðrulayan bir e-posta alacaksýnýz.!',
+    'error1' => 'Veritabanı hesabınızın silinmesini doğrulayan bir e-posta alacaksınız.!',
 
-    'error2' => 'Kullanýcý bulunamadý!',
+    'error2' => 'Kullanıcı bulunamadı!',
 
-    'error3' => 'Þifre Hatalý!',
+    'error3' => 'Şifre Hatalı!',
 );
 ?>

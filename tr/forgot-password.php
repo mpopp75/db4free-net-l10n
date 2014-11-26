@@ -5,16 +5,16 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'h1' => 'Þifrenizi mi Unuttunuz?',
+    'h1' => 'Şifrenizi mi Unuttunuz?',
 
-    'username' => 'Kullanýcý Adý',
+    'username' => 'Kullanıcı Adı',
 
-    'request-new-password' => 'Yeni Þifre Ýste',
+    'request-new-password' => 'Yeni Şifre İste',
 
-    'ph1' => 'Kullanýcý Adýnýzý Girin',
+    'ph1' => 'Kullanıcı Adınızı Girin',
 
-    'error1' => 'Girdiðiniz bilgi doðru deðildir!',
+    'error1' => 'Girdiğiniz bilgi doğru değildir!',
 
-    'success' => 'Yeni þifrenizi içeren bir e-posta aldýnýz!',
+    'success' => 'Yeni şifrenizi içeren bir e-posta aldınız!',
 );
 ?>

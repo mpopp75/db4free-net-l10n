@@ -5,15 +5,15 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'email' => 'db4free.net hesabýnýzý kaldýrma talebinizi aldýk. "{$user}".
+    'email' => 'db4free.net hesabınızı kaldırma talebinizi aldık. "{$user}".
 
-Aþaðýdaki linke týklayarak bu talebinizi doðrulayýnýz. Hesabýnýzý kaldýrdýðýnýz takdirde tüm verileriniz kalýcý olarak silinecektir!
+Aşağıdaki linke tıklayarak bu talebinizi doğrulayınız. Hesabınızı kaldırdığınız takdirde tüm verileriniz kalıcı olarak silinecektir!
 
 {$mailLink}
 
-db4free.net hesabýnýzý kaldýrmak istemediyseniz bu e-postayý yoksayabilirsiniz!!
+db4free.net hesabınızı kaldırmak istemediyseniz bu e-postayı yoksayabilirsiniz!!
 
-Veritabanýnýzý kullanmayý sevdiðinizi umuyoruz!
+Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
 http://www.db4free.net',

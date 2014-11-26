@@ -5,19 +5,19 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'email' => 'Þifre deðiþtirme talebinizi aldýk.
+    'email' => 'Şifre değiştirme talebinizi aldık.
 
-Yeni verileriniz þöyledir:
+Yeni verileriniz şöyledir:
 
-Veritabaný Kullanýcý Adý: {$user}
-Þifre: {$newData}
+Veritabanı Kullanıcı Adı: {$user}
+Şifre: {$newData}
 
-Aþaðýdaki linke týklayarak bu deðiþikliði onaylayýnýz:
+Aşağıdaki linke tıklayarak bu değişikliği onaylayınız:
 
 {$mailLink}
-db4free.net þifrenizi deðiþtirmek istemediyseniz bu e-postayý yoksayabilirsiniz!
+db4free.net şifrenizi değiştirmek istemediyseniz bu e-postayı yoksayabilirsiniz!
 
-Veritabanýnýzý kullanmayý sevdiðinizi umuyoruz!
+Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
 http://www.db4free.net',

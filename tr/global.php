@@ -7,11 +7,11 @@ Language: Turkish, Türkçe
 $translations = array(
     'sitetitle1' => 'db4free.net',
 
-    'sitetitle2' => 'Ücretsiz MySQL Veritabaný hesabý',
+    'sitetitle2' => 'Ücretsiz MySQL Veritabanı hesabı',
 
-    'topnav1' => 'Hoþgeldiniz',
+    'topnav1' => 'Hoşgeldiniz',
 
-    'topnav2' => 'Veritabaný',
+    'topnav2' => 'Veritabanı',
 
     'topnav3' => 'Twitter',
 
@@ -19,34 +19,34 @@ $translations = array(
 
     'topnav5' => 'phpMyAdmin',
 
-    'sidebar_1_2' => 'Baðýþlar',
+    'sidebar_1_2' => 'Bağışlar',
 
     'sidebar_1_3' => 'Çeviriler',
 
-    'sidebar_1_4' => 'Deðiþiklik Kayýtlarý',
+    'sidebar_1_4' => 'Değişiklik Kayıtları',
 
     'sidebar_1_5' => 'Künye',
 
-    'sidebar_2_1' => 'db4free.net hakkýnda',
+    'sidebar_2_1' => 'db4free.net hakkında',
 
-    'sidebar_2_2' => 'Kullaným Þartlarý',
+    'sidebar_2_2' => 'Kullanım Şartları',
 
     'sidebar_2_3' => 'Kaydol',
 
-    'sidebar_2_4' => 'Þifre Deðiþtir',
+    'sidebar_2_4' => 'Şifre Değiştir',
 
-    'sidebar_2_5' => 'Hesabý Sil',
+    'sidebar_2_5' => 'Hesabı Sil',
 
-    'sidebar_2_6' => 'Þifrenizi mi Unuttunuz?',
+    'sidebar_2_6' => 'Şifrenizi mi Unuttunuz?',
 
-    'pmalogin' => 'phpMyAdmin Giriþ',
+    'pmalogin' => 'phpMyAdmin Giriş',
 
-    'username' => 'Kullanýcý Adý',
+    'username' => 'Kullanıcı Adı',
 
-    'password' => 'Þifre',
+    'password' => 'Şifre',
 
-    'login' => 'Giriþ',
+    'login' => 'Giriş',
 
-    'switch_language' => 'Dili Deðiþtir',
+    'switch_language' => 'Dili Değiştir',
 );
 ?>

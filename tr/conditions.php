@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Section: conditions
 Language: Turkish, Türkçe
