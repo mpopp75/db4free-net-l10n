@@ -19,7 +19,7 @@ $translations = array(
 
     'h3' => 'Sorumluluk Reddi',
 
-    'p5' => 'Site sahibi sitede sunulan bilgilerin doğruluğu,güncelliği,tamlığı veya kalitesi hakkında sorumluluk almama hakkını saklı tutar.Sitedeki eksik yada yanlış bilgiler dahil olmak üzere herhangi bir bilgiden kaynaklanan zararlar sebep gösterilerek yapılan şikayetler reddedilecektir.',
+    'p5' => 'Site sahibi sitede sunulan bilgilerin doğruluğu, güncelliği, tamlığı veya kalitesi hakkında sorumluluk almama hakkını saklı tutar. Sitedeki eksik yada yanlış bilgiler dahil olmak üzere herhangi bir bilgiden kaynaklanan zararlar sebep gösterilerek yapılan şikayetler reddedilecektir.',
 
     'p6' => 'Site sahibi bağlantılanan veya alıntılanan herhangi bir içerikten sorumlu değildir.',
 );

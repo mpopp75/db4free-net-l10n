@@ -51,7 +51,7 @@ $translations = array(
 
     'agm-li9' => 'db4free.net test için bir hizmettir, hosting servisi değildir. 200 MB dan daha fazla bilgi taşıyan veritabanlı düzensiz aralıklarla bildirim yapılmadan silinecektir',
 
-    'agm-li10' => 'Lütfen ihtiyacınız olmayacak veriyi yada hesabınızı silin (http://www.db4free.net/delete-account.php). Böylece sunucularda oluşan problemlerde kurtarma yapmamız kolaylaşacaktır.',
+    'agm-li10' => '<a href="/delete-account.php">Lütfen ihtiyacınız olmayacak veriyi yada hesabınızı silin.</a> Böylece sunucularda oluşan problemlerde kurtarma yapmamız kolaylaşacaktır.',
 
     'signup-error1' => 'Kullanım Şartların kabul etmelisiniz!',
 

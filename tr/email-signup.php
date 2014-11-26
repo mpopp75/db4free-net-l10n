@@ -29,7 +29,7 @@ Dahası:
 
 db4free.net websitesini tercüme etmemize yardımcı olur musunuz? Lütfen http://www.db4free.net/translate.php adresine gidin.
 
-Eğer db4free.net veritabanı hesabını kaydetmek istemediyseniz,lütfen bu e postayı yoksayınız.
+Eğer db4free.net veritabanı hesabını kaydetmek istemediyseniz, lütfen bu e postayı yoksayınız.
 
 Umarız veritabanınızla çalışırken eğlenirsiniz!
 
