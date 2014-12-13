@@ -8,7 +8,7 @@ Translator: Luo Haojing
 $translations = array(
     'h1' => '版权说明',
 
-    'p1' => '&copy; 2005-2014 by',
+    'p1' => '&copy; 2005-%d by',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 

@@ -7,7 +7,7 @@ Language: Italian
 $translations = array(
     'h1' => 'Imprint',
 
-    'p1' => '&copy; 2005-2014 by',
+    'p1' => '&copy; 2005-%d by',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
