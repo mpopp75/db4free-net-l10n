@@ -19,13 +19,13 @@ $translations = array(
 
 	'agree-conditions' => 'I have read the <a href="conditions.php">conditions of use</a> and I agree with them.',
 
-    'ph1' => '4-16 tecken, inga stora bokstäver, första tecknet måsta vara en bokstav.',
+    'ph1' => '4-16 tecken, ej versaler, måste börja med bokstav',
 
     'ph2' => 'Minst 6 tecken.',
 
     'ph3' => 'Ange din E-post',
 
-    'explanation' => 'Databasens användarnamn och databasnamn kan innehålla små bokstäver, siffror och understreck och måste vara mellan 4 och 16 tecken långt. Du får inte använda <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">MySQL reserverade ord</a>!',
+    'explanation' => 'Databasens användarnamn och databasnamn kan innehålla små bokstäver, siffror och understreck och måste vara mellan 4-16 tecken långt. Du får inte använda <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">MySQL reserverade ord</a>!',
 
     'maintenance-notice' => 'På grund av underhåll av databasen så kan vi inte ta emot registrering för tillfället.',
 
@@ -39,11 +39,11 @@ $translations = array(
 
     'agm-li4' => 'dataförlust och avbrott kan hända när som helst (klagomål angående detta kommer sannolikt att ignoreras)',
 
-    'agm-li5' => 'db4free.net lag beviljar tillhandahåller inte någon garanti eller ansvar av något slag',
+    'agm-li5' => 'db4free.net lag tillhandahåller inte någon som helst garanti eller ansvar av något slag',
 
     'agm-li6' => 'db4free.net lag förbehåller sig rätten att ta bort databaser och / eller konton när som helst utan förvarning',
 
-    'agm-li7' => 'det är upp till dig att få den senaste informationen från<a href="/twitter.php">Twitter</a> och <a href="/blog.php">db4free.net blog</a>',
+    'agm-li7' => 'det är upp till dig att få den senaste informationen från <a href="/twitter.php">Twitter</a> och <a href="/blog.php">db4free.net blogg</a>',
 
     'agm-li8' => 'db4free.net tillhandahåller enbart en MySQL-databas (inget webbutrymme att ladda upp din webbplats på)',
 
