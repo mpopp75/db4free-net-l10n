@@ -13,9 +13,7 @@ Bekräfta ändringen genom att klicka på följande länk:
 
 {$mailLink}
 
-
 Om du inte begärt ett nytt lösenord på db4free.net webbplats, vänligen ignorera detta mail!
-
 
 Vi hoppas du gillade att arbeta med din databas!
 

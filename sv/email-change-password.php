@@ -18,7 +18,6 @@ Bekräfta ändringen genom att klicka på följande länk:
 
 Om du inte begärt att få ändra ditt databaslösenord på db4free.net webbplats, vänligen ignorera detta mail!
 
-
 Vi hoppas att du tycker om att arbeta med din databas!
 
 db4free.net laget

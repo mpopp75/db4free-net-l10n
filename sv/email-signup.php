@@ -10,8 +10,6 @@ $translations = array(
 Efter att ha bekräftat länken nedan, har du tillgång till db4free.net\'s MySQL 5.6 databasserver. Värdnamnet för att få tillgång till servern är db4free.net och porten är 3306 (vilket är standardporten för MySQL). Du kan använda phpMyAdmin på vår hemsida för att logga in på servern.
 Vänligen använd följande länk för att avsluta registreringsprocessen inom de närmaste 14 dagarna. Genom att klicka på denna länk bekräftar du (igen) att du förstår att:
 
-
-
 * db4free.net är en testmiljö
 * db4free.net är inte lämplig för produktion
 * Om du väljer att använda din databas hos db4free.net i produktionen trots varningarna, gör du det på egen risk (väldigt frekventa backuper är att rekommendera)
@@ -31,7 +29,6 @@ Info:
 Kan du hjälpa översätta db4free.net hemsida? Vänligen gå till http://www.db4free.net/translate.php
 
 Om det inte var du som har registrerat en databas konto på db4free.net webbplats, vänligen ignorera detta mail!
-
 
 Vi hoppas att du tycker om att arbeta med din databas!
 
