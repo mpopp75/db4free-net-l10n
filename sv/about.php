@@ -13,6 +13,6 @@ $translations = array(
 
     'p2' => 'Syftet med vårt projekt är att tillgodose behoven hos utvecklare och testare för <b> aktuella versioner </b> av MySQL. Genom att uppdatera versioner av MySQL och phpMyAdmin ofta, har du till exempel möjlighet att testa din webbplats med en aktuell MySQL-version innan du gör den skarpa uppdateringen på ditt system.',
 
-    'h3' => '<a href="signup.php">Skapa din egna MySQL konto helt gratis &nbsp;&raquo;</a>',
+    'h3' => '<a href="signup.php">Skapa ditt eget MySQL konto helt gratis &nbsp;&raquo;</a>',
 );
 ?>
