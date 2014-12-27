@@ -43,7 +43,7 @@ $translations = array(
 
     'password-not-correct' => 'Lösenordet är inte korrekt.',
 
-    'confirmation-email' => 'YDu kommer att få ett mail för att bekräfta ändringarna.',
+    'confirmation-email' => 'Du kommer att få ett mail för att bekräfta ändringarna.',
 
     'error-write-data' => 'Ett fel har uppstått uppdatera dina uppgifter.',
 
