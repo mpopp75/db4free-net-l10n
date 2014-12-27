@@ -13,11 +13,11 @@ $translations = array(
 
     'p1a' => 'Efter uppdateringen av db4free.net hemsida och tjänster som gjordes 2014 finns det nu ett enkelt sätt för att översätta db4free.net webbplats till flera språk.',
 
-    'p1b' => 'All text som du kan se på denna sida ligger uppe på <a href="https://github.com/">GitHub</a>. Du kan skapa en "fork" på projektet, tillämpa dina översättningar och skicka oss en förfrågan "pull-request" så att dina översättningar kan integreras in på webbplatsen.',
+    'p1b' => 'All text som du kan se på denna sida ligger uppe på <a href="https://github.com/">GitHub</a>. Du kan skapa en "fork" på projektet, tillämpa dina översättningar och skicka oss en "pull-request" så att dina översättningar kan integreras på webbplatsen.',
 
     'h2' => 'Hur fungerar det?',
 
-    'p2a' => 'Först så måste du skapa ett konto på GitHub (om du inte redan har ett). Du kan skapa en "Fork" på projketet: ',
+    'p2a' => 'Först så måste du skapa ett konto på GitHub (om du inte redan har ett). Skapa sedan en "Fork" på projketet nedan: ',
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
@@ -31,18 +31,18 @@ $translations = array(
 
     'p2g' => 'Om det inte finns någon katalog för det språk som du vill översätta, gör en kopia av "en" katalogen och namnge den enligt <a href="http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 language codes</a>.',
 
-    'p2h' => 'Inuti filerna i denna katalog, ersätta de engelska texterna med texter i det nya språket. Var noga med att inte ändra ID. Till exempel replace:',
+    'p2h' => 'Ersätta de engelska texterna med texter i det nya språket. Var noga med att inte ändra ID framför texten. Exempel på översättning:',
 
-    'p2i' => '\'h1\' => \'Välkommen till db4free.net\',',
+    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
 
-    'p2j' => 'av',
+    'p2j' => 'till',
 
-    'p2k' => '\'h1\' => \'Bienvenido a db4free.net\',',
+    'p2k' => '\'h1\' => \'Välkommen till db4free.net\',',
 
-    'p2l' => 'Om en text är densamma på engelska och det språk du översätter till, kan du ta bort raden eller helt enkelt ta bort den.',
+    'p2l' => 'Om en text är densamma på engelska och det språk du översätter till så kan du ta bort raden eller helt enkelt låta bli att översätta den.',
 
-    'p2m' => 'När din översättningar är klar, publicera en "commit" och gör sedan en "push" för att skicka upp filerna till digg GitHub konto. Växla till din nya "branch" på GitHub och klicka på "New Pull Request". Skriv en kort beskrivning vad dina översättningar är, eventuella svårigheter du möter eller vad du kanske inte har kunnat avsluta etc. Skicka sedan iväg en "Pull Request"',
+    'p2m' => 'När din översättningar är klar, publicera en "commit" och gör sedan en "push" för att skicka upp filerna till ditt GitHub konto. Växla till din nya "branch" på GitHub och klicka på "New Pull Request". Skriv en kort beskrivning vad dina översättningar innehåller, eventuella svårigheter du möter eller vad du kanske inte har kunnat avsluta etc. Skicka sedan iväg en "Pull Request"',
 
-    'p2n' => 'Om du vill bidra men behöver ytterligare hjälp innan du kan komma igång, vänligen<a href="https://github.com/mpopp75/db4free-net-l10n/issues">Skapa ett ärende på GitHub</a>.',
+    'p2n' => 'Om du vill bidra men behöver ytterligare hjälp innan du kan komma igång, vänligen <a href="https://github.com/mpopp75/db4free-net-l10n/issues">skapa ett ärende på GitHub</a>.',
 );
 ?>
