@@ -45,7 +45,7 @@ $translations = array(
 
     'password' => 'Lösenord',
 
-    'login' => 'Login',
+    'login' => 'Logga in',
 
     'switch_language' => 'Byt Språk',
 );
