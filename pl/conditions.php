@@ -9,7 +9,7 @@ $translations = array(
 
     'p1' => 'Pod żadnym pozorem ekipa db4free.net nie jest odpowiedzialna w stosunku do nikogo za bezpośrednie, pośrednie, wyjątkowe, przypadkowe lub wynikowe szkody, włączając w to straty pieniężne czy materialne, wynikające z czasowej niedostępności tego serwisu, jego oprogramowania, usług czy dokumentacji nawet jeśli administrator bazy danych został pouczony o możliwości wystąpienia tego typu szkód.',
 
-    'p2' => 'We specifically disclaim any warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The software and host provided hereunder is on an "as is" basis, and we have no obligations to provide maintenance, support, updates, enhancements, or modifications or continued availability of services. We are entitled to discontinue this service without notification and delete the databases irrevocably.',
+    'p2' => 'W szczególności zrzekamy się dawania jakichkolwiek gwarancji, włączając w to ale jednocześnie nie ograniczając do, domniemanych gwarancji przydatności handlowej lub przydatności do określonego celu. Oprogramowanie i dostępny tutaj serwis dostarczany jest w stanie w jakim jest i nie mamy żadnego zapewniania prac konserwacyjnych, wsparcia, aktualizacji, ulepszeń czy zmian lub stałej dostępności usług. Mamy prawo do zaprzestania ciągłości tej usługi oraz nieodwracalnego usunięcia baz danych bez wcześniejszego uprzedzenia.',
 
     'p3' => 'Użytkownicy db4free.net nie mają prawa udostępniać swoich danych dostępowych a także szczegółów konfiguracji serwera osobom trzecim.',
 
