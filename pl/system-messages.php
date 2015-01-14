@@ -23,7 +23,7 @@ $translations = array(
 
     'success-account-delete' => 'Konto zostało usunięte.',
 
-    'error-account-delete' => 'Konto nie zostało usunięte..',
+    'error-account-delete' => 'Konto nie zostało usunięte.',
 
     'another-user-database' => 'Inny użytkownik utworzył już bazę danych z następującą nazwą: ',
 
