@@ -1,21 +1,21 @@
 <?php
 /*
 Section: email-delete-account
-Language: English
+Language: Polish
 */
 
 $translations = array(
-    'email' => 'We have received your request to delete your db4free.net account "{$user}".
+    'email' => 'Otrzymaliśmy Twoją prośbę o skasowanie Twojego konta db4free.net "{$user}".
 
-Please confirm the deletion by clicking the following link. Please be aware that all of your data in this database is irrevocably deleted!
+Prosimy o potwierdzenie usunięcia poprzez kliknięcie następującego odnośnika. Miej na uwadze, że wszystkie Twoje dane w wymienionej bazie zostaną bezpowrotnie utracone!
 
 {$mailLink}
 
-If it was not you who has requested the deletion of your account on the db4free.net website, please ignore this email!
+Jeśli to nie Ty prosiłeś o usunięcie swojego konta bazodanowego na stronie db4free.net, prosimy zignorować tę wiadomość!
 
-We hope you enjoyed working with your database!
+Mamy nadzieję, że praca z Twoją bazą danych przyniosła Tobie dużo satysfakcji!
 
-The db4free.net team
+Ekipa db4free.net
 http://www.db4free.net',
 );
 ?>

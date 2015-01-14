@@ -1,24 +1,24 @@
 <?php
 /*
 Section: delete-account
-Language: English
+Language: Polish
 */
 
 $translations = array(
-    'h1' => 'Delete Account',
+    'h1' => 'Skasuj konto',
 
-    'mysql-username' => 'MySQL username',
+    'mysql-username' => 'Nazwa użytkownika MySQL',
 
-    'mysql-user-password' => 'MySQL user password',
+    'mysql-user-password' => 'Hasło użytkownika MySQL',
 
-    'ph1' => 'Enter your username',
+    'ph1' => 'Wprowadź nazwę swojego użytkownika',
 
-    'ph2' => 'Enter your password',
+    'ph2' => 'Wprowadź swoje hasło',
 
-    'error1' => 'You will receive an email to confirm the deletion of your database account!',
+    'error1' => 'Otrzymasz wiadomość e-mail celem potwierdzenia usunięcia swojej bazy danych!',
 
-    'error2' => 'The user does not exist!',
+    'error2' => 'Użytkownik nie istnieje!',
 
-    'error3' => 'The password is not correct!',
+    'error3' => 'Hasło jest nieprawidłowe!',
 );
 ?>

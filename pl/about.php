@@ -1,18 +1,18 @@
 <?php
 /*
 Section: about
-Language: English
+Language: Polish
 */
 
 $translations = array(
-    'h1' => 'About the project db4free.net',
+    'h1' => 'O projekcie db4free.net',
 
-    'p1' => 'In this section you can create your database account, modify its data and delete it.',
+    'p1' => 'W tej części możesz założyć swoją bazę danych, zmieniać jej zawartość czy też usunąć ją.',
 
     'h2' => 'Co czyni nas „wyjątkowymi”?',
 
-    'p2' => 'The purpose of our project is that we intend to satisfy the needs of developers and testers for <b>current versions</b> of MySQL. By updating the versions of MySQL and phpMyAdmin frequently, you have for example the opportunity to test your web site with a current MySQL version.',
+    'p2' => 'Celem naszego projektu jest zapewnienie programistom oraz testerom dostępu do <b>najnowszych wersji</b> bazy danych MySQL. Poprzez częstą aktualizację wersji MySQL i phpMyAdmin, masz na przykład możliwość testowania swojej strony internetowej w połączeniu z najnowszą wersją bazy danych MySQL.',
 
-    'h3' => '<a href="signup.php">Get your own free MySQL database account&nbsp;&raquo;</a>',
+    'h3' => '<a href="signup.php">Załóż swoją własną, darmową bazę danych MySQL&nbsp;&raquo;</a>',
 );
 ?>

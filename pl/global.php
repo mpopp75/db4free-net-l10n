@@ -1,52 +1,52 @@
 <?php
 /*
 Section: global
-Language: English
+Language: Polish
 */
 
 $translations = array(
     'sitetitle1' => 'db4free.net',
 
-    'sitetitle2' => 'MySQL Database for free',
+    'sitetitle2' => 'Baza danych MySQL za darmo',
 
-    'topnav1' => 'Welcome',
+    'topnav1' => 'Witaj',
 
-    'topnav2' => 'Database',
+    'topnav2' => 'Baza danych',
 
     'topnav3' => 'Twitter',
 
-    'topnav4' => 'mpopp.net blog',
+    'topnav4' => 'Blog mpopp.net',
 
     'topnav5' => 'phpMyAdmin',
 
-    'sidebar_1_2' => 'Donations',
+    'sidebar_1_2' => 'Darowizna',
 
-    'sidebar_1_3' => 'Translations',
+    'sidebar_1_3' => 'Tłumaczenia',
 
-    'sidebar_1_4' => 'Changelog',
+    'sidebar_1_4' => 'Historia zmian',
 
-    'sidebar_1_5' => 'Imprint',
+    'sidebar_1_5' => 'Autor',
 
-    'sidebar_2_1' => 'About db4free.net',
+    'sidebar_2_1' => 'O db4free.net',
 
-    'sidebar_2_2' => 'Conditions of use',
+    'sidebar_2_2' => 'Warunki użytkowania',
 
-    'sidebar_2_3' => 'Signup',
+    'sidebar_2_3' => 'Rejestracja',
 
-    'sidebar_2_4' => 'Change Password',
+    'sidebar_2_4' => 'Zmień hasło',
 
-    'sidebar_2_5' => 'Delete account',
+    'sidebar_2_5' => 'Usuń konto',
 
-    'sidebar_2_6' => 'Forgot your password?',
+    'sidebar_2_6' => 'Zapomniałeś hasła?',
 
-    'pmalogin' => 'phpMyAdmin Login',
+    'pmalogin' => 'Logowanie do phpMyAdmin',
 
-    'username' => 'Username',
+    'username' => 'Nazwa użytkownika',
 
-    'password' => 'Password',
+    'password' => 'Hasło',
 
-    'login' => 'Login',
+    'login' => 'Zaloguj',
 
-    'switch_language' => 'Switch Language',
+    'switch_language' => 'Zmień język',
 );
 ?>

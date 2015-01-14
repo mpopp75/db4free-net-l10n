@@ -1,26 +1,26 @@
 <?php
 /*
 Section: imprint
-Language: English
+Language: Polish
 */
 
 $translations = array(
-    'h1' => 'Imprint',
+    'h1' => 'Autor',
 
-    'p1' => '&copy; 2005-%d by',
+    'p1' => '&copy; 2005-%d przez',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
-    'h2' => 'Associated projects',
+    'h2' => 'Powiązane projekty',
 
     'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
 
-    'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal für Mediendesigner (mit Farbumrechner uvm.)</a>',
+    'p4' => '<a href="http://www.zanat.net">zanat.net - Portal dla projektantów multimediów i grafiki komputerowej (kalkulator RGB - CMYK i wiele więcej!)</a>',
 
-    'h3' => 'Disclaimer',
+    'h3' => 'Zrzeczenie się',
 
-    'p5' => 'The author of this website reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.',
+    'p5' => 'Autor tej strony internetowej zastrzega sobie prawo do braku odpowiedzialności za tematyczność, poprawność, spójność czy też jakość przedstawianych informacji. Wszelkie żądania zadośćuczynienia za szkody spowodowane użytkowaniem przedstawionych tu informacji, włączając w to każdy rodzaj niekompletnej bądź nieprawdziwej informacji, nie będą miały żadnej podstawy prawnej.',
 
-    'p6' => 'The author of this website is not responsible for any contents linked or referred to from this site.',
+    'p6' => 'Autor tej storny nie jest odpowiedzialny za jakiekolwiek treści powiązane lub odnoszące się do treści zawartych na tej stronie.',
 );
 ?>

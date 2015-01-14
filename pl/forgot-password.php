@@ -1,20 +1,20 @@
 <?php
 /*
 Section: forgot-password
-Language: English
+Language: Polish
 */
 
 $translations = array(
-    'h1' => 'Forgot your password?',
+    'h1' => 'Zapomniałeś hasła?',
 
-    'username' => 'Username',
+    'username' => 'Nazwa użytkownika',
 
-    'request-new-password' => 'Request new password',
+    'request-new-password' => 'Poproś o nowe hasło',
 
-    'ph1' => 'Enter your username',
+    'ph1' => 'Wprowadź swoją nazwę użytkownika',
 
-    'error1' => 'The data you entered is not correct!',
+    'error1' => 'Wprowadzone dane są niepoprawne!',
 
-    'success' => 'You have received an email with your new password!',
+    'success' => 'Otrzymałeś wiadomość e-mail ze swoim nowym hasłem!',
 );
 ?>

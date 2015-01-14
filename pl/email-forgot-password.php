@@ -1,23 +1,23 @@
 <?php
 /*
 Section: email-forgot-password
-Language: English
+Language: Polish
 */
 
 $translations = array(
-    'email' => 'You have requested a new password for your account "{$user}"
+    'email' => 'Otrzymaliśmy Twoją prośbę o nowe hasło do Twojego konta "{$user}"
 
-Your new password is {$newData}
+Twoje nowe hasło to {$newData}
 
-Please confirm this change by clicking the following link:
+Prosimy o potwierdzenie tej zmiany poprzez kliknięcie następującego odnośnika:
 
 {$mailLink}
 
-If it was not you who has requested a new password on the db4free.net website, please ignore this email!
+Jeśli to nie Ty prosiłeś o utworzenie nowego hasła do swojego konta bazodanowego na stronie db4free.net, prosimy zignorować tę wiadomość!
 
-We hope you enjoy working with your database!
+Życzymy miłej pracy z Twoją bazą danych!
 
-The db4free.net team
+Ekipa db4free.net
 http://www.db4free.net',
 );
 ?>

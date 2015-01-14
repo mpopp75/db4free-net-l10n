@@ -1,10 +1,10 @@
 <?php
 /*
 Section: history
-Language: English
+Language: Polish
 */
 
 $translations = array(
-    'h1' => 'Changelog',
+    'h1' => 'Historia zmian',
 );
 ?>
