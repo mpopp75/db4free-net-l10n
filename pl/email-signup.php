@@ -13,7 +13,7 @@ Prosimy użyć odnośnika w dalszej części tej wiadomości w celu zakończenia
 
 * db4free.net jest środowiskiem testowym
 * db4free.net nie powinno być używane jako środowisko produktywne
-* jeśli mimo to postanowisz używać swojej bazy danych db4free.net produktywnie, to robisz to tylko na swoje ryzyko (robienie bardzo częstych kopii zapasowych jest wielce zalecane)
+* jeśli mimo to postanowisz używać swojej bazy danych db4free.net produktywnie, to robisz to tylko i wyłącznie na własne ryzyko (robienie bardzo częstych kopii zapasowych jest wielce zalecane)
 * utrata danych czy też niedostępność serwisu mogą wystąpić w każdym momencie (jakiekolwiek skargi z tym związane zostaną bardzo prawdopodobnie po prostu zignorowane)
 * ekipa db4free.net nie daje żadnego rodzaju gwarancji na usługi i nie jest odpowiedzialna za jakiekolwiek straty wynikłe z nieprawidłowego działania serwisu
 * ekipa db4free.net zastrzega sobie prawo do kasowania baz danych/kont w każdym momencie i bez uprzedzenia
