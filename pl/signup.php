@@ -35,7 +35,7 @@ $translations = array(
 
     'agm-li2' => 'db4free.net nie powinno być używane jako środowisko produktywne',
 
-    'agm-li3' => 'jeśli mimo to postanowisz używać swojej bazy danych db4free.net produktywnie, to robisz to tylko na swoje ryzyko (robienie bardzo częstych kopii zapasowych jest wielce zalecane)',
+    'agm-li3' => 'jeśli mimo to postanowisz używać swojej bazy danych db4free.net produktywnie, to robisz to tylko i wyłącznie na własne ryzyko (robienie bardzo częstych kopii zapasowych jest wielce zalecane)',
 
     'agm-li4' => 'utrata danych czy też niedostępność serwisu mogą wystąpić w każdym momencie (jakiekolwiek skargi z tym związane zostaną bardzo prawdopodobnie po prostu zignorowane)',
 
