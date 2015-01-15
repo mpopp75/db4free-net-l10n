@@ -49,7 +49,7 @@ $translations = array(
 
     'agm-p2' => 'Następnie:',
 
-    'agm-li9' => 'db4free.net jest serwisem przeznaczonym do testów a nie do hostingu. Bazy danych, które będą zawierać ponad 200 megabajtów danych, mogą zostać usunięte data w każdym momencie bez uprzedniego powiadomienia',
+    'agm-li9' => 'db4free.net jest serwisem przeznaczonym do testów a nie do hostingu. Bazy danych, które będą zawierać ponad 200 megabajtów danych, mogą zostać usunięte w dowolnym momencie bez uprzedniego powiadomienia',
 
     'agm-li10' => 'Prosimy o usuwanie danych, które nie są dłużej potrzebne lub wręcz <a href="/delete-account.php">kasowanie kont, które nie będą więcej używane</a>. Ułatwia to odzyskanie danych z kopii zapasowej, jeśli serwer wyzionie ducha.',
 

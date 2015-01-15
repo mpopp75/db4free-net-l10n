@@ -41,7 +41,7 @@ $translations = array(
 
     'pmalogin' => 'Logowanie do phpMyAdmin',
 
-    'username' => 'Nazwa użytkownika',
+    'username' => 'Użytkownik',
 
     'password' => 'Hasło',
 

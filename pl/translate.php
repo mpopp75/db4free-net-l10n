@@ -31,7 +31,7 @@ $translations = array(
 
     'p2g' => 'Jeśli nie widzisz katalogu dla języka, na jaki chcesz przetłumaczyć stronę, skopiuj katalog „en” i nazwij go zgodnie ze standardem <a href="http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1</a>.',
 
-    'p2h' => 'W tymże skopiowanym katalogu, zmień teksty angielskie na teksty nowego języka. Prosimy uważac być nie zmienić identyfikatorów tekstów. Przykładowa zmiana może wyglądać tak:',
+    'p2h' => 'W tymże skopiowanym katalogu, zmień teksty angielskie na teksty nowego języka. Prosimy uważać, aby nie zmieniać identyfikatorów tekstów. Przykładowa zmiana może wyglądać tak:',
 
     'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
 
@@ -39,9 +39,9 @@ $translations = array(
 
     'p2k' => '\'h1\' => \'Witamy w db4free.net\',',
 
-    'p2l' => 'Jeśli angielski pokrywa się przez przypadek z tekstem w Twoim języku, możesz po prostu usunąć linię z tekstem lub po prostu pozostawić ją bez zmian.',
+    'p2l' => 'Jeśli angielski pokrywa się przez przypadek z tekstem w Twoim języku, możesz usunąć linię z tekstem lub po prostu pozostawić ją bez zmian.',
 
-    'p2m' => 'Kiedy tłumaczenie jest skończone, zatwierdź zmiany (git commit) oraz wykonaj operację push do swojego repozytorium GitHuba. Przełącz się na nowoutworzoną gałąź w GitHubie i kliknij "New Pull Request". Wprowadź krótki tekst opisujący Twoje tłumaczenie, problemy, które napotkałeś lub które z tłumaczeń nie byłeś w stanie dokonać itd. itp. i wyślij Pull Request.',
+    'p2m' => 'Kiedy tłumaczenie jest skończone, zatwierdź zmiany (git commit) oraz wykonaj operację push do swojego repozytorium GitHuba. Przełącz się na nowoutworzoną gałąź w GitHubie i kliknij „New Pull Request”. Wprowadź krótki tekst opisujący Twoje tłumaczenie, problemy, które napotkałeś lub które z tłumaczeń nie byłeś w stanie dokonać itd. itp. i wyślij Pull Request.',
 
     'p2n' => 'Jeśli chciałbyś mieć wkład w tłumaczenie lecz potrzebujesz pomocy zanim zaczniesz, prosimy, <a href="https://github.com/mpopp75/db4free-net-l10n/issues">utwórz nową wiadomość na GitHubie</a>.',
 );
