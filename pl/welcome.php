@@ -17,7 +17,7 @@ $translations = array(
 
     'p2' => 'db4free.net to <b>serwis testowy</b>, co oznacza, że nie nadaje się i nie jest przeznaczony do celów produkcyjnych. System może być niedostępny przez nieokreślony czas, może dojść do utraty danych a także jego standardy bezpieczeństwa najpewniej nie odpowiadają Twoim wymaganiom, których oczekujesz od projesjonalnego dostawcy internetowego. Jeśli potrzebujesz bazy danych do celów produktywnych, prosimy, nie używaj db4free.net!',
 
-    'h3' => 'Czy masz czas i chęci prztłumaczyć db4free.net na język, który dobrze znasz?',
+    'h3' => 'Czy masz czas i chęci przetłumaczyć db4free.net na język, który dobrze znasz?',
 
     'p3' => 'Czy mówisz biegle w języku, który nie jest dostępny na tej stronie? Możesz nam pomóc w tłumaczeniu db4free.net. <a href="/translate.php">Dowiedz się jak!</a>',
 
