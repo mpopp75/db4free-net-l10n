@@ -1,7 +1,7 @@
 <?php
 /*
 Section: imprint
-Language: English
+Language: Portuguese (Brazilian)
 */
 
 $translations = array(

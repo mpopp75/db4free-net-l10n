@@ -1,7 +1,7 @@
 <?php
 /*
 Section: translate
-Language: English
+Language: Portuguese (Brazilian)
 */
 
 $translations = array(

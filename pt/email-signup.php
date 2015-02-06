@@ -1,7 +1,7 @@
 <?php
 /*
 Section: email-signup
-Language: English
+Language: Portuguese (Brazilian)
 */
 
 $translations = array(

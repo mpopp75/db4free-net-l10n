@@ -1,7 +1,7 @@
 <?php
 /*
 Section: change-password
-Language: English
+Language: Portuguese (Brazilian)
 */
 
 $translations = array(

@@ -1,7 +1,7 @@
 <?php
 /*
 Section: delete-account
-Language: English
+Language: Portuguese (Brazilian)
 */
 
 $translations = array(

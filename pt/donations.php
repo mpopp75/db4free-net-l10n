@@ -1,7 +1,7 @@
 <?php
 /*
 Section: donations
-Language: English
+Language: Portuguese (Brazilian)
 */
 
 $translations = array(

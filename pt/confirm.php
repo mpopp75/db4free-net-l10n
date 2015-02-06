@@ -1,7 +1,7 @@
 <?php
 /*
 Section: confirm
-Language: English
+Language: Portuguese (Brazilian)
 */
 
 $translations = array(

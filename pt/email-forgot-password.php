@@ -1,7 +1,7 @@
 <?php
 /*
 Section: email-forgot-password
-Language: English
+Language: Portuguese (Brazilian)
 */
 
 $translations = array(
