@@ -5,22 +5,22 @@ Language: English
 */
 
 $translations = array(
-    'email' => 'We have received your request to change your password.
+    'email' => 'لقد تلقينا طلب لتغيير كلمة المرور الخاصة بك.
 
-The new data is as follows:
+البيانات الجديدة على النحو التالي:
 
-Database user: {$user}
-Password: {$newData}
+متخدم قاعدة البيانات: {$user}
+كلمة المرور: {$newData}
 
-Please confirm this change by clicking the following link:
+للتاكيد رجاء اضغط على الرابط التالى:
 
 {$mailLink}
 
-If it was not you who has requested to change your database account password on the db4free.net website, please ignore this email!
+اذا لم يكن لك الذي طلب لتغيير كلمة مرور حساب قاعدة البيانات الخاصة بك على موقع db4free.net، يرجى تجاهل هذا البريد الإلكتروني!
 
-We hope you enjoy working with your database!
+نتمنى ان نكون عند حسن الظن وانتم تستفيدون من خدماتنا!
 
-The db4free.net team
+ db4free.net فريق
 http://www.db4free.net',
 );
 ?>
