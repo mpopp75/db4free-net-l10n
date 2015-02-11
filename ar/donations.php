@@ -5,12 +5,12 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Donations',
+    'h1' => 'منحة',
 
-    'p1' => 'Making a donation you can help us to invest in better hardware and provide an even better service.',
+    'p1' => 'يممكن مساعدتنا بالتبرع لتقديم خدمة افضل',
 
-    'amount' => 'Amount',
+    'amount' => 'القية',
 
-    'currency' => 'Currency',
+    'currency' => 'العملة',
 );
 ?>
