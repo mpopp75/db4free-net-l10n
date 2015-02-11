@@ -7,7 +7,7 @@ Language: English
 $translations = array(
     'h1' => 'حذف الحساب',
 
-    'mysql-username' => 'مستخدم قاعدة البيات',
+    'mysql-username' => 'قاعدة البيانات',
 
     'mysql-user-password' => 'كلمة المرور',
 
