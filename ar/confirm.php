@@ -5,6 +5,6 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Confirmation',
+    'h1' => 'تاكيد',
 );
 ?>
