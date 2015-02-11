@@ -5,20 +5,20 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Delete Account',
+    'h1' => 'حذف الحساب',
 
-    'mysql-username' => 'MySQL username',
+    'mysql-username' => 'مستخدم قاعدة البيات',
 
-    'mysql-user-password' => 'MySQL user password',
+    'mysql-user-password' => 'كلمة المرور',
 
-    'ph1' => 'Enter your username',
+    'ph1' => 'ادخل الاسم',
 
-    'ph2' => 'Enter your password',
+    'ph2' => 'ادخل كلمة المرور',
 
-    'error1' => 'You will receive an email to confirm the deletion of your database account!',
+    'error1' => 'سوف تتلقى رسالة بريد إلكتروني لتأكيد الحذف من حساب قاعدة البيانات الخاصة بك!',
 
-    'error2' => 'The user does not exist!',
+    'error2' => 'اسم المستخدم غير موجود!',
 
-    'error3' => 'The password is not correct!',
+    'error3' => 'كلمة المرور غير صحيحة!',
 );
 ?>
