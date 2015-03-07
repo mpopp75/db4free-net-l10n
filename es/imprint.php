@@ -8,7 +8,7 @@ Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 $translations = array(
     'h1' => 'Publicación',
 
-    'p1' => '&copy; 2005-2014 por',
+    'p1' => '&copy; 2005-%d por',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 

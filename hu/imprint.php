@@ -8,7 +8,7 @@ Translator: uno20001 <regisztralo111@gmail.com>
 $translations = array(
     'h1' => 'Impresszum',
 
-    'p1' => '&copy; 2005-2014',
+    'p1' => '&copy; 2005-%d',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 

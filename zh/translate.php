@@ -8,7 +8,7 @@ Translator: Luo Haojing
 $translations = array(
     'h1' => '翻译',
 
-    'p1a' => '我们在2014年对 db4free.net 网站及数据库服务进行了更新，闲杂有了更简单的方法让您协助将 db4free.net 网站翻译为更多语言！',
+    'p1a' => '我们在2014年对 db4free.net 网站及数据库服务进行了更新，现在有了更简单的方法让您协助将 db4free.net 网站翻译为更多语言！',
 
     'p1b' => '网站内的所有文字都在 <a href="https://github.com/">GitHub</a>。 您可以从上面fork一份到自己的repository，完成您的翻译并送出 pull request 以供网站整合您的翻译。',
 
