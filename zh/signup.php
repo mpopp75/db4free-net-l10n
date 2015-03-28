@@ -44,13 +44,13 @@ $translations = array(
 
     'agm-li6' => 'the db4free.net 团队保留删除数据库及账号的权利，而不另行通知。',
 
-    'agm-li7' => '您可以从我们的 <a href="/twitter.php">Twitter</a> Twitter，或 <a href="/blog.php">db4free.net 博客</a>获取最新资讯',
+    'agm-li7' => '您可以从我们的 <a href="/twitter.php">Twitter</a>，或 <a href="/blog.php">db4free.net 博客</a>获取最新资讯',
 
     'agm-li8' => 'db4free.net 只提供使用 MySQL 数据库，不提供网络存储空间。（没有文件上传机制）',
 
     'agm-p2' => '此外：',
 
-    'agm-li9' => 'db4free.net 所提供的服务仅供测试，不提供运行正式网站。我们讲不定时清空超过200MB的资料库，而不另行通知。',
+    'agm-li9' => 'db4free.net 所提供的服务仅供测试，不提供运行正式网站。我们将不定时清空超过200MB的资料库，而不另行通知。',
 
     'agm-li10' => '请删除不需要的数据，若您已不需要使用本服务， <a href="/delete-account.php">请删除您的账号</a>。 这将有利于服务器在宕机时更快的恢复状态。',
 
