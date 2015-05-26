@@ -32,21 +32,21 @@ $translations = array(
 
     'agm-p1' => 'Registrací na db4free.net účtu souhlasíte s tím, že:',
 
-    'agm-li1' => 'db4free.net je testovací prostředí',
+    'agm-li1' => 'Db4free.net je testovací prostředí',
 
-    'agm-li2' => 'db4free.net není vhodný pro bussiness',
+    'agm-li2' => 'Db4free.net není vhodné pro bussiness a komerční účely',
 
     'agm-li3' => 'Pokud se rozhodnete používat db4free.net databázi ve firme(jako hlavní databázi) i přes varování, děláte to na vlastní riziko (proto doporučujeme provádět časté zálohy)',
 
     'agm-li4' => 'Ztráta dat a výpadky se mohou stát kdykoli (veškeré stížnosti budou ignorovány)',
 
-    'agm-li5' => 'db4free.net tým neposkytuje žádnou záruku ani odpovědnost žádného druhu',
+    'agm-li5' => 'Db4free.net tým neposkytuje žádnou záruku ani odpovědnost žádného druhu',
 
-    'agm-li6' => 'db4free.net tým si vyhrazuje právo smazat databází a nebo účty kdykoliv bez předchozího upozornění',
+    'agm-li6' => 'Db4free.net tým si vyhrazuje právo smazat databází a nebo účty kdykoliv bez předchozího upozornění',
 
-    'agm-li7' => 'Je na vás, abyste si se dozvěděli o nejnovějších informacích z <a href="/twitter.php">Twitteru</a> a <a href="/blog.php">db4free.net blogu</a>',
+    'agm-li7' => 'Je na Vás, abyste jste se dozvěděli o novinkách na <a href="/twitter.php">Twitteru</a> a <a href="/blog.php">db4free.net blogu</a>',
 
-    'agm-li8' => 'db4free.net poskytuje pouze databáze MySQL!',
+    'agm-li8' => 'Db4free.net poskytuje pouze databáze MySQL!',
 
     'agm-p2' => 'Další:',
 

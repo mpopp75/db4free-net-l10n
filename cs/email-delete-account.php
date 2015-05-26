@@ -6,9 +6,9 @@ Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
 $translations = array(
-    'email' => 'Obdrželi jsme vaši žádost ohledně smazání db4free.net účtu
+    'email' => 'Obdrželi jsme Vaši žádost ohledně smazání db4free.net účtu
 
-Prosím potvrďte odstranění klepnutím na následující odkaz. Mějte prosím na paměti, že všechny vaše data v této databázi budou nenávratně smazány!
+Prosím potvrďte odstranění kliknutím na následující odkaz. Mějte prosím na paměti, že všechny Vaše data v této databázi budou nenávratně smazány!
 
 {$mailLink}
 

@@ -18,7 +18,7 @@ $translations = array(
 
     'ph1' => 'Zadejte přihlašovací jméno',
 
-    'ph2' => 'Zadejte vašeo dosavadní heslo',
+    'ph2' => 'Zadejte vaše dosavadní heslo',
 
     'ph3' => 'Zadejte nové heslo',
 

@@ -17,7 +17,7 @@ Potvrďte prosím tuto změnu kliknutím na následující odkaz:
 
 {$mailLink}
 
-Pokud jste to nebyly vy, kdo požádal o změnu databázového účtu heslo k vašemu na webových stránkách db4free.net, ignorujte prosím tento e-mail!
+Pokud jste to nebyly vy, kdo požádal o změnu databázového účtu heslo k Vašemu na webových stránkách db4free.net, ignorujte prosím tento e-mail!
 
 S přáním pěkného dne
 

@@ -6,24 +6,24 @@ Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
 $translations = array(
-    'email' => 'Děkujeme {$user} za registraci databázového účtu s db4free.net.
+    'email' => 'Děkujeme {$user} za registraci databázového účtu na db4free.net.
 
 Po potvrzení kliknetě na níže uvedený odkaz, tak budete mít přístup k MySQL 5.6 databázového serveru. Název hostitele pro přístup k serveru je db4free.net a port je 3306 (což je výchozí port pro MySQL). Můžete použít phpMyAdmin na našich webových stránkách pro přihlášení k serveru.
 
 Využíjte následující odkaz pro dokončení registračního proces během následujících 14 dnů. Po kliknutí na tento odkaz potvrzujete, že jste byly srozuměni s těmito zásadami:
 
-* db4free.net je testovací prostředí
-* db4free.net není vhodný pro bussines
+* Db4free.net je testovací prostředí
+* Db4free.net není vhodný pro bussines a komerční účely
 * Pokud se rozhodnete používat db4free.net databázi jako hlavní(firemní účely) i přes varování, děláte to na vlastní riziko (doporučujeme provádět časté zálohy)
 * Ztráta dat a výpadky se může stát kdykoli (veškeré stížnosti, které se pravděpodobně budou ignorovány)
-* db4free.net tým neposkytuje žádnou záruku ani odpovědnost žádného druhu
-* db4free.net tým si vyhrazuje právo smazat databází a / nebo účty kdykoliv bez předchozího upozornění
+* Db4free.net tým neposkytuje žádnou záruku ani odpovědnost žádného druhu
+* Db4free.net tým si vyhrazuje právo smazat databází a / nebo účty kdykoliv bez předchozího upozornění
 * je na vás, abyste dostávaly nejnovější informace z Twitteru (https://twitter.com/db4free_net) a db4free.net blog (http://www.mpopp.net/category/db4free/)
 * db4free.net poskytuje pouze databázi MySQL!
 
 Další:
 
-* db4free.net je služba pro testování, nikoli pro hosting. Databáze, které uchovávají více než 200 MB dat bude vymazán v nepravidelných intervalech bez předchozího oznámení
+* Db4free.net je služba pro testování, nikoli pro hosting. Databáze, které uchovávají více než 200 MB dat bude vymazány v nepravidelných intervalech bez předchozího oznámení
 * Prosím, odstraňte data, která jsou již nepotřebná, nebo pokud účet nadále nebude aktivní můžete jej smazat (http://www.db4free.net/delete-account.php).
 
 {$mailLink}
