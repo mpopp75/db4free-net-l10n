@@ -8,7 +8,7 @@ Translator: SierraHawk <sierrahawk@outlook.com>
 $translations = array(
     'h1' => 'Tiráž',
 
-    'p1' => '&copy; 2005-2015',
+    'p1' => '&copy; 2005-%d by',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
