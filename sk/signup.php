@@ -52,7 +52,7 @@ $translations = array(
 
     'agm-li9' => 'Db4free.net je služba pre testovanie, nie pre hosting. Databázy, ktoré uchovávajú viac ako 200 MB dát bude vymazané v nepravidelných intervaloch bez predchádzajúceho oznámenia',
 
-    'agm-li10' => 'Prosím, odstráňte dáta, ktoré sú už nepotrebné, alebo <a href="/delete-account.php">smazejte účet v prípade neaktivity.</a>.',
+    'agm-li10' => 'Prosím, odstráňte dáta, ktoré sú už nepotrebné, alebo <a href="/delete-account.php">smazejte účet v prípade neaktivity</a>.',
 
     'signup-error1' => 'Musíte súhlasiť s podmienkami použitia!',
 
