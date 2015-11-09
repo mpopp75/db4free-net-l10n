@@ -8,7 +8,7 @@ Translator: Trey Lin
 $translations = array(
     'email' => '感謝你在db4free.net註冊了資料庫帳號 {$user}.
 
-當你點擊下面的帳號確認連結後，你將擁有存取db4free.net\'s MySQL 5.6 資料庫伺服器的權限。 存取的網域名稱為：db4free.net 以及 port為：3306 (即是MySQL的預設port)。 你也可以利用網站介面phpMyAdmin來連接資料庫伺服器。
+當你點擊下面的帳號確認連結後，你將擁有存取db4free.net\'s MySQL 5.7 資料庫伺服器的權限。 存取的網域名稱為：db4free.net 以及 port為：3306 (即是MySQL的預設port)。 你也可以利用網站介面phpMyAdmin來連接資料庫伺服器。
 
 請點擊以下的連結來完成註冊程序，連結有效時間為14天。<br>點下連結代表你同意並了解下列條款：
 

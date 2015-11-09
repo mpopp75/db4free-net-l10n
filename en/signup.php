@@ -25,7 +25,7 @@ $translations = array(
 
     'ph3' => 'Enter your email address',
 
-    'explanation' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">reserved words</a>!',
+    'explanation' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="http://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">reserved words</a>!',
 
     'maintenance-notice' => 'Due to database maintenance, no registrations are currently possible.',
 

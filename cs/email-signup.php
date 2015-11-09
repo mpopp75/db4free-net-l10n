@@ -8,7 +8,7 @@ Translator: SierraHawk <sierrahawk@outlook.com>
 $translations = array(
     'email' => 'Děkujeme {$user} za registraci databázového účtu na db4free.net.
 
-Po potvrzení kliknetě na níže uvedený odkaz, tak budete mít přístup k MySQL 5.6 databázového serveru. Název hostitele pro přístup k serveru je db4free.net a port je 3306 (což je výchozí port pro MySQL). Můžete použít phpMyAdmin na našich webových stránkách pro přihlášení k serveru.
+Po potvrzení kliknetě na níže uvedený odkaz, tak budete mít přístup k MySQL 5.7 databázového serveru. Název hostitele pro přístup k serveru je db4free.net a port je 3306 (což je výchozí port pro MySQL). Můžete použít phpMyAdmin na našich webových stránkách pro přihlášení k serveru.
 
 Využíjte následující odkaz pro dokončení registračního proces během následujících 14 dnů. Po kliknutí na tento odkaz potvrzujete, že jste byly srozuměni s těmito zásadami:
 

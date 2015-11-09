@@ -25,7 +25,7 @@ $translations = array(
 
     'p4a' => '<a href="http://www.mpopp.net/category/db4free/">Секція про db4free.net</a> у <a href="http://www.mpopp.net/">блозі mpopp.net</a> дозволяє дізнатися новини db4free.net. Будь ласка підпишіться на <a href="http://www.mpopp.net/category/db4free/feed/">RSS ленту</a>, щоб не прогавити ні однієї новини. db4free.net також є в <a href="/twitter.php">Twitter</a>, іншому гарному ресурсі, що розповідає, що відбувається в світі db4free.net.',
 
-    'p4b' => 'Кращі ресурси для вивчення MySQL це <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Reference Manual</a> і <a href="http://planet.mysql.com/">PlanetMySQL</a>. Сайт MySQL містить перелік статей <a href="http://dev.mysql.com/tech-resources/articles/">Статті розробників</a> , багато з яких пояснюють роботу нових функцій, що були або будуть запроваджені у новій версії.',
+    'p4b' => 'Кращі ресурси для вивчення MySQL це <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">MySQL Reference Manual</a> і <a href="http://planet.mysql.com/">PlanetMySQL</a>. Сайт MySQL містить перелік статей <a href="http://dev.mysql.com/tech-resources/articles/">Статті розробників</a> , багато з яких пояснюють роботу нових функцій, що були або будуть запроваджені у новій версії.',
 
     'p4c' => 'Якщо ви знашли помилку в роботі MySQL серверу, повідомте про неї у <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );

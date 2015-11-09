@@ -7,7 +7,7 @@ Language: French Français
 $translations = array(
     'email' => 'Merci d\'avoir créé votre compte de base de données {$user} sur db4free.net.
 
-Après avoir confirmé en cliquant sur le lien suivant, vous avez accès au serveur MySQL 5.6 de db4free.net. Le nom d\'hôte pour accéder au serveur est db4free.net et le port est 3306 (qui est le port par défaut de MySQL). Vous pouvez utiliser phpMyAdmin sur notre site pour vous connecter au serveur.
+Après avoir confirmé en cliquant sur le lien suivant, vous avez accès au serveur MySQL 5.7 de db4free.net. Le nom d\'hôte pour accéder au serveur est db4free.net et le port est 3306 (qui est le port par défaut de MySQL). Vous pouvez utiliser phpMyAdmin sur notre site pour vous connecter au serveur.
 
 Please use the following link to finish the registration process within the next 14 days. By clicking this link you confirm (again) that you understand that:
 Merci d\'utiliser le lien suivant pour terminer votre inscription sous 14 jours. En cliquant sur ce lien, vous confirmez (à nouveau) comprendre que :

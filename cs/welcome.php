@@ -26,7 +26,7 @@ $translations = array(
 
     'p4a' => 'Zde je <a href="http://www.mpopp.net/category/db4free/">db4free.net odkaz</a> na <a href="http://www.mpopp.net/">mpopp.net blog</a>, který Vám přináší novinky o db4free.net. Prosím, přihlaste se do <a href="http://www.mpopp.net/category/db4free/feed/">RSS</a> a nenechte si ujít žádnou novinku. db4free.net je také na <a href="/twitter.php">Twitteru</a>.',
 
-    'p4b' => 'Nejlepšími zdroji, které Vás budou informovat ohledně MySQL jsou <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL reference Manual</a> a <a href="http://planet.mysql.com/">PlanetMySQL</a>. Na webových stránkách MySQL nabízí řadu <a href="http://dev.mysql.com/tech-resources/articles/">Developer článků</a> z nichž mnohé vysvětlují, nové funkce, které jsou zavedeny v nadcházejících verzích.',
+    'p4b' => 'Nejlepšími zdroji, které Vás budou informovat ohledně MySQL jsou <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">MySQL reference Manual</a> a <a href="http://planet.mysql.com/">PlanetMySQL</a>. Na webových stránkách MySQL nabízí řadu <a href="http://dev.mysql.com/tech-resources/articles/">Developer článků</a> z nichž mnohé vysvětlují, nové funkce, které jsou zavedeny v nadcházejících verzích.',
 
     'p4c' => 'Pokud najdete chybu v MySQL serveru, oznamte to prosím na <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );

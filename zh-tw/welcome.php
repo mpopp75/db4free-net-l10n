@@ -26,7 +26,7 @@ $translations = array(
 
     'p4a' => '<a href="http://www.mpopp.net/">mpopp.net blog</a>是<a href="http://www.mpopp.net/category/db4free/">db4free.net 專欄</a>，提供你關於db4free.net的最新資訊。 避免錯過任何消息，請訂閱 <a href="http://www.mpopp.net/category/db4free/feed/">RSS Feed</a>。 在 <a href="/twitter.php">Twitter</a> 上也有db4free.net的專區，便於讓你得知db4free.net 世界發生了什麼大事。',
 
-    'p4b' => '以下網站是你學習MySQL的最佳線上資源，<a href="http://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Reference Manual</a> 和 <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL官方網站也提供大量的 <a href="http://dev.mysql.com/tech-resources/articles/">開發者文章</a> 其中許多文章詳細介紹了下個版本新增的許多功能。',
+    'p4b' => '以下網站是你學習MySQL的最佳線上資源，<a href="http://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">MySQL Reference Manual</a> 和 <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL官方網站也提供大量的 <a href="http://dev.mysql.com/tech-resources/articles/">開發者文章</a> 其中許多文章詳細介紹了下個版本新增的許多功能。',
 
     'p4c' => '如果你發現 MySQL 伺服器的任何錯誤，請至 <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a> 回報錯誤。',
 );

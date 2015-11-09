@@ -25,7 +25,7 @@ $translations = array(
 
     'p4a' => 'Du kan läsa alla nyheter gällande db4free.net på <a href="http://www.mpopp.net/category/db4free/">db4free.net sektionen</a> på <a href="http://www.mpopp.net/">mpopp.net blogg</a> här hittar du alltid de senaste uppdatteringarna gällande db4free.net. Du kan öven prenumerera på <a href="http://www.mpopp.net/category/db4free/feed/">RSS Flödet</a> för att se till att du inte missar några nyheter. db4free.net finns också på <a href="/twitter.php">Twitter</a> så att du aldrig missar vad som händer på db4free.net',
 
-    'p4b' => 'De bästa resurserna för att lära sig mer om MySQL är <a href="http://dev.mysql.com/">MySQL Avdelning för utvecklare</a>, <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Reference Manual</a> och <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL hemsida erbjuder ett antal <a href="http://dev.mysql.com/tech-resources/articles/">Artiklar för utvecklare</a> varav många beskriver och förklarar nya funktioner som introduceras i kommande versioner i minsta lilla detalj.',
+    'p4b' => 'De bästa resurserna för att lära sig mer om MySQL är <a href="http://dev.mysql.com/">MySQL Avdelning för utvecklare</a>, <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">MySQL Reference Manual</a> och <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL hemsida erbjuder ett antal <a href="http://dev.mysql.com/tech-resources/articles/">Artiklar för utvecklare</a> varav många beskriver och förklarar nya funktioner som introduceras i kommande versioner i minsta lilla detalj.',
 
     'p4c' => 'Om du hittar en bugg i MySQL Server, vänligen rapportera det i <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );

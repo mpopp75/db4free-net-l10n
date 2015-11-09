@@ -25,7 +25,7 @@ $translations = array(
 
     'p4a' => '<a href="http://www.mpopp.net/category/db4free/">db4free.net sekmesi</a> <a href="http://www.mpopp.net/">mpopp.net blog</a> unda site hakkında bir çok haberi içerir. Lütfen <a href="http://www.mpopp.net/category/db4free/feed/">RSS Besleme</a> kanalına abone olarak son gelişmelerden haberdar kalın. db4free.net ayrıca <a href="/twitter.php">Twitter</a> da, db4free.net dünyasında en son gelişmeleri takip etme imkanı sunar.',
 
-    'p4b' => 'MySQL öğrenmek için en iyi kaynaklar <a href="http://dev.mysql.com/">MySQL Geliştirici Bölgesi</a>, <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Kullanım Kılavuzu</a> ve <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL websitesi bir çok <a href="http://dev.mysql.com/tech-resources/articles/">Geliştirici Makaleleri</a> sunar bu makaleler yayınlanan son versiyonlar hakkında daha detaylı bilgiler içerir.',
+    'p4b' => 'MySQL öğrenmek için en iyi kaynaklar <a href="http://dev.mysql.com/">MySQL Geliştirici Bölgesi</a>, <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">MySQL Kullanım Kılavuzu</a> ve <a href="http://planet.mysql.com/">PlanetMySQL</a>. MySQL websitesi bir çok <a href="http://dev.mysql.com/tech-resources/articles/">Geliştirici Makaleleri</a> sunar bu makaleler yayınlanan son versiyonlar hakkında daha detaylı bilgiler içerir.',
 
     'p4c' => 'Eğer MySQL Serverda bir açık bulduysanız, lütfen <a href="http://bugs.mysql.com/">MySQL Hata İzleme Sistemi</a> nden bildiriniz.',
 );

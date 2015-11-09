@@ -7,7 +7,7 @@ Language: Turkish, Türkçe
 $translations = array(
     'email' => 'Thank you for registering your database account {$user} with db4free.net.
 
-Aşağıdaki linki onayladıktan sonra, db4free.net\'in MySQL 5.6 veritabanı sunucularına erişiminiz olacaktır. Sunucuya ulaşmak için host adı: db4free.net ve port: 3306 (MySQL için varsayılan değer) olacaktır. Websitemizdeki phpMyAdmin panelini kullanarak sunucuya giriş yapabilirsiniz.
+Aşağıdaki linki onayladıktan sonra, db4free.net\'in MySQL 5.7 veritabanı sunucularına erişiminiz olacaktır. Sunucuya ulaşmak için host adı: db4free.net ve port: 3306 (MySQL için varsayılan değer) olacaktır. Websitemizdeki phpMyAdmin panelini kullanarak sunucuya giriş yapabilirsiniz.
 
 Lütfen 14 gün içerisinde aşağıdaki linki kullanarak kayıt işlemini tamamlayınız. Linke tıklayarak aşağıdaki şartları tekrar onaylamış sayılacaksınız:
 

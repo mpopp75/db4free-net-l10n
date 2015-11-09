@@ -26,7 +26,7 @@ $translations = array(
 
     'ph3' => 'Zadejte svou e-mailovou adresu',
 
-    'explanation' => 'Uživatelské databáze a název databáze musí obsahovat malá písmena, číslice a podtržítko a musí být déleku mezi 4 a 16 znaky. Nesmíte používat <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">vyhrazená slova</a>!',
+    'explanation' => 'Uživatelské databáze a název databáze musí obsahovat malá písmena, číslice a podtržítko a musí být déleku mezi 4 a 16 znaky. Nesmíte používat <a href="http://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">vyhrazená slova</a>!',
 
     'maintenance-notice' => 'Z důvodu údržby databáze, nyní nemůžete registrovat svou databázi',
 
