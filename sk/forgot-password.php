@@ -16,6 +16,6 @@ $translations = array(
 
     'error1' => 'Dáta, ktoré ste zadali, sú nesprávne!',
 
-    'success' => 'Do minutky obdržíte email s novým heslem!',
+    'success' => 'Do minútky obdržíte email s novým heslom!',
 );
 ?>
