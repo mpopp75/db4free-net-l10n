@@ -20,8 +20,8 @@ $translations = array(
 
     'h3' => 'Vymedzenie práv',
 
-    'p5' => 'Autor tejto webovej stránky si vyhradzuje právo nebyť zodpovedný za aktuálnosť, správnosť, úplnosť alebo kvalitu poskytovaných informácií. Nároky na ručenie týkajúce sa škody spôsobené použitím akýchkoľvek poskytnutých informácií vrátane akékoľvek informácie, ktoré sú neúplné alebo nesprávne, nebude akceptovaná.',
+    'p5' => 'Autor tejto webovej stránky si vyhradzuje právo nebyť zodpovedný za aktuálnosť, správnosť, úplnosť alebo kvalitu poskytovaných informácií. Nároky na ručenie, týkajúce sa škody spôsobenej použitím akýchkoľvek poskytnutých informácií vrátane akýchkoľvek informácií, ktoré sú neúplné alebo nesprávne, nebudú akceptované.',
 
-    'p6' => 'Autor tohto webu nezodpovedá za obsah odkazovaných z týchto stránok.',
+    'p6' => 'Autor tohto webu nezodpovedá za obsah odkazovaný z týchto stránok.',
 );
 ?>
