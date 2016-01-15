@@ -7,12 +7,6 @@ Language: English
 $translations = array(
     'h1' => 'Welcome to db4free.net',
 
-    'upgrade1' => 'db4free.net now offers MySQL 5.7!',
-
-    'upgrade2' => '<a href="http://mysqlserverteam.com/whats-new-in-mysql-5-7-generally-available/">Learn what\'s new in MySQL 5.7&nbsp;&raquo;</a>',
-
-    'upgrade3' => '<a href="http://www.mpopp.net/2015/11/db4free-net-offering-mysql-5-7/">Learn about db4free.net\'s upgrade&nbsp;&raquo;</a>',
-
     'p1a' => 'db4free.net provides a testing service for the latest - sometimes even development - version of the <a href="http://www.mysql.com/">MySQL Server</a>. You can easily <a href="/signup.php">create an account for free</a> and test your applications, for example to make sure that they still work after a MySQL version update. db4free.net is also a good resource for education and to make yourself familiar with new features that were introduced in new versions.',
 
     'p1b' => 'db4free.net aims to always provide either the latest production release or the latest development release. db4free.net\'s MySQL server will be updated very soon after a new version is released, usually on the same day or very soon after.',
