@@ -14,9 +14,9 @@ Por favor, confirme este cambio haciendo clic en el siguiente enlace:
 
 {$mailLink}
 
-Si no fue usted quien ha solicitado una nueva contraseña en el sitio web de db4free.net, por favor ignora este correo electrónico!
+Si no fue usted quien ha solicitado una nueva contraseña en el sitio web de db4free.net, ¡por favor ignore este correo electrónico!
 
-Esperamos que disfrute trabajar con su base de datos!
+¡Esperamos que disfrute trabajar con su base de datos!
 
 El equipo de db4free.net
 http://www.db4free.net',

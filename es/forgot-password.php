@@ -14,8 +14,8 @@ $translations = array(
 
     'ph1' => 'Introduzca su nombre de usuario',
 
-    'error1' => 'La información que ha introducido no es correcta!',
+    'error1' => '¡La información que ha introducido no es correcta!',
 
-    'success' => 'Usted ha recibido un correo electrónico con su nueva contraseña!',
+    'success' => '¡Usted ha recibido un correo electrónico con su nueva contraseña!',
 );
 ?>
