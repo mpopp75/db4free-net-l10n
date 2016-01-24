@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch translation_TR
+# Changes to be committed:
+#	modified:   tr/about.php
+#	modified:   tr/blog.php
+#	modified:   tr/change-password.php
+#	modified:   tr/conditions.php
+#	modified:   tr/delete-account.php
+#	modified:   tr/donations.php
+#	modified:   tr/email-change-password.php
+#	modified:   tr/email-delete-account.php
+#	modified:   tr/email-forgot-password.php
+#	modified:   tr/email-signup.php
+#	modified:   tr/forgot-password.php
+#	modified:   tr/global.php
+#	modified:   tr/imprint.php
+#	modified:   tr/signup.php
+#
+
