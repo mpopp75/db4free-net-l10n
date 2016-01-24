@@ -7,7 +7,7 @@ Language: Turkish, Türkçe
 $translations = array(
     'sitetitle1' => 'db4free.net',
 
-    'sitetitle2' => 'Ücretsiz MySQL Veritabanı hesabı',
+    'sitetitle2' => 'Ücretsiz MySQL Veritabanı',
 
     'topnav1' => 'Hoşgeldiniz',
 
@@ -15,7 +15,7 @@ $translations = array(
 
     'topnav3' => 'Twitter',
 
-    'topnav4' => 'mpopp.net blog',
+    'topnav4' => 'mpopp.net Blog',
 
     'topnav5' => 'phpMyAdmin',
 
@@ -27,7 +27,7 @@ $translations = array(
 
     'sidebar_1_5' => 'Künye',
 
-    'sidebar_2_1' => 'db4free.net hakkında',
+    'sidebar_2_1' => 'db4free.net Hakkında',
 
     'sidebar_2_2' => 'Kullanım Şartları',
 
@@ -37,7 +37,7 @@ $translations = array(
 
     'sidebar_2_5' => 'Hesabı Sil',
 
-    'sidebar_2_6' => 'Şifrenizi mi Unuttunuz?',
+    'sidebar_2_6' => 'Şifrenizi Mi Unuttunuz?',
 
     'pmalogin' => 'phpMyAdmin Giriş',
 
