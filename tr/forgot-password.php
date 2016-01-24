@@ -5,13 +5,13 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'h1' => 'Şifrenizi mi Unuttunuz?',
+    'h1' => 'Şifrenizi mi unuttunuz?',
 
-    'username' => 'Kullanıcı Adı',
+    'username' => 'Kullanıcı adı',
 
-    'request-new-password' => 'Yeni Şifre İste',
+    'request-new-password' => 'Yeni şifre iste',
 
-    'ph1' => 'Kullanıcı Adınızı Girin',
+    'ph1' => 'Kullanıcı adınızı girin',
 
     'error1' => 'Girdiğiniz bilgi doğru değildir!',
 

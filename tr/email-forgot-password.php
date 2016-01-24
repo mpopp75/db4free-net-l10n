@@ -5,15 +5,15 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'email' => 'hesabınız için yeni bir şifre talep ettiniz "{$user}"
+    'email' => 'Hesabınız için yeni bir şifre talep ettiniz "{$user}"
 
 Yeni şifreniz : {$newData}
 
-Aşağıdaki linke tıklayarak bu bilgiyi doğrulayınız:
+Lütfen aşağıdaki linke tıklayarak bu değişikliği onaylayınız:
 
 {$mailLink}
 
-db4free.net web sitesinden yeni şifre talebiniz olmadıysa, bu e postayı yoksayabilirsiniz!
+db4free.net web sitesinden yeni şifre talebinde bulunmadıysanız, bu e-postayı yok sayabilirsiniz!
 
 Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 

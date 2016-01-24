@@ -5,19 +5,19 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'h1' => 'Parola Değiştir',
+    'h1' => 'Şifre değiştir',
 
     'mysql-username' => 'MySQL kullanıcı adı',
 
-    'old-password' => 'Eski Şifre',
+    'old-password' => 'Eski şifre',
 
-    'new-password' => 'Yeni Şifre',
+    'new-password' => 'Yeni şifre',
 
-    'new-password-verification' => 'Yeni Şifre Onayı',
+    'new-password-verification' => 'Yeni şifre onayı',
 
     'ph1' => 'Kullanıcı adınızı girin',
 
-    'ph2' => 'Şimdiki şifrenizi girin',
+    'ph2' => 'Geçerli şifrenizi girin',
 
     'ph3' => 'Yeni şifrenizi girin',
 

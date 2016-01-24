@@ -5,13 +5,13 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'email' => 'db4free.net hesabınızı kaldırma talebinizi aldık. "{$user}".
+    'email' => 'db4free.net hesabınızı silme talebinizi aldık "{$user}".
 
-Aşağıdaki linke tıklayarak bu talebinizi doğrulayınız. Hesabınızı kaldırdığınız takdirde tüm verileriniz kalıcı olarak silinecektir!
+Lütfen aşağıdaki linke tıklayarak bu talebinizi doğrulayınız. Hesabınızı sildiğiniz takdirde bu veritabanındaki tüm veriler kalıcı olarak silinecektir!
 
 {$mailLink}
 
-db4free.net hesabınızı kaldırmak istemediyseniz bu e-postayı yoksayabilirsiniz!!
+db4free.net hesabınızı silme isteğinde bulunmadıysanız, bu e-postayı yok sayabilirsiniz!
 
 Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 

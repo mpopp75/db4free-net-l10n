@@ -11,15 +11,15 @@ $translations = array(
 
     'mysql-user-name' => 'MySQL kullanıcı adı',
 
-    'mysql-user-password' => 'MySQL kullanıcı parola',
+    'mysql-user-password' => 'MySQL kullanıcı şifresi',
 
-    'mysql-user-password-verification' => 'MySQL kullanıcı parola doğrulaması',
+    'mysql-user-password-verification' => 'MySQL şifre doğrulaması',
 
-    'email-address' => 'Eposta Adresi',
+    'email-address' => 'Eposta adresi',
 
-    'agree-conditions' => '<a href="conditions.php">Kullanım Şartları</a> nı okudum ve kabul ediyorum.',
+    'agree-conditions' => '<a href="conditions.php">Kullanım şartları</a> nı okudum ve kabul ediyorum.',
 
-    'ph1' => '4-16 karakter, büyük harf olmadan, birinci karakter olmak üzere.',
+    'ph1' => '4-16 karakter, büyük harf olmadan, birinci karakter olmalı.',
 
     'ph2' => 'En az 6 karakter.',
 
@@ -29,36 +29,36 @@ $translations = array(
 
     'maintenance-notice' => 'Veritabanı bakımından dolayı şu an kayıt yapılamamaktadır.',
 
-    'agm-p1' => 'db4free.net hesabı oluştururak kabul ediyorum:',
+    'agm-p1' => 'db4free.net hesabı oluştururak şartları kabul ediyorsunuz:',
 
-    'agm-li1' => 'db4free.net test ortamıdır.',
+    'agm-li1' => 'db4free.net bir test ortamıdır.',
 
     'agm-li2' => 'db4free.net üretim için uygun değildir.',
 
-    'agm-li3' => 'Eğer tüm uyarılara rağmen db4free.net veritabanını üretimde kullanırsanız, bunun sorumluluğu size aittir. (Sık yedeklemeler şiddetle önerilir)',
+    'agm-li3' => 'Eğer uyarılara rağmen db4free.net veritabanını üretimde kullanırsanız, bunun sorumluluğu size aittir (Sık yedeklemeler şiddetle önerilir)',
 
-    'agm-li4' => 'Zaiyat ve veri kaybı her zaman olabilir (bunla ilgili tüm şikayetler yoksayılacaktır)',
+    'agm-li4' => 'Veri kaybı her zaman olabilir (bununla ilgili tüm şikayetler yok sayılacaktır)',
 
-    'agm-li5' => 'db4free.net ekibi hiç bir tür sorumluluğu ve garantiyi kabul etmecektir.',
+    'agm-li5' => 'db4free.net ekibi hiçbir tür sorumluluğu ve garantiyi kabul etmecektir.',
 
     'agm-li6' => 'db4free.net ekibi önceden bildirmeksizin hesap silme yada veritabanlarını silme hakkını saklı tutar.',
 
-    'agm-li7' => 'Son bilgileri <a href="/twitter.php">Twitter</a> ve <a href="/blog.php">db4free.net blog</a> kanallarından almak size kalmıştır',
+    'agm-li7' => 'Son gelişmeleri <a href="/twitter.php">Twitter\'dan</a> ve <a href="/blog.php">db4free.net blog</a> üzerinden takip edebilirsiniz',
 
-    'agm-li8' => 'db4free.net sadece MySQL veritabanı sağlar, webde alan sağlamaz (dosyalarınızı yükleyecek bir alanınız olmayacak)',
+    'agm-li8' => 'db4free.net sadece MySQL veritabanı sağlar, web alanı sağlamaz (dosyalarınızı yükleyecek bir alanınız olmayacak)',
 
     'agm-p2' => 'Dahası:',
 
-    'agm-li9' => 'db4free.net test için bir hizmettir, hosting servisi değildir. 200 MB dan daha fazla bilgi taşıyan veritabanlı düzensiz aralıklarla bildirim yapılmadan silinecektir',
+    'agm-li9' => 'db4free.net test için bir hizmettir, hosting servisi değildir. 200 MB üzeri veri taşıyan veritabanları düzensiz aralıklarla bildirim yapılmadan temizlenecektir',
 
-    'agm-li10' => '<a href="/delete-account.php">Lütfen ihtiyacınız olmayacak veriyi yada hesabınızı silin.</a> Böylece sunucularda oluşan problemlerde kurtarma yapmamız kolaylaşacaktır.',
+    'agm-li10' => '<a href="/delete-account.php">Lütfen ihtiyacınız olmayacan veriyi ya da hesabınızı silin.</a> Böylece sunucularda oluşan problemlerde kurtarma yapmamız kolaylaşacaktır.',
 
-    'signup-error1' => 'Kullanım Şartların kabul etmelisiniz!',
+    'signup-error1' => 'Kullanım şartların kabul etmelisiniz!',
 
     'signup-error2' => 'MySQL veritabanı kayıt hatası!',
 
-    'signup-error3' => 'Doğrulama E Postası gönderme hatası!',
+    'signup-error3' => 'Doğrulama epostası gönderme hatası!',
 
-    'signup-success' => 'Kaydolduğunuz için teşekkürler.Eposta hesabınıza doğrulama postası alacaksınız.',
+    'signup-success' => 'Kaydolduğunuz için teşekkürler! Kayıt doğrulaması için bir eposta alacaksınız.',
 );
 ?>
