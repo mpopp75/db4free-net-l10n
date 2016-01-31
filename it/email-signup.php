@@ -17,23 +17,23 @@ Per favore usa il collegamento seguente per completare la registrazione entro i 
 * Perdita di dati o sospensioni del servizio possono avvenire in qualsiasi momento (qualsiasi lamentela a questo proposito sarà molto probabilmente ignorata)
 * Il Team di db4free.net non ti fornisce nessuna garanzia nè si assume nessuna resposabilità di qualsiasi tipo
 * Il Team di db4free.net si riserva il diritto di cancellare i databases e/o gli accounts in qualsiasi momento senza avviso
-* E\' tua responsabilità restare informato seguento Twitter (https://twitter.com/db4free_net) e il blog di db4free.net (http://www.mpopp.net/category/db4free/)
+* E\' tua responsabilità restare informato seguento Twitter (https://twitter.com/db4free_net) e il blog di db4free.net (https://www.mpopp.net/category/db4free/)
 * db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c\'è nessuna funzione di upload files)
 
 Inoltre:
 
 * db4free.net è un servizio per testing, non per hosting. Databases che contengono più di 200 MB di dati saranno azzerati ad intervalli irregolari senze notifica
-* Per favore, rimuovi i dati di cui non hai più bisogno, o cancella il tuo account se non ti serve più (http://www.db4free.net/delete-account.php). Questo fa in modo che sia più facile eseguire il recover nel caso avvenisse un crash sul server.
+* Per favore, rimuovi i dati di cui non hai più bisogno, o cancella il tuo account se non ti serve più (https://www.db4free.net/delete-account.php). Questo fa in modo che sia più facile eseguire il recover nel caso avvenisse un crash sul server.
 
 {$mailLink}
 
-Vuoi aiutare a tradurre il sito db4free.net? Per favore vai a http://www.db4free.net/translate.php
+Vuoi aiutare a tradurre il sito db4free.net? Per favore vai a https://www.db4free.net/translate.php
 
 Se non sei stato tu a registrare questo account sul sito db4free.net website, ignora questa email!
 
 Speriamo che ti diverta a lavorare con il tuo database!
 
 Il Team db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

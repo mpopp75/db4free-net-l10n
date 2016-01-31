@@ -18,6 +18,6 @@ Om du inte begärt ett nytt lösenord på db4free.net webbplats, vänligen ignor
 Vi hoppas du gillade att arbeta med din databas!
 
 db4free.net laget
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

@@ -20,6 +20,6 @@ db4free.net veritabanı şifrenizi değiştirmek istemediyseniz bu e-postayı yo
 Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

@@ -16,6 +16,6 @@ db4free.net hesabınızı silme isteğinde bulunmadıysanız, bu e-postayı yok 
 Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

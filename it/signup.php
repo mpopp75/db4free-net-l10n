@@ -25,7 +25,7 @@ $translations = array(
 
     'ph3' => 'Digita il tuo indirizzo Email',
 
-    'explanation' => 'Il nome utente ed il nome del database  possono contenere lettere minuscole, numeri e il carattere sottolineato (underscore)e devono essere lunghi tra i 4 ed i 16 caratteri. Non puoi usare le <a href="http://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">parole riservate</a>!',
+    'explanation' => 'Il nome utente ed il nome del database  possono contenere lettere minuscole, numeri e il carattere sottolineato (underscore)e devono essere lunghi tra i 4 ed i 16 caratteri. Non puoi usare le <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">parole riservate</a>!',
 
     'maintenance-notice' => 'A causa di manutenzione al database, non è possibile effettuare ora la registrazione.',
 
@@ -43,7 +43,7 @@ $translations = array(
 
     'agm-li6' => 'Il Team di db4free.net si riserva il diritto di cancellare i databases e/o gli accounts in qualsiasi momento senza avviso',
 
-    'agm-li7' => 'E\' tua responsabilità restare informato seguendo <a href="https://twitter.com/db4free_net">Twitter</a> e il <a href="http://www.mpopp.net/category/db4free/">blog di db4free.net</a>',
+    'agm-li7' => 'E\' tua responsabilità restare informato seguendo <a href="https://twitter.com/db4free_net">Twitter</a> e il <a href="https://www.mpopp.net/category/db4free/">blog di db4free.net</a>',
 
     'agm-li8' => 'db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c\'è nessuna funzione di upload files)',
 

@@ -16,6 +16,6 @@ Se non sei stato tu a richiedere la cancellazione del tuo account su db4free.net
 Speriamo che ti sia divertito a lavorare con il tuo database!
 
 Il Team db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

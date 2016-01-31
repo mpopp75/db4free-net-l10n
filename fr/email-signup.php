@@ -18,23 +18,23 @@ Merci d\'utiliser le lien suivant pour terminer votre inscription sous 14 jours.
 * des pertes de données et coupures de courant peuvent subvenir n\'importe quand (toute plainte à ce sujet sera ignorée)
 * l\'équipe de db4free.net n\'apporte aucune garantie ni responsabilité d\'aucune sorte
 * l\'équipe de db4free.net se réserve le droit de supprimer toute base de données ou compte utilisateur sans préavis
-* il vous revient de vous tenir informé des dernières actualités sur Twitter (https://twitter.com/db4free_net) et sur le blog de db4free.net (http://www.mpopp.net/category/db4free/)
+* il vous revient de vous tenir informé des dernières actualités sur Twitter (https://twitter.com/db4free_net) et sur le blog de db4free.net (https://www.mpopp.net/category/db4free/)
 * db4free.net fournit uniquement une base de données MySQL, et aucun hébergement web (vous n\'avez pas la possibilité d\'uploader des fichiers)
 
 De plus :
 
 * db4free.net est un service de test, pas d\'hébergement. Les bases qui contiennent plus de 200 MB de données vidées à intervales aléatoires sans notification préalable.
-* merci de supprimer les données dont vous n\'avez plus besoin, et les comptes utilisateurs que vous n\'utilisez plus (http://www.db4free.net/delete-account.php). Cela facilite la récupération des données après un éventuel crash.
+* merci de supprimer les données dont vous n\'avez plus besoin, et les comptes utilisateurs que vous n\'utilisez plus (https://www.db4free.net/delete-account.php). Cela facilite la récupération des données après un éventuel crash.
 
 {$mailLink}
 
-Vous pouvez nous aider à traduire db4free.net ? Rendez-vous sur http://www.db4free.net/translate.php
+Vous pouvez nous aider à traduire db4free.net ? Rendez-vous sur https://www.db4free.net/translate.php
 
 Si vous ne vous êtes pas inscrit sur le site db4free, merci d\'ignorer cet email !
 
 Profitez-bien de votre base de données !
 
 L\'équipe db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

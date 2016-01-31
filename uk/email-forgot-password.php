@@ -18,6 +18,6 @@ $translations = array(
 Мы маємо надію, що вам подобається працювати з нашою базою даних!
 
 Команда db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

@@ -19,6 +19,6 @@ Si no fue usted quien ha solicitado una nueva contraseña en el sitio web de db4
 ¡Esperamos que disfrute trabajar con su base de datos!
 
 El equipo de db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

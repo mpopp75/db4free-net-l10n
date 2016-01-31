@@ -22,6 +22,6 @@ Ak ste to neboli vy, kto požiadal o zmenu databázového účtu heslo k Vášmu
 S prianím pekného dňa
 
 Tým db4free
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

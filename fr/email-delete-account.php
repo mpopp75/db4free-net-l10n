@@ -16,6 +16,6 @@ Si vous n\'êtes pas à l\'origine de cette demande de suppression de votre comp
 Nous espérons que vous avez bien profité de votre base !
 
 L\'équipe db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

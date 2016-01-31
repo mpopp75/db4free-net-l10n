@@ -16,6 +16,6 @@ Jeśli to nie Ty prosiłeś o usunięcie swojego konta bazodanowego na stronie d
 Mamy nadzieję, że praca z Twoją bazą danych przyniosła Tobie dużo satysfakcji!
 
 Ekipa db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

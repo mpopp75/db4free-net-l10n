@@ -17,6 +17,6 @@ Si no fue usted quien solicitó la eliminación de su cuenta en el sitio web db4
 ¡Esperamos que haya disfrutado trabajar con su base de datos!
 
 El equipo de db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

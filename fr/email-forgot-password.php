@@ -18,6 +18,6 @@ Si vous n\'avez pas demandé de nouveau mot de passe sur le site db4free.net, me
 Profitez bien de votre base de données !
 
 L\'équipe db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

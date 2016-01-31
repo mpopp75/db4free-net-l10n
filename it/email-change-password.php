@@ -21,6 +21,6 @@ Se non sei stato tu a richiedere la modifica della password su db4free.net, igno
 Speriamo che ti stia divertendo a lavorare con il tuo database!
 
 Il Team db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

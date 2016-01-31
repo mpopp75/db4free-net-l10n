@@ -17,23 +17,23 @@ Bitte verwenden Sie diesen Link innerhalb der nächsten 14 Tage, um den Registri
 * Datenverlust und Service-Ausfälle jederzeit möglich sind (diesbezügliche Beschwerden werden wahrscheinlich ignoriert)
 * das db4free.net-Team keine Garantie und keine Haftung irgendwelcher Art übernimmt
 * das db4free.net-Team behält sich das Recht vor, Datenbanken und Accounts jederzeit ohne Ankündigung zu löschen
-* es Ihre Verantwortung ist, aktuelle Informationen per Twitter (https://twitter.com/db4free_net) sowie dem db4free.net blog zu beziehen (http://www.mpopp.net/category/db4free/)
+* es Ihre Verantwortung ist, aktuelle Informationen per Twitter (https://twitter.com/db4free_net) sowie dem db4free.net blog zu beziehen (https://www.mpopp.net/category/db4free/)
 * db4free.net eine MySQL Datenbank anbietet, aber keinen Webspace (Sie können keine Dateien hochladen)
 
 Weiters:
 
 * db4free.net ist ein Service für Testen, nicht für Hosting. Datenbanken welche mehr als 200 MB Daten enthalten werden in unregelmäßigen Abständen ohne Angekündigung geleert.
-* Bitte löschen Sie Daten die Sie nicht mehr benötigen, oder löschen Sie den nicht mehr benötigten Account (http://www.db4free.net/delete-account.php). Im Falle eines Server Crashs erleichtert das die Wiederherstellung der Daten.
+* Bitte löschen Sie Daten die Sie nicht mehr benötigen, oder löschen Sie den nicht mehr benötigten Account (https://www.db4free.net/delete-account.php). Im Falle eines Server Crashs erleichtert das die Wiederherstellung der Daten.
 
 {$mailLink}
 
-Können Sie helfen, die db4free.net Website in weitere Sprachen zu übersetzen? Erfahren Sie näheres auf http://www.db4free.net/translate.php
+Können Sie helfen, die db4free.net Website in weitere Sprachen zu übersetzen? Erfahren Sie näheres auf https://www.db4free.net/translate.php
 
 Wenn Sie keinen Datenbank-Account auf der db4free.net Website registriert haben, bitten wir Sie, diese Email zu ignorieren!
 
 Wir hoffen, dass Sie viel Freude mit Ihrer Datenbank haben!
 
 Ihr db4free.net Team
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

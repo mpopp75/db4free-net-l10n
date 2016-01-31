@@ -20,23 +20,23 @@ $translations = array(
 * 随时可能发生数据丢失及损坏。（我们将忽略任何有关资料丢失的投诉）
 * the db4free.net 团队不提供任何担保或责任。
 * the db4free.net 团队保留删除数据库及账号的权利，而不另行通知。
-* 您可以从我们的Twitter (https://twitter.com/db4free_net) 或 the db4free.net 博客 (http://www.mpopp.net/category/db4free/) 获取最新资讯
+* 您可以从我们的Twitter (https://twitter.com/db4free_net) 或 the db4free.net 博客 (https://www.mpopp.net/category/db4free/) 获取最新资讯
 * db4free.net 只提供使用 MySQL 数据库，不提供网络存储空间。（没有文件上传机制）
 
 此外:
 
 * db4free.net 所提供的服务仅供测试，不提供运行正式网站。我们将不定时清空超过200MB的资料库，而不另行通知。
-* 请删除不需要的数据，若您已不需要使用本服务，请删除您的账号。 (http://www.db4free.net/delete-account.php) 这将有利于服务器在宕机时更快的恢复状态。
+* 请删除不需要的数据，若您已不需要使用本服务，请删除您的账号。 (https://www.db4free.net/delete-account.php) 这将有利于服务器在宕机时更快的恢复状态。
 
 {$mailLink}
 
-可以请你帮忙翻译 the db4free.net 吗？ 请至 http://www.db4free.net/translate.php
+可以请你帮忙翻译 the db4free.net 吗？ 请至 https://www.db4free.net/translate.php
 
 如果您未向db4free.net发出申请账号请求，请忽略此邮件！
 
 祝您使用愉快！
 
 The db4free.net team
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

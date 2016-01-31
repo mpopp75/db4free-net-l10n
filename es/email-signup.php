@@ -18,23 +18,23 @@ Utilice el siguiente enlace para terminar el proceso de registro dentro de los p
 * pérdida de datos e interrupciones pueden ocurrir en cualquier momento (quejas acerca de estas situaciones serán muy probablemente ignoradas)
 * el equipo de db4free.net no concede ningún tipo de garantía o responsabilidad de cualquier tipo
 * el equipo de db4free.net se reserva el derecho de eliminar las bases de datos y/o cuentas en cualquier momento sin previo aviso
-* le corresponde a usted obtener la información más reciente de Twitter (https://twitter.com/db4free_net) y del blog de db4free.net (http://www.mpopp.net/category/db4free/)
+* le corresponde a usted obtener la información más reciente de Twitter (https://twitter.com/db4free_net) y del blog de db4free.net (https://www.mpopp.net/category/db4free/)
 * db4free.net sólo proporciona una base de datos MySQL, pero no espacio en la web (no hay lugar para cargar algún archivo)
 
 Además:
 
 * db4free.net es un servicio para pruebas, no para hosting. Las bases de datos que almacenan más de 200 MB de datos se borrarán a intervalos irregulares y sin notificación
-* Por favor, elimine los datos que ya no necesite, o borre su cuenta si ya no es necesaria (http://www.db4free.net/delete-account.php). Esto hace que sea más fácil de recuperar si se produce una caída del servidor.
+* Por favor, elimine los datos que ya no necesite, o borre su cuenta si ya no es necesaria (https://www.db4free.net/delete-account.php). Esto hace que sea más fácil de recuperar si se produce una caída del servidor.
 
 {$mailLink}
 
-¿Puede ayudar a traducir el sitio web de db4free.net? Por favor, vaya a http://www.db4free.net/translate.php
+¿Puede ayudar a traducir el sitio web de db4free.net? Por favor, vaya a https://www.db4free.net/translate.php
 
 Si no fue usted quien ha registrado una cuenta de base de datos en la página web de db4free, ¡por favor ignore este correo electrónico!
 
 ¡Esperamos que disfrute trabajar con su base de datos!
 
 El equipo de db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

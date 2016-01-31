@@ -18,6 +18,6 @@ Se você não solicitou alteração de senha da sua conta no db4free.net website
 Esperamos que aproveite o seu banco de dados!
 
 Equipe db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

@@ -22,6 +22,6 @@ $translations = array(
 祝您使用愉快！!
 
 The db4free.net team
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

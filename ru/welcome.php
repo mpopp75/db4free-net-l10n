@@ -7,7 +7,7 @@ Language: Russian
 $translations = array(
     'h1' => 'Добро пожаловать на db4free.net',
 
-    'p1a' => 'db4free.net предоставляет для тестирования, последнюю - иногда даже Developer версию <a href="http://www.mysql.com/">MySQL сервера</a>. Вы можете легко <a href="/signup.php">и бесплатно создать аккаунт</a> и начать тестирование ваших приложений, например будет ли приложение работать, после обновления MySQL сервера. db4free.net также хороший ресурс для обучения и ознакомления с новыми возможностями, которые были введены в новых версиях.',
+    'p1a' => 'db4free.net предоставляет для тестирования, последнюю - иногда даже Developer версию <a href="https://www.mysql.com/">MySQL сервера</a>. Вы можете легко <a href="/signup.php">и бесплатно создать аккаунт</a> и начать тестирование ваших приложений, например будет ли приложение работать, после обновления MySQL сервера. db4free.net также хороший ресурс для обучения и ознакомления с новыми возможностями, которые были введены в новых версиях.',
 
     'p1b' => 'db4free.net стремится предоставить или последнюю стабильную версию или последнюю версию для разработчиков. db4free.net\'s MySQL сервер будет обновлен вскоре, после выхода новой версии, обычно в этот же день.',
 
@@ -23,10 +23,10 @@ $translations = array(
 
     'h4' => 'Ресурсы',
 
-    'p4a' => '<a href="http://www.mpopp.net/category/db4free/">Секция о db4free.net</a> в <a href="http://www.mpopp.net/">блоге mpopp.net</a> позволяет узнать новости db4free.net. Пожалуйста подпишитесь на <a href="http://www.mpopp.net/category/db4free/feed/">RSS ленту</a>, чтобы не пропустить ниодной новости. db4free.net также есть в <a href="/twitter.php">Twitter</a>, другом хорошем ресурсе, поясняющем о том, что происходит в мире db4free.net.',
+    'p4a' => '<a href="https://www.mpopp.net/category/db4free/">Секция о db4free.net</a> в <a href="https://www.mpopp.net/">блоге mpopp.net</a> позволяет узнать новости db4free.net. Пожалуйста подпишитесь на <a href="https://www.mpopp.net/category/db4free/feed/">RSS ленту</a>, чтобы не пропустить ниодной новости. db4free.net также есть в <a href="/twitter.php">Twitter</a>, другом хорошем ресурсе, поясняющем о том, что происходит в мире db4free.net.',
 
-    'p4b' => 'Лучшие ресурсы для изучения MySQL это <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">MySQL Reference Manual</a> и <a href="http://planet.mysql.com/">PlanetMySQL</a>. Сайт MySQL содержит набор статей <a href="http://dev.mysql.com/tech-resources/articles/">Статьи разработчиков</a> , многие из которых объясняют работу новых функций, которые были или будут внедрены в новой версии.',
+    'p4b' => 'Лучшие ресурсы для изучения MySQL это <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Reference Manual</a> и <a href="https://planet.mysql.com/">PlanetMySQL</a>. Сайт MySQL содержит набор статей <a href="https://dev.mysql.com/tech-resources/articles/">Статьи разработчиков</a> , многие из которых объясняют работу новых функций, которые были или будут внедрены в новой версии.',
 
-    'p4c' => 'Если, вы нашли ошибку в работе MySQL сервера, сообщите о ней в <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
+    'p4c' => 'Если, вы нашли ошибку в работе MySQL сервера, сообщите о ней в <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );
 ?>

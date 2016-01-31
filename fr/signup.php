@@ -25,7 +25,7 @@ $translations = array(
 
     'ph3' => 'Saisissez votre adresse mail',
 
-    'explanation' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="http://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">de mots réservés</a>&nbsp;!',
+    'explanation' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">de mots réservés</a>&nbsp;!',
 
     'maintenance-notice' => 'En raison d\'une maintenance sur la base, aucune inscription n\'est possible actuellement.',
 
@@ -43,7 +43,7 @@ $translations = array(
 
     'agm-li6' => 'l\'équipe de db4free.net se réserve le droit de supprimer toute base de données ou compte utilisateur sans préavis',
 
-    'agm-li7' => 'il vous revient de vous tenir informé des dernières actualités sur Twitter (https://twitter.com/db4free_net) et sur le blog de db4free.net (http://www.mpopp.net/category/db4free/)',
+    'agm-li7' => 'il vous revient de vous tenir informé des dernières actualités sur Twitter (https://twitter.com/db4free_net) et sur le blog de db4free.net (https://www.mpopp.net/category/db4free/)',
 
     'agm-li8' => 'db4free.net fournit uniquement une base de données MySQL, et aucun hébergement web (vous n\'avez pas la possibilité d\'uploader des fichiers)',
 
@@ -51,7 +51,7 @@ $translations = array(
 
     'agm-li9' => 'db4free.net est un service de test, pas d\'hébergement. Les bases qui contiennent plus de 200 MB de données vidées à intervales aléatoires sans notification préalable.',
 
-    'agm-li10' => 'merci de supprimer les données dont vous n\'avez plus besoin, et les comptes utilisateurs que vous n\'utilisez plus (http://www.db4free.net/delete-account.php). Cela facilite la récupération des données après un éventuel crash.',
+    'agm-li10' => 'merci de supprimer les données dont vous n\'avez plus besoin, et les comptes utilisateurs que vous n\'utilisez plus (https://www.db4free.net/delete-account.php). Cela facilite la récupération des données après un éventuel crash.',
 
     'signup-error1' => 'Vous devez accepter les conditions d\'utilisation&nbsp;!',
 

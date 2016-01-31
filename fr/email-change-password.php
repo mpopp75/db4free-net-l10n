@@ -20,6 +20,6 @@ Si vous n\'êtes pas à l\'origine de cette demande de modification de mot de pa
 Profitez-bien de votre base de données!
 
 L\'équipe db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

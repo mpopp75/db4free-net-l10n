@@ -21,6 +21,6 @@ $translations = array(
 Надеемся, что вам нравится работать с вашей базой данных!
 
 Команда db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

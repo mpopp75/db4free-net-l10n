@@ -15,6 +15,6 @@ Om det inte var du som har begÃ¤rt borttagning av ditt konto hos db4free.net, vÃ
 Vi hoppas du gillade att arbeta med din databas!
 
 db4free.net laget
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

@@ -7,7 +7,7 @@ Language: Portuguese (Brazilian)
 $translations = array(
     'h1' => 'Bem-vindo ao db4free.net',
 
-	'p1a' => 'O db4free.net fornece um serviço para teste com a mais recente - as vezes versões em desenvolvimento - do <a href="http://www.mysql.com/">MySQL Server</a>. Você pode facilmente <a href="/signup.php">criar uma conta grátis</a> e teste suas aplicações, por exemplo para ter certeza que seus sistemas continuarão funcionando após a atualização do MySQL. O db4free.net também serve como um bom recurso de aprendizado e para ajudá-lo a se familiarizar com as novidades introduzidas em novas versões.',
+	'p1a' => 'O db4free.net fornece um serviço para teste com a mais recente - as vezes versões em desenvolvimento - do <a href="https://www.mysql.com/">MySQL Server</a>. Você pode facilmente <a href="/signup.php">criar uma conta grátis</a> e teste suas aplicações, por exemplo para ter certeza que seus sistemas continuarão funcionando após a atualização do MySQL. O db4free.net também serve como um bom recurso de aprendizado e para ajudá-lo a se familiarizar com as novidades introduzidas em novas versões.',
 
     'p1b' => 'O db4free.net visa sempre trazer a ultima versão final ou a última versão em desenvolvimento do MySQL server. O MySQL server do db4free.net será atualizado pouco tempo depois de uma nova versão do MySQL ser liberada, normalmente no mesmo dia ou pouco depois.',
 
@@ -23,10 +23,10 @@ $translations = array(
 
     'h4' => 'Recursos',
 
-    'p4a' => 'Existe uma <a href="http://www.mpopp.net/category/db4free/">seção db4free.net</a> no <a href="http://www.mpopp.net/">blog mpopp.net</a> que trás as novidades do db4free.net. Por favor, assine nosso <a href="http://www.mpopp.net/category/db4free/feed/">Feed RSS</a> e não perca nenhuma novidade. db4free.net também está no <a href="/twitter.php">Twitter</a>, mais um recurso para te manter atualizado sobre o que está acontecendo no mundo db4free.net.',
+    'p4a' => 'Existe uma <a href="https://www.mpopp.net/category/db4free/">seção db4free.net</a> no <a href="https://www.mpopp.net/">blog mpopp.net</a> que trás as novidades do db4free.net. Por favor, assine nosso <a href="https://www.mpopp.net/category/db4free/feed/">Feed RSS</a> e não perca nenhuma novidade. db4free.net também está no <a href="/twitter.php">Twitter</a>, mais um recurso para te manter atualizado sobre o que está acontecendo no mundo db4free.net.',
 
-    'p4b' => 'O melhor recurso para aprender sobre MySQL é <a href="http://dev.mysql.com/">MySQL Developer Zone(link em inglês)</a>, o <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">MySQL Reference Manual(link em inglês)</a> e o <a href="http://planet.mysql.com/">PlanetMySQL</a>. O site do MySQL oferece inumeros <a href="http://dev.mysql.com/tech-resources/articles/">Artigos para desenvolvedores(link em inglês)</a> Muitos deles explicando detalhadamente as novas funcionalidades introduzidas em versões recentes do MySQL.',
+    'p4b' => 'O melhor recurso para aprender sobre MySQL é <a href="https://dev.mysql.com/">MySQL Developer Zone(link em inglês)</a>, o <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Reference Manual(link em inglês)</a> e o <a href="https://planet.mysql.com/">PlanetMySQL</a>. O site do MySQL oferece inumeros <a href="https://dev.mysql.com/tech-resources/articles/">Artigos para desenvolvedores(link em inglês)</a> Muitos deles explicando detalhadamente as novas funcionalidades introduzidas em versões recentes do MySQL.',
 
-    'p4c' => 'Se você encontrar um bug no MySQL server, reporte para o <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
+    'p4c' => 'Se você encontrar um bug no MySQL server, reporte para o <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );
 ?>

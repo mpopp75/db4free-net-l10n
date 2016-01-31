@@ -18,17 +18,17 @@ Využite nasledujúci odkaz pre dokončenie registračného procesu počas nasle
 * K strate dát alebo výpadkom môže dôjsť kedykoľvek (všetky sťažnosti budú pravdepodobne ignorované)
 * Db4free.net tím neposkytuje žiadnu záruku ani zodpovednosť žiadneho druhu
 * Db4free.net tím si vyhradzuje právo zmazať databázy a / alebo účty kedykoľvek bez predchádzajúceho upozornenia
-* Je na vás, aby ste dostávali najnovšie informácie z Twitteru (https://twitter.com/db4free_net) a db4free.net blogu (http://www.mpopp.net/category/db4free/)
+* Je na vás, aby ste dostávali najnovšie informácie z Twitteru (https://twitter.com/db4free_net) a db4free.net blogu (https://www.mpopp.net/category/db4free/)
 * Db4free.net poskytuje len databázu MySQL!
 
 Ďalšie:
 
 * Db4free.net je služba pre testovanie, nie pre hosting. Databázy, ktoré uchovávajú viac ako 200 MB dát bude vymazané v nepravidelných intervaloch bez predchádzajúceho oznámenia
-* Prosím, odstráňte dáta, ktoré sú už nepotrebné, alebo ak už svoj účet nebudete potrebovať môžete ho zmazať (http://www.db4free.net/delete-account.php).
+* Prosím, odstráňte dáta, ktoré sú už nepotrebné, alebo ak už svoj účet nebudete potrebovať môžete ho zmazať (https://www.db4free.net/delete-account.php).
 
 {$mailLink}
 
-Máte záujem nám pomôcť prekladať webové stránky db4free.net? Prosím, navštívte na http://www.db4free.net/translate.php
+Máte záujem nám pomôcť prekladať webové stránky db4free.net? Prosím, navštívte na https://www.db4free.net/translate.php
 
 Ak ste to neboli vy, kto si zaregistroval účet databázy na internetových stránkach db4free.net, ignorujte prosím tento e-mail!
 
@@ -36,6 +36,6 @@ Ak ste to neboli vy, kto si zaregistroval účet databázy na internetových str
 S prianím pekného dňa a ďakujeme za vašu priazeň
 
 Tým db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

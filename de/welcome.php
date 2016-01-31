@@ -23,10 +23,10 @@ $translations = array(
 
     'h4' => 'Weitere Resourcen',
 
-    'p4a' => 'Es gibt einen <a href="http://www.mpopp.net/category/db4free/">db4free.net Bereich</a> im <a href="http://www.mpopp.net/">mpopp.net Blog</a> wo Sie über Neuigkeiten über db4free.net informiert werden. Bitte verwenden Sie den <a href="http://www.mpopp.net/category/db4free/feed/">RSS Feed</a> um sicher zu stellen, dass Sie keine Informationen versäumen. db4free.net ist auch auf <a href="/twitter.php">Twitter</a>, eine weitere großartige Möglichkeit, um auf dem letzten Stand betreffend Neuigkeiten rund um db4free.net zu bleiben.',
+    'p4a' => 'Es gibt einen <a href="https://www.mpopp.net/category/db4free/">db4free.net Bereich</a> im <a href="https://www.mpopp.net/">mpopp.net Blog</a> wo Sie über Neuigkeiten über db4free.net informiert werden. Bitte verwenden Sie den <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> um sicher zu stellen, dass Sie keine Informationen versäumen. db4free.net ist auch auf <a href="/twitter.php">Twitter</a>, eine weitere großartige Möglichkeit, um auf dem letzten Stand betreffend Neuigkeiten rund um db4free.net zu bleiben.',
 
-    'p4b' => 'Die besten Resourcen um mehr über MySQL zu lernen sind die <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, das <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">MySQL Referenzhandbuch</a> sowie <a href="http://planet.mysql.com/">PlanetMySQL</a>. Die MySQL Website stellt im <a href="http://dev.mysql.com/tech-resources/articles/">Developer Article Bereich</a> zahlreiche Beiträge zur Verfügung, wo neue Features, welche in künftige Versionen Einzug finden, sehr detailliert beschrieben werden.',
+    'p4b' => 'Die besten Resourcen um mehr über MySQL zu lernen sind die <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, das <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Referenzhandbuch</a> sowie <a href="https://planet.mysql.com/">PlanetMySQL</a>. Die MySQL Website stellt im <a href="https://dev.mysql.com/tech-resources/articles/">Developer Article Bereich</a> zahlreiche Beiträge zur Verfügung, wo neue Features, welche in künftige Versionen Einzug finden, sehr detailliert beschrieben werden.',
 
-    'p4c' => 'Wenn Sie einen Bug im MySQL Server finden, bitten wir Sie, diesen im <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a> zu berichten.',
+    'p4c' => 'Wenn Sie einen Bug im MySQL Server finden, bitten wir Sie, diesen im <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a> zu berichten.',
 );
 ?>

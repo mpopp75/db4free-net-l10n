@@ -25,7 +25,7 @@ $translations = array(
 
     'ph3' => 'E posta adresinizi girin',
 
-    'explanation' => 'Veritabanı kullanıcı adı ve veritabanı adı küçük harfler, sayılar ve alt tire içerebilir ve 4-16 karakter uzunluğunda olmalıdır.<a href="http://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">Anahtar Sözcükler</a>i kullanmamalısınız!',
+    'explanation' => 'Veritabanı kullanıcı adı ve veritabanı adı küçük harfler, sayılar ve alt tire içerebilir ve 4-16 karakter uzunluğunda olmalıdır.<a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">Anahtar Sözcükler</a>i kullanmamalısınız!',
 
     'maintenance-notice' => 'Veritabanı bakımından dolayı şu an kayıt yapılamamaktadır.',
 

@@ -13,7 +13,7 @@ $translations = array(
 
     'h2' => 'Progetti collegati',
 
-    'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
+    'p3' => '<a href="https://www.mpopp.net">mpopp.net</a>',
 
     'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal fÃ¼r Mediendesigner (mit Farbumrechner uvm.)</a>',
 

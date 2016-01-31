@@ -17,6 +17,6 @@ Se não foi você que solicitou a exclusão da sua conta no db4free.net, ignore 
 Esperados que seu trabalho tenha sido proveitoso com nosso banco de dados.
 
 Equipe db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

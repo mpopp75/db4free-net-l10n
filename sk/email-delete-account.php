@@ -17,6 +17,6 @@ Ak ste to neboli vy, kto požiadal o zrušenie svojho účtu na internetových s
 S prianím pekného dňa
 
 Tým db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

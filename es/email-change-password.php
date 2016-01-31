@@ -22,6 +22,6 @@ Si no fue uested quien ha solicitado cambiar su contraseña de la cuenta de base
 ¡Esperamos que disfrute trabajar con su base de datos!
 
 El equipo de db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

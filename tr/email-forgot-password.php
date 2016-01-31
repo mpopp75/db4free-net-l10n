@@ -18,6 +18,6 @@ db4free.net web sitesinden yeni şifre talebinde bulunmadıysanız, bu e-postay�
 Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

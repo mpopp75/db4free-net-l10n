@@ -18,21 +18,21 @@ Využíjte následující odkaz pro dokončení registračního proces během n�
 * Ztráta dat a výpadky se může stát kdykoli (veškeré stížnosti, které se pravděpodobně budou ignorovány)
 * Db4free.net tým neposkytuje žádnou záruku ani odpovědnost žádného druhu
 * Db4free.net tým si vyhrazuje právo smazat databází a / nebo účty kdykoliv bez předchozího upozornění
-* je na vás, abyste dostávaly nejnovější informace z Twitteru (https://twitter.com/db4free_net) a db4free.net blog (http://www.mpopp.net/category/db4free/)
+* je na vás, abyste dostávaly nejnovější informace z Twitteru (https://twitter.com/db4free_net) a db4free.net blog (https://www.mpopp.net/category/db4free/)
 * db4free.net poskytuje pouze databázi MySQL!
 
 Další:
 
 * Db4free.net je služba pro testování, nikoli pro hosting. Databáze, které uchovávají více než 200 MB dat bude vymazány v nepravidelných intervalech bez předchozího oznámení
-* Prosím, odstraňte data, která jsou již nepotřebná, nebo pokud účet nadále nebude aktivní můžete jej smazat (http://www.db4free.net/delete-account.php).
+* Prosím, odstraňte data, která jsou již nepotřebná, nebo pokud účet nadále nebude aktivní můžete jej smazat (https://www.db4free.net/delete-account.php).
 
 {$mailLink}
 
-Můžete nám pomoci překládat webové stránky db4free.net? Prosím, jděte na http://www.db4free.net/translate.php
+Můžete nám pomoci překládat webové stránky db4free.net? Prosím, jděte na https://www.db4free.net/translate.php
 
 Pokud jste to nebyly vy, kdo si zaregistroval účet databáze na internetových stránkách db4free.net, ignorujte prosím tento e-mail!
 
 S přáním pěkného dne a děkujeme za vaší přízeň
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

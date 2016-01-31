@@ -19,6 +19,6 @@ Ak ste to neboli vy, kto požiadal o nové heslo na webových stránkach db4free
 S prianím pekného dňa
 
 Tým db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

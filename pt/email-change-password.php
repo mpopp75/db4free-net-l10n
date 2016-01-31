@@ -21,6 +21,6 @@ Se não foi você que solicitou a mudança da senha do seu banco de dados no db4
 Esperamos que aproveite o seu banco de dados!
 
 Equipe db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

@@ -25,7 +25,7 @@ $translations = array(
 
     'ph3' => 'Ange din E-post',
 
-    'explanation' => 'Databasens användarnamn och databasnamn kan innehålla små bokstäver, siffror och understreck och måste vara mellan 4-16 tecken långt. Du får inte använda <a href="http://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">MySQL reserverade ord</a>!',
+    'explanation' => 'Databasens användarnamn och databasnamn kan innehålla små bokstäver, siffror och understreck och måste vara mellan 4-16 tecken långt. Du får inte använda <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">MySQL reserverade ord</a>!',
 
     'maintenance-notice' => 'På grund av underhåll av databasen så kan vi inte ta emot registrering för tillfället.',
 

@@ -14,7 +14,7 @@ $translations = array(
 
     'h2' => '相关项目',
 
-    'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
+    'p3' => '<a href="https://www.mpopp.net">mpopp.net</a>',
 
     'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal für 网站设计 (mit Farbumrechner uvm.)</a>',
 

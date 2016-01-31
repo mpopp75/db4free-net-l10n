@@ -21,6 +21,6 @@ Om du inte begärt att få ändra ditt databaslösenord på db4free.net webbplat
 Vi hoppas att du tycker om att arbeta med din databas!
 
 db4free.net laget
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

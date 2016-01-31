@@ -18,6 +18,6 @@ Jeśli to nie Ty prosiłeś o utworzenie nowego hasła do swojego konta bazodano
 Życzymy miłej pracy z Twoją bazą danych!
 
 Ekipa db4free.net
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

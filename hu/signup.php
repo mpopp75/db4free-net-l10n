@@ -26,7 +26,7 @@ $translations = array(
 
     'ph3' => 'Írd be az email címed',
 
-    'explanation' => 'A felhasználónév és az adatbázis név tartalmazhat kisbetűket, számokat és \'_\' (aláhúzás) karaktert, a hosszának 4 és 16 karakter között kell lennie. Nem használhatsz <a href="http://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">a MySQL számára fenntartott szavakat</a>!',
+    'explanation' => 'A felhasználónév és az adatbázis név tartalmazhat kisbetűket, számokat és \'_\' (aláhúzás) karaktert, a hosszának 4 és 16 karakter között kell lennie. Nem használhatsz <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">a MySQL számára fenntartott szavakat</a>!',
 
     'maintenance-notice' => 'Karbantartás miatt a regisztráció jelenleg nem érhető el.',
 

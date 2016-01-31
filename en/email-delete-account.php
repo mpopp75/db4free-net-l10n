@@ -16,6 +16,6 @@ If it was not you who has requested the deletion of your account on the db4free.
 We hope you enjoyed working with your database!
 
 The db4free.net team
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

@@ -17,23 +17,23 @@ Lütfen 14 gün içerisinde aşağıdaki linki kullanarak kayıt işlemini tamam
 * veri kaybı her zaman olabilir (bununla ilgili tüm şikayetler yok sayılacaktır)
 * db4free.net ekibi hiçbir tür sorumluluğu ve garantiyi kabul etmeyecektir
 * db4free.net ekibi önceden bildirmeksizin hesap silme yada veritabanlarını silme hakkını saklı tutar
-* son gelişmeleri Twitter\'dan (https://twitter.com/db4free_net) ve db4free.net blog (http://www.mpopp.net/category/db4free/) üzerinden takip edebilirsiniz
+* son gelişmeleri Twitter\'dan (https://twitter.com/db4free_net) ve db4free.net blog (https://www.mpopp.net/category/db4free/) üzerinden takip edebilirsiniz
 * db4free.net sadece MySQL veritabanı sağlar, web alanı sağlamaz (dosyalarınızı yükleyecek bir alanınız olmayacak)
 
 Dahası:
 
 * db4free.net test için bir hizmettir, hosting servisi değildir. 200 MB üzeri veri taşıyan veritabanları düzensiz aralıklarla bildirim yapılmadan temizlenecektir
-* Lütfen ihtiyacınız olmayan veriyi ya da hesabınızı silin (http://www.db4free.net/delete-account.php). Böylece sunucularda oluşan problemlerde kurtarma yapmamız kolaylaşacaktır.
+* Lütfen ihtiyacınız olmayan veriyi ya da hesabınızı silin (https://www.db4free.net/delete-account.php). Böylece sunucularda oluşan problemlerde kurtarma yapmamız kolaylaşacaktır.
 
 {$mailLink}
 
-db4free.net websitesini tercüme etmemize yardımcı olur musunuz? Lütfen http://www.db4free.net/translate.php adresine gidin.
+db4free.net websitesini tercüme etmemize yardımcı olur musunuz? Lütfen https://www.db4free.net/translate.php adresine gidin.
 
 Eğer db4free.net veritabanı hesabını kaydetmek istemediyseniz, lütfen bu epostayı yoksayınız.
 
 Umarız veritabanınızla çalışırken eğlenirsiniz!
 
 db4free.net ekibi
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>
