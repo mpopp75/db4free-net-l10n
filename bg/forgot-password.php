@@ -1,7 +1,7 @@
 <?php
 /*
 Section: forgot-password
-Language: English
+Language: Bulgarian
 */
 
 $translations = array(

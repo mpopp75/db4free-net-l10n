@@ -1,7 +1,7 @@
 <?php
 /*
 Section: about
-Language: English
+Language: Bulgarian
 */
 
 $translations = array(

@@ -1,7 +1,7 @@
 <?php
 /*
 Section: email-change-password
-Language: English
+Language: Bulgarian
 */
 
 $translations = array(
