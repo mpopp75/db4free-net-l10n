@@ -7,7 +7,7 @@ Language: English
 $translations = array(
     'h1' => 'Donations',
 
-    'p1' => 'Making a donation you can help us to invest in better hardware and provide an even better service.',
+    'p1' => 'By making a donation you can help us to invest in better hardware and provide an even better service.',
 
     'amount' => 'Amount',
 
