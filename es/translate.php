@@ -20,7 +20,7 @@ $translations = array(
 
     'p2c' => 'con lo cual tendrá una copia idéntica de los archivos de traducción en su cuenta. Clone el repositorio para crear una copia en su sistema. El comando git para esto es: ',
 
-    'p2d' => 'git clone git@github.com:[Your_GitHub_username]/db4free-net-l10n.git',
+    'p2d' => 'git clone git@github.com:[Tu_nombre_de_usuario_de_GitHub]/db4free-net-l10n.git',
 
     'p2e' => 'Le recomendamos que cree una rama (branch) separada para sus traducciones, así:',
 
@@ -36,9 +36,9 @@ $translations = array(
 
     'p2k' => '\'h1\' => \'Bienvenido a db4free.net\',',
 
-    'p2l' => 'Si un texto es el mismo en inglés y en el idioma al que se traduce, es posible eliminar la línea o simplemente dejarla.',
+    'p2l' => 'Si un texto es el mismo en inglés y en el idioma al que se traduce, es posible eliminar la línea o simplemente dejarla como está.',
 
-    'p2m' => 'Cuando haya terminado sus traducciones, haga commit y push a su respositorio de GitHub. Cambie a su nuevo branch en GitHub y haga clic en "New Pull Request". Introduzca una breve descripción de sus traducciones, las dificultades que enfrentó o lo que usted puede no haber sido capaz de terminar, entre otras cosas, y envie el pull request.',
+    'p2m' => 'Cuando haya terminado sus traducciones, haga un commit y un push a su respositorio de GitHub. Cambie a su nuevo branch en GitHub y haga clic en "New Pull Request". Introduzca una breve descripción de sus traducciones, las dificultades que enfrentó o lo que usted puede no haber sido capaz de terminar, entre otras cosas, y envie el pull request.',
 
     'p2n' => 'Si desea contribuir pero necesita ayuda adicional antes de que pueda comenzar, por favor <a href="https://github.com/mpopp75/db4free-net-l10n/issues">abra un Ticket en GitHub</a>.',
 );

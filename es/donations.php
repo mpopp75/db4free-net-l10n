@@ -12,6 +12,6 @@ $translations = array(
 
     'amount' => 'Cantidad',
 
-    'currency' => 'Moneda',
+    'currency' => 'Tipo de cambio',
 );
 ?>

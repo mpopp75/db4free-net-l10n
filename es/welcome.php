@@ -9,15 +9,15 @@
 $translations = array(
     'h1' => 'Bienvenido a db4free.net',
 
-    'p1a' => 'db4free.net ofrece un servicio de pruebas para la última versión - a veces en desarrollo - del <a href="https://www.mysql.com/">Servidor MySQL</a>. Usted puede fácilmente <a href="/signup.php">crear una cuenta gratis</a> y probar sus aplicaciones, por ejemplo, para asegurarse de que siguen funcionando después de una actualización de la versión de MySQL. db4free.net es también un buen recurso educacional para familiarizarse con las nuevas características de las versiones mas recientes.',
+    'p1a' => 'db4free.net ofrece un servicio de pruebas para la última versión - a veces en desarrollo - de un <a href="https://www.mysql.com/">servidor MySQL</a>. Usted puede fácilmente <a href="/signup.php">crear una cuenta gratis</a> y probar sus aplicaciones, por ejemplo, para asegurarse de que siguen funcionando después de una actualización de la versión de MySQL. db4free.net es también un buen recurso educacional para familiarizarse con las nuevas características de las versiones mas recientes.',
 
     'p1b' => 'db4free.net tiene como objetivo proporcionar siempre la última versión para producción o en desarrollo. El servidor MySQL de db4free.net será actualizado al poco tiempo de haber sido lanzada una nueva versión, por lo general en el mismo día o poco después.',
 
     'p1c' => 'Para acceder a sus datos de una manera conveniente, db4free.net también proporciona una versión actualizada de <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin tambien se actualizará frecuentemente, por lo cual siempre obtendrá la última versión.',
 
-    'h2' => 'Lo que no es db4free.net',
+    'h2' => 'Qué no es db4free.net',
 
-    'p2' => 'db4free.net es un <b>servicio de prueba</b>, lo que significa que no es adecuado para un entorno de producción. Pueden presentarse interrupciones, pérdida de datos y funciones de seguridad que no cumplen con los estándares que usted espera de un proveedor de hosting de datos comercial. Si usted necesita una base de datos MySQL para uso en producción, por favor no utilice db4free.net!',
+    'p2' => 'db4free.net es un <b>servicio de prueba</b>, lo que significa que no es adecuado para un entorno de producción. Pueden presentarse interrupciones, pérdida de datos y funciones de seguridad que no cumplen con los estándares que usted espera de un proveedor de hosting de datos profesional. Si usted necesita una base de datos MySQL para uso de producción, por favor no utilice db4free.net!',
 
     'h3' => '¿Puedes ayudar a traducir db4free.net?',
 
