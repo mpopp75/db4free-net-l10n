@@ -1,10 +1,9 @@
 <?php
-
 /*
-  Section: system-messages
-  Language: Spanish Español
-  Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
- */
+Section: system-messages
+Language: Spanish Español
+Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
+*/
 
 $translations = array(
     'database' => 'Base de datos',

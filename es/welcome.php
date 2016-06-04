@@ -1,10 +1,9 @@
 <?php
-
 /*
-  Section: welcome
-  Language: Spanish Español
-  Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
- */
+Section: welcome
+Language: Spanish Español
+Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
+*/
 
 $translations = array(
     'h1' => 'Bienvenido a db4free.net',
