@@ -1,7 +1,7 @@
 <?php
 /*
 Section: system-messages
-Language: English
+Language: Bahasa Indonesia
 */
 
 $translations = array(

@@ -1,7 +1,7 @@
 <?php
 /*
 Section: phpmyadmin
-Language: English
+Language: Bahasa Indonesia
 */
 
 $translations = array(

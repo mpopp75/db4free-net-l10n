@@ -1,7 +1,7 @@
 <?php
 /*
 Section: imprint
-Language: English
+Language: Bahasa Indonesia
 */
 
 $translations = array(
