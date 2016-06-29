@@ -7,7 +7,7 @@ Language: Bahasa Indonesia
 $translations = array(
     'h1' => 'Jejak',
 
-    'p1' => '&copy; 2005-%d by',
+    'p1' => '&copy; 2005-%d oleh',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
