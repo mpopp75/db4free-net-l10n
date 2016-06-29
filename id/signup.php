@@ -27,38 +27,38 @@ $translations = array(
 
     'explanation' => 'Nama pengguna dan nama database haruslah huruf kecil, angka dan juga garis bawah dan juga harus 4 sampai 16 karakter. Anda tidak boleh menggunakan <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html"><em>reserved words</em></a>!',
 
-    'maintenance-notice' => 'Due to database maintenance, no registrations are currently possible.',
+    'maintenance-notice' => 'Di saat sedang perbaikan, pendaftaran ditutup dulu.',
 
-    'agm-p1' => 'By registering for a db4free.net account you agree that:',
+    'agm-p1' => 'Dengan mendaftar akun di db4free.net Anda mengerti akan hal berikut:',
 
-    'agm-li1' => 'db4free.net is a testing environment',
+    'agm-li1' => 'db4free.net adalah layanan test',
 
-    'agm-li2' => 'db4free.net is not suitable for production',
+    'agm-li2' => 'db4free.net tidak baik untuk produksi',
 
-    'agm-li3' => 'if you decide to use your db4free.net database in production despite the warnings, you do that at your own risk (very frequent backups are highly recommended)',
+    'agm-li3' => 'jika Anda bersikeras untuk menggunakan db4free.net database di dalam produksi meskipun sudah diperingatkan, maka lakukan dengan resiko Anda sendiri (disarankan untuk selalu mem-backup)',
 
-    'agm-li4' => 'data loss and outages can happen at any time (any complaints about that will likely be ignored)',
+    'agm-li4' => 'kehilangan data dapat terjadi kapanpun (keluhan akan ini kemungkinan akan diabaikan)',
 
-    'agm-li5' => 'the db4free.net team is not granting any warranty or liability of any kind',
+    'agm-li5' => 'tim db4free.net tidak memberikan jaminan atau garansi dalam bentuk apapun',
 
-    'agm-li6' => 'the db4free.net team reserves the right to delete databases and/or accounts at any time without notice',
+    'agm-li6' => 'tim db4free.net berhak menghapus database dan atau akun sekalipun tanpa pemberitahuan kepada pihak pengguna',
 
-    'agm-li7' => 'it is up to you to get the latest information from <a href="/twitter.php">Twitter</a> and the <a href="/blog.php">db4free.net blog</a>',
+    'agm-li7' => 'silakan kunjungi jika ingin mendapat informasi terbaru dari <a href="/twitter.php">Twitter</a> atau dari <a href="/blog.php">Blog db4free.net</a>',
 
-    'agm-li8' => 'db4free.net provides only a MySQL database, but no web space (there is nowhere to upload any files)',
+    'agm-li8' => 'db4free.net melayani database MySQL saja, tidak dengan web space (tidak ada tempat untuk mengupload segala macam berkas)',
 
-    'agm-p2' => 'Further:',
+    'agm-p2' => 'Lebih lanjut:',
 
-    'agm-li9' => 'db4free.net is a service for testing, not for hosting. Databases that store more than 200 MB data will be cleared at irregular intervals without notification',
+    'agm-li9' => 'db4free.net adalah layanan tes, bukan hosting. Database yang melebihi kapasitas data 200 MB akan dibersihkan tanpa pemberitahuan kepada pihak terkait',
 
-    'agm-li10' => 'Please remove data which you no longer need, or <a href="/delete-account.php">delete your no longer needed account</a>. This makes it easier to recover if a server crash occurs.',
+    'agm-li10' => 'Harap hapus data jika Anda, atau <a href="/delete-account.php">hapus akun Anda jika anda sudah tidak memerlukannya lagi</a>. Ini akan mengurangi beban saat pemulihan jika server mengalami kerusakan.',
 
-    'signup-error1' => 'You have to agree with the conditions of use!',
+    'signup-error1' => 'Anda harus setuju dengan syarat penggunaan!',
 
-    'signup-error2' => 'Error registering the data for your MySQL database!',
+    'signup-error2' => 'Gagal mendaftarkan database MySQL Anda!',
 
-    'signup-error3' => 'Error sending the confirmation email!',
+    'signup-error3' => 'Gagal mengirim email konfirmasi',
 
-    'signup-success' => 'Thank you for your registration! You will receive an email to confirm the registration.',
+    'signup-success' => 'Terima kasih telah mendaftar! Anda akan menerima email untuk mengkonfirmasi permohonan pendaftaran.',
 );
 ?>
