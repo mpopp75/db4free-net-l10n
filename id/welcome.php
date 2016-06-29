@@ -9,7 +9,7 @@ $translations = array(
 
     'p1a' => 'db4free.net merupakan layanan tes untuk versi terbaru - terkadang versi pengembangan - dari <a href="https://www.mysql.com/">MySQL Server</a>. Anda dapat dengan mudah <a href="/signup.php">membuat akun dengan gratis</a> dan melakukan tes terhadap aplikasi Anda, contohnya Anda ingin mengetahui apa aplikasi Anda masih bekerja setelah MySQL update ke versi terbaru. db4free.net bagus untuk bahan edukasi dan membuat Anda terbiasa dengan fitur terbaru di versi MySQL yang terbaru.',
 
-    'p1b' => 'db4free.net bertujuan untuk selalu menyediakan rilisan terbaru versi produksi maupun pengembangan. MySQL server db4free.net\'s akan di-update secepatnya setelah versi terbaru dirilis, biasanya di hari yang sama.',
+    'p1b' => 'db4free.net bertujuan untuk selalu menyediakan rilisan terbaru versi produksi maupun pengembangan. MySQL server db4free.net akan di-update secepatnya setelah versi terbaru dirilis, biasanya di hari yang sama.',
 
     'p1c' => 'Untuk mengakses data Anda secara nyaman, db4free.net juga menyediakan sebuah versi terbaru dari <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin juga akan selalu ter-update, jadi Anda akan selalu menggunakan versi terbarunya.',
 
