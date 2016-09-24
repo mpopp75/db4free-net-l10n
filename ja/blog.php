@@ -9,6 +9,6 @@ $translations = array(
 
     'visitblog' => 'mpopp.netのブログに移動する(新しいタブで開きます)',
 
-    'listposts' => 'ブログ記事一覧:',
+    'listposts' => 'ブログの記事一覧:',
 );
 ?>
