@@ -7,6 +7,10 @@ Language: English
 $translations = array(
     'h1' => 'Welcome to db4free.net',
 
+    'p0a' => '<a href="https://mysql8.db4free.net">Try MySQL 8.0&nbsp;&raquo;</a>',
+
+    'p0b' => '<a href="https://www.mpopp.net/2016/09/db4free-net-and-mysql-8-0/">Learn More&nbsp;&raquo;</a>',
+
     'p1a' => 'db4free.net provides a testing service for the latest - sometimes even development - version of the <a href="https://www.mysql.com/">MySQL Server</a>. You can easily <a href="/signup.php">create an account for free</a> and test your applications, for example to make sure that they still work after a MySQL version update. db4free.net is also a good resource for education and to make yourself familiar with new features that were introduced in new versions.',
 
     'p1b' => 'db4free.net aims to always provide either the latest production release or the latest development release. db4free.net\'s MySQL server will be updated very soon after a new version is released, usually on the same day or very soon after.',
