@@ -25,7 +25,9 @@ $translations = array(
 
     'p4a' => '<a href="https://www.mpopp.net/category/db4free/">db4free.net sekmesi</a> <a href="https://www.mpopp.net/">mpopp.net blog</a> unda site hakkında bir çok haberi içerir. Lütfen <a href="https://www.mpopp.net/category/db4free/feed/">RSS Besleme</a> kanalına abone olarak son gelişmelerden haberdar kalın. db4free.net ayrıca <a href="/twitter.php">Twitter</a> da, db4free.net dünyasında en son gelişmeleri takip etme imkanı sunar.',
 
-    'p4b' => 'MySQL öğrenmek için en iyi kaynaklar <a href="https://dev.mysql.com/">MySQL Geliştirici Bölgesi</a>, <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Kullanım Kılavuzu</a> ve <a href="https://planet.mysql.com/">PlanetMySQL</a>. MySQL websitesi bir çok <a href="https://dev.mysql.com/tech-resources/articles/">Geliştirici Makaleleri</a> sunar bu makaleler yayınlanan son versiyonlar hakkında daha detaylı bilgiler içerir.',
+    'p4b-5.7' => 'MySQL öğrenmek için en iyi kaynaklar <a href="https://dev.mysql.com/">MySQL Geliştirici Bölgesi</a>, <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Kullanım Kılavuzu</a> ve <a href="https://planet.mysql.com/">PlanetMySQL</a>. MySQL websitesi bir çok <a href="https://dev.mysql.com/tech-resources/articles/">Geliştirici Makaleleri</a> sunar bu makaleler yayınlanan son versiyonlar hakkında daha detaylı bilgiler içerir.',
+
+    'p4b-8.0' => 'MySQL öğrenmek için en iyi kaynaklar <a href="https://dev.mysql.com/">MySQL Geliştirici Bölgesi</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Kullanım Kılavuzu</a> ve <a href="https://planet.mysql.com/">PlanetMySQL</a>. MySQL websitesi bir çok <a href="https://dev.mysql.com/tech-resources/articles/">Geliştirici Makaleleri</a> sunar bu makaleler yayınlanan son versiyonlar hakkında daha detaylı bilgiler içerir.',
 
     'p4c' => 'Eğer MySQL Serverda bir açık bulduysanız, lütfen <a href="https://bugs.mysql.com/">MySQL Hata İzleme Sistemi</a> nden bildiriniz.',
 );

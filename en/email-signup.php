@@ -5,11 +5,21 @@ Language: English
 */
 
 $translations = array(
-    'email' => 'Thank you for registering your database account {$user} with db4free.net.
+    /*
+     Differences email-5.7-intro vs. email-8.0-intro:
+     * Version 5.7 <-> Version 8.0
+     * Port 3306 <-> Port 3307
+     * Version 8.0 removes "(which is the default port for MySQL)"
+     */
+    'email-5.7-intro' => 'Thank you for registering your database account {$user} with db4free.net.
 
-After confirming the link below, you have access to db4free.net\'s MySQL 5.7 database server. The host name to access the server is db4free.net and the port is 3306 (which is the default port for MySQL). You can use phpMyAdmin on our website to log in to the server.
+After confirming the link below, you have access to db4free.net\'s MySQL 5.7 database server. The host name to access the server is db4free.net and the port is 3306 (which is the default port for MySQL). You can use phpMyAdmin on our website to log in to the server.',
 
-Please use the following link to finish the registration process within the next 14 days. By clicking this link you confirm (again) that you understand that:
+    'email-8.0-intro' => 'Thank you for registering your database account {$user} with db4free.net.
+
+After confirming the link below, you have access to db4free.net\'s MySQL 8.0 database server. The host name to access the server is db4free.net and the port is 3307. You can use phpMyAdmin on our website to log in to the server.',
+
+    'email-common' => 'Please use the following link to finish the registration process within the next 14 days. By clicking this link you confirm (again) that you understand that:
 
 * db4free.net is a testing environment
 * db4free.net is not suitable for production

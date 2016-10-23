@@ -5,11 +5,15 @@ Language: German
 */
 
 $translations = array(
-    'email' => 'Vielen Dank, dass Sie den Datenbank-Account {$user} bei db4free.net registriert haben.
+    'email-5.7-intro' => 'Vielen Dank, dass Sie den Datenbank-Account {$user} bei db4free.net registriert haben.
 
-Nach Bestätigung des folgenden Freischaltungs-Links, haben Sie Zugriff auf db4free.net\'s MySQL 5.7 Datenbank-Server. Um auf den Server zugreifen zu können, müssen Sie als Hostnamen db4free.net und als Port 3306 (welches der MySQL Standard-Port ist) eingeben. Sie können auch phpMyAdmin auf unserer Website verwenden, um auf den Server zuzugreifen.
+Nach Bestätigung des folgenden Freischaltungs-Links, haben Sie Zugriff auf db4free.net\'s MySQL 5.7 Datenbank-Server. Um auf den Server zugreifen zu können, müssen Sie als Hostnamen db4free.net und als Port 3306 (welches der MySQL Standard-Port ist) eingeben. Sie können auch phpMyAdmin auf unserer Website verwenden, um auf den Server zuzugreifen.',
 
-Bitte verwenden Sie diesen Link innerhalb der nächsten 14 Tage, um den Registrierungsprozess abzuschliessen. Mit dem Klick auf diesen Link bestätigen Sie (nochmals) zur Kenntnis genommen zu haben, dass:
+    'email-8.0-intro' => 'Vielen Dank, dass Sie den Datenbank-Account {$user} bei db4free.net registriert haben.
+
+Nach Bestätigung des folgenden Freischaltungs-Links, haben Sie Zugriff auf db4free.net\'s MySQL 8.0 Datenbank-Server. Um auf den Server zugreifen zu können, müssen Sie als Hostnamen db4free.net und als Port 3307 eingeben. Sie können auch phpMyAdmin auf unserer Website verwenden, um auf den Server zuzugreifen.',
+
+    'email-common' => 'Bitte verwenden Sie diesen Link innerhalb der nächsten 14 Tage, um den Registrierungsprozess abzuschliessen. Mit dem Klick auf diesen Link bestätigen Sie (nochmals) zur Kenntnis genommen zu haben, dass:
 
 * db4free.net eine Test-Umgebung ist
 * db4free.net nicht für den produktiven Einsatz geeignet ist

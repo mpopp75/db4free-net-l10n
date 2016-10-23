@@ -25,7 +25,9 @@ $translations = array(
 
     'ph3' => 'メールアドレスを入力してください。',
 
-    'explanation' => 'データベースユーザー名とデータベース名は小文字、数字、アンダースコアのみ使え、また4文字以上16文字以下である必要があります。他にも、<a href="https://dev.mysql.com/doc/refman/5.7/ja/reserved-words.html">予約文字列</a>は使うことができません!',
+    'explanation-5.7' => 'データベースユーザー名とデータベース名は小文字、数字、アンダースコアのみ使え、また4文字以上16文字以下である必要があります。他にも、<a href="https://dev.mysql.com/doc/refman/5.7/ja/reserved-words.html">予約文字列</a>は使うことができません!',
+
+    'explanation-8.0' => 'データベースユーザー名とデータベース名は小文字、数字、アンダースコアのみ使え、また4文字以上16文字以下である必要があります。他にも、<a href="https://dev.mysql.com/doc/refman/8.0/ja/reserved-words.html">予約文字列</a>は使うことができません!',
 
     'maintenance-notice' => 'メンテナンス中のため、現在登録は受付できません。',
 

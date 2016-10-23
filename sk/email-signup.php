@@ -6,11 +6,15 @@ Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
 $translations = array(
-    'email' => 'Ďakujeme {$user} za registráciu databázového účtu na db4free.net.
+    'email-5.7-intro' => 'Ďakujeme {$user} za registráciu databázového účtu na db4free.net.
 
-Po potvrdení kliknite na nižšie uvedený odkaz, tak budete mať prístup k MySQL 5.7 databázového servera. Názov hostiteľa pre prístup k serveru je db4free.net a port je 3306 (čo je predvolený port pre MySQL). Pre prihlásenie na server môžete použiť phpMyAdmin na našich webových stránkach.
+Po potvrdení kliknite na nižšie uvedený odkaz, tak budete mať prístup k MySQL 5.7 databázového servera. Názov hostiteľa pre prístup k serveru je db4free.net a port je 3306 (čo je predvolený port pre MySQL). Pre prihlásenie na server môžete použiť phpMyAdmin na našich webových stránkach.',
 
-Využite nasledujúci odkaz pre dokončenie registračného procesu počas nasledujúcich 14 dní. Po kliknutí na tento odkaz potvrdzujete, že ste boli uzrozumení s týmito zásadami:
+    'email-8.0-intro' => 'Ďakujeme {$user} za registráciu databázového účtu na db4free.net.
+
+Po potvrdení kliknite na nižšie uvedený odkaz, tak budete mať prístup k MySQL 8.0 databázového servera. Názov hostiteľa pre prístup k serveru je db4free.net a port je 3307. Pre prihlásenie na server môžete použiť phpMyAdmin na našich webových stránkach.',
+
+    'email-common' => 'Využite nasledujúci odkaz pre dokončenie registračného procesu počas nasledujúcich 14 dní. Po kliknutí na tento odkaz potvrdzujete, že ste boli uzrozumení s týmito zásadami:
 
 * Db4free.net je testovacie prostredie
 * Db4free.net nie je vhodný pre bussines a komerčné účely
