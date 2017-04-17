@@ -25,7 +25,9 @@ $translations = array(
 
     'p4a' => '<a href="https://www.mpopp.net/category/db4free/">Секция о db4free.net</a> в <a href="https://www.mpopp.net/">блоге mpopp.net</a> позволяет узнать новости db4free.net. Пожалуйста подпишитесь на <a href="https://www.mpopp.net/category/db4free/feed/">RSS ленту</a>, чтобы не пропустить ниодной новости. db4free.net также есть в <a href="/twitter.php">Twitter</a>, другом хорошем ресурсе, поясняющем о том, что происходит в мире db4free.net.',
 
-    'p4b' => 'Лучшие ресурсы для изучения MySQL это <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Reference Manual</a> и <a href="https://planet.mysql.com/">PlanetMySQL</a>. Сайт MySQL содержит набор статей <a href="https://dev.mysql.com/tech-resources/articles/">Статьи разработчиков</a> , многие из которых объясняют работу новых функций, которые были или будут внедрены в новой версии.',
+    'p4b-5.7' => 'Лучшие ресурсы для изучения MySQL это <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Reference Manual</a> и <a href="https://planet.mysql.com/">PlanetMySQL</a>. Сайт MySQL содержит набор статей <a href="https://dev.mysql.com/tech-resources/articles/">Статьи разработчиков</a> , многие из которых объясняют работу новых функций, которые были или будут внедрены в новой версии.',
+
+    'p4b-8.0' => 'Лучшие ресурсы для изучения MySQL это <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> и <a href="https://planet.mysql.com/">PlanetMySQL</a>. Сайт MySQL содержит набор статей <a href="https://dev.mysql.com/tech-resources/articles/">Статьи разработчиков</a> , многие из которых объясняют работу новых функций, которые были или будут внедрены в новой версии.',
 
     'p4c' => 'Если, вы нашли ошибку в работе MySQL сервера, сообщите о ней в <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );

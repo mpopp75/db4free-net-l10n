@@ -26,7 +26,9 @@ $translations = array(
 
     'ph3' => '輸入你的Email',
 
-    'explanation' => '使用者名稱與資料庫名稱限制4到16個字元，允許小寫字母、數字以及下底線。 不可使用 <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">保留字</a>！',
+    'explanation-5.7' => '使用者名稱與資料庫名稱限制4到16個字元，允許小寫字母、數字以及下底線。 不可使用 <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">保留字</a>！',
+
+    'explanation-8.0' => '使用者名稱與資料庫名稱限制4到16個字元，允許小寫字母、數字以及下底線。 不可使用 <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">保留字</a>！',
 
     'maintenance-notice' => '由於資料庫維修，暫停註冊。',
 

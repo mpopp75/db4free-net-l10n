@@ -25,7 +25,9 @@ $translations = array(
 
     'ph3' => 'Saisissez votre adresse mail',
 
-    'explanation' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">de mots réservés</a>&nbsp;!',
+    'explanation-5.7' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">de mots réservés</a>&nbsp;!',
+
+    'explanation-8.0' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">de mots réservés</a>&nbsp;!',
 
     'maintenance-notice' => 'En raison d\'une maintenance sur la base, aucune inscription n\'est possible actuellement.',
 

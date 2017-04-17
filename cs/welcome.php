@@ -26,7 +26,9 @@ $translations = array(
 
     'p4a' => 'Zde je <a href="https://www.mpopp.net/category/db4free/">db4free.net odkaz</a> na <a href="https://www.mpopp.net/">mpopp.net blog</a>, který Vám přináší novinky o db4free.net. Prosím, přihlaste se do <a href="https://www.mpopp.net/category/db4free/feed/">RSS</a> a nenechte si ujít žádnou novinku. db4free.net je také na <a href="/twitter.php">Twitteru</a>.',
 
-    'p4b' => 'Nejlepšími zdroji, které Vás budou informovat ohledně MySQL jsou <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL reference Manual</a> a <a href="https://planet.mysql.com/">PlanetMySQL</a>. Na webových stránkách MySQL nabízí řadu <a href="https://dev.mysql.com/tech-resources/articles/">Developer článků</a> z nichž mnohé vysvětlují, nové funkce, které jsou zavedeny v nadcházejících verzích.',
+    'p4b-5.7' => 'Nejlepšími zdroji, které Vás budou informovat ohledně MySQL jsou <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL reference Manual</a> a <a href="https://planet.mysql.com/">PlanetMySQL</a>. Na webových stránkách MySQL nabízí řadu <a href="https://dev.mysql.com/tech-resources/articles/">Developer článků</a> z nichž mnohé vysvětlují, nové funkce, které jsou zavedeny v nadcházejících verzích.',
+
+    'p4b-8.0' => 'Nejlepšími zdroji, které Vás budou informovat ohledně MySQL jsou <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL reference Manual</a> a <a href="https://planet.mysql.com/">PlanetMySQL</a>. Na webových stránkách MySQL nabízí řadu <a href="https://dev.mysql.com/tech-resources/articles/">Developer článků</a> z nichž mnohé vysvětlují, nové funkce, které jsou zavedeny v nadcházejících verzích.',
 
     'p4c' => 'Pokud najdete chybu v MySQL serveru, oznamte to prosím na <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );

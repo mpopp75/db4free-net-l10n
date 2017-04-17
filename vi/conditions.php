@@ -5,6 +5,7 @@ Language: Vietnamese
 */
 
 $translations = array(
+
     'h1' => 'Điều khoản sử dụng',
 
     'p1' => 'Không có trường hợp, chúng tôi, đội ngũ db4free.net, chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, đặc biệt, ngẫu nhiên, hoặc do hậu quả, bao gồm cả việc mất doanh thu, phát sinh từ việc sử dụng hoặc không có khả năng hoạt động của các máy chủ này, phần mềm, dịch vụ của hoặc tài liệu của nó ngay cả khi người quản trị đã được thông báo về khả năng thiệt hại đó.',

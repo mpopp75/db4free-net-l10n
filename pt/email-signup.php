@@ -5,11 +5,15 @@ Language: Portuguese (Brazilian)
 */
 
 $translations = array(
-    'email' => 'Obrigado por se cadastrar no db4free.net {$user}.
+    'email-5.7-intro' => 'Obrigado por se cadastrar no db4free.net {$user}.
 
-Após confirmar sua conta no link abaixo, você terá acessp ao servidor de banco de dados MySQL 5,6 do db4free.net. O nome do "host" para acesso ao servidor é db4free.net e a porta é 3306 (que é a porta padrão do MySQL). Você pode usar o phpMyAdmin no nosso site para acessar o servidor.
+Após confirmar sua conta no link abaixo, você terá acessp ao servidor de banco de dados MySQL 5,7 do db4free.net. O nome do "host" para acesso ao servidor é db4free.net e a porta é 3306 (que é a porta padrão do MySQL). Você pode usar o phpMyAdmin no nosso site para acessar o servidor.',
 
-Use o link abaixo para confirmar o seu cadastro em no máximo 14 dias. Clicando nesse link você confirma novamente que entedeu que:
+    'email-8.0-intro' => 'Obrigado por se cadastrar no db4free.net {$user}.
+
+Após confirmar sua conta no link abaixo, você terá acessp ao servidor de banco de dados MySQL 8,0 do db4free.net. O nome do "host" para acesso ao servidor é db4free.net e a porta é 3307. Você pode usar o phpMyAdmin no nosso site para acessar o servidor.',
+
+    'email-common' => 'Use o link abaixo para confirmar o seu cadastro em no máximo 14 dias. Clicando nesse link você confirma novamente que entedeu que:
 
 * O db4free.net é um ambiente de teste
 * O db4free.net não é para produtos finais

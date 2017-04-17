@@ -25,7 +25,9 @@ $translations = array(
 
     'p4a' => 'これは<a href="https://www.mpopp.net/">mpopp.net ブログ</a>内の<a href="https://www.mpopp.net/category/db4free/">db4free.netセクション</a>でdb4free.netに関する情報を得ることができます。更新を見逃したくないのであれば、<a href="https://www.mpopp.net/category/db4free/feed/">RSSフィード</a>を購読することをご検討ください。また、db4free.netは<a href="/twitter.php">Twitterアカウント</a>もご用意しています。ここでは、db4free.netの表面で起こっている別の素晴らしい情報についてご紹介しています。',
 
-    'p4b' => 'MySQLについて学ぶのであれば、 <a href="https://dev.mysql.com/">MySQL Developer Zone</a>、<a href="https://dev.mysql.com/doc/refman/5.7/ja/">MySQL リファレンスマニュアル</a>、<a href="https://planet.mysql.com/">PlanetMySQL</a>がオススメです。MySQLのサイトでオススメなのは、<a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a>です。ここはたくさんの新機能と最新版についての最高の説明をしています。',
+    'p4b-5.7' => 'MySQLについて学ぶのであれば、 <a href="https://dev.mysql.com/">MySQL Developer Zone</a>、<a href="https://dev.mysql.com/doc/refman/5.7/ja/">MySQL リファレンスマニュアル</a>、<a href="https://planet.mysql.com/">PlanetMySQL</a>がオススメです。MySQLのサイトでオススメなのは、<a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a>です。ここはたくさんの新機能と最新版についての最高の説明をしています。',
+
+    'p4b-8.0' => 'MySQLについて学ぶのであれば、 <a href="https://dev.mysql.com/">MySQL Developer Zone</a>、<a href="https://dev.mysql.com/doc/refman/8.0/ja/">MySQL リファレンスマニュアル</a>、<a href="https://planet.mysql.com/">PlanetMySQL</a>がオススメです。MySQLのサイトでオススメなのは、<a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a>です。ここはたくさんの新機能と最新版についての最高の説明をしています。',
 
     'p4c' => 'もしあなたがMySQLサーバについてバグを見つけたら、 <a href="https://bugs.mysql.com/">MySQLバグトラッキングシステム</a>にご報告をお願いいたします。',
 );

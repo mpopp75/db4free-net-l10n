@@ -7,7 +7,9 @@ Language: English
 $translations = array(
     'h1' => 'Welcome to db4free.net',
 
-    'p0a' => '<a href="https://mysql8.db4free.net">Try MySQL 8.0&nbsp;&raquo;</a>',
+    'p0a-5.7' => '<a href="https://mysql8.db4free.net">Try MySQL 8.0&nbsp;&raquo;</a>',
+
+    'p0a-8.0' => '<a href="https://www.db4free.net">Return to www.db4free.net&nbsp;&raquo;</a>',
 
     'p0b' => '<a href="https://www.mpopp.net/2016/09/db4free-net-and-mysql-8-0/">Learn More&nbsp;&raquo;</a>',
 
@@ -29,7 +31,10 @@ $translations = array(
 
     'p4a' => 'There is a <a href="https://www.mpopp.net/category/db4free/">db4free.net section</a> in the <a href="https://www.mpopp.net/">mpopp.net blog</a> bringing you the News about db4free.net. Please subscribe to the <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> to make sure you don\'t miss any news. db4free.net is also on <a href="/twitter.php">Twitter</a>, another great resource to stay on top of what is happening in the db4free.net world.',
 
-    'p4b' => 'The best resources to learn more about MySQL are the <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Reference Manual</a> and <a href="https://planet.mysql.com/">PlanetMySQL</a>. The MySQL website offers a number of <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a> many of which explain new features that are being introduced in upcoming versions in excellent detail.',
+    // only difference p4b-5.7 vs. p4b-8.0 is the version number in the URL
+    'p4b-5.7' => 'The best resources to learn more about MySQL are the <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL Reference Manual</a> and <a href="https://planet.mysql.com/">PlanetMySQL</a>. The MySQL website offers a number of <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a> many of which explain new features that are being introduced in upcoming versions in excellent detail.',
+
+    'p4b-8.0' => 'The best resources to learn more about MySQL are the <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> and <a href="https://planet.mysql.com/">PlanetMySQL</a>. The MySQL website offers a number of <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a> many of which explain new features that are being introduced in upcoming versions in excellent detail.',
 
     'p4c' => 'If you find a bug in the MySQL Server, please report it in the <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
 );
