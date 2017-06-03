@@ -8,6 +8,12 @@ Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 $translations = array(
     'h1' => 'Bienvenido a db4free.net',
 
+    'p0a-5.7' => '<a href="https://mysql8.db4free.net">Prueba MySQL 8.0&nbsp;&raquo;</a>',
+
+    'p0a-8.0' => '<a href="https://www.db4free.net">Volver a www.db4free.net&nbsp;&raquo;</a>',
+
+    'p0b' => '<a href="https://www.mpopp.net/2016/09/db4free-net-and-mysql-8-0/">Saber Más&nbsp;&raquo;</a>',
+
     'p1a' => 'db4free.net ofrece un servicio de pruebas para la última versión - a veces en desarrollo - de un <a href="https://www.mysql.com/">servidor MySQL</a>. Usted puede fácilmente <a href="/signup.php">crear una cuenta gratis</a> y probar sus aplicaciones, por ejemplo, para asegurarse de que siguen funcionando después de una actualización de la versión de MySQL. db4free.net es también un buen recurso educacional para familiarizarse con las nuevas características de las versiones mas recientes.',
 
     'p1b' => 'db4free.net tiene como objetivo proporcionar siempre la última versión para producción o en desarrollo. El servidor MySQL de db4free.net será actualizado al poco tiempo de haber sido lanzada una nueva versión, por lo general en el mismo día o poco después.',
