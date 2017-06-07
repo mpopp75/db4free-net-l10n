@@ -12,7 +12,5 @@ $translations = array(
     'amount' => 'Amount',
 
     'currency' => 'Currency',
-
-    'bitcoins' => 'Please enter the donation amount in your Bitcoin app after scanning the QR code.',
 );
 ?>
