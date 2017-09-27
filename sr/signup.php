@@ -26,9 +26,9 @@ $translations = array(
     'ph3' => 'Unesite vašu email adresu',
 
     // only difference explanation-5.7 vs. explanation-8.0 is the version number in the URL
-    'explanation-5.7' => 'Korisničko ime baze podataka i naziv baze može sadržati mala slova, brojeve i donju crtu i mora biti između 4 i 16 karaktera. Ne smete koristiti <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">rezervisane reči</a>!',
+    'explanation-5.7' => 'Korisničko ime baze podataka i naziv baze može sadržati mala slova, brojeve i donju crtu i mora biti između 4 i 16 karaktera. Ne smete koristiti <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">rezervisane reči</a>!',
 
-    'explanation-8.0' => 'Korisničko ime baze podataka i naziv baze može sadržati mala slova, brojeve i donju crtu i mora biti između 4 i 16 karaktera. Ne smete koristiti <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">rezervisane reči</a>!',
+    'explanation-8.0' => 'Korisničko ime baze podataka i naziv baze može sadržati mala slova, brojeve i donju crtu i mora biti između 4 i 16 karaktera. Ne smete koristiti <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">rezervisane reči</a>!',
 
     'maintenance-notice' => 'Zbog održavanja baze podataka, trenutno nije moguća registracija.',
 

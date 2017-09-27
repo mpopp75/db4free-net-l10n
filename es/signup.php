@@ -26,9 +26,9 @@ $translations = array(
 
     'ph3' => 'Ingresa tu correo electrónico',
 
-    'explanation-5.7' => 'El usuario de base de datos y el nombre de la base de datos puede contener letras minúsculas, números y guión bajo, y deben tener entre 4 y 16 caracteres de longitud. Usted no debe usar ¡<a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">palabras reservadas</a>!',
+    'explanation-5.7' => 'El usuario de base de datos y el nombre de la base de datos puede contener letras minúsculas, números y guión bajo, y deben tener entre 4 y 16 caracteres de longitud. Usted no debe usar ¡<a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">palabras reservadas</a>!',
 
-    'explanation-8.0' => 'El usuario de base de datos y el nombre de la base de datos puede contener letras minúsculas, números y guión bajo, y deben tener entre 4 y 16 caracteres de longitud. Usted no debe usar ¡<a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">palabras reservadas</a>!',
+    'explanation-8.0' => 'El usuario de base de datos y el nombre de la base de datos puede contener letras minúsculas, números y guión bajo, y deben tener entre 4 y 16 caracteres de longitud. Usted no debe usar ¡<a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">palabras reservadas</a>!',
 
     'maintenance-notice' => 'Debido al mantenimiento de la base de datos, los registros no son posibles actualmente.',
 

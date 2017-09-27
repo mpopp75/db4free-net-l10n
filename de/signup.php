@@ -25,9 +25,9 @@ $translations = array(
 
     'ph3' => 'Geben Sie Ihre Email-Adresse ein',
 
-    'explanation-5.7' => 'Datenbank-Benutzer und Datenbank-Name dürfen Kleinbuchstaben, Ziffern und den Unterstrich enthalten und müssen zwischen 4 und 16 Zeichen lang sein. Sie dürfen keine <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">reservierten Wörter</a> verwenden!',
+    'explanation-5.7' => 'Datenbank-Benutzer und Datenbank-Name dürfen Kleinbuchstaben, Ziffern und den Unterstrich enthalten und müssen zwischen 4 und 16 Zeichen lang sein. Sie dürfen keine <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">reservierten Wörter</a> verwenden!',
 
-    'explanation-8.0' => 'Datenbank-Benutzer und Datenbank-Name dürfen Kleinbuchstaben, Ziffern und den Unterstrich enthalten und müssen zwischen 4 und 16 Zeichen lang sein. Sie dürfen keine <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">reservierten Wörter</a> verwenden!',
+    'explanation-8.0' => 'Datenbank-Benutzer und Datenbank-Name dürfen Kleinbuchstaben, Ziffern und den Unterstrich enthalten und müssen zwischen 4 und 16 Zeichen lang sein. Sie dürfen keine <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">reservierten Wörter</a> verwenden!',
 
     'maintenance-notice' => 'Aufgrund von Wartungsarbeiten sind derzeit keine Registrierungen möglich.',
 

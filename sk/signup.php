@@ -26,9 +26,9 @@ $translations = array(
 
     'ph3' => 'Zadajte svoju emailovú adresu',
 
-    'explanation-5.7' => 'Meno používateľa databázy a názov databázy musia obsahovať iba malé písmená, číslice alebo podčiarkovník a musia byť dlhé 4 až 16 znakov. Nesmiete používať <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">rezervované slová</a>!',
+    'explanation-5.7' => 'Meno používateľa databázy a názov databázy musia obsahovať iba malé písmená, číslice alebo podčiarkovník a musia byť dlhé 4 až 16 znakov. Nesmiete používať <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">rezervované slová</a>!',
 
-    'explanation-8.0' => 'Meno používateľa databázy a názov databázy musia obsahovať iba malé písmená, číslice alebo podčiarkovník a musia byť dlhé 4 až 16 znakov. Nesmiete používať <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">rezervované slová</a>!',
+    'explanation-8.0' => 'Meno používateľa databázy a názov databázy musia obsahovať iba malé písmená, číslice alebo podčiarkovník a musia byť dlhé 4 až 16 znakov. Nesmiete používať <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">rezervované slová</a>!',
 
     'maintenance-notice' => 'Z dôvodu údržby databázy v tomto momente nie je možné registrovať databázu.',
 

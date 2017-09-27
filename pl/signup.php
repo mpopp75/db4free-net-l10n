@@ -25,9 +25,9 @@ $translations = array(
 
     'ph3' => 'Podaj swój adres e-mail',
 
-    'explanation-5.7' => 'Nazwa użytkownika oraz nazwa bazy danych mogą zawierać małe litery, cyfry oraz znak podkreślenia i muszą zawierać od 4 do 16 znaków. Nie można używać <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">słów kluczowych</a>!',
+    'explanation-5.7' => 'Nazwa użytkownika oraz nazwa bazy danych mogą zawierać małe litery, cyfry oraz znak podkreślenia i muszą zawierać od 4 do 16 znaków. Nie można używać <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">słów kluczowych</a>!',
 
-    'explanation-8.0' => 'Nazwa użytkownika oraz nazwa bazy danych mogą zawierać małe litery, cyfry oraz znak podkreślenia i muszą zawierać od 4 do 16 znaków. Nie można używać <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">słów kluczowych</a>!',
+    'explanation-8.0' => 'Nazwa użytkownika oraz nazwa bazy danych mogą zawierać małe litery, cyfry oraz znak podkreślenia i muszą zawierać od 4 do 16 znaków. Nie można używać <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">słów kluczowych</a>!',
 
     'maintenance-notice' => 'Z powodu prac konserwacyjnych zakładanie nowych baz jest obecnie niemożliwe.',
 

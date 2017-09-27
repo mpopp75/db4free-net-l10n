@@ -25,9 +25,9 @@ $translations = array(
 
     'ph3' => 'Nhập địa chỉ thư điện tử',
 
-    'explanation-5.7' => 'Tên người dùng và tên cơ sỡ dữ liệu có thể bao gồm ký tự, ký số và gạch dưới và phải trong khoản 4 đến 16 ký tự. Bạn không được dùng <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">các từ khóa</a>!',
+    'explanation-5.7' => 'Tên người dùng và tên cơ sỡ dữ liệu có thể bao gồm ký tự, ký số và gạch dưới và phải trong khoản 4 đến 16 ký tự. Bạn không được dùng <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">các từ khóa</a>!',
 
-    'explanation-8.0' => 'Tên người dùng và tên cơ sỡ dữ liệu có thể bao gồm ký tự, ký số và gạch dưới và phải trong khoản 4 đến 16 ký tự. Bạn không được dùng <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">các từ khóa</a>!',
+    'explanation-8.0' => 'Tên người dùng và tên cơ sỡ dữ liệu có thể bao gồm ký tự, ký số và gạch dưới và phải trong khoản 4 đến 16 ký tự. Bạn không được dùng <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">các từ khóa</a>!',
 
     'maintenance-notice' => 'Do bảo trì cơ sở dữ liệu, không có đăng ký hiện nay là có thể.',
 

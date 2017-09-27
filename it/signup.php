@@ -25,9 +25,9 @@ $translations = array(
 
     'ph3' => 'Digita il tuo indirizzo Email',
 
-    'explanation-5.7' => 'Il nome utente ed il nome del database  possono contenere lettere minuscole, numeri e il carattere sottolineato (underscore)e devono essere lunghi tra i 4 ed i 16 caratteri. Non puoi usare le <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">parole riservate</a>!',
+    'explanation-5.7' => 'Il nome utente ed il nome del database  possono contenere lettere minuscole, numeri e il carattere sottolineato (underscore)e devono essere lunghi tra i 4 ed i 16 caratteri. Non puoi usare le <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">parole riservate</a>!',
 
-    'explanation-8.0' => 'Il nome utente ed il nome del database  possono contenere lettere minuscole, numeri e il carattere sottolineato (underscore)e devono essere lunghi tra i 4 ed i 16 caratteri. Non puoi usare le <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">parole riservate</a>!',
+    'explanation-8.0' => 'Il nome utente ed il nome del database  possono contenere lettere minuscole, numeri e il carattere sottolineato (underscore)e devono essere lunghi tra i 4 ed i 16 caratteri. Non puoi usare le <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">parole riservate</a>!',
 
     'maintenance-notice' => 'A causa di manutenzione al database, non è possibile effettuare ora la registrazione.',
 

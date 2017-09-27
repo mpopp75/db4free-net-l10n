@@ -25,9 +25,9 @@ $translations = array(
 
     'ph3' => 'Masukkan alamat email Anda',
 
-    'explanation-5.7' => 'Nama pengguna dan nama database haruslah huruf kecil, angka dan juga garis bawah dan juga harus 4 sampai 16 karakter. Anda tidak boleh menggunakan <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html"><em>reserved words</em></a>!',
+    'explanation-5.7' => 'Nama pengguna dan nama database haruslah huruf kecil, angka dan juga garis bawah dan juga harus 4 sampai 16 karakter. Anda tidak boleh menggunakan <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html"><em>reserved words</em></a>!',
 
-    'explanation-8.0' => 'Nama pengguna dan nama database haruslah huruf kecil, angka dan juga garis bawah dan juga harus 4 sampai 16 karakter. Anda tidak boleh menggunakan <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html"><em>reserved words</em></a>!',
+    'explanation-8.0' => 'Nama pengguna dan nama database haruslah huruf kecil, angka dan juga garis bawah dan juga harus 4 sampai 16 karakter. Anda tidak boleh menggunakan <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html"><em>reserved words</em></a>!',
 
     'maintenance-notice' => 'Di saat sedang perbaikan, pendaftaran ditutup dulu.',
 

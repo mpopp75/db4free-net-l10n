@@ -26,9 +26,9 @@ $translations = array(
     'ph3' => 'Enter your email address',
 
     // only difference explanation-5.7 vs. explanation-8.0 is the version number in the URL
-    'explanation-5.7' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="https://dev.mysql.com/doc/refman/5.7/en/reserved-words.html">reserved words</a>!',
+    'explanation-5.7' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">reserved words</a>!',
 
-    'explanation-8.0' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="https://dev.mysql.com/doc/refman/8.0/en/reserved-words.html">reserved words</a>!',
+    'explanation-8.0' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">reserved words</a>!',
 
     'maintenance-notice' => 'Due to database maintenance, no registrations are currently possible.',
 
