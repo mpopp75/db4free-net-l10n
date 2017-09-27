@@ -17,7 +17,7 @@ $translations = array(
 
     'p1b' => 'db4free.net cilja da uvek pruža ili poslednje produkcijsko izdanje ili poslednje razvojno izdanje. db4free.net MySQL server biće apdejtovan ubrzo sa izlaskom nove verzije, uglavnom isti dan ili ubrzo nakon izlaska.',
 
-    'p1c' => 'Za pristup podacima na pogodan način, db4free.net takođe pruža apdejtovanu verziju <a href="http://www.phpmyadmin.net">phpMyAdmin-a</a>. phpMyAdmin takođe će biti apdejtovan veoma često, tako da uvek dobijate poslednju verziju.',
+    'p1c' => 'Za pristup podacima na pogodan način, db4free.net takođe pruža apdejtovanu verziju <a href="https://www.phpmyadmin.net">phpMyAdmin-a</a>. phpMyAdmin takođe će biti apdejtovan veoma često, tako da uvek dobijate poslednju verziju.',
 
     'h2' => 'Šta db4free.net nije',
 

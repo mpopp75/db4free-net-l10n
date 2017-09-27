@@ -17,7 +17,7 @@ $translations = array(
 
     'p1b' => 'db4free.net nhằm mục đích luôn cung cấp biên bản mới nhất hoặc phiên bản phát triển mới nhất. db4free.net\'s MySQL server sẽ được cập nhật ngay sau khi một phiên bản mới được phát hành, thường là vào cùng ngày hoặc nhanh nhất có thể.',
 
-    'p1c' => 'Để truy cập vào dữ liệu của bạn một cách thuận tiện, db4free.net cũng cung cấp biên bản mới nhất của <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin luôn được cập nhật thường xuyên, vì vậy bạn luôn có được biên bản mới nhất.',
+    'p1c' => 'Để truy cập vào dữ liệu của bạn một cách thuận tiện, db4free.net cũng cung cấp biên bản mới nhất của <a href="https://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin luôn được cập nhật thường xuyên, vì vậy bạn luôn có được biên bản mới nhất.',
 
     'h2' => 'Điều gì là không có ở db4free.net',
 

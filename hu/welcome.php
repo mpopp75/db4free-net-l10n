@@ -12,7 +12,7 @@ $translations = array(
 
     'p1b' => 'A db4free.net célja, hogy vagy a legfrissebb kiadott, vagy a legfrissebb fejlesztői verziót biztosítsa. A db4free.net MySQL szervere az új verzió megjelenése után, nagyon hamar frissítésre kerül, általában még ugyanazon a napon, vagy nagyon kevéssel utána.',
 
-    'p1c' => 'Hogy kényelmesen hozzáférj az adataidhoz, a db4free.net-en elérhető a <a href="http://www.phpmyadmin.net">phpMyAdmin</a> legújabb verziója. A phpMyAdmint nagyon gyakran frissítik, így mindig a legújabb verziót kapod.',
+    'p1c' => 'Hogy kényelmesen hozzáférj az adataidhoz, a db4free.net-en elérhető a <a href="https://www.phpmyadmin.net">phpMyAdmin</a> legújabb verziója. A phpMyAdmint nagyon gyakran frissítik, így mindig a legújabb verziót kapod.',
 
     'h2' => 'Ami NEM a db4free.net',
 

@@ -12,7 +12,7 @@ $translations = array(
 
     'p1b' => 'Db4free.net si klade za cíl poskytnout buďto vždy nejnovější stabilní verzi nebo poslední vývojovou verzi. MySQL servery db4free.net jsou aktualizovány velmi brzy poté, co nová verze je uvolněna, obvykle ve stejný den.',
 
-    'p1c' => 'Chcete-li získat přístup k datům pohodlným způsobem, db4free.net také poskytuje aktuální verzi <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin se také aktualizuje velmi často, takže vždy získáte tu nejnovější verzi.',
+    'p1c' => 'Chcete-li získat přístup k datům pohodlným způsobem, db4free.net také poskytuje aktuální verzi <a href="https://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin se také aktualizuje velmi často, takže vždy získáte tu nejnovější verzi.',
 
     'h2' => 'Můžete pomoci přeložit db4free.net?',
 

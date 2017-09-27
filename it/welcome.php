@@ -11,7 +11,7 @@ $translations = array(
 
     'p1b' => 'db4free.net si propone di fornire sempre o l\'ultima release in produzione o l\'ultima release in sviluppo di MySQL. Il Server MySQL di db4free.net viene aggiornato quasi immediatamente quando una nuova versione è rilasciata oppure in un breve lasso di tempo successivo',
 
-    'p1c' => 'Per accedere ai tuoi dati in modo conveniente, db4free.net fornisce anche una versione aggiornata di <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin viene aggiornato molto frequentemente, in tal modo avrete sempre l\'ultimissima versione disponibile.',
+    'p1c' => 'Per accedere ai tuoi dati in modo conveniente, db4free.net fornisce anche una versione aggiornata di <a href="https://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin viene aggiornato molto frequentemente, in tal modo avrete sempre l\'ultimissima versione disponibile.',
 
     'h2' => 'Che cosa db4free.net NON  E\'',
 

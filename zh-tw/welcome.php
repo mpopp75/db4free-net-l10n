@@ -12,7 +12,7 @@ $translations = array(
 
     'p1b' => 'db4free.net 致力於提供最新的MySQL版本或者是開發版本。 當MySQL一有新版本推出，通常 db4free.net的 MySQL 伺服器將會在同一天或者幾天內更新至最新版本。',
 
-    'p1c' => '為了存取資料的便利性，db4free.net 也提供最新版本的 <a href="http://www.phpmyadmin.net">phpMyAdmin</a>工具。 因為我們更新版本相當頻繁，所以你永遠都能接觸到最新的phpMyAdmin',
+    'p1c' => '為了存取資料的便利性，db4free.net 也提供最新版本的 <a href="https://www.phpmyadmin.net">phpMyAdmin</a>工具。 因為我們更新版本相當頻繁，所以你永遠都能接觸到最新的phpMyAdmin',
 
     'h2' => 'db4free.net 的三不政策',
 

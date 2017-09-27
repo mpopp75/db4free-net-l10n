@@ -11,7 +11,7 @@ $translations = array(
 
     'p1b' => 'db4free.netは最新版と開発版の両方を提供することを目標としています。また、db4free.netは常に最新版のリリースや開発版のリリース後なるべく早くそのバージョンを導入しています。通常数日かリリース後間も無く導入します。',
 
-    'p1c' => 'もっと便利にアクセスしたい方のために、db4free.netでは最新版の<a href="http://www.phpmyadmin.net">phpMyAdmin</a>もご用意しました。phpMyAdminも同じく頻繁にアップデートするので、最新版をご利用いただくことが可能です。',
+    'p1c' => 'もっと便利にアクセスしたい方のために、db4free.netでは最新版の<a href="https://www.phpmyadmin.net">phpMyAdmin</a>もご用意しました。phpMyAdminも同じく頻繁にアップデートするので、最新版をご利用いただくことが可能です。',
 
     'h2' => 'db4free.netはこのようなサービスではありません',
 

@@ -11,7 +11,7 @@ $translations = array(
 
     'p1b' => 'db4free.net her zaman son yayınlanan yada son geliştirilen versiyonu sunmayı hedefler. db4free.net\'in MySQL sunucuları yeni bir versiyon yayınlandıktan sonra kısa bir süre içinde güncellenir bu süre genellikle aynı gündür.',
 
-    'p1c' => 'Verilerinize en uygun yöntemle ulaşmak için, db4free.net <a href="http://www.phpmyadmin.net">phpMyAdmin</a> paneli sunar. phpMyAdmin paneli de sık sık güncellenir böylece her zaman güncel kalırsınız.',
+    'p1c' => 'Verilerinize en uygun yöntemle ulaşmak için, db4free.net <a href="https://www.phpmyadmin.net">phpMyAdmin</a> paneli sunar. phpMyAdmin paneli de sık sık güncellenir böylece her zaman güncel kalırsınız.',
 
     'h2' => 'db4free.net ne değildir',
 
