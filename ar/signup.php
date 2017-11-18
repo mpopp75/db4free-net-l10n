@@ -5,60 +5,60 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Signup',
+    'h1' => 'سجل',
 
-    'mysql-db-name' => 'MySQL database name',
+    'mysql-db-name' => 'اسم قاعدة بيانات mysql',
 
-    'mysql-user-name' => 'MySQL username',
+    'mysql-user-name' => 'mysql اسم المستخدم',
 
-    'mysql-user-password' => 'MySQL user password',
+    'mysql-user-password' => 'كلمة مرور المستخدم mysql',
 
-    'mysql-user-password-verification' => 'MySQL user password verification',
+    'mysql-user-password-verification' => 'MySQL التحقق من كلمة مرور المستخدم',
 
-    'email-address' => 'Email address',
+    'email-address' => 'عنوان البريد الإلكتروني',
 
-    'agree-conditions' => 'I have read the <a href="conditions.php">conditions of use</a> and I agree with them.',
+    'agree-conditions' => 'لقد قرأت <a href="conditions.php"> شروط الاستخدام</a> وأنا أتفق معهم.',
 
-    'ph1' => '4-16 chars., no upper-case, 1st must be char.',
+    'ph1' => '4-16 حروف., غير مسموح بالحروف الكبيرة, 1 الاول يجب ان يكون حرف.',
 
-    'ph2' => 'Min. 6 chars.',
+    'ph2' => 'اقل عدد 6 أحرف',
 
-    'ph3' => 'Enter your email address',
+    'ph3' => 'ادخل البريد الالكترونى',
 
-    'explanation' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html">reserved words</a>!',
+    'explanation' => 'قد يحتوي اسم مستخدم قاعدة البيانات واسم قاعدة البيانات على الأحرف الصغيرة والأرقام والشرطة السفلية ويجب أن يتراوح طولها بين 4 و 16 حرفا. يجب عدم استخدام <a href="http://dev.mysql.com/doc/refman/5.6/en/reserved-words.html"> الكلمات المحجوزة </a>!',
 
-    'maintenance-notice' => 'Due to database maintenance, no registrations are currently possible.',
+    'maintenance-notice' => 'بسبب صيانة قاعدة البيانات، لا توجد تسجيلات ممكنة حاليا.',
 
-    'agm-p1' => 'By registering for a db4free.net account you agree that:',
+    'agm-p1' => 'من خلال التسجيل لحساب db4free.net فإنك توافق على ما يلي:',
 
-    'agm-li1' => 'db4free.net is a testing environment',
+    'agm-li1' => 'db4free.net هو بيئة الاختبار',
 
-    'agm-li2' => 'db4free.net is not suitable for production',
+    'agm-li2' => 'db4free.net ليست مناسبة للإنتاج',
 
-    'agm-li3' => 'if you decide to use your db4free.net database in production despite the warnings, you do that at your own risk (very frequent backups are highly recommended)',
+    'agm-li3' => 'إذا قررت استخدام قاعدة البيانات الخاصة بك db4free.net في الإنتاج على الرغم من التحذيرات، يمكنك أن تفعل ذلك على مسؤوليتك الخاصة (ينصح بشدة جدا النسخ الاحتياطي) ',
 
-    'agm-li4' => 'data loss and outages can happen at any time (any complaints about that will likely be ignored)',
+    'agm-li4' => 'فقدان البيانات وانقطاع التيار الكهربائي يمكن أن يحدث في أي وقت (أي شكاوى حول ذلك من المرجح أن يتم تجاهل)',
 
-    'agm-li5' => 'the db4free.net team is not granting any warranty or liability of any kind',
+    'agm-li5' => 'فريق db4free.net لا يمنح أي ضمان أو مسؤولية من أي نوع',
 
-    'agm-li6' => 'the db4free.net team reserves the right to delete databases and/or accounts at any time without notice',
+    'agm-li6' => 'يحتفظ فريق db4free.net بالحق في حذف قواعد البيانات و / أو الحسابات في أي وقت دون سابق إنذار',
 
-    'agm-li7' => 'it is up to you to get the latest information from <a href="/twitter.php">Twitter</a> and the <a href="/blog.php">db4free.net blog</a>',
+    'agm-li7' => 'يعود الأمر إليك للحصول على أحدث المعلومات من <a href="/twitter.php"> تويتر </a> و <a href="/blog.php"> مدونة db4free.net </a>' ,
 
-    'agm-li8' => 'db4free.net provides only a MySQL database, but no web space (there is nowhere to upload any files)',
+    'agm-li8' => 'db4free.net يوفر فقط قاعدة بيانات ميسكل، ولكن لا يوجد مساحة على شبكة الإنترنت (لا يوجد مكان لتحميل أي ملفات)',
 
-    'agm-p2' => 'Further:',
+    'agm-p2' => 'بالإضافة إلى ذلك:',
 
-    'agm-li9' => 'db4free.net is a service for testing, not for hosting. Databases that store more than 200 MB data will be cleared at irregular intervals without notification',
+    'agm-li9' => 'db4free.net هي خدمة للاختبار، وليس للاستضافة. سيتم مسح قواعد البيانات التي تخزن أكثر من 200 ميغابايت البيانات على فترات غير منتظمة دون إخطار',
 
-    'agm-li10' => 'Please remove data which you no longer need, or <a href="/delete-account.php">delete your no longer needed account</a>. This makes it easier to recover if a server crash occurs.',
+    'agm-li10' => 'يرجى إزالة البيانات التي لم تعد بحاجة إليها، أو <a href='/delete-account.php'> حذف حسابك الذي لم يعد مطلوبا </a>. هذا يجعل من الاسهل لاسترداد إذا حدث تعطل الخادم. ',
 
-    'signup-error1' => 'You have to agree with the conditions of use!',
+    'signup-error1' => 'عليك أن تتفق مع شروط الاستخدام!',
 
-    'signup-error2' => 'Error registering the data for your MySQL database!',
+    'signup-error2' => 'خطأ في تسجيل البيانات لقاعدة بيانات mysql الخاص بك!',
 
-    'signup-error3' => 'Error sending the confirmation email!',
+    'signup-error3' => 'حدث خطأ أثناء إرسال رسالة التأكيد الإلكترونية!',
 
-    'signup-success' => 'Thank you for your registration! You will receive an email to confirm the registration.',
+    'signup-success' => 'نشكرك على التسجيل! سوف تتلقى رسالة بريد إلكتروني لتأكيد التسجيل.',
 );
 ?>

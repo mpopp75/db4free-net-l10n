@@ -5,17 +5,16 @@ Language: English
 */
 
 $translations = array(
-    'email' => 'We have received your request to delete your db4free.net account "{$user}".
+    'email' => 'لقد تلقينا طلبك لحذف حساب db4free.net "{$user}".
 
-Please confirm the deletion by clicking the following link. Please be aware that all of your data in this database is irrevocably deleted!
-
+يرجى تأكيد الحذف بالنقر على الرابط التالي. يرجى أن يكون على علم بأن جميع البيانات الخاصة بك في قاعدة البيانات هذه محذوفة نهائيا!
 {$mailLink}
 
-If it was not you who has requested the deletion of your account on the db4free.net website, please ignore this email!
+إذا لم يكن أنت الذي طلب حذف حسابك على الموقع db4free.net، يرجى تجاهل هذا البريد الإلكتروني!
 
-We hope you enjoyed working with your database!
+نأمل أن تستمتع العمل مع قاعدة البيانات الخاصة بك!
 
-The db4free.net team
+فريق db4free.net
 http://www.db4free.net',
 );
 ?>

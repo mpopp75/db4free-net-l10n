@@ -5,32 +5,32 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Welcome to db4free.net',
+    'h1' => 'مرحبا بكم في db4free.net',
 
-    'p1a' => 'db4free.net provides a testing service for the latest - sometimes even development - version of the <a href="http://www.mysql.com/">MySQL Server</a>. You can easily <a href="/signup.php">create an account for free</a> and test your applications, for example to make sure that they still work after a MySQL version update. db4free.net is also a good resource for education and to make yourself familiar with new features that were introduced in new versions.',
+    'p1a' => 'يوفر db4free.net خدمة اختبار لأحدث - في بعض الأحيان حتى التنمية - نسخة من <a href="http://www.mysql.com/"> خادم mysql </a>. يمكنك بسهولة <a href="/signup.php"> إنشاء حساب مجانا </a> واختبار التطبيقات الخاصة بك، على سبيل المثال للتأكد من أنها لا تزال تعمل بعد تحديث إصدار ميسكل. db4free.net هو أيضا مورد جيد للتعليم وجعل نفسك على دراية الميزات الجديدة التي تم إدخالها في الإصدارات الجديدة.',
 
-    'p1b' => 'db4free.net aims to always provide either the latest production release or the latest development release. db4free.net\'s MySQL server will be updated very soon after a new version is released, usually on the same day or very soon after.',
+    'p1b' => 'db4free.net تهدف إلى تقديم دائما إما أحدث إصدار الإنتاج أو أحدث إصدار التطوير. سيتم تحديث خادم الخلية db4free.net \ قريبا جدا بعد إصدار جديد، وعادة في نفس اليوم أو قريبا جدا بعد.',
 
-    'p1c' => 'To access your data in a convenient way, db4free.net also provides an up-to-date version of <a href="http://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin will also be updated very frequently, so you always get the very latest.',
+    'p1c' => 'للوصول إلى البيانات الخاصة بك بطريقة مريحة، كما يوفر db4free.net نسخة محدثة من <a href="http://www.phpmyadmin.net"> فبميادمين </a>. كما سيتم تحديث فبميادمين كثيرا جدا، لذلك كنت دائما الحصول على أحدث جدا.',
 
-    'h2' => 'About the new website (and more)',
+    'h2' => 'حول الموقع الجديد (والمزيد)',
 
-    'p2' => 'You may notice that <b>everything here is new</b>. <a href="http://www.mpopp.net/2014/07/db4free-net-relaunch/">Find out more about it!</a>',
+    'p2' => 'قد تلاحظ أن <b> كل شيء هنا جديد </ b>. <a href="http://www.mpopp.net/2014/07/db4free-net-relaunch/"> تعرف على المزيد حول هذا الموضوع! </a> ',
 
-    'h3' => 'What db4free.net is not',
+    'h3' => 'db4free.net ليست من أجل',
 
-    'p3' => 'db4free.net is a <b>testing service</b> which means it is not suitable for production. There can be outages, data loss and security features do not meet the standards which you expect from a professional data hosting provider. If you need a MySQL database for production use, please do not use db4free.net!',
+    'p3' => 'db4free.net هي <b> خدمة اختبار </ b> مما يعني أنها غير مناسبة للإنتاج. يمكن أن يكون هناك انقطاع، وفقدان البيانات وميزات الأمان لا تفي بالمعايير التي تتوقعها من مزود استضافة البيانات المهنية. إذا كنت بحاجة إلى قاعدة بيانات ميسكل للاستخدام الإنتاج، من فضلك لا تستخدم db4free.net!',
 
-    'h4' => 'Can you help translating db4free.net?',
+    'h4' => 'هل يمكنك المساعدة في ترجمة db4free.net؟',
 
-    'p4' => 'Do you speak a language well that this website doesn\'t offer? You can help us translate db4free.net. <a href="/translate.php">Find out how!</a>',
+    'p4' => 'هل تتحدث لغة جيدا أن هذا الموقع لا تقدم؟ يمكنك مساعدتنا في ترجمة db4free.net. <a href="/translate.php"> تعرف على كيفية! </a> ',
 
-    'h5' => 'Resources',
+    'h5' => 'مصادر',
 
-    'p5a' => 'There is a <a href="http://www.mpopp.net/category/db4free/">db4free.net section</a> in the <a href="http://www.mpopp.net/">mpopp.net blog</a> bringing you the News about db4free.net. Please subscribe to the <a href="http://www.mpopp.net/category/db4free/feed/">RSS Feed</a> to make sure you don\'t miss any news. db4free.net is also on <a href="/twitter.php">Twitter</a>, another great resource to stay on top of what is happening in the db4free.net world.',
+    'p5a' => 'هناك <a href="http://www.mpopp.net/category/db4free/"> قسم db4free.net </a> في <a هريف = "http://www.mpopp.net/" > mpopp.net بلوق </a> تجلب لك الأخبار حول db4free.net. الرجاء الاشتراك في <a href="http://www.mpopp.net/category/db4free/feed/"> خلاصة رسس </a> للتأكد من أنك لا تفوت أي أخبار. db4free.net أيضا على <a href="/twitter.php"> تويتر </a>، مورد عظيم آخر للبقاء على رأس ما يحدث في العالم db4free.net.',
 
-    'p5b' => 'The best resources to learn more about MySQL are the <a href="http://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="http://dev.mysql.com/doc/refman/5.6/en/index.html">MySQL Reference Manual</a> and <a href="http://planet.mysql.com/">PlanetMySQL</a>. The MySQL website offers a number of <a href="http://dev.mysql.com/tech-resources/articles/">Developer Articles</a> many of which explain new features that are being introduced in upcoming versions in excellent detail.',
+    'p5b' => 'أفضل الموارد لمعرفة المزيد عن ميسكل هي <a href="http://dev.mysql.com/"> منطقة مطوري ميسكل </a>، و <a هريف = "http://dev.mysql.com /doc/refman/5.6/en/index.html"> دليل مرجع ميسكل </a> و <a href="http://planet.mysql.com/"> بلانيتمسكل </a>. يقدم موقع ميسكل على الويب عددا من <a href="http://dev.mysql.com/tech-resources/articles/"> مقالات المطور </a> التي يشرح العديد منها الميزات الجديدة التي يتم إدخالها في الإصدارات القادمة في تفاصيل ممتازة.',
 
-    'p5c' => 'If you find a bug in the MySQL Server, please report it in the <a href="http://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
-);
+    'p5c' => 'إذا وجدت خلل في خادم الخلية، يرجى الإبلاغ عنه في <a href="http://bugs.mysql.com/"> ميسكل علة نظام تتبع </a>.',
+  );
 ?>

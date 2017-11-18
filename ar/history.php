@@ -5,6 +5,6 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Changelog',
+    'h1' => 'التغيرات',
 );
 ?>

@@ -5,54 +5,54 @@ Language: English
 */
 
 $translations = array(
-    'database' => 'Database',
+    'database' => 'قاعدة بيانات',
 
-    'username' => 'Username',
+    'username' => 'اسم المستخدم',
 
-    'email' => 'Email',
+    'email' => 'البريد الالكترونى',
 
-    'id-not-found' => 'The ID could not be found.',
+    'id-not-found' => 'تعذر العثور على المعرف.',
 
-    'success-create-db' => 'The database has been created successfully.',
+    'success-create-db' => 'تم إنشاء قاعدة البيانات بنجاح.',
 
-    'error-create-db' => 'Error creating the database.',
+    'error-create-db' => 'حدث خطأ أثناء إنشاء قاعدة البيانات.',
 
-    'success-data-change' => 'The data has been changed.',
+    'success-data-change' => 'تم تغيير البيانات.',
 
-    'error-data-change' => 'The data could not be changed.',
+    'error-data-change' => 'تعذر تغيير البيانات.',
 
-    'success-account-delete' => 'The account has been deleted.',
+    'success-account-delete' => 'تم حذف الحساب.',
 
-    'error-account-delete' => 'The account could not be deleted.',
+    'error-account-delete' => 'تعذر حذف الحساب.',
 
-    'another-user-database' => 'Another user has already registered a database with following name: ',
+    'another-user-database' => 'مستخدم آخر قد سجل بالفعل قاعدة بيانات مع الاسم التالي: ',
 
-    'another-user-username' => 'Another user has already registered the following username: ',
+    'another-user-username' => 'مستخدم آخر قد سجل بالفعل اسم المستخدم التالي: ',
 
-    'passwords-not-identical' => 'The passwords are not identical.',
+    'passwords-not-identical' => 'كلمات المرور ليست متطابقة.',
 
-    'password-too-short' => 'The password must be at least 6 characters long.',
+    'password-too-short' => 'يجب أن تتكون كلمة المرور من 6 أحرف على الأقل.',
 
-    'only-2-db-allowed' => 'Only 2 databases per email address are allowed.',
+    'only-2-db-allowed' => 'يسمح فقط 2 قواعد البيانات لكل عنوان البريد الإلكتروني.',
 
-    'email-invalid' => 'The email address is invalid.',
+    'email-invalid' => 'عنوان البريد الإلكتروني غير صالح.',
 
-    'user-not-exist' => 'The user does not exist.',
+    'user-not-exist' => 'المستخدم غير موجود.',
 
-    'user-not-confirmed' => 'The user has not yet confirmed the verification mail.',
+    'user-not-confirmed' => 'لم يؤكد المستخدم بعد رسالة التحقق.',
 
-    'password-not-correct' => 'The password is not correct.',
+    'password-not-correct' => 'كلمة المرور غير صحيحة.',
 
-    'confirmation-email' => 'You will receive an email to confirm the changes.',
+    'confirmation-email' => 'ستتلقى رسالة إلكترونية لتأكيد التغييرات.',
 
-    'error-write-data' => 'An error has occured updating your data.',
+    'error-write-data' => 'حدث خطأ أثناء تحديث بياناتك.',
 
-    'error-send-email' => 'An error has occured sending the confirmation email.',
+    'error-send-email' => 'حدث خطأ أثناء إرسال رسالة التأكيد الإلكترونية.',
 
-    'subject-signup' => 'Your database registration with db4free.net',
+    'subject-signup' => 'تسجيل قاعدة البيانات الخاصة بك مع db4free.net',
 
-    'subject-delete-account' => 'Deletion of your db4free.net account',
+    'subject-delete-account' => 'حذف حساب db4free.net الخاص بك',
 
-    'subject-change-password' => 'Your new db4free.net password',
+    'subject-change-password' => 'كلمة المرور الجديدة db4free.net',
 );
 ?>

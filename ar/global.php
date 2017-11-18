@@ -7,46 +7,46 @@ Language: English
 $translations = array(
     'sitetitle1' => 'db4free.net',
 
-    'sitetitle2' => 'MySQL Database for free',
+    'sitetitle2' => 'قاعدة بيانات mysql مجانا',
 
-    'topnav1' => 'Welcome',
-
-    'topnav2' => 'Database',
+    'topnav1' => 'أهلا بك',
+Q
+    'topnav2' => 'قاعدة البيانات',
 
     'topnav3' => 'Twitter',
 
-    'topnav4' => 'mpopp.net blog',
+    'topnav4' => 'mpopp.net مدونه',
 
     'topnav5' => 'phpMyAdmin',
 
-    'sidebar_1_2' => 'Donations',
+    'sidebar_1_2' => 'التبرعات',
 
-    'sidebar_1_3' => 'Translations',
+    'sidebar_1_3' => 'ترجمة',
 
-    'sidebar_1_4' => 'Changelog',
+    'sidebar_1_4' => 'التغيير',
 
-    'sidebar_1_5' => 'Imprint',
+    'sidebar_1_5' => 'بصمة',
 
-    'sidebar_2_1' => 'About db4free.net',
+    'sidebar_2_1' => 'عن db4free.net',
 
-    'sidebar_2_2' => 'Conditions of use',
+    'sidebar_2_2' => 'شروط الاستخدام',
 
-    'sidebar_2_3' => 'Signup',
+    'sidebar_2_3' => 'سجل',
 
-    'sidebar_2_4' => 'Change Password',
+    'sidebar_2_4' => 'تغيير كلمة السر',
 
-    'sidebar_2_5' => 'Delete account',
+    'sidebar_2_5' => 'حذف الحساب',
 
-    'sidebar_2_6' => 'Forgot your password?',
+    'sidebar_2_6' => 'نسيت رقمك السري؟',
 
-    'pmalogin' => 'phpMyAdmin Login',
+    'pmalogin' => 'phpMyAdmin دخول',
 
-    'username' => 'Username',
+    'username' => 'اسم المستخد',
 
-    'password' => 'Password',
+    'password' => 'كلمة المرور',
 
-    'login' => 'Login',
+    'login' => 'دخول',
 
-    'switch_language' => 'Switch Language',
+    'switch_language' => 'تغيير اللغة',
 );
 ?>
