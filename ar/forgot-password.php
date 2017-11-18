@@ -5,16 +5,16 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Forgot your password?',
+    'h1' => 'نسيت رقمك السري؟',
 
-    'username' => 'Username',
+    'username' => 'اسم المستخدم',
 
-    'request-new-password' => 'Request new password',
+    'request-new-password' => 'طلب كلمة مرور جديدة',
 
-    'ph1' => 'Enter your username',
+    'ph1' => 'أدخل اسم المستخدم',
 
-    'error1' => 'The data you entered is not correct!',
+    'error1' => 'البيانات التي أدخلتها غير صحيحة!',
 
-    'success' => 'You have received an email with your new password!',
+    'success' => 'لقد تلقيت رسالة إلكترونية تحتوي على كلمة المرور الجديدة.',
 );
 ?>

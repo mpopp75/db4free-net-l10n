@@ -5,19 +5,19 @@ Language: English
 */
 
 $translations = array(
-    'email' => 'You have requested a new password for your account "{$user}"
+    'email' => 'لقد طلبت كلمة مرور جديدة لحسابك "{$user}"
 
-Your new password is {$newData}
+كلمة المرور الجديدة {$newData}
 
-Please confirm this change by clicking the following link:
+يرجى تأكيد هذا التغيير بالنقر على الرابط التالي:
 
 {$mailLink}
 
-If it was not you who has requested a new password on the db4free.net website, please ignore this email!
+إذا لم يكن لك الذي طلب كلمة مرور جديدة على موقع db4free.net، يرجى تجاهل هذا البريد الإلكتروني!
 
-We hope you enjoy working with your database!
+نأمل أن تستمتع العمل مع قاعدة البيانات الخاصة بك!
 
-The db4free.net team
+فريق db4free.net
 http://www.db4free.net',
 );
 ?>

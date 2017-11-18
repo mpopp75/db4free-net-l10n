@@ -5,13 +5,13 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Imprint',
+    'h1' => 'بصمة',
 
     'p1' => '&copy; 2005-2014 by',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
-    'h2' => 'Associated projects',
+    'h2' => 'المشاريع المرتبطة',
 
     'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
 
@@ -19,8 +19,8 @@ $translations = array(
 
     'h3' => 'Disclaimer',
 
-    'p5' => 'The author of this website reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.',
+    'p5' => 'يحتفظ صاحب هذا الموقع بالحق في عدم تحمل المسؤولية عن موضوعية أو صحة أو اكتمال أو جودة المعلومات المقدمة. وبالتالي فإن المطالبات المتعلقة بالأضرار الناجمة عن استخدام أي من المعلومات المقدمة، بما في ذلك أي نوع من المعلومات غير كاملة أو غير صحيحة، وبالتالي سيتم رفض.',
 
-    'p6' => 'The author of this website is not responsible for any contents linked or referred to from this site.',
+    'p6' => 'صاحب هذا الموقع ليست مسؤولة عن أي محتويات مرتبطة أو المشار إليها من هذا الموقع.',
 );
 ?>

@@ -5,40 +5,40 @@ Language: English
 */
 
 $translations = array(
-    'h1' => 'Translations',
+    'h1' => 'ترجمة',
 
-    'p1a' => 'Following the 2014 update of the db4free.net site and service there is now an easy way how you can translate the db4free.net website to more languages.',
+    'p1a' => 'بعد تحديث 2014 للموقع db4free.net والخدمة هناك الآن طريقة سهلة كيف يمكنك ترجمة الموقع db4free.net لمزيد من اللغات.',
 
-    'p1b' => 'All the texts of the website are up on <a href="https://github.com/">GitHub</a>. You can fork the repository, apply your translations and send us a pull request so your translations can be integrated into the website.',
+    'p1b' => 'جميع نصوص الموقع على <a href="https://github.com/"> جيثب </a>. يمكنك مفترق مستودع، وتطبيق الترجمة وترسل لنا طلب سحب بحيث يمكن دمج الترجمات الخاصة بك في الموقع.',
 
-    'h2' => 'How does it work?',
+    'h2' => 'كيف يعمل؟',
 
-    'p2a' => 'First you need to sign up for a GitHub account unless you already have one. Fork the repository at ',
+    'p2a' => 'أولا تحتاج إلى الاشتراك في حساب جيثب إلا إذا كان لديك بالفعل واحدة. شوكة مستودع في ',
 
-    'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
+    'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n"> https://github.com/mpopp75/db4free-net-l10n </a> ',
 
-    'p2c' => ' so you have an identical copy of the translation repository in your account. Now you can clone your repository to create a copy on your system. The git command for this is:',
+    'p2c' => ' بحيث يكون لديك نسخة متطابقة من مستودع الترجمة في حسابك. الآن يمكنك استنساخ مستودع التخزين الخاص بك لإنشاء نسخة على النظام الخاص بك. الأمر جيت لهذا هو: ',
 
-    'p2d' => 'git clone git@github.com:[Your_GitHub_username]/db4free-net-l10n.git',
+    'p2d' => 'جيت clone git@github.com: [Your_GitHub_username] /db4free-net-l10n.git ',
 
-    'p2e' => 'We recommend you to create a separate branch for your translations, like so:',
+    'p2e' => 'نوصي بإنشاء فرع منفصل لترجماتك، مثل:',
 
-    'p2f' => 'git checkout -b mytranslations',
+    'p2f' => 'git checkout -b ar-translation',
 
-    'p2g' => 'If there is no directory for the language which you want to apply translations to, make a copy of the "en" directory and name it according to <a href="http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 language codes</a>.',
+    'p2g' => 'إذا لم يكن هناك دليل للغة التي تريد تطبيق الترجمات إليها، قم بعمل نسخة من الدليل "إن" واسمها وفقا ل <a هريف = "http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "> رموز لغة إسو 639-1 </a>. ',
 
-    'p2h' => 'In the files inside this directory, replace the English texts with texts of the new language. Please be careful not to change the ID. For example replace:',
+    'p2h' => 'في الملفات الموجودة داخل هذا الدليل، استبدل النصوص الإنجليزية بنصوص اللغة الجديدة. يرجى الحرص على عدم تغيير الرقم التعريفي. على سبيل المثال استبدال:',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
+    'p2i' => '\'h1\' => \'مرحبا بكم في db4free.net\',',
 
-    'p2j' => 'by',
+    'p2j' => 'بواسطة',
 
     'p2k' => '\'h1\' => \'Bienvenido a db4free.net\',',
 
-    'p2l' => 'If a text is the same in English and the language you are translating to, you may delete the line or simply leave it.',
+    'p2l' => 'إذا كان النص هو نفسه باللغة الإنجليزية واللغة التي تترجم إليها، يمكنك حذف الخط أو ببساطة تركه. 'و
 
-    'p2m' => 'When your translations are finished, commit and push them to your GitHub repository. Switch to your new branch on GitHub and click "New Pull Request". Enter a short description what your translations are, any difficulties you faced or what you may not have been able to finish etc. and send off the Pull Request.',
+    'p2m' => 'عند الانتهاء من الترجمات الخاصة بك،commit and push إلى مستودع github الخاص بك. انتقل إلى الفرع الجديد الخاص بك على github وانقر على "طلب سحب جديد". أدخل وصفا موجزا ما هي الترجمات الخاصة بك، أي صعوبات واجهت أو ما كنت قد لا تكون قادرة على الانتهاء وما إلى ذلك وإرسال طلب السحب. ',
 
-    'p2n' => 'If you like to contribute but you need further assistance before you can get started, please <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Open a Ticket at GitHub</a>.',
+    'p2n' => 'إذا كنت ترغب في المساهمة ولكن تحتاج إلى مزيد من المساعدة قبل أن تتمكن من البدء، من فضلك <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Open a Ticket at GitHub</a>.',
 );
 ?>

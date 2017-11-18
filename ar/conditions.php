@@ -15,12 +15,12 @@ $translations = array(
 
     'p4' => '.',
 
-    'p5' => 'We do not recommend you to use a db4free.net database for any critical data and for any critical purpose! Even though we - the people behind this project - are related to each other through a company, this is still a private and non commercial project. We refuse any warranty and liability!',
+    'p5' => 'نحن لا ننصح بإستخدام قاعدة بيانات db4free.net لأي بيانات هامة وأي غرض حساس! على الرغم من أننا - من وراء هذا المشروع - ترتبط ببعضها البعض من خلال شركة، وهذا لا يزال مشروعا خاصا وغير تجاري. نحن نرفض أي ضمان والمسؤولية!',
 
-    'p6' => 'The db4free.net Team does not take any liability for the contents of linked web pages.',
+    'p6' => 'لا يتحمل فريق db4free.net أي مسؤولية عن محتويات صفحات الويب المرتبطة.',
 
-    'p7' => 'We retain the right to modify this statement without notice.',
+    'p7' => 'ونحتفظ بالحق في تعديل هذا البيان دون سابق إنذار.',
 
-    'p8' => 'Heidenreichstein, Austria<br>29 June 2014',
+    'p8' => 'هيدنريشتاين، النمسا <br> 29 حزيران / يونيو 2014',
 );
 ?>
