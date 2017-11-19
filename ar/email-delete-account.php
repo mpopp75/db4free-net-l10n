@@ -1,7 +1,7 @@
 <?php
 /*
 Section: email-delete-account
-Language: English
+Language: Arabic
 */
 
 $translations = array(

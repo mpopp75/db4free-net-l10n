@@ -1,7 +1,7 @@
 <?php
 /*
 Section: twitter
-Language: English
+Language: Arabic
 */
 
 $translations = array(
