@@ -26,7 +26,7 @@ $translations = array(
 
     'sidebar_1_4' => '更新記錄',
 
-    'sidebar_1_5' => 'Imprint',
+    'sidebar_1_5' => '版權說明',
 
     'sidebar_2_1' => '關於 db4free.net',
 
@@ -47,5 +47,7 @@ $translations = array(
     'password' => '使用者密碼',
 
     'login' => '登入',
+
+    'switch_language' => '切換語言',
 );
 ?>

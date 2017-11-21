@@ -18,6 +18,6 @@ If it was not you who has requested a new password on the db4free.net website, p
 We hope you enjoy working with your database!
 
 The db4free.net team
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

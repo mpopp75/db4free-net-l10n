@@ -6,7 +6,6 @@ Translator: Trey Lin
 */
 
 $translations = array(
-    //'h1' => '確認',
-	'h1' => '',
+    'h1' => '確認',
 );
 ?>

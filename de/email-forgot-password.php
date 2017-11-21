@@ -18,6 +18,6 @@ Wenn Sie kein neues Passwort angefordert haben, bitten wir Sie, diese Email zu i
 Wir hoffen, dass Sie viel Freude mit Ihrer Datenbank haben!
 
 Ihr db4free.net Team
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>

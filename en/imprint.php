@@ -7,13 +7,13 @@ Language: English
 $translations = array(
     'h1' => 'Imprint',
 
-    'p1' => '&copy; 2005-2014 by',
+    'p1' => '&copy; 2005-%d by',
 
     'p2' => 'Markus Popp (<a href="mailto:admin@db4free.net">admin@db4free.net</a>)',
 
     'h2' => 'Associated projects',
 
-    'p3' => '<a href="http://www.mpopp.net">mpopp.net</a>',
+    'p3' => '<a href="https://www.mpopp.net">mpopp.net</a>',
 
     'p4' => '<a href="http://www.zanat.net">zanat.net - Das Portal für Mediendesigner (mit Farbumrechner uvm.)</a>',
 

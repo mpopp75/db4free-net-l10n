@@ -22,15 +22,15 @@ $translations = array(
 	'p4' => 'db4free.net提供之服務將由奧地利法律作出解釋。',
 
     //'p5' => 'We do not recommend you to use a db4free.net database for any critical data and for any critical purpose! Even though we - the people behind this project - are related to each other through a company, this is still a private and non commercial project. We refuse any warranty and liability!',
-    'p5' => '我們不建議使用db4free.net所提供之資料庫來存放重要資料或從事任何重要目的。此為私人以及非營利專案，我們不給予含任何擔保或保証，即使此網站之相關人士皆在同個機構服務。!',
+    'p5' => '我們不建議使用db4free.net所提供之資料庫來存放重要資料或從事任何重要目的。此為非營利私人專案，我們不給予含任何擔保或保証，即使此網站之相關人士皆在同個機構服務！',
 
     //'p6' => 'The db4free.net Team does not take any liability for the contents of linked web pages.',
 	'p6' => 'db4free.net團隊不負責本站內任何連結網站之內容。',
 	
     //'p7' => 'We retain the right to modify this statement without notice.',
 	// I've added last part: In case there arises discrepancy in Chinese and English versions, the English version shall prevail.
-    'p7' => '我們保留修改此條款細節權利，無須事前通知。(如本協議的中、英文本出現分歧，以英文文本為準。)',
+    'p7' => '我們保留修改此條款細節權利，無須事前通知。<br>(如本協議的中、英文本出現分歧，以英文文本為準。)',
 
-    'p8' => 'Heidenreichstein, Austria<br>29 June 2014',
+    'p8' => '於奧地利, Heidenreichstein<br>2014年6月29日',
 );
 ?>

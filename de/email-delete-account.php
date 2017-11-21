@@ -16,6 +16,6 @@ Wenn Sie nicht die Löschung Ihres Accounts angefordert haben, bitten wir Sie, d
 Wir hoffen, dass Sie viel Freude mit Ihrer Datenbank hatten!
 
 Ihr db4free.net Team
-http://www.db4free.net',
+https://www.db4free.net',
 );
 ?>
