@@ -1,7 +1,7 @@
 <?php
 /*
 Section: signup
-Language: English
+Language: Arabic
 */
 
 $translations = array(

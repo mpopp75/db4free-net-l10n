@@ -1,7 +1,7 @@
 <?php
 /*
 Section: global
-Language: English
+Language: Arabic
 */
 
 $translations = array(
@@ -10,7 +10,7 @@ $translations = array(
     'sitetitle2' => 'قاعدة بيانات mysql مجانا',
 
     'topnav1' => 'أهلا بك',
-Q
+
     'topnav2' => 'قاعدة البيانات',
 
     'topnav3' => 'Twitter',
