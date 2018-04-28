@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Các mật khẩu là không giống nhau.',
 
-    'password-too-short' => 'Mật khẩu phải có ít nhất 6 ký tự.',
+    'password-too-short' => 'Mật khẩu phải có ít nhất 8 ký tự.',
 
     'only-2-db-allowed' => 'Chỉ có 2 cơ sở dữ liệu cho mỗi địa chỉ thư điện tử.',
 

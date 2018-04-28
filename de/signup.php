@@ -19,15 +19,13 @@ $translations = array(
 
     'agree-conditions' => 'Ich habe die <a href="conditions.php">Nutzungsbestimmungen</a> gelesen und bin damit einverstanden.',
 
-    'ph1' => '4-16 Zeichen, nur Kleinbuchstaben',
+    'ph1' => '6-16 Zeichen, nur Kleinbuchstaben',
 
-    'ph2' => 'Mindestens 6 Zeichen',
+    'ph2' => 'Mindestens 8 Zeichen',
 
     'ph3' => 'Geben Sie Ihre Email-Adresse ein',
 
-    'explanation-5.7' => 'Datenbank-Benutzer und Datenbank-Name dürfen Kleinbuchstaben, Ziffern und den Unterstrich enthalten und müssen zwischen 4 und 16 Zeichen lang sein. Sie dürfen keine <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">reservierten Wörter</a> verwenden!',
-
-    'explanation-8.0' => 'Datenbank-Benutzer und Datenbank-Name dürfen Kleinbuchstaben, Ziffern und den Unterstrich enthalten und müssen zwischen 4 und 16 Zeichen lang sein. Sie dürfen keine <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">reservierten Wörter</a> verwenden!',
+    'explanation' => 'Datenbank-Benutzer und Datenbank-Name dürfen Kleinbuchstaben, Ziffern und den Unterstrich enthalten und müssen zwischen 6 und 16 Zeichen lang sein. Sie dürfen keine <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">reservierten Wörter</a> verwenden!',
 
     'maintenance-notice' => 'Aufgrund von Wartungsarbeiten sind derzeit keine Registrierungen möglich.',
 

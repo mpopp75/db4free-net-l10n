@@ -19,19 +19,13 @@ $translations = array(
 
     'agree-conditions' => 'Eu li e concordo com os <a href="conditions.php">termos de uso</a>.',
 
-    'ph1' => '4-16 caractéres., sem maiúsculas, 1º deve ser caractér.',
+    'ph1' => '6-16 caractéres., sem maiúsculas, 1º deve ser caractér.',
 
-    'ph2' => 'Min. 6 caractéres.',
+    'ph2' => 'Min. 8 caractéres.',
 
     'ph3' => 'Digite seu email',
 
-    'explanation-5.7' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">reserved words</a>!',
-
-    'explanation-5.7' => 'O nome de usuario MySQL e o nome do banco de dados podem contar letras minusculas, numeros e "underline"(sublinhado) e deve ter entre 4 e 16 caractéres. Você não pode utilizar <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">palavras reservadas(link em inglês)</a>!',
-
-    'explanation-8.0' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 4 and 16 characters long. You must not use <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">reserved words</a>!',
-
-    'explanation-8.0' => 'O nome de usuario MySQL e o nome do banco de dados podem contar letras minusculas, numeros e "underline"(sublinhado) e deve ter entre 4 e 16 caractéres. Você não pode utilizar <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">palavras reservadas(link em inglês)</a>!',
+    'explanation' => 'O nome de usuario MySQL e o nome do banco de dados podem contar letras minusculas, numeros e "underline" (sublinhado) e deve ter entre 6 e 16 caractéres. Você não pode utilizar <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">palavras reservadas (link em inglês)</a>!',
 
     'maintenance-notice' => 'Cadastro não permitido devido a manutenção do banco de dados.',
 

@@ -25,9 +25,7 @@ $translations = array(
 
     'p4a' => 'Na <a href="https://www.mpopp.net/">blogu mpopp.net</a> jest dostępna <a href="https://www.mpopp.net/category/db4free/">sekcja db4free.net</a> , która przybliża Tobie to, co się dzieje na db4free.net. Prosimy o subskrypcję <a href="https://www.mpopp.net/category/db4free/feed/">kanału RSS</a>, aby mieć pewność, że nie przegapisz żadnej wiadomości. db4free.net jest dostępne też na <a href="/twitter.php">Twitterze</a>, jeszcze jednym źródle, które nie pozwala by zmiany w świecie db4free.net pozostały niezauważone.',
 
-    'p4b-5.7' => 'Najlepsze źródła wiedzy o MySQL to <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/5.7/en/">Instrukcja MySQL</a> oraz <a href="https://planet.mysql.com/">PlanetMySQL</a>. Strona internetowa MySQL oferuje wiele <a href="https://dev.mysql.com/tech-resources/articles/">artykułów dla programistów</a>, z których wiele przedstawia w szczegółowy sposób nowe funkcjonalności, włączane w nadchodzących wersjach.',
-
-    'p4b-8.0' => 'Najlepsze źródła wiedzy o MySQL to <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">Instrukcja MySQL</a> oraz <a href="https://planet.mysql.com/">PlanetMySQL</a>. Strona internetowa MySQL oferuje wiele <a href="https://dev.mysql.com/tech-resources/articles/">artykułów dla programistów</a>, z których wiele przedstawia w szczegółowy sposób nowe funkcjonalności, włączane w nadchodzących wersjach.',
+    'p4b' => 'Najlepsze źródła wiedzy o MySQL to <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">Instrukcja MySQL</a> oraz <a href="https://planet.mysql.com/">PlanetMySQL</a>. Strona internetowa MySQL oferuje wiele <a href="https://dev.mysql.com/tech-resources/articles/">artykułów dla programistów</a>, z których wiele przedstawia w szczegółowy sposób nowe funkcjonalności, włączane w nadchodzących wersjach.',
 
     'p4c' => 'Jeśli znajdziesz błąd w serwerze MySQL, prosimy zgłoś go w <a href="https://bugs.mysql.com/">systemie śledzenia błędów MySQL</a>.',
 );

@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Les mots de passe ne sont pas identitques.',
 
-    'password-too-short' => 'Le mot de passe doit contenir au moins 6 caractères.',
+    'password-too-short' => 'Le mot de passe doit contenir au moins 8 caractères.',
 
     'only-2-db-allowed' => 'Vous ne pouvez créer que 2 bases par adresse mail.',
 

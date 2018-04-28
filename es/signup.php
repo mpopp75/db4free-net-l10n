@@ -20,15 +20,13 @@ $translations = array(
 
     'agree-conditions' => 'He leído las <a href="conditions.php">condiciones de uso</a> y estoy de acuerdo con ellas.',
 
-    'ph1' => '4-16 caracteres, sin mayúsculas, el primero debe ser una letra.',
+    'ph1' => '6-16 caracteres, sin mayúsculas, el primero debe ser una letra.',
 
-    'ph2' => 'Mín. 6 caracteres',
+    'ph2' => 'Mín. 8 caracteres',
 
     'ph3' => 'Ingresa tu correo electrónico',
 
-    'explanation-5.7' => 'El usuario de base de datos y el nombre de la base de datos puede contener letras minúsculas, números y guión bajo, y deben tener entre 4 y 16 caracteres de longitud. Usted no debe usar ¡<a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">palabras reservadas</a>!',
-
-    'explanation-8.0' => 'El usuario de base de datos y el nombre de la base de datos puede contener letras minúsculas, números y guión bajo, y deben tener entre 4 y 16 caracteres de longitud. Usted no debe usar ¡<a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">palabras reservadas</a>!',
+    'explanation' => 'El usuario de base de datos y el nombre de la base de datos puede contener letras minúsculas, números y guión bajo, y deben tener entre 6 y 16 caracteres de longitud. Usted no debe usar ¡<a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">palabras reservadas</a>!',
 
     'maintenance-notice' => 'Debido al mantenimiento de la base de datos, los registros no son posibles actualmente.',
 

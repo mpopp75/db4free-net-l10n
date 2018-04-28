@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Lösenorden är inte identiska',
 
-    'password-too-short' => 'Lösenordet måste vara minst 6 tecken långt.',
+    'password-too-short' => 'Lösenordet måste vara minst 8 tecken långt.',
 
     'only-2-db-allowed' => 'Endast två databaser per e-postadress är tillåtet.',
 

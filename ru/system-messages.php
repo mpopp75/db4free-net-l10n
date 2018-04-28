@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Пароли не совпадают.',
 
-    'password-too-short' => 'Пароль должен содержать минимум 6 символов.',
+    'password-too-short' => 'Пароль должен содержать минимум 8 символов.',
 
     'only-2-db-allowed' => 'На один E-mail разрешено только 2 базы данных.',
 

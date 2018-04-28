@@ -19,15 +19,13 @@ $translations = array(
 
     'agree-conditions' => 'Oświadczam, że przeczytałem <a href="conditions.php">warunki użytkowania</a> oraz przystaję na nie.',
 
-    'ph1' => 'Od 4 do 16 znaków, bez dużych liter, pierwszy znak musi być literą.',
+    'ph1' => 'Od 6 do 16 znaków, bez dużych liter, pierwszy znak musi być literą.',
 
-    'ph2' => 'Co najmniej 6 znaków.',
+    'ph2' => 'Co najmniej 8 znaków.',
 
     'ph3' => 'Podaj swój adres e-mail',
 
-    'explanation-5.7' => 'Nazwa użytkownika oraz nazwa bazy danych mogą zawierać małe litery, cyfry oraz znak podkreślenia i muszą zawierać od 4 do 16 znaków. Nie można używać <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">słów kluczowych</a>!',
-
-    'explanation-8.0' => 'Nazwa użytkownika oraz nazwa bazy danych mogą zawierać małe litery, cyfry oraz znak podkreślenia i muszą zawierać od 4 do 16 znaków. Nie można używać <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">słów kluczowych</a>!',
+    'explanation' => 'Nazwa użytkownika oraz nazwa bazy danych mogą zawierać małe litery, cyfry oraz znak podkreślenia i muszą zawierać od 6 do 16 znaków. Nie można używać <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">słów kluczowych</a>!',
 
     'maintenance-notice' => 'Z powodu prac konserwacyjnych zakładanie nowych baz jest obecnie niemożliwe.',
 

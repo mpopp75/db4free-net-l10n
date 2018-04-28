@@ -32,7 +32,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Las contraseñas no son idénticas.',
 
-    'password-too-short' => 'La contraseña debe tener como mínimo 6 caracteres.',
+    'password-too-short' => 'La contraseña debe tener como mínimo 8 caracteres.',
 
     'only-2-db-allowed' => 'Sólo se permiten 2 bases de datos por correo electrónico.',
 
@@ -53,7 +53,7 @@ $translations = array(
     'subject-signup' => 'Su registro de base de datos con db4free.net',
 
     'subject-delete-account' => 'Eliminación de su cuenta db4free.net',
-    
+
     'subject-change-password' => 'Su nueva contraseña db4free.net',
 );
 ?>

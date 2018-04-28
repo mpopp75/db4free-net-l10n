@@ -5,15 +5,11 @@ Language: Vietnamese
 */
 
 $translations = array(
-    'email-5.7-intro' => 'Cám ơn bạn đã đăng ký tài khoản {$user} ở db4free.net.
+    'email-signup' => 'Cám ơn bạn đã đăng ký tài khoản {$user} ở db4free.net.
 
-Sau khi xác nhận bằng đường dẫn bên đưới, bạn có quyền truy cập vào máy chủ cơ sở dữ liệu của db4free.net\'s MySQL 5.7. Tên máy chủ để truy cập là db4free.net và cổng là 3306 (là cổng mặc định cho MySQL). Bạn có thể dùng phpMyAdmin trên trang của chúng tôi để truy cập vào.',
+Sau khi xác nhận bằng đường dẫn bên đưới, bạn có quyền truy cập vào máy chủ cơ sở dữ liệu của db4free.net\'s MySQL 8.0. Tên máy chủ để truy cập là db4free.net và cổng là 3306. Bạn có thể dùng phpMyAdmin trên trang của chúng tôi để truy cập vào.
 
-    'email-8.0-intro' => 'Cám ơn bạn đã đăng ký tài khoản {$user} ở db4free.net.
-
-Sau khi xác nhận bằng đường dẫn bên đưới, bạn có quyền truy cập vào máy chủ cơ sở dữ liệu của db4free.net\'s MySQL 8.0. Tên máy chủ để truy cập là db4free.net và cổng là 3307. Bạn có thể dùng phpMyAdmin trên trang của chúng tôi để truy cập vào.',
-
-    'email-common' => 'Dùng đường dẫn bên dưới để hoàn thành việc đăng ký trong vòng 14 ngày tiếp theo. Bằng các nhấn vào đường link xác nhận (nhấn lại) giúp bạn hiểu rằng:
+Dùng đường dẫn bên dưới để hoàn thành việc đăng ký trong vòng 14 ngày tiếp theo. Bằng các nhấn vào đường link xác nhận (nhấn lại) giúp bạn hiểu rằng:
 
 * db4free.net là một môi trường thử
 * db4free.net không phù hợp cho một sản phẩm thực tế

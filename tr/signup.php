@@ -19,15 +19,13 @@ $translations = array(
 
     'agree-conditions' => '<a href="conditions.php">Kullanım şartları</a> nı okudum ve kabul ediyorum.',
 
-    'ph1' => '4-16 karakter, büyük harf olmadan, birinci karakter olmalı.',
+    'ph1' => '6-16 karakter, büyük harf olmadan, birinci karakter olmalı.',
 
-    'ph2' => 'En az 6 karakter.',
+    'ph2' => 'En az 8 karakter.',
 
     'ph3' => 'E posta adresinizi girin',
 
-    'explanation-5.7' => 'Veritabanı kullanıcı adı ve veritabanı adı küçük harfler, sayılar ve alt tire içerebilir ve 4-16 karakter uzunluğunda olmalıdır.<a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">Anahtar Sözcükler</a>i kullanmamalısınız!',
-
-    'explanation-8.0' => 'Veritabanı kullanıcı adı ve veritabanı adı küçük harfler, sayılar ve alt tire içerebilir ve 4-16 karakter uzunluğunda olmalıdır.<a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">Anahtar Sözcükler</a>i kullanmamalısınız!',
+    'explanation' => 'Veritabanı kullanıcı adı ve veritabanı adı küçük harfler, sayılar ve alt tire içerebilir ve 6-16 karakter uzunluğunda olmalıdır.<a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">Anahtar Sözcükler</a>i kullanmamalısınız!',
 
     'maintenance-notice' => 'Veritabanı bakımından dolayı şu an kayıt yapılamamaktadır.',
 

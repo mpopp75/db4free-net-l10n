@@ -19,15 +19,13 @@ $translations = array(
 
 	'agree-conditions' => 'I have read the <a href="conditions.php">conditions of use</a> and I agree with them.',
 
-    'ph1' => '4-16 tecken, ej versaler, måste börja med bokstav',
+    'ph1' => '6-16 tecken, ej versaler, måste börja med bokstav',
 
-    'ph2' => 'Minst 6 tecken.',
+    'ph2' => 'Minst 8 tecken.',
 
     'ph3' => 'Ange din E-post',
 
-    'explanation-5.7' => 'Databasens användarnamn och databasnamn kan innehålla små bokstäver, siffror och understreck och måste vara mellan 4-16 tecken långt. Du får inte använda <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">MySQL reserverade ord</a>!',
-
-    'explanation-8.0' => 'Databasens användarnamn och databasnamn kan innehålla små bokstäver, siffror och understreck och måste vara mellan 4-16 tecken långt. Du får inte använda <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">MySQL reserverade ord</a>!',
+    'explanation' => 'Databasens användarnamn och databasnamn kan innehålla små bokstäver, siffror och understreck och måste vara mellan 6-16 tecken långt. Du får inte använda <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">MySQL reserverade ord</a>!',
 
     'maintenance-notice' => 'På grund av underhåll av databasen så kan vi inte ta emot registrering för tillfället.',
 

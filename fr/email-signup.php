@@ -5,15 +5,11 @@ Language: French Français
 */
 
 $translations = array(
-    'email-5.7-intro' => 'Merci d\'avoir créé votre compte de base de données {$user} sur db4free.net.
+    'email-signup' => 'Merci d\'avoir créé votre compte de base de données {$user} sur db4free.net.
 
-Après avoir confirmé en cliquant sur le lien suivant, vous avez accès au serveur MySQL 5.7 de db4free.net. Le nom d\'hôte pour accéder au serveur est db4free.net et le port est 3306 (qui est le port par défaut de MySQL). Vous pouvez utiliser phpMyAdmin sur notre site pour vous connecter au serveur.',
+Après avoir confirmé en cliquant sur le lien suivant, vous avez accès au serveur MySQL 8.0 de db4free.net. Le nom d\'hôte pour accéder au serveur est db4free.net et le port est 3306. Vous pouvez utiliser phpMyAdmin sur notre site pour vous connecter au serveur.
 
-    'email-8.0-intro' => 'Merci d\'avoir créé votre compte de base de données {$user} sur db4free.net.
-
-Après avoir confirmé en cliquant sur le lien suivant, vous avez accès au serveur MySQL 8.0 de db4free.net. Le nom d\'hôte pour accéder au serveur est db4free.net et le port est 3307. Vous pouvez utiliser phpMyAdmin sur notre site pour vous connecter au serveur.',
-
-    'email-common' => 'Merci d\'utiliser le lien suivant pour terminer votre inscription sous 14 jours. En cliquant sur ce lien, vous confirmez (à nouveau) comprendre que :
+Merci d\'utiliser le lien suivant pour terminer votre inscription sous 14 jours. En cliquant sur ce lien, vous confirmez (à nouveau) comprendre que :
 
 * db4free.net est un environnement de test
 * db4free.net n\'est pas adapté à un usage en production

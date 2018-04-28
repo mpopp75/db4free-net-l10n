@@ -20,15 +20,13 @@ $translations = array(
 
     'agree-conditions' => 'Přečetl jsem si <a href="conditions.php">podmínky použití</a> a souhlasím s nimi.',
 
-    'ph1' => '4-16 znaků., Ne velkými písmeny, první musí být písmeno.',
+    'ph1' => '6-16 znaků., Ne velkými písmeny, první musí být písmeno.',
 
-    'ph2' => 'Min. 6 znaků.',
+    'ph2' => 'Min. 8 znaků.',
 
     'ph3' => 'Zadejte svou e-mailovou adresu',
 
-    'explanation-5.7' => 'Uživatelské databáze a název databáze musí obsahovat malá písmena, číslice a podtržítko a musí být déleku mezi 4 a 16 znaky. Nesmíte používat <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">vyhrazená slova</a>!',
-
-    'explanation-8.0' => 'Uživatelské databáze a název databáze musí obsahovat malá písmena, číslice a podtržítko a musí být déleku mezi 4 a 16 znaky. Nesmíte používat <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">vyhrazená slova</a>!',
+    'explanation' => 'Uživatelské databáze a název databáze musí obsahovat malá písmena, číslice a podtržítko a musí být déleku mezi 6 a 16 znaky. Nesmíte používat <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">vyhrazená slova</a>!',
 
     'maintenance-notice' => 'Z důvodu údržby databáze, nyní nemůžete registrovat svou databázi',
 

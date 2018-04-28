@@ -20,15 +20,13 @@ $translations = array(
 
     'agree-conditions' => '我已閱讀<a href="conditions.php">使用規範</a>並認可其內容。',
 
-    'ph1' => '4到16個字元，不允許大寫字母，首字必須為英文字母。',
+    'ph1' => '6到16個字元，不允許大寫字母，首字必須為英文字母。',
 
-    'ph2' => '最少 6 個字',
+    'ph2' => '最少 8 個字',
 
     'ph3' => '輸入你的Email',
 
-    'explanation-5.7' => '使用者名稱與資料庫名稱限制4到16個字元，允許小寫字母、數字以及下底線。 不可使用 <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">保留字</a>！',
-
-    'explanation-8.0' => '使用者名稱與資料庫名稱限制4到16個字元，允許小寫字母、數字以及下底線。 不可使用 <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">保留字</a>！',
+    'explanation' => '使用者名稱與資料庫名稱限制6到16個字元，允許小寫字母、數字以及下底線。 不可使用 <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">保留字</a>！',
 
     'maintenance-notice' => '由於資料庫維修，暫停註冊。',
 

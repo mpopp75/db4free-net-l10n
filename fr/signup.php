@@ -19,15 +19,13 @@ $translations = array(
 
     'agree-conditions' => 'J\'ai lu et j\'accepte <a href="conditions.php">les conditions d\'utilisation</a>.',
 
-    'ph1' => '4-16 caractères, pas de majuscules, le premier caractère doit être une lettre.',
+    'ph1' => '6-16 caractères, pas de majuscules, le premier caractère doit être une lettre.',
 
-    'ph2' => 'Min. 6 caractères.',
+    'ph2' => 'Min. 8 caractères.',
 
     'ph3' => 'Saisissez votre adresse mail',
 
-    'explanation-5.7' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">de mots réservés</a>&nbsp;!',
-
-    'explanation-8.0' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 4 et 16 caractères. Vous ne devez pas utiliser <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">de mots réservés</a>&nbsp;!',
+    'explanation' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 6 et 16 caractères. Vous ne devez pas utiliser <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">de mots réservés</a>&nbsp;!',
 
     'maintenance-notice' => 'En raison d\'une maintenance sur la base, aucune inscription n\'est possible actuellement.',
 

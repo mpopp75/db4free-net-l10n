@@ -20,15 +20,13 @@ $translations = array(
 
     'agree-conditions' => 'Elolvastam a <a href="conditions.php">felhasználási feltételeket</a> és egyetértek velük.',
 
-    'ph1' => '4-16 karakter, nem lehet nagybetű, az 1. karakternek betűnek kell lennie.',
+    'ph1' => '6-16 karakter, nem lehet nagybetű, az 1. karakternek betűnek kell lennie.',
 
-    'ph2' => 'Min. 6 karakter.',
+    'ph2' => 'Min. 8 karakter.',
 
     'ph3' => 'Írd be az email címed',
 
-    'explanation-5.7' => 'A felhasználónév és az adatbázis név tartalmazhat kisbetűket, számokat és \'_\' (aláhúzás) karaktert, a hosszának 4 és 16 karakter között kell lennie. Nem használhatsz <a href="https://dev.mysql.com/doc/refman/5.7/en/keywords.html">a MySQL számára fenntartott szavakat</a>!',
-
-    'explanation-8.0' => 'A felhasználónév és az adatbázis név tartalmazhat kisbetűket, számokat és \'_\' (aláhúzás) karaktert, a hosszának 4 és 16 karakter között kell lennie. Nem használhatsz <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">a MySQL számára fenntartott szavakat</a>!',
+    'explanation' => 'A felhasználónév és az adatbázis név tartalmazhat kisbetűket, számokat és \'_\' (aláhúzás) karaktert, a hosszának 6 és 16 karakter között kell lennie. Nem használhatsz <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">a MySQL számára fenntartott szavakat</a>!',
 
     'maintenance-notice' => 'Karbantartás miatt a regisztráció jelenleg nem érhető el.',
 

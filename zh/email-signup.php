@@ -6,19 +6,13 @@ Translator: Luo Haojing
 */
 
 $translations = array(
-    'email-5.7-intro' => '感谢您注册db4free.net据库账号 {$user}.
+    'email-signup' => '感谢您注册db4free.net据库账号 {$user}.
 
-当您点击以下账号确认链接后，您将有用访问db4free.net\'s MySQL 5.7数据库的权限。 访问域名为：db4free.net 端口为：3306 (即MySQL的预设端口)。您也可以利用网站界面phpMyAdmin来链接数据库服务器。
+当您点击以下账号确认链接后，您将有用访问db4free.net\'s MySQL 8.0数据库的权限。 访问域名为：db4free.net 端口为：3306。您也可以利用网站界面phpMyAdmin来链接数据库服务器。
 
-请点击以下链接以完成注册，链接有效期为14天。',
+请点击以下链接以完成注册，链接有效期为14天。
 
-    'email-8.0-intro' => '感谢您注册db4free.net据库账号 {$user}.
-
-当您点击以下账号确认链接后，您将有用访问db4free.net\'s MySQL 8.0数据库的权限。 访问域名为：db4free.net 端口为：3307。您也可以利用网站界面phpMyAdmin来链接数据库服务器。
-
-请点击以下链接以完成注册，链接有效期为14天。',
-
-    'email-common' => '点击链接代表您了解并同意下列条款：
+点击链接代表您了解并同意下列条款：
 
 * db4free.net 仅供测试环境使用。
 * db4free.net 不适用于商业用途。

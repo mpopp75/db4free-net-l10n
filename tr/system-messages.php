@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Şifreler uyuşmuyor.',
 
-    'password-too-short' => 'Şifre en az 6 karakter uzunluğunda olmalıdır.',
+    'password-too-short' => 'Şifre en az 8 karakter uzunluğunda olmalıdır.',
 
     'only-2-db-allowed' => 'Herbir e posta adresi için sadece 2 veritabanı oluşturulabilir.',
 

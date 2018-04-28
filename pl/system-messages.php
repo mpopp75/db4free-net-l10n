@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Hasła nie są identyczne.',
 
-    'password-too-short' => 'Hasło musi mieć przynajmniej 6 znaków.',
+    'password-too-short' => 'Hasło musi mieć przynajmniej 8 znaków.',
 
     'only-2-db-allowed' => 'Tylko dwie bazy danych mogą zostać utworzone pod jednym adresem e-mail.',
 

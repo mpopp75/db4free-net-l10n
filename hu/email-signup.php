@@ -6,15 +6,11 @@ Translator: uno20001 <regisztralo111@gmail.com>
 */
 
 $translations = array(
-    'email-5.7-intro' => 'Köszönjük, hogy regisztráltál a db4free.net weboldalon (felh.:{$user}).
+    'email-signup' => 'Köszönjük, hogy regisztráltál a db4free.net weboldalon (felh.:{$user}).
 
-Miután megerősítetted a regisztrációdat a lentebb lévő linkkel, elérheted a db4free.net MySQL szerverét a "db4free.net" szervercímen és a "3306" porton éred el (ez az alapértelmezett port). Használhatsz phpMyAdmint a weboldalunkon, hogy belépj a szerverre.',
+Miután megerősítetted a regisztrációdat a lentebb lévő linkkel, elérheted a db4free.net MySQL szerverét a "db4free.net" szervercímen és a "3306" porton éred el. Használhatsz phpMyAdmint a weboldalunkon, hogy belépj a szerverre.
 
-    'email-8.0-intro' => 'Köszönjük, hogy regisztráltál a db4free.net weboldalon (felh.:{$user}).
-
-Miután megerősítetted a regisztrációdat a lentebb lévő linkkel, elérheted a db4free.net MySQL szerverét a "db4free.net" szervercímen és a "3307" porton éred el. Használhatsz phpMyAdmint a weboldalunkon, hogy belépj a szerverre.',
-
-    'email-common' => 'Kérlek kattints a lentebb lévő linkre a következő 14 napban, hogy befejezd a regisztrációt. A linkre kattintással elfogadod (újra), hogy megértetted a következőket:
+Kérlek kattints a lentebb lévő linkre a következő 14 napban, hogy befejezd a regisztrációt. A linkre kattintással elfogadod (újra), hogy megértetted a következőket:
 
 * A db4free.net egy tesztelési környezet
 * A db4free.net nem megfelelő nem teszt jellegű használathoz

@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'The passwords are not identical.',
 
-    'password-too-short' => 'The password must be at least 6 characters long.',
+    'password-too-short' => 'The password must be at least 8 characters long.',
 
     'only-2-db-allowed' => 'Only 2 databases per email address are allowed.',
 

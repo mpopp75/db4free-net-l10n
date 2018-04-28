@@ -32,7 +32,7 @@ $translations = array(
 
     'passwords-not-identical' => 'A jelszavak nem egyeznek.',
 
-    'password-too-short' => 'A jelszónak min. 6 karakter hosszúnak kell lennie.',
+    'password-too-short' => 'A jelszónak min. 8 karakter hosszúnak kell lennie.',
 
     'only-2-db-allowed' => 'Egy email fiókhoz csak kettő adatbázis regisztrálható.',
 

@@ -5,15 +5,11 @@ Language: Turkish, Türkçe
 */
 
 $translations = array(
-    'email-5.7-intro' => 'db4free.net hesabınızı kaydettirdiğiniz için teşekkürler {$user}.
+    'email-signup' => 'db4free.net hesabınızı kaydettirdiğiniz için teşekkürler {$user}.
 
-Aşağıdaki linki onayladıktan sonra, db4free.net\'in MySQL 5.7 veritabanı sunucularına erişiminiz olacaktır. Sunucuya erişmek için host adı: db4free.net ve port: 3306 (MySQL için varsayılan port) olacaktır. Websitemizdeki phpMyAdmin panelini kullanarak sunucuya giriş yapabilirsiniz.',
+Aşağıdaki linki onayladıktan sonra, db4free.net\'in MySQL 8.0 veritabanı sunucularına erişiminiz olacaktır. Sunucuya erişmek için host adı: db4free.net ve port: 3306 olacaktır. Websitemizdeki phpMyAdmin panelini kullanarak sunucuya giriş yapabilirsiniz.
 
-    'email-8.0-intro' => 'db4free.net hesabınızı kaydettirdiğiniz için teşekkürler {$user}.
-
-Aşağıdaki linki onayladıktan sonra, db4free.net\'in MySQL 8.0 veritabanı sunucularına erişiminiz olacaktır. Sunucuya erişmek için host adı: db4free.net ve port: 3307 olacaktır. Websitemizdeki phpMyAdmin panelini kullanarak sunucuya giriş yapabilirsiniz.',
-
-    'email-common' => 'Lütfen 14 gün içerisinde aşağıdaki linki kullanarak kayıt işlemini tamamlayınız. Linke tıklayarak aşağıdaki şartları (tekrar) onaylamış sayılacaksınız:
+Lütfen 14 gün içerisinde aşağıdaki linki kullanarak kayıt işlemini tamamlayınız. Linke tıklayarak aşağıdaki şartları (tekrar) onaylamış sayılacaksınız:
 
 * db4free.net bir test ortamıdır
 * db4free.net üretim için uygun değildir

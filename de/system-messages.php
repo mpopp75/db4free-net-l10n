@@ -29,7 +29,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Die Passwörter sind nicht identisch.',
 
-    'password-too-short' => 'Das Passwort muss mindestens 6 Zeichen lang sein.',
+    'password-too-short' => 'Das Passwort muss mindestens 8 Zeichen lang sein.',
 
     'only-2-db-allowed' => 'Es sind nur 2 Datenbanken pro Email-Adresse erlaubt.',
 

@@ -5,15 +5,11 @@ Language: Swedish
 */
 
 $translations = array(
-    'email-5.7-intro' => 'Tack för att du registrerar ditt databaskonto {$user} hos db4free.net
+    'email-signup' => 'Tack för att du registrerar ditt databaskonto {$user} hos db4free.net
 
-Efter att ha bekräftat länken nedan, har du tillgång till db4free.net\'s MySQL 5.7 databasserver. Värdnamnet för att få tillgång till servern är db4free.net och porten är 3306 (vilket är standardporten för MySQL). Du kan använda phpMyAdmin på vår hemsida för att logga in på servern.',
+Efter att ha bekräftat länken nedan, har du tillgång till db4free.net\'s MySQL 8.0 databasserver. Värdnamnet för att få tillgång till servern är db4free.net och porten är 3306. Du kan använda phpMyAdmin på vår hemsida för att logga in på servern.
 
-    'email-8.0-intro' => 'Tack för att du registrerar ditt databaskonto {$user} hos db4free.net
-
-Efter att ha bekräftat länken nedan, har du tillgång till db4free.net\'s MySQL 8.0 databasserver. Värdnamnet för att få tillgång till servern är db4free.net och porten är 3307. Du kan använda phpMyAdmin på vår hemsida för att logga in på servern.',
-
-    'email-common' => 'Vänligen använd följande länk för att avsluta registreringsprocessen inom de närmaste 14 dagarna. Genom att klicka på denna länk bekräftar du (igen) att du förstår att:
+Vänligen använd följande länk för att avsluta registreringsprocessen inom de närmaste 14 dagarna. Genom att klicka på denna länk bekräftar du (igen) att du förstår att:
 
 * db4free.net är en testmiljö
 * db4free.net är inte lämplig för produktion

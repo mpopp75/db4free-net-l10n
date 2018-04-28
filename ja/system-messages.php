@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'このパスワードは認識できません。',
 
-    'password-too-short' => 'パスワードは6文字以上必要です。',
+    'password-too-short' => 'パスワードは8文字以上必要です。',
 
     'only-2-db-allowed' => '1つのEメールアドレスにつき2つのデータベースしか作成できません。',
 

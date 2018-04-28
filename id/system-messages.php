@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Kata sandi tidaklah sama.',
 
-    'password-too-short' => 'Kata sandi haruslah lebih dari 6 karakter.',
+    'password-too-short' => 'Kata sandi haruslah lebih dari 8 karakter.',
 
     'only-2-db-allowed' => 'Hanya 2 database berlaku per alamat email.',
 

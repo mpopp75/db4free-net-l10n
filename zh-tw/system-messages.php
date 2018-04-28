@@ -32,7 +32,7 @@ $translations = array(
 
     'passwords-not-identical' => '使用者密碼不一致。',
 
-    'password-too-short' => '使用者密碼不可以少於6個字。',
+    'password-too-short' => '使用者密碼不可以少於8個字。',
 
     'only-2-db-allowed' => '每個Email只能建立兩個資料庫。',
 

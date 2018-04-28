@@ -32,7 +32,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Hesla nejsou totožné.',
 
-    'password-too-short' => 'Heslo musí mít délku nejméně šesti znaků.',
+    'password-too-short' => 'Heslo musí mít délku nejméně 8 znaků.',
 
     'only-2-db-allowed' => 'Jsou povoleny pouze 2 databáze na jednu e-mailovou adresu.',
 

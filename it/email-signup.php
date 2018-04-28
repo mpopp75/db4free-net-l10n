@@ -5,15 +5,11 @@ Language: Italian
 */
 
 $translations = array(
-    'email-5.7-intro' => 'Grazie per aver registrato il tuo account {$user} con db4free.net.
+    'email-signup' => 'Grazie per aver registrato il tuo account {$user} con db4free.net.
 
-Dopo aver confermato il collegamento seguente, avrai accesso al database MySQL 5.7 sui server di db4free.net. Il nome host per accedere ai server è db4free.net ed il numero di porta è 3306 (Ovvero la porta di default per MySQL). Puoi usare phpMyAdmin sul nostro sito web per accedere al server.',
+Dopo aver confermato il collegamento seguente, avrai accesso al database MySQL 8.0 sui server di db4free.net. Il nome host per accedere ai server è db4free.net ed il numero di porta è 3306. Puoi usare phpMyAdmin sul nostro sito web per accedere al server.
 
-    'email-8.0-intro' => 'Grazie per aver registrato il tuo account {$user} con db4free.net.
-
-Dopo aver confermato il collegamento seguente, avrai accesso al database MySQL 8.0 sui server di db4free.net. Il nome host per accedere ai server è db4free.net ed il numero di porta è 3307. Puoi usare phpMyAdmin sul nostro sito web per accedere al server.',
-
-    'email-common' => 'Per favore usa il collegamento seguente per completare la registrazione entro i prossimi 14 giorni. Cliccando questo collegamento confermi (ancora) che hai compreso le seguenti affermazioni:
+Per favore usa il collegamento seguente per completare la registrazione entro i prossimi 14 giorni. Cliccando questo collegamento confermi (ancora) che hai compreso le seguenti affermazioni:
 
 * db4free.net è un ambiente di testing.
 * db4free.net non è adatto a ambienti di produzione.

@@ -5,15 +5,11 @@ Language: Bahasa Indonesia
 */
 
 $translations = array(
-    'email-5.7-intro' => 'Terima kasih telah mendaftarkan nama pengguna database {$user} di db4free.net.
+    'email-signup' => 'Terima kasih telah mendaftarkan nama pengguna database {$user} di db4free.net.
 
-Setelah konfirmasi link di bawah, Anda akan mendapat akses di db4free.net\'s MySQL 5.7 database server. Hostname untuk mengakses server adalah db4free.net dengan port 3306 (Port default MySQL). Anda dapat menggunakan phpMyAdmin di website kami untuk masuk ke server.',
+Setelah konfirmasi link di bawah, Anda akan mendapat akses di db4free.net\'s MySQL 8.0 database server. Hostname untuk mengakses server adalah db4free.net dengan port 3306. Anda dapat menggunakan phpMyAdmin di website kami untuk masuk ke server.
 
-    'email-8.0-intro' => 'Terima kasih telah mendaftarkan nama pengguna database {$user} di db4free.net.
-
-Setelah konfirmasi link di bawah, Anda akan mendapat akses di db4free.net\'s MySQL 8.0 database server. Hostname untuk mengakses server adalah db4free.net dengan port 3307. Anda dapat menggunakan phpMyAdmin di website kami untuk masuk ke server.',
-
-    'email-common' => 'Silakan gunakan link tersebut untuk melengkapi pendaftaran, berlaku 14 hari dari sekarang. Dengan mengklik konfirmasi (lagi) Anda mengerti bahwa:
+Silakan gunakan link tersebut untuk melengkapi pendaftaran, berlaku 14 hari dari sekarang. Dengan mengklik konfirmasi (lagi) Anda mengerti bahwa:
 
 * db4free.net adalah layanan tes
 * db4free.net tidak baik untuk produksi

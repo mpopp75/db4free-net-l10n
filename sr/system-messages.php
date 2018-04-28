@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'Šifre se ne poklapaju.',
 
-    'password-too-short' => 'Šifra mora biti najmanje 6 karaktera duga.',
+    'password-too-short' => 'Šifra mora biti najmanje 8 karaktera duga.',
 
     'only-2-db-allowed' => 'Najviše 2 baze podataka po email-u su dozvoljene.',
 

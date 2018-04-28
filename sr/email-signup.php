@@ -5,21 +5,11 @@ Language: Serbian
 */
 
 $translations = array(
-    /*
-     Differences email-5.7-intro vs. email-8.0-intro:
-     * Version 5.7 <-> Version 8.0
-     * Port 3306 <-> Port 3307
-     * Version 8.0 removes "(which is the default port for MySQL)"
-     */
-    'email-5.7-intro' => 'Hvala vam na registraciji vašeg profila za bazu podataka {$user} na db4free.net.
+    'email-signup' => 'Hvala vam na registraciji vašeg profila za bazu podataka {$user} na db4free.net.
 
-Posle potvrđivanja klikom na link ispod, dobićete pristup na db4free.net MySQL 5.7 serveru. Host ime za pristup serveru je db4free.net i port je 3306 (što je podrazumevani port za MySQL). Možete koristiti phpMyAdmin na našem web sajtu da se ulogujete na server.',
+Posle potvrđivanja klikom na link ispod, dobićete pristup na db4free.net MySQL 8.0 serveru. Host ime za pristup serveru je db4free.net i port je 3306. Možete koristiti phpMyAdmin na našem web sajtu da se ulogujete na server.
 
-    'email-8.0-intro' => 'Hvala vam na registraciji vašeg profila za bazu podataka {$user} na db4free.net.
-
-Posle potvrđivanja klikom na link ispod, dobićete pristup na db4free.net MySQL 8.0 serveru. Host ime za pristup serveru je db4free.net i port je 3307. Možete koristiti phpMyAdmin na našem web sajtu da se ulogujete na server.',
-
-    'email-common' => 'Kliknite na link da bi završili proces registraciji u narednih 14 dana. Klikom na ovaj link potvrđujete (ponovo) da se slažete sa:
+Kliknite na link da bi završili proces registraciji u narednih 14 dana. Klikom na ovaj link potvrđujete (ponovo) da se slažete sa:
 
 * db4free.net je okruženje za testiranje
 * db4free.net nije odgovarajuć za produkciju
