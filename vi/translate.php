@@ -11,7 +11,7 @@ $translations = array(
 
     'l10ncreditsclick' => 'Nhấn để xem danh sách',
 
-    'p1a' => 'Sau cập nhận năm 2014 của db4free.net và dịch vụ, bây giờ đã có cách dễ dàng cho các bạn phiên dịch cho db4free.net ra nhiều ngôn ngữ.',
+    'p1a' => 'Sau cập nhật năm 2014 của db4free.net và dịch vụ, bây giờ đã có cách dễ dàng cho các bạn phiên dịch cho db4free.net ra nhiều ngôn ngữ.',
 
     'p1b' => 'Tất cả nội dung văn bản đã được cập nhật lên <a href="https://github.com/">GitHub</a>. Bạn có thể fork từ repository, ghi bản dịch của bạn và gửi cho chúng tôi một yêu cầu pull vì vậy bạn bản dịch có thể được tích hợp vào trang web.',
 

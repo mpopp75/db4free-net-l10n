@@ -13,7 +13,7 @@ Dùng đường dẫn bên dưới để hoàn thành việc đăng ký trong v�
 
 * db4free.net là một môi trường thử
 * db4free.net không phù hợp cho một sản phẩm thực tế
-* nếu bạn quyết định sử dụng cơ sở dữ liệu ở db4free.net cho sản phẩm của bạn thì chúng tôi cản báo, bạn sẽ chịu trách nhiệu cho các rủi ro của bạn (thường xuyên sao lưu cơ sở dữ liệu là điều được khuyến khích)
+* nếu bạn quyết định sử dụng cơ sở dữ liệu ở db4free.net cho sản phẩm của bạn thì chúng tôi cảnh báo, bạn sẽ chịu trách nhiệm cho các rủi ro của bạn (thường xuyên sao lưu cơ sở dữ liệu là điều được khuyến khích)
 * mất dữ liệu và sụp hệ thống có thể xảy ra bất cứ lúc nào (tất cả những ý kiến về điều này gần như sẽ bị bỏ qua)
 * nhóm db4free.net không bảo hành hoặc trách nhiệm pháp lý của bất cứ trường hợp nào
 * nhóm db4free.net có quền xóa bất kì cơ sỡ dữ liệu hay tài khoản nào mà không cần báo trước

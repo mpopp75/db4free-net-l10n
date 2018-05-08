@@ -7,7 +7,7 @@ Language: Vietnamese
 $translations = array(
     'h1' => 'Đăng ký',
 
-    'mysql-db-name' => 'Tên cơ sỡ dữ liệu MySQL',
+    'mysql-db-name' => 'Tên cơ sở dữ liệu MySQL',
 
     'mysql-user-name' => 'Tên người dùng MySQL',
 
@@ -35,13 +35,13 @@ $translations = array(
 
     'agm-li2' => 'db4free.net không phù hợp cho một sản phẩm thực tế',
 
-    'agm-li3' => 'nếu bạn quyết định sử dụng cơ sở dữ liệu ở db4free.net cho sản phẩm của bạn thì chúng tôi cản báo, bạn sẽ chịu trách nhiệu cho các rủi ro của bạn (thường xuyên sao lưu cơ sở dữ liệu là điều được khuyến khích)',
+    'agm-li3' => 'nếu bạn quyết định sử dụng cơ sở dữ liệu ở db4free.net cho sản phẩm của bạn thì chúng tôi cảnh báo, bạn sẽ chịu trách nhiệm cho các rủi ro của bạn (thường xuyên sao lưu cơ sở dữ liệu là điều được khuyến khích)',
 
     'agm-li4' => 'mất dữ liệu và sụp hệ thống có thể xảy ra bất cứ lúc nào (tất cả những ý kiến về điều này gần như sẽ bị bỏ qua)',
 
     'agm-li5' => 'nhóm db4free.net không bảo hành hoặc trách nhiệm pháp lý của bất cứ trường hợp nào',
 
-    'agm-li6' => 'nhóm db4free.net có quền xóa bất kì cơ sỡ dữ liệu hay tài khoản nào mà không cần báo trước',
+    'agm-li6' => 'nhóm db4free.net có quyền xóa bất kì cơ sỡ dữ liệu hay tài khoản nào mà không cần báo trước',
 
     'agm-li7' => 'bạn có thể lấy thông tin mới nhất từ Twitter của chúng tôi <a href="/twitter.php">Twitter</a> hay <a href="/blog.php">db4free.net blog</a>',
 
@@ -49,11 +49,11 @@ $translations = array(
 
     'agm-p2' => 'Phụ mục:',
 
-    'agm-li9' => 'db4free.net là dịnh vụ để kiểm tra không phải để làm máy chủ. Cơ sở dữ liệu lưu trử hơn 200MB sẽ bị dọn dẹp mà không cần thông báo.',
+    'agm-li9' => 'db4free.net là dịnh vụ để kiểm tra không phải để làm máy chủ. Cơ sở dữ liệu lưu trữ hơn 200MB sẽ bị dọn dẹp mà không cần thông báo.',
 
     'agm-li10' => 'Hãy xóa dữ liệu nếu bạn không cần nữa, hay <a href="/delete-account.php">xóa tài khoản nếu bạn không cần nữa</a>. Điều này giúp chúng tôi dễ dàng khôi phục lại hệ thống khi có sự cố xảy ra.',
 
-    'signup-error1' => 'Bạn phải đồng ý điều khoảng sử dụng!',
+    'signup-error1' => 'Bạn phải đồng ý điều khoản sử dụng!',
 
     'signup-error2' => 'Lỗi đăng ký thông tin cho cơ sở dữ liệu MySQL cho bạn!',
 

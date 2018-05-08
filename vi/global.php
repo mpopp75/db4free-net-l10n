@@ -29,23 +29,23 @@ $translations = array(
 
     'sidebar_2_1' => 'Về db4free.net',
 
-    'sidebar_2_2' => 'Điều khoảng sử dụng',
+    'sidebar_2_2' => 'Điều khoản sử dụng',
 
     'sidebar_2_3' => 'Đăng ký',
 
     'sidebar_2_4' => 'Đổi mật khẩu',
 
-    'sidebar_2_5' => 'Xóa tài khoảng',
+    'sidebar_2_5' => 'Xóa tài khoản',
 
     'sidebar_2_6' => 'Quên mật khẩu?',
 
-    'pmalogin' => 'Đang nhập phpMyAdmin',
+    'pmalogin' => 'Đăng nhập phpMyAdmin',
 
     'username' => 'Tên người dùng',
 
     'password' => 'Mật khẩu',
 
-    'login' => 'Đang nhập',
+    'login' => 'Đăng nhập',
 
     'switch_language' => 'Đổi ngôn ngữ',
 );

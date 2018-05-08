@@ -19,7 +19,7 @@ $translations = array(
 
     'h3' => 'Bạn có thể giúp chúng tôi phiên dịch trang db4free.net?',
 
-    'p3' => 'Ngôn ngữ bạn sử dụng tốt mà tranb web của chúng tôi không cung cấp? Bạn có thể giúp chúng tôi phiên dịch trang db4free.net. <a href="/translate.php">Tìm hiểu thêm!</a>',
+    'p3' => 'Ngôn ngữ bạn sử dụng tốt mà trang web của chúng tôi không cung cấp? Bạn có thể giúp chúng tôi phiên dịch trang db4free.net. <a href="/translate.php">Tìm hiểu thêm!</a>',
 
     'h4' => 'Tài nguyên',
 
