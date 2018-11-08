@@ -1,0 +1,10 @@
+<?php
+/*
+Section: ÊæíÊÑ
+Language: ÇáÚÑÈíÉ
+*/
+
+$translations = array(
+    'h1' => 'ÊæíÊÑ'
+);
+?>
