@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Section: حذف الحساب
 Language: العربية
@@ -22,3 +22,4 @@ $translations = array(
     'error3' => 'كلمة المرور غير صحيحة !',
 );
 ?>
+

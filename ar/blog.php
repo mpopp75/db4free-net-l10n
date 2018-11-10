@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Section: المدونة
 Language: العربية
@@ -12,3 +12,4 @@ $translations = array(
     'listposts' => 'عرض منشورات المدونة:',
 );
 ?>
+

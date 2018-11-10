@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Section:تغيير كلمة  المرور 
 Language: العربية
@@ -24,3 +24,4 @@ The db4free.net فريق
 https://www.db4free.net',
 );
 ?>
+

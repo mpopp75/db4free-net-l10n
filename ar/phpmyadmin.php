@@ -1,10 +1,11 @@
 <?php
 /*
 Section: phpmyadmin
-Language: ÇáÚÑÈíÉ
+Language: Arabic
 */
 
 $translations = array(
     'h1' => 'phpMyAdmin',
 );
 ?>
+

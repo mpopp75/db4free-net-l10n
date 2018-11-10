@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Section: عام
 Language: العربية
@@ -50,3 +50,4 @@ $translations = array(
     'switch_language' => 'تبديل اللغة',
 );
 ?>
+

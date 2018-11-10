@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Section: نبذة عن
 Language: العربية
@@ -15,4 +15,5 @@ $translations = array(
 
     'h3' => '<a href="signup.php">احصل على حساب قاعدة بيانات MySql مجاناً  account&nbsp;&raquo;</a>',
 );
-?>
+?> 
+

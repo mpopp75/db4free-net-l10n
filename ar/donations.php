@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Section: التبرعات
 Language: العربية
@@ -14,3 +14,4 @@ $translations = array(
     'currency' => 'العملة',
 );
 ?>
+

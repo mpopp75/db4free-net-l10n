@@ -1,10 +1,11 @@
 <?php
 /*
-Section: ÊæíÊÑ
-Language: ÇáÚÑÈíÉ
+Section: twitter
+Language: English
 */
 
 $translations = array(
-    'h1' => 'ÊæíÊÑ'
+    'h1' => 'Twitter',
 );
 ?>
+
