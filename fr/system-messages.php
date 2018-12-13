@@ -33,13 +33,13 @@ $translations = array(
 
     'password-too-short' => 'Le mot de passe doit contenir au moins 8 caractères.',
 
-    'only-2-db-allowed' => 'Vous ne pouvez créer que 2 bases par adresse mail.',
+    'only-2-db-allowed' => 'Vous ne pouvez créer que 2 bases par adresse email.',
 
-    'email-invalid' => 'L\'adressee mail est invalide.',
+    'email-invalid' => 'L\'adresse email est invalide.',
 
     'user-not-exist' => 'L\'utilisateur n\'existe pas.',
 
-    'user-not-confirmed' => 'L\'utilisateur n\'a pas encore confirmé via le mail de vérification.',
+    'user-not-confirmed' => 'L\'utilisateur n\'a pas encore confirmé via le email de vérification.',
 
     'password-not-correct' => 'Le mot de passe est incorrect.',
 
