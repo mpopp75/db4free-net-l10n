@@ -5,7 +5,7 @@ Language: French Français
 */
 
 $translations = array(
-    'h1' => 'Modifier mot de passe',
+    'h1' => 'Modifier votre mot de passe',
 
     'mysql-username' => 'Nom d\'utilisateur MySQL',
 
