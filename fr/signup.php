@@ -15,7 +15,7 @@ $translations = array(
 
     'mysql-user-password-verification' => 'Vérification du mot de passe de l\'utilisateur MySQL',
 
-    'email-address' => 'Adresse Email',
+    'email-address' => 'Adresse email',
 
     'agree-conditions' => 'J\'ai lu et j\'accepte <a href="conditions.php">les conditions d\'utilisation</a>.',
 
@@ -23,7 +23,7 @@ $translations = array(
 
     'ph2' => 'Min. 8 caractères.',
 
-    'ph3' => 'Saisissez votre adresse mail',
+    'ph3' => 'Saisissez votre email',
 
     'explanation' => 'Le nom d\'utilisateur et le nom de la base de données peuvent contenir des lettres minuscules, des nombres des underscores et doivent contenir entre 6 et 16 caractères. Vous ne devez pas utiliser <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">de mots réservés</a>&nbsp;!',
 
@@ -49,7 +49,7 @@ $translations = array(
 
     'agm-p2' => 'De plus&nbsp;:',
 
-    'agm-li9' => 'db4free.net est un service de test, pas d\'hébergement. Les bases qui contiennent plus de 200 MB de données vidées à intervales aléatoires sans notification préalable.',
+    'agm-li9' => 'db4free.net est un service de test, pas d\'hébergement. Les bases de données qui contiennent plus de 200 MB de données seront vidées à intervales aléatoires sans avis préalable.',
 
     'agm-li10' => 'merci de supprimer les données dont vous n\'avez plus besoin, et les comptes utilisateurs que vous n\'utilisez plus (https://www.db4free.net/delete-account.php). Cela facilite la récupération des données après un éventuel crash.',
 
