@@ -20,5 +20,4 @@ Sperăm că vă place să lucrați cu baza dvs. de date!
 Echipa db4free.net
 https://www.db4free.net',
 );
-);
 ?>
