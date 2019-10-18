@@ -11,8 +11,8 @@ $translations = array(
 
     'h2' => 'O que nos torna "especial"?',
 
-    'p2' => 'O objetivo do nosso projeto é tentar satisfazer as necessidades dos desenvolvedores e testadores com a <b>versão atual</b> do MySQL. Atualizando as versões do MySQL e do phpMyAdmin frequentemente, você terá por exemplo a oportunidade de testar o seu site com a versão atual do MySQL.',
+    'p2' => 'O objetivo do nosso projeto é tentar satisfazer as necessidades dos desenvolvedores e testadores com a <b>versão atual</b> do MySQL. Atualizando as versões do MySQL e do phpMyAdmin frequentemente, você terá por exemplo a oportunidade de testar o seu site com a versão mais recente do MySQL.',
 
-    'h3' => '<a href="signup.php">Cria seu banco de dados MySQL gratuitamente&nbsp;&raquo;</a>',
+    'h3' => '<a href="signup.php">Crie seu banco de dados MySQL gratuitamente&nbsp;&raquo;</a>',
 );
 ?>

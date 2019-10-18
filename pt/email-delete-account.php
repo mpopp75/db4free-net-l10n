@@ -7,7 +7,6 @@ Language: Portuguese (Brazilian)
 $translations = array(
     'email' => 'Recebemos sua solicitação para deletar sua conta no db4free.net "{$user}".
 
-Please confirm the deletion by clicking the following link. Please be aware that all of your data in this database is irrevocably deleted!
 Clique no link a seguir para confirmar a exclusão. Todos os seus dados neste banco de dados serão deletados permanentemente!
 
 {$mailLink}

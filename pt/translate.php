@@ -43,6 +43,6 @@ $translations = array(
 
     'p2m' => 'Quando terminar sua tradução, faça um commit e envie para o seu repositório no GitHub. Mude para sua nova ramificação(branch) e clique em "New Pull Request". Digite uma pequena descrição sobre o que é sua tradução, dificuldades que enfrentou ou porque você não pôde terminar a tradução e etc. E envie a solicitação de recebimento(pull request).',
 
-    'p2n' => 'Se você quer contribuir mas precisa de assistencia adicional antes de começar, por favor <a href="https://github.com/mpopp75/db4free-net-l10n/issues">abra um Ticket no GitHub</a>.',
+    'p2n' => 'Se você quer contribuir mas precisa de assistência adicional antes de começar, por favor <a href="https://github.com/mpopp75/db4free-net-l10n/issues">abra um Ticket no GitHub</a>.',
 );
 ?>
