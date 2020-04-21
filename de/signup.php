@@ -53,6 +53,8 @@ $translations = array(
 
     'agm-li10' => 'Bitte löschen Sie Daten die Sie nicht mehr benötigen, oder <a href="/delete-account.php">löschen Sie den nicht mehr benötigten Account</a>. Im Falle eines Server Crashs erleichtert das die Wiederherstellung der Daten.',
 
+    'email-note' => 'Email-Adressen von <span title="%s" style="border-bottom: 1px dotted">einigen Domains</span> sind nicht erlaubt!',
+
     'signup-error1' => 'Sie müssen den Nutzungsbestimmungen zustimmen!',
 
     'signup-error2' => 'Fehler beim Registrieren der Daten!',
