@@ -9,7 +9,7 @@ $translations = array(
 
     'mysql-username' => 'MySQL kullanıcı adı',
 
-    'mysql-user-password' => 'MySQL şifre',
+    'mysql-user-password' => 'MySQL kullanıcı şifresi',
 
     'ph1' => 'Kullanıcı adınızı girin',
 
