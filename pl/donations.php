@@ -12,13 +12,5 @@ $translations = array(
     'amount' => 'Kwota',
 
     'currency' => 'Waluta',
-
-    'bank_transfer' => 'Donation by bank transfer',
-
-    'creditor' => 'Wierzyciel',
-
-    'use_qrcode' => 'Większość aplikacji bankowych pozwala szybko i łatwo wypełnić formularz przelewu bankowego za pomocą funkcji „Skanuj kod QR”.',
-
-    'select_amount' => 'Wprowadź kwotę w aplikacji bankowej',
 );
 ?>
