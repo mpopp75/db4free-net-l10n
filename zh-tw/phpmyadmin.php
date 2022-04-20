@@ -1,7 +1,8 @@
 <?php
 /*
 Section: phpmyadmin
-Language: English
+Language: Traditional Chinese 繁體中文
+Translator: Trey Lin, SiderealArt
 */
 
 $translations = array(

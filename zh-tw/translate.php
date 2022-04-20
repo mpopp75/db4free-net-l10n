@@ -2,23 +2,27 @@
 /*
 Section: translate
 Language: Traditional Chinese 繁體中文
-Translator: Trey Lin
+Translator: Trey Lin, SiderealArt
 */
 
 $translations = array(
     'h1' => '翻譯',
 
-    'p1a' => '我們在2014年對 db4free.net 網站及資料庫服務的更新，現在有了簡單的方法讓你協助 db4free.net 網站翻譯至更多語言！',
+    'l10ncredits' => '致謝翻譯志工',
 
-    'p1b' => '網站內的所有文字都在 <a href="https://github.com/">GitHub</a>。 你可以從上面fork一份到自己的repository，完成你的翻譯接著送出 pull request 以供網站可以整合你的翻譯。',
+    'l10ncreditsclick' => '點擊以檢視列表',
+
+    'p1a' => '在 2014 年對 db4free.net 網站及資料庫服務的更新後，有了讓所有人能夠輕易將 db4free.net 翻譯成多種語言的方法。',
+
+    'p1b' => '網站內的所有文字都在 <a href="https://github.com/">GitHub</a>。你可以 fork 儲存庫，完成翻譯，然後送出 pull request，您的翻譯即可被整合進網站中。',
 
     'h2' => '怎麼做？',
 
-    'p2a' => '首先，如果你沒有GitHub帳號的話，你必須先註冊一個 GitHub 帳號。 於以下網址Fork一份到自己的repository ',
+    'p2a' => '首先，如果你沒有 GitHub 帳號的話，你必須先註冊一個 GitHub 帳號。於以下網址Fork 一份到自己的 repository',
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
-    'p2c' => ' 你的帳號內就有一份與線上一樣的repository。 接著你可以clone一份資料到你的電腦上。 Git 指令是:',
+    'p2c' => ' 你的帳號內就有一份與線上一樣的 repository。接著你可以 clone 一份資料到你的電腦上。Git 指令是：',
 
     'p2d' => 'git clone git@github.com:[你的GitHub帳號]/db4free-net-l10n.git',
 
@@ -28,7 +32,7 @@ $translations = array(
 
     'p2g' => '如果專案內缺少你欲翻譯語言的資料夾，請從"en"資料夾複製一份，資料夾名稱請參考語言代碼表： <a href="http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 language codes</a>.',
 
-    'p2h' => '翻譯時，你可以將英文原文以翻譯文字覆蓋。 但要注意不可更改到ID的屬性。 替換範例如下：',
+    'p2h' => '翻譯時，你可以將英文原文以翻譯文字覆蓋。但要注意不可更改到ID的屬性。例如：',
 
     'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
 

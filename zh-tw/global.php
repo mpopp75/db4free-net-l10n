@@ -2,7 +2,7 @@
 /*
 Section: global
 Language: Traditional Chinese 繁體中文
-Translator: Trey Lin
+Translator: Trey Lin, SiderealArt
 */
 
 $translations = array(
@@ -16,7 +16,7 @@ $translations = array(
 
     'topnav3' => 'Twitter',
 
-    'topnav4' => 'mpopp.net blog',
+    'topnav4' => 'mpopp.net 部落格',
 
     'topnav5' => 'phpMyAdmin',
 
@@ -40,11 +40,11 @@ $translations = array(
 
     'sidebar_2_6' => '忘記密碼？',
 
-    'pmalogin' => '登入phpMyAdmin',
+    'pmalogin' => '登入 phpMyAdmin',
 
     'username' => '使用者名稱',
 
-    'password' => '使用者密碼',
+    'password' => '密碼',
 
     'login' => '登入',
 

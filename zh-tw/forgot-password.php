@@ -2,11 +2,11 @@
 /*
 Section: forgot-password
 Language: Traditional Chinese 繁體中文
-Translator: Trey Lin
+Translator: Trey Lin, SiderealArt
 */
 
 $translations = array(
-    'h1' => '忘記你的密碼？',
+    'h1' => '忘記密碼？',
 
     'username' => '使用者名稱',
 
@@ -16,6 +16,6 @@ $translations = array(
 
     'error1' => '你輸入的資訊錯誤！',
 
-    'success' => '你將會收到有著新密碼的信件！',
+    'success' => '你將會收到包含新密碼的信件！',
 );
 ?>
