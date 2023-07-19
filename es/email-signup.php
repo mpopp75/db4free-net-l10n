@@ -8,7 +8,7 @@ Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 $translations = array(
     'email-signup' => 'Gracias por registrar su cuenta de base de datos {$user} en db4free.net.
 
-Después de confirmar el enlace de abajo, usted tendrá acceso al servidor de base de datos MySQL 8.0 de db4free.net. El nombre de host para acceder al servidor es db4free.net y el puerto es el 3306. Puede usar phpMyAdmin en nuestro sitio web para iniciar sesión en el servidor.
+Después de confirmar el enlace de abajo, usted tendrá acceso al servidor de base de datos MySQL 8.1 de db4free.net. El nombre de host para acceder al servidor es db4free.net y el puerto es el 3306. Puede usar phpMyAdmin en nuestro sitio web para iniciar sesión en el servidor.
 
 Utilice el siguiente enlace para terminar el proceso de registro dentro de los próximos 14 días. Al hacer clic en el enlace confirma (una vez más) que usted entiende que:
 

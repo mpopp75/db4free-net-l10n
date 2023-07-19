@@ -7,7 +7,7 @@ Language: Polish
 $translations = array(
     'email-signup' => 'Dziękujemy za zainteresowanie utworzeniem konta bazodanowego {$user} w serwisie db4free.net.
 
-Poprzez kliknięcie linka poniżej, otrzymujesz dostęp do serwera bazodanowego MySQL 8.0 serwisu db4free.net. Nazwa hosta to db4free.net a port 3306. Możesz użyć phpMyAdmin na naszej stronie, w celu zalogowania się do bazy danych.
+Poprzez kliknięcie linka poniżej, otrzymujesz dostęp do serwera bazodanowego MySQL 8.1 serwisu db4free.net. Nazwa hosta to db4free.net a port 3306. Możesz użyć phpMyAdmin na naszej stronie, w celu zalogowania się do bazy danych.
 
 Prosimy użyć odnośnika w dalszej części tej wiadomości w celu zakończenia procesu rejestracji w ciągu następnych czternastu dni. Poprzeż kliknięcie odnośnika ponownie potwierdzasz, że rozumiesz, iż:
 

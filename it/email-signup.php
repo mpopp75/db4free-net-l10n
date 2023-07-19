@@ -7,7 +7,7 @@ Language: Italian
 $translations = array(
     'email-signup' => 'Grazie per aver registrato il tuo account {$user} con db4free.net.
 
-Dopo aver confermato il collegamento seguente, avrai accesso al database MySQL 8.0 sui server di db4free.net. Il nome host per accedere ai server è db4free.net ed il numero di porta è 3306. Puoi usare phpMyAdmin sul nostro sito web per accedere al server.
+Dopo aver confermato il collegamento seguente, avrai accesso al database MySQL 8.1 sui server di db4free.net. Il nome host per accedere ai server è db4free.net ed il numero di porta è 3306. Puoi usare phpMyAdmin sul nostro sito web per accedere al server.
 
 Per favore usa il collegamento seguente per completare la registrazione entro i prossimi 14 giorni. Cliccando questo collegamento confermi (ancora) che hai compreso le seguenti affermazioni:
 

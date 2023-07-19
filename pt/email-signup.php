@@ -7,7 +7,7 @@ Language: Portuguese (Brazilian)
 $translations = array(
     'email-signup' => 'Obrigado por se cadastrar no db4free.net {$user}.
 
-Após confirmar sua conta no link abaixo, você terá acessp ao servidor de banco de dados MySQL 8.0 do db4free.net. O nome do "host" para acesso ao servidor é db4free.net e a porta é 3306. Você pode usar o phpMyAdmin no nosso site para acessar o servidor.
+Após confirmar sua conta no link abaixo, você terá acessp ao servidor de banco de dados MySQL 8.1 do db4free.net. O nome do "host" para acesso ao servidor é db4free.net e a porta é 3306. Você pode usar o phpMyAdmin no nosso site para acessar o servidor.
 
 Use o link abaixo para confirmar o seu cadastro em no máximo 14 dias. Clicando nesse link você confirma novamente que entedeu que:
 
