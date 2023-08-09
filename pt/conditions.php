@@ -7,17 +7,17 @@ Language: Portuguese (Brazilian)
 $translations = array(
     'h1' => 'Termos de uso',
 
-    'p1' => 'Em nenhuma hipótese, nós, equipe db4free.net, devemos ser responsabilizados perante quaisquer partes por danos diretos, indiretos, especiais, acidentais ou por danos, incluindo, mas não limitado à: perda de lucro, decorrentes do uso ou da indisponibilidade deste servidor, seu software, seus serviços ou sua documentação, mesmo que o administrador tenha sido avisado da possibilidade de tais danos.',
+    'p1' => 'Em nenhuma hipótese nós, da equipe db4free.net, deveremos ser responsabilizados perante quaisquer partes por danos diretos, indiretos, especiais ou acidentais, incluindo, mas não limitados à, perda de lucros, decorrentes do uso ou da indisponibilidade deste servidor, de seu software, seus serviços ou sua documentação, mesmo que tenhamos sido avisados da possibilidade de tais danos.',
 
-	'p2' => 'Estamos isentos de qualquer tipo de garantia, incluido, mas não limitado a garantias implícitas de comercialização e adequação para uso particular. O softwate e o servidor são fornecidos "tal como estão", e nos desobrigamos de fornecer manutenção, suporte técnico, atualizações, melhorias, modificações ou a continua disponibilidade dos serviços. Temos o direito de descontinuar esse serviço sem notificação e deletar os bancos de dados de forma irrevogável.',
+	'p2' => 'Estamos isentos de qualquer tipo de garantia, incluindo, mas não limitado a, garantias implícitas de comercialização e adequação para um uso particular. O software e o servidor são fornecidos "tal como estão", e nos eximimos de fornecer manutenção, suporte técnico, atualizações, melhorias ou modificações, bem como da contínua disponibilidade dos serviços. Reservamo-nos o direito de descontinuar este serviço sem prévio aviso e de deletar os bancos de dados de forma irrevogável.',
 
-    'p3' => 'Não é permitido os usuários do db4free.net publicar seus dados de acesso, tal como, dados específicos do servidor para terceiros.',
+    'p3' => 'Aos usuários do db4free.net não é permitido publicar seus dados de acesso, bem como dados específicos do servidor, para terceiros.',
 
-    'p4' => 'Apenas as leis da República da Áustria se aplicam aos serviços relacionados ao projeto db4free.net.',
+    'p4' => 'Apenas as leis da República da Áustria são aplicáveis aos serviços relacionados ao projeto db4free.net.',
 
-    'p5' => 'Não recomendamos o uso dos bancos de dados do db4free.net para quaisquer dados ou objetivos importantes! Mesmo que nós - pessoas envolvidas nesse projeto - estejamos envolvidos uns com os outros através de uma empresa, o projeto continua sendo privado e não-comercial. Nos isentamos de qualquer garantia e culpa.',
+    'p5' => 'Não recomendamos o uso dos bancos de dados do db4free.net para quaisquer dados ou finalidades críticas! Embora aqueles de nós envolvidos neste projeto estejam associados por meio de uma empresa, o projeto permanece de natureza privada e não comercial. Estamos isentos de qualquer garantia e responsabilidade.',
 
-    'p6' => 'O db4free.net não se responsabiliza por nenhum conteudo externo linkado nessa página.',
+    'p6' => 'O db4free.net não se responsabiliza por nenhum conteúdo externo vinculado a esta página.',
 
     'p7' => 'Nós temos o direito de alterar esses termos sem aviso prévio.',
 

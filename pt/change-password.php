@@ -13,7 +13,7 @@ $translations = array(
 
     'new-password' => 'Nova senha',
 
-    'new-password-verification' => 'Confirmação de senha',
+    'new-password-verification' => 'Confirmação da senha',
 
     'ph1' => 'Digite seu nome de usuário',
 
