@@ -25,13 +25,13 @@ $translations = array(
 
     'error-account-delete' => 'A conta não pode ser excluída.',
 
-    'another-user-database' => 'Outro usuario já criou um banco de dados com o nome: ',
+    'another-user-database' => 'Outro usuário já criou um banco de dados com o nome: ',
 
     'another-user-username' => 'Outra pessoa já tem o nome de usuário a seguir: ',
 
     'passwords-not-identical' => 'As senhas estão diferentes.',
 
-    'password-too-short' => 'A senha deve ter pelo menos 8 caractéres.',
+    'password-too-short' => 'A senha deve ter pelo menos 8 caracteres.',
 
     'only-2-db-allowed' => 'São permitidos apenas 2 bancos de dados por email.',
 
