@@ -2,7 +2,7 @@
 /*
 Section: system-messages
 Language: Spanish Español
-Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
+Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
 $translations = array(
@@ -12,11 +12,11 @@ $translations = array(
 
     'email' => 'Correo electrónico',
 
-    'id-not-found' => 'El ID no se pudo encontrar.',
+    'id-not-found' => 'No se pudo encontrar el ID.',
 
-    'success-create-db' => 'La base de datos se ha creado correctamente.',
+    'success-create-db' => 'La base de datos ha sido creada correctamente.',
 
-    'error-create-db' => 'Error al crear la base de datos.',
+    'error-create-db' => 'Se ha producido un error al crear la base de datos.',
 
     'success-data-change' => 'La información ha sido modificada.',
 
@@ -44,7 +44,7 @@ $translations = array(
 
     'password-not-correct' => 'La contraseña no es correcta.',
 
-    'confirmation-email' => 'Usted recibirá un correo electrónico para confirmar los cambios.',
+    'confirmation-email' => 'Se le ha enviado un correo electrónico para confirmar los cambios.',
 
     'error-write-data' => 'Se ha producido un error al actualizar sus datos.',
 

@@ -2,7 +2,7 @@
 /*
 Section: email-change-password
 Language: Spanish Español
-Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
+Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
 $translations = array(
@@ -17,7 +17,7 @@ Por favor, confirme este cambio haciendo clic en el siguiente enlace:
 
 {$mailLink}
 
-Si no fue uested quien ha solicitado cambiar su contraseña de la cuenta de base de datos en la página web db4free.net, ¡por favor ignore este mensaje!
+Si no fue usted quien ha solicitado cambiar su contraseña de la cuenta de base de datos en la página web db4free.net, ¡por favor ignore este mensaje!
 
 ¡Esperamos que disfrute trabajar con su base de datos!
 

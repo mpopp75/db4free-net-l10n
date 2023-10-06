@@ -2,7 +2,7 @@
 /*
 Section: welcome
 Language: Spanish Español
-Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
+Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
 $translations = array(
@@ -20,7 +20,7 @@ $translations = array(
 
     'h3' => '¿Puedes ayudar a traducir db4free.net?',
 
-    'p3' => '¿Habla bien un lenguaje que este sitio web no ofrece? Usted puede ayudarnos a traducir db4free.net. <a href="/translate.php">¡Descubre cómo!</a>',
+    'p3' => '¿Habla bien un idioma que este sitio web no ofrece? Usted puede ayudarnos a traducir db4free.net. <a href="/translate.php">¡Descubre cómo!</a>',
 
     'h4' => 'Recursos',
 

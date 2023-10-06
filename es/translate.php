@@ -2,7 +2,7 @@
 /*
 Section: translate
 Language: Spanish Español
-Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
+Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
 $translations = array(
@@ -18,7 +18,7 @@ $translations = array(
 
     'p2b' => '<a href="https://github.com/mpopp75/db4free-net-l10n">https://github.com/mpopp75/db4free-net-l10n</a>',
 
-    'p2c' => 'con lo cual tendrá una copia idéntica de los archivos de traducción en su cuenta. Clone el repositorio para crear una copia en su sistema. El comando git para esto es: ',
+    'p2c' => 'con lo cual tendrá una copia idéntica de los archivos de traducción en su cuenta. Clone el repositorio para crear una copia en su sistema. El comando git para realizar esto es: ',
 
     'p2d' => 'git clone git@github.com:[Tu_nombre_de_usuario_de_GitHub]/db4free-net-l10n.git',
 

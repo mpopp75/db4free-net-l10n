@@ -2,7 +2,7 @@
 /*
 Section: change-password
 Language: Spanish Español
-Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
+Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
 $translations = array(
@@ -14,7 +14,7 @@ $translations = array(
 
     'new-password' => 'Nueva contraseña',
 
-    'new-password-verification' => 'Verifique nueva contraseña',
+    'new-password-verification' => 'Repita la nueva contraseña',
 
     'ph1' => 'Ingrese su nombre de usuario',
 
@@ -22,6 +22,6 @@ $translations = array(
 
     'ph3' => 'Ingrese su nueva contraseña',
 
-    'ph4' => 'Ingrese su nueva contraseña (otra vez)',
+    'ph4' => 'Repita la nueva contraseña',
 );
 ?>

@@ -2,7 +2,7 @@
 /*
 Section: forgot-password
 Language: Spanish Español
-Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
+Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
 $translations = array(
@@ -16,6 +16,6 @@ $translations = array(
 
     'error1' => '¡La información que ha introducido no es correcta!',
 
-    'success' => '¡Usted ha recibido un correo electrónico con su nueva contraseña!',
+    'success' => 'Ha recibido un correo electrónico con su nueva contraseña.',
 );
 ?>
