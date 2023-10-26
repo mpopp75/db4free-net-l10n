@@ -8,7 +8,7 @@ Translator: Trey Lin, SiderealArt
 $translations = array(
     'email-signup' => '感謝您在 db4free.net 註冊了資料庫帳號 {$user}。
 
-當您點擊下面的帳號確認連結後，您將擁有存取 db4free.net\'s MySQL 8.1 資料庫伺服器的權限。存取的網域名稱為：db4free.net，連接埠為：3306。您也可以利用網站介面 phpMyAdmin 來連接資料庫伺服器。
+當您點擊下面的帳號確認連結後，您將擁有存取 db4free.net\'s MySQL 8.2 資料庫伺服器的權限。存取的網域名稱為：db4free.net，連接埠為：3306。您也可以利用網站介面 phpMyAdmin 來連接資料庫伺服器。
 
 請點擊以下的連結來完成註冊程序，連結有效時間為 14 天。點下連結代表您同意並了解下列條款：
 

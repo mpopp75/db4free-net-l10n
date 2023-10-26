@@ -7,7 +7,7 @@ Language: Swedish
 $translations = array(
     'email-signup' => 'Tack för att du registrerar ditt databaskonto {$user} hos db4free.net
 
-Efter att ha bekräftat länken nedan, har du tillgång till db4free.net\'s MySQL 8.1 databasserver. Värdnamnet för att få tillgång till servern är db4free.net och porten är 3306. Du kan använda phpMyAdmin på vår hemsida för att logga in på servern.
+Efter att ha bekräftat länken nedan, har du tillgång till db4free.net\'s MySQL 8.2 databasserver. Värdnamnet för att få tillgång till servern är db4free.net och porten är 3306. Du kan använda phpMyAdmin på vår hemsida för att logga in på servern.
 
 Vänligen använd följande länk för att avsluta registreringsprocessen inom de närmaste 14 dagarna. Genom att klicka på denna länk bekräftar du (igen) att du förstår att:
 
