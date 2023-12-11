@@ -4,17 +4,17 @@ Section: forgot-password
 Language: Dutch
 */
 
-$translations = array(
-    'h1' => 'Bent u uw wachtwoord vergeten?',
+$vertalingen = array(
+    'h1' => 'Wachtwoord vergeten?',
 
     'username' => 'Gebruikersnaam',
 
-    'request-new-password' => 'Vraag een nieuw wachtwoord aan',
+    'request-new-password' => 'Nieuw wachtwoord aanvragen',
 
     'ph1' => 'Voer uw gebruikersnaam in',
 
-    'error1' => 'De informatie die u ingaf is niet juist!',
+    'error1' => 'De ingevoerde gegevens zijn niet correct!',
 
-    'success' => 'U hebt een email met uw nieuw wachtwoord ontvangen!',
+    'success' => 'U heeft een e-mail ontvangen met uw nieuwe wachtwoord!',
 );
 ?>

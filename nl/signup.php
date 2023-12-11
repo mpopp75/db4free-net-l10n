@@ -4,63 +4,63 @@ Section: signup
 Language: Dutch
 */
 
-$translations = array(
-    'h1' => 'Signup',
+$vertalingen = array(
+    'h1' => 'Registratie',
 
-    'mysql-db-name' => 'MySQL database naam',
+    'mysql-db-name' => 'MySQL-databasenaam',
 
     'mysql-user-name' => 'MySQL gebruikersnaam',
 
     'mysql-user-password' => 'MySQL gebruikerswachtwoord',
 
-    'mysql-user-password-verification' => 'MySQL gebruikerswachtwoord bevestiging',
+    'mysql-user-password-verification' => 'Verificatie MySQL gebruikerswachtwoord',
 
-    'email-address' => 'Email address',
+    'email-address' => 'E-mailadres',
 
-    'agree-conditions' => 'Ik heb de <a href="conditions.php">gebruiksvoorwaarden</a> gelezen en ik ga ermee akkoord.',
+    'agree-conditions' => 'Ik heb de <a href="conditions.php">gebruiksvoorwaarden</a> gelezen en ga ermee akkoord.',
 
-    'ph1' => '6-16 tekens., geen hoofdletters, 1ste moet een teken zijn',
+    'ph1' => '6-16 tekens, geen hoofdletters, eerste moet een letter zijn.',
 
     'ph2' => 'Min. 8 tekens.',
 
-    'ph3' => 'Vul uw email address in TODO',
+    'ph3' => 'Voer uw e-mailadres in',
 
-    'explanation' => 'Database user and database name may contain lower case letters, numbers and the underscore and must be between 6 and 16 characters long. You must not use <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">reserved words</a>!',
+    'explanation' => 'Databasegebruiker en databasenaam mogen kleine letters, cijfers en het onderstrepingsteken bevatten en moeten tussen 6 en 16 tekens lang zijn. U mag <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">gereserveerde woorden</a> niet gebruiken!',
 
-    'maintenance-notice' => 'Due to database maintenance, no registrations are currently possible.',
+    'maintenance-notice' => 'Vanwege onderhoud aan de database zijn momenteel geen registraties mogelijk.',
 
-    'agm-p1' => 'By registering for a db4free.net account you agree that:',
+    'agm-p1' => 'Door u te registreren voor een db4free.net-account gaat u akkoord met het volgende:',
 
-    'agm-li1' => 'db4free.net is a testing environment',
+    'agm-li1' => 'db4free.net is een testomgeving',
 
-    'agm-li2' => 'db4free.net is not suitable for production',
+    'agm-li2' => 'db4free.net is niet geschikt voor productie',
 
-    'agm-li3' => 'if you decide to use your db4free.net database in production despite the warnings, you do that at your own risk (very frequent backups are highly recommended)',
+    'agm-li3' => 'als u besluit uw db4free.net-database in productie te gebruiken ondanks de waarschuwingen, doet u dit op eigen risico (zeer frequente back-ups worden ten zeerste aanbevolen)',
 
-    'agm-li4' => 'data loss and outages can happen at any time (any complaints about that will likely be ignored)',
+    'agm-li4' => 'gegevensverlies en uitval kunnen op elk moment optreden (klachten hierover worden waarschijnlijk genegeerd)',
 
-    'agm-li5' => 'the db4free.net team is not granting any warranty or liability of any kind',
+    'agm-li5' => 'het db4free.net-team geeft geen enkele garantie of aansprakelijkheid van welke aard dan ook',
 
-    'agm-li6' => 'the db4free.net team reserves the right to delete databases and/or accounts at any time without notice',
+    'agm-li6' => 'het db4free.net-team behoudt zich het recht voor om databases en/of accounts op elk moment zonder kennisgeving te verwijderen',
 
-    'agm-li7' => 'it is up to you to get the latest information from <a href="/twitter.php">Twitter</a> and the <a href="/blog.php">db4free.net blog</a>',
+    'agm-li7' => 'het is aan u om de laatste informatie te verkrijgen via <a href="/twitter.php">Twitter</a> en de <a href="/blog.php">db4free.net-blog</a>',
 
-    'agm-li8' => 'db4free.net provides only a MySQL database, but no web space (there is nowhere to upload any files)',
+    'agm-li8' => 'db4free.net biedt alleen een MySQL-database, maar geen webspace (er is nergens om bestanden te uploaden)',
 
-    'agm-p2' => 'Further:',
+    'agm-p2' => 'Verder:',
 
-    'agm-li9' => 'db4free.net is a service for testing, not for hosting. Databases that store more than 200 MB data will be cleared at irregular intervals without notification',
+    'agm-li9' => 'db4free.net is een service voor testen, niet voor hosting. Databases die meer dan 200 MB aan gegevens bevatten, worden op onregelmatige tijdstippen zonder kennisgeving gewist',
 
-    'agm-li10' => 'Please remove data which you no longer need, or <a href="/delete-account.php">delete your no longer needed account</a>. This makes it easier to recover if a server crash occurs.',
+    'agm-li10' => 'Verwijder alstublieft gegevens die u niet langer nodig heeft, of <a href="/delete-account.php">verwijder uw niet langer benodigde account</a>. Dit maakt het gemakkelijker om te herstellen als er een servercrash optreedt.',
 
-    'email-note' => 'Email addresses of <span title="%s" style="border-bottom: 1px dotted">certain domains</span> are not allowed!',
+    'email-note' => 'E-mailadressen van <span title="%s" style="border-bottom: 1px dotted">bepaalde domeinen</span> zijn niet toegestaan!',
 
-    'signup-error1' => 'You have to agree with the conditions of use!',
+    'signup-error1' => 'U moet akkoord gaan met de gebruiksvoorwaarden!',
 
-    'signup-error2' => 'Error registering the data for your MySQL database!',
+    'signup-error2' => 'Fout bij het registreren van de gegevens voor uw MySQL-database!',
 
-    'signup-error3' => 'Error sending the confirmation email!',
+    'signup-error3' => 'Fout bij het verzenden van de bevestigingse-mail!',
 
-    'signup-success' => 'Thank you for your registration! You will receive an email to confirm the registration.',
+    'signup-success' => 'Bedankt voor uw registratie! U ontvangt een e-mail om de registratie te bevestigen.',
 );
 ?>
