@@ -4,7 +4,7 @@ Section: welcome
 Language: Dutch
 */
 
-$vertalingen = array(
+$translations = array(
     'h1' => 'Welkom bij db4free.net',
 
     'p1a' => 'db4free.net biedt een testservice voor de nieuwste - soms zelfs ontwikkelings - versie van de <a href="https://www.mysql.com/">MySQL Server</a>. U kunt eenvoudig <a href="/signup.php">gratis een account aanmaken</a> en uw toepassingen testen, bijvoorbeeld om ervoor te zorgen dat ze nog steeds werken na een update van MySQL. db4free.net is ook een goede bron voor educatie en om vertrouwd te raken met nieuwe functies die zijn geïntroduceerd in nieuwe versies.',

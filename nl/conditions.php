@@ -4,7 +4,7 @@ Section: conditions
 Language: Dutch
 */
 
-$vertalingen = array(
+$translations = array(
     'h1' => 'Gebruiksvoorwaarden',
 
     'p1' => 'In geen geval zijn wij, het db4free.net-team, aansprakelijk voor directe, indirecte, bijzondere, incidentele of gevolgschade, inclusief verloren winst, voortvloeiend uit het gebruik van of de onbeschikbaarheid van deze host, de software, de diensten of de documentatie, zelfs als de beheerder op de hoogte is gesteld van de mogelijkheid van dergelijke schade.',

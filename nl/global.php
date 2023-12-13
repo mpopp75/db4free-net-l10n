@@ -4,7 +4,7 @@ Section: global
 Language: Dutch
 */
 
-$vertalingen = array(
+$translations = array(
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL Database gratis',

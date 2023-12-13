@@ -4,7 +4,7 @@ Section: signup
 Language: Dutch
 */
 
-$vertalingen = array(
+$translations = array(
     'h1' => 'Registratie',
 
     'mysql-db-name' => 'MySQL-databasenaam',

@@ -4,7 +4,7 @@ Section: system-messages
 Language: Dutch
 */
 
-$vertalingen = array(
+$translations = array(
     'database' => 'Database',
 
     'username' => 'Gebruikersnaam',

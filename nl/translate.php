@@ -4,7 +4,7 @@ Section: translate
 Language: Dutch
 */
 
-$vertalingen = array(
+$translations = array(
     'h1' => 'Vertalingen',
 
     'l10ncredits' => 'Veel dank aan de vertaalbijdragers',

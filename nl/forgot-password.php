@@ -4,7 +4,7 @@ Section: forgot-password
 Language: Dutch
 */
 
-$vertalingen = array(
+$translations = array(
     'h1' => 'Wachtwoord vergeten?',
 
     'username' => 'Gebruikersnaam',

@@ -3,7 +3,8 @@
 Section: email-signup
 Language: Dutch
 */
-$vertalingen = array(
+
+$translations = array(
     'email-signup' => 'Bedankt voor het registreren van uw database-account {$user} bij db4free.net.
 
 Na bevestiging van de onderstaande link heeft u toegang tot de MySQL 8.2-databaseserver van db4free.net. De hostnaam om toegang te krijgen tot de server is db4free.net en de poort is 3306. U kunt phpMyAdmin op onze website gebruiken om in te loggen op de server.
