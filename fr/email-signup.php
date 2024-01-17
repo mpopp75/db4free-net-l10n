@@ -7,7 +7,7 @@ Language: French Français
 $translations = array(
     'email-signup' => 'Merci d\'avoir créé votre compte de base de données {$user} sur db4free.net.
 
-Après avoir confirmé en cliquant sur le lien suivant, vous avez accès au serveur MySQL 8.2 de db4free.net. Le nom d\'hôte pour accéder au serveur est db4free.net et le port est 3306. Vous pouvez utiliser phpMyAdmin sur notre site pour vous connecter au serveur.
+Après avoir confirmé en cliquant sur le lien suivant, vous avez accès au serveur MySQL 8.3 de db4free.net. Le nom d\'hôte pour accéder au serveur est db4free.net et le port est 3306. Vous pouvez utiliser phpMyAdmin sur notre site pour vous connecter au serveur.
 
 Merci d\'utiliser le lien suivant pour terminer votre inscription sous 14 jours. En cliquant sur ce lien, vous confirmez (à nouveau) comprendre que :
 
