@@ -60,6 +60,6 @@ $translations = array(
 
     'signup-error3' => '发送验证邮件时发生错误！',
 
-    'signup-success' => '感谢您的注册，您将受到账号确认邮件！',
+    'signup-success' => '感谢您的注册，您将收到账号确认邮件！',
 );
 ?>
