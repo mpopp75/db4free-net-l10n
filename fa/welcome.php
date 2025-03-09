@@ -24,7 +24,7 @@ $translations = [
 
     'h4' => 'منابع',
 
-    'p4a' => 'یک <a href="https://www.mpopp.net/category/db4free/">بخش db4free.net</a> در <a href="https://www.mpopp.net/">وبلاگ mpopp.net</a> وجود دارد که به شما اخبار db4free.net را ارائه می‌دهد. لطفاً از <a href="https://www.mpopp.net/category/db4free/feed/">فید RSS</a> اشتراک بگیرید تا مطمئن شوید که هیچ خبری را از دست نمی‌دهید. db4free.net همچنین در <a href="/twitter.php">Twitter</a> قرار دارد، یک منبع عالی دیگر برای در جریان ماندن از اتفاقات دنیای db4free.net.',
+    'p4a' => 'یک <a href="https://www.mpopp.net/category/db4free/">بخش db4free.net</a> در <a href="https://www.mpopp.net/">وبلاگ mpopp.net</a> وجود دارد که به شما اخبار db4free.net را ارائه می‌دهد. لطفاً از <a href="https://www.mpopp.net/category/db4free/feed/">فید RSS</a> اشتراک بگیرید تا مطمئن شوید که هیچ خبری را از دست نمی‌دهید. db4free.net همچنین در <a href="/bluesky.php">Bluesky</a> قرار دارد، یک منبع عالی دیگر برای در جریان ماندن از اتفاقات دنیای db4free.net.',
 
     'p4b' => 'بهترین منابع برای یادگیری بیشتر در مورد MySQL، <a href="https://dev.mysql.com/">MySQL Developer Zone</a>، <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> و <a href="https://planet.mysql.com/">PlanetMySQL</a> هستند. وب‌سایت MySQL مقالاتی برنده دارند که بسیاری از ویژگی‌های جدیدی که در نسخه‌های آینده معرفی می‌شود را به تفصیل عالی توضیح می‌دهند.',
 

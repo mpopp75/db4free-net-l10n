@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'db4free.net tim zadržava pravo da obriše bazu podataka i/ili profil u bilo kom vremenu bez najave',
 
-    'agm-li7' => 'Na vama je da pratite poslednje informacije preko <a href="/twitter.php">Twittera</a> i na <a href="/blog.php">db4free.net blogu</a>',
+    'agm-li7' => 'Na vama je da pratite poslednje informacije preko <a href="/bluesky.php">Bluesky</a> i na <a href="/blog.php">db4free.net blogu</a>',
 
     'agm-li8' => 'db4free.net pruža samo MySQL bazu podataka, ali ne web prostor (nemate nigde da uploadujete fajlove)',
 

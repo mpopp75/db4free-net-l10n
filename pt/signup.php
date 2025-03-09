@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'A equipe db4free.net reserva-se o direito de excluir contas ou bancos de dados sem aviso prévio',
 
-    'agm-li7' => 'Você pode obter atualizações através do <a href="/twitter.php">Twitter</a> e do <a href="/blog.php">blog db4free.net</a>',
+    'agm-li7' => 'Você pode obter atualizações através do <a href="/bluesky.php">Bluesky</a> e do <a href="/blog.php">blog db4free.net</a>',
 
     'agm-li8' => 'db4free.net oferece apenas banco de dados MySQL, sem espaço para hospedagem web (não é possível fazer upload de arquivos)',
 

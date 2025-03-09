@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => '  و له الحق في حذف قواعد البيانات في أي وقت وبدون إشعار مسبق  db4free.net  فريق ',
 
-    'agm-li7' => 'يمكنك الحصول على آخر المعلومات من <a href="/twitter.php">Twitter</a> و ال<a href="/blog.php">db4free.net مدونة</a>',
+    'agm-li7' => 'يمكنك الحصول على آخر المعلومات من <a href="/bluesky.php">Bluesky</a> و ال<a href="/blog.php">db4free.net مدونة</a>',
 
     'agm-li8' => 'db4free.net تدعم فقط MySQL database, لا يوجد أي مساحات خاصة بالويب ( لا يمكن ترفيع أي ملفات) ',
 

@@ -14,6 +14,8 @@ $translations = [
 
     'topnav2' => 'Datenbank',
 
+    'topnav3' => 'Bluesky',
+
     'sidebar_1_2' => 'Spenden',
 
     'sidebar_1_3' => 'Übersetzungen',

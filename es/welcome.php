@@ -25,7 +25,7 @@ $translations = [
 
     'h4' => 'Recursos',
 
-    'p4a' => 'Hay una <a href="https://www.mpopp.net/category/db4free/">sección de db4free.net</a> en el <a href="https://www.mpopp.net/">blog de mpopp.net</a> presentándole los noticias sobre db4free.net. Por favor suscríbase al <a href="https://www.mpopp.net/category/db4free/feed/">boletín RSS</a> para asegurarse de que no se pierda ninguna noticia. db4free.net tambien está en <a href="/twitter.php">Twitter</a>, otro gran recurso para estar al tanto de lo que está sucediendo en el mundo de db4free.net.',
+    'p4a' => 'Hay una <a href="https://www.mpopp.net/category/db4free/">sección de db4free.net</a> en el <a href="https://www.mpopp.net/">blog de mpopp.net</a> presentándole los noticias sobre db4free.net. Por favor suscríbase al <a href="https://www.mpopp.net/category/db4free/feed/">boletín RSS</a> para asegurarse de que no se pierda ninguna noticia. db4free.net tambien está en <a href="/bluesky.php">Bluesky</a>, otro gran recurso para estar al tanto de lo que está sucediendo en el mundo de db4free.net.',
 
     'p4b' => 'Los mejores recursos para aprender más acerca de MySQL son la <a href="https://dev.mysql.com/">Zona de Desarrolladores de MySQL (en inglés)</a>, el <a href="https://dev.mysql.com/doc/refman/8.0/en/">Manual de Referencia de MySQL (en inglés)</a> y en <a href="http://es.planet.mysql.com/">PlanetMySQL</a>. El sitio web de MySQL ofrece una serie de <a href="https://dev.mysql.com/tech-resources/articles/">artículos para desarrolladores</a>, muchos de los cuales explican las nuevas características que se están introduciendo en las versiones recientes, detalladas de manera excelente.',
 

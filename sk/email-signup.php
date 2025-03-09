@@ -19,7 +19,7 @@ Využite nasledujúci odkaz pre dokončenie registračného procesu počas nasle
 * K strate dát alebo výpadkom môže dôjsť kedykoľvek (všetky sťažnosti budú pravdepodobne ignorované)
 * Db4free.net tím neposkytuje žiadnu záruku ani zodpovednosť žiadneho druhu
 * Db4free.net tím si vyhradzuje právo zmazať databázy a / alebo účty kedykoľvek bez predchádzajúceho upozornenia
-* Je na vás, aby ste dostávali najnovšie informácie z Twitteru (https://twitter.com/db4free_net) a db4free.net blogu (https://www.mpopp.net/category/db4free/)
+* Je na vás, aby ste dostávali najnovšie informácie z Bluesky (https://bsky.app/profile/db4free-net.bsky.social) a db4free.net blogu (https://www.mpopp.net/category/db4free/)
 * Db4free.net poskytuje len databázu MySQL!
 
 Ďalšie:

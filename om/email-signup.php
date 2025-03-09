@@ -20,7 +20,7 @@ Liinkii sana tuquudhaan, akka hubattan mirkaneessitu:
 * Balaa data dhabuufi hojii dhaabbachuu yeroo kamiyyuu ni mala (komiin dhiyaatu fudhatama hin argatu).
 * Gareen db4free.net homaa gatii yookiin itti gaafatamummaa hin fudhatu.
 * Gareen db4free.net database fi account haquuf mirga guutuu qaba, beeksisa malee.
-* Odeeffannoo haaraa argachuuf, akka marsariitii keenya irratti yookiin Twitter (https://twitter.com/db4free_net) fi blog db4free.net (https://www.mpopp.net/category/db4free/) hordoftan.
+* Odeeffannoo haaraa argachuuf, akka marsariitii keenya irratti yookiin Bluesky (https://bsky.app/profile/db4free-net.bsky.social) fi blog db4free.net (https://www.mpopp.net/category/db4free/) hordoftan.
 * db4free.net sirna MySQL qofa dhiyeessa, garuu iddoo faayila fe’uu (upload) hin kennu.
 
 Dabalataan:

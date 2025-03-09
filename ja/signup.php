@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'db4free.netチームはデータベースやアカウントを事前通知なしに削除する権限を有しています',
 
-    'agm-li7' => '最新情報は<a href="/twitter.php">Twitter</a>や<a href="/blog.php">db4free.net ブログ</a>から取得可能です。',
+    'agm-li7' => '最新情報は<a href="/bluesky.php">Bluesky</a>や<a href="/blog.php">db4free.net ブログ</a>から取得可能です。',
 
     'agm-li8' => 'db4free.netはMySQL データベースLのみを提供しています。Webスペースは提供していません(どのようなファイルであれアップロードする場所はありません)',
 

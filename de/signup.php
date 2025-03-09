@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'das db4free.net-Team behält sich das Recht vor, Datenbanken und Accounts jederzeit ohne Ankündigung zu löschen',
 
-    'agm-li7' => 'es Ihre Verantwortung ist, aktuelle Informationen per <a href="/twitter.php">Twitter</a> sowie dem <a href="/blog.php">db4free.net blog</a> zu beziehen',
+    'agm-li7' => 'es Ihre Verantwortung ist, aktuelle Informationen per <a href="/bluesky.php">Bluesky</a> sowie dem <a href="/blog.php">db4free.net blog</a> zu beziehen',
 
     'agm-li8' => 'db4free.net eine MySQL Datenbank anbietet, aber keinen Webspace (Sie können keine Dateien hochladen)',
 

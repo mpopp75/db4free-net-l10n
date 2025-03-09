@@ -45,7 +45,7 @@ $translations = [
 
     'agm-li6' => 'A db4free.net csapata fenntartja a jogot, hogy bármikor, figyelmeztetés nélkül törölje az adatbázisod és/vagy fiókod',
 
-    'agm-li7' => 'A db4free.net-tel kapcsolatos legfrissebb információkat elérheted a <a href="twitter.php">Twitteren</a> és a <a href="blog.php">db4free.net blogon</a>',
+    'agm-li7' => 'A db4free.net-tel kapcsolatos legfrissebb információkat elérheted a <a href="bluesky.php">Blueskyen</a> és a <a href="blog.php">db4free.net blogon</a>',
 
     'agm-li8' => 'A db4free.net csak MySQL adatbázist biztosít, nem ad webtárhelyet (nincs lehetőséged itt tárolni a fájljaidat)',
 

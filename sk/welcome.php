@@ -25,7 +25,7 @@ $translations = [
 
     'h4' => 'Zdroje',
 
-    'p4a' => 'Tu je <a href="https://www.mpopp.net/category/db4free/">db4free.net odkaz</a> na <a href="https://www.mpopp.net/">mpopp.net blog</a>, ktorý Vám prináša novinky o db4free.net. Prosím, prihláste sa do <a href="https://www.mpopp.net/category/db4free/feed/">RSS</a> a nenechajte si ujsť žiadnu novinku. Db4free.net je tiež na <a href="/twitter.php">Twitteri</a>.',
+    'p4a' => 'Tu je <a href="https://www.mpopp.net/category/db4free/">db4free.net odkaz</a> na <a href="https://www.mpopp.net/">mpopp.net blog</a>, ktorý Vám prináša novinky o db4free.net. Prosím, prihláste sa do <a href="https://www.mpopp.net/category/db4free/feed/">RSS</a> a nenechajte si ujsť žiadnu novinku. Db4free.net je tiež na <a href="/bluesky.php">Bluesky</a>.',
 
     'p4b' => 'Najlepšími zdrojmi, ktoré Vás budú informovať ohľadom MySQL sú <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL reference Manual</a> a <a href="https://planet.mysql.com/">PlanetMySQL</a>. Na webových stránkach MySQL ponúka rad <a href="https://dev.mysql.com/tech-resources/articles/">článkov pre developerov</a>, z ktorých mnohé vysvetľujú, nové funkcie, ktoré sú zavedené v nadchádzajúcich verziách.',
 

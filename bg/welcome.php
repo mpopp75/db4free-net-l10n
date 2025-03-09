@@ -24,7 +24,7 @@ $translations = [
 
     'h4' => 'Ресурси',
 
-    'p4a' => 'Тази <a href="https://www.mpopp.net/category/db4free/">секция за db4free.net</a> в <a href="https://www.mpopp.net/">блога на mpopp.net</a> Ви предлага Новини относно db4free.net. Моля, запишете се за <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> за да сте сигурни, че не изпускате новини. db4free.net е също и в  <a href="/twitter.php">Туитър</a>, друг прекрасен източник за да сте в течение с това което става в света на db4free.net.',
+    'p4a' => 'Тази <a href="https://www.mpopp.net/category/db4free/">секция за db4free.net</a> в <a href="https://www.mpopp.net/">блога на mpopp.net</a> Ви предлага Новини относно db4free.net. Моля, запишете се за <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> за да сте сигурни, че не изпускате новини. db4free.net е също и в  <a href="/bluesky.php">Туитър</a>, друг прекрасен източник за да сте в течение с това което става в света на db4free.net.',
 
     'p4b' => 'Най-добрият начин да научите повече за MySQL е <a href="https://dev.mysql.com/">Зоната за MySQL разработчици</a>, също <a href="https://dev.mysql.com/doc/refman/8.0/en/">Ръководство за MySQL</a> и <a href="https://planet.mysql.com/">PlanetMySQL</a>. Уеб сайта на MySQL предлага набор от <a href="https://dev.mysql.com/tech-resources/articles/">Статии за разработчици</a>, много от които обясняват в дълбоки подробности нови възможности внедрявани в идващите версии.',
 

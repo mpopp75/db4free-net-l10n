@@ -18,7 +18,7 @@ Bitte verwenden Sie diesen Link innerhalb der nächsten 14 Tage, um den Registri
 * Datenverlust und Service-Ausfälle jederzeit möglich sind (diesbezügliche Beschwerden werden wahrscheinlich ignoriert)
 * das db4free.net-Team keine Garantie und keine Haftung irgendwelcher Art übernimmt
 * das db4free.net-Team behält sich das Recht vor, Datenbanken und Accounts jederzeit ohne Ankündigung zu löschen
-* es Ihre Verantwortung ist, aktuelle Informationen per Twitter (https://twitter.com/db4free_net) sowie dem db4free.net blog zu beziehen (https://www.mpopp.net/category/db4free/)
+* es Ihre Verantwortung ist, aktuelle Informationen per Bluesky (https://bsky.app/profile/db4free-net.bsky.social) sowie dem db4free.net blog zu beziehen (https://www.mpopp.net/category/db4free/)
 * db4free.net eine MySQL Datenbank anbietet, aber keinen Webspace (Sie können keine Dateien hochladen)
 
 Weiters:

@@ -21,7 +21,7 @@ $translations = [
 * 随时可能发生数据丢失及损坏。（我们将忽略任何有关资料丢失的投诉）
 * the db4free.net 团队不提供任何担保或责任。
 * the db4free.net 团队保留删除数据库及账号的权利，而不另行通知。
-* 您可以从我们的Twitter (https://twitter.com/db4free_net) 或 the db4free.net 博客 (https://www.mpopp.net/category/db4free/) 获取最新资讯
+* 您可以从我们的Bluesky (https://bsky.app/profile/db4free-net.bsky.social) 或 the db4free.net 博客 (https://www.mpopp.net/category/db4free/) 获取最新资讯
 * db4free.net 只提供使用 MySQL 数据库，不提供网络存储空间。（没有文件上传机制）
 
 此外:

@@ -17,7 +17,7 @@ Gebruik de volgende link om het registratieproces binnen de komende 14 dagen af 
 * gegevensverlies en uitval kunnen op elk moment optreden (klachten hierover worden waarschijnlijk genegeerd)
 * het db4free.net-team geeft geen enkele garantie of aansprakelijkheid van welke aard dan ook
 * het db4free.net-team behoudt zich het recht voor om databases en/of accounts op elk moment zonder kennisgeving te verwijderen
-* het is aan u om de laatste informatie te verkrijgen via Twitter (https://twitter.com/db4free_net) en de db4free.net-blog (https://www.mpopp.net/category/db4free/)
+* het is aan u om de laatste informatie te verkrijgen via Bluesky (https://bsky.app/profile/db4free-net.bsky.social) en de db4free.net-blog (https://www.mpopp.net/category/db4free/)
 * db4free.net biedt alleen een MySQL-database, maar geen webspace (er is nergens om bestanden te uploaden)
 
 Verder:

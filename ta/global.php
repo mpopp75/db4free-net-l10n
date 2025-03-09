@@ -12,10 +12,9 @@ $translations = [
 
     'topnav1' => 'நல்வரவு',
 
-    'topnav2' => 'தரவுத் தளம்
-    ',
+    'topnav2' => 'தரவுத் தளம்',
 
-    'topnav3' => 'ட்விட்டர்',
+    'topnav3' => 'Bluesky',
 
     'topnav4' => 'mpopp.net வலைப்பதிவு',
 

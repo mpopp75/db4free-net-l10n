@@ -24,7 +24,7 @@ $translations = [
 
     'h4' => 'Tài nguyên',
 
-    'p4a' => 'Có một<a href="https://www.mpopp.net/category/db4free/">khung vự cho db4free.net</a> trong <a href="https://www.mpopp.net/">mpopp.net blog</a> giúp bạn có thể có được những tin tớn mới nhất của db4free.net. Hãy theo dõi <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> để đảm bảo bạn không bõ lỡ bất kì tin mới nào. db4free.net còn có <a href="/twitter.php">Twitter</a>, một nguồn tài nguyên tuyệt vời cho những gì đang xảy ra trong thế giới db4free.net.',
+    'p4a' => 'Có một<a href="https://www.mpopp.net/category/db4free/">khung vự cho db4free.net</a> trong <a href="https://www.mpopp.net/">mpopp.net blog</a> giúp bạn có thể có được những tin tớn mới nhất của db4free.net. Hãy theo dõi <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> để đảm bảo bạn không bõ lỡ bất kì tin mới nào. db4free.net còn có <a href="/bluesky.php">Bluesky</a>, một nguồn tài nguyên tuyệt vời cho những gì đang xảy ra trong thế giới db4free.net.',
 
     'p4b' => 'Nguồn tài nguyên tốt để tìm hiểu về MySQL là ở <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> và <a href="https://planet.mysql.com/">PlanetMySQL</a>. Trang web MySQL cung cấp nhiều <a href="https://dev.mysql.com/tech-resources/articles/">bài viết cho người phát triển</a> trong đó giải thích tính năng mới đang được giới thiệu trong phiên bản sắp tới.',
 

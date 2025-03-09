@@ -24,7 +24,7 @@ $translations = [
 
     'h4' => 'Bronnen',
 
-    'p4a' => 'Er is een <a href="https://www.mpopp.net/category/db4free/">db4free.net-sectie</a> in de <a href="https://www.mpopp.net/">mpopp.net-blog</a> die u op de hoogte houdt van het nieuws over db4free.net. Abonneer u op de <a href="https://www.mpopp.net/category/db4free/feed/">RSS-feed</a> om ervoor te zorgen dat u geen enkel nieuws mist. db4free.net is ook te vinden op <a href="/twitter.php">Twitter</a>, een andere geweldige bron om op de hoogte te blijven van wat er gebeurt in de wereld van db4free.net.',
+    'p4a' => 'Er is een <a href="https://www.mpopp.net/category/db4free/">db4free.net-sectie</a> in de <a href="https://www.mpopp.net/">mpopp.net-blog</a> die u op de hoogte houdt van het nieuws over db4free.net. Abonneer u op de <a href="https://www.mpopp.net/category/db4free/feed/">RSS-feed</a> om ervoor te zorgen dat u geen enkel nieuws mist. db4free.net is ook te vinden op <a href="/bluesky.php">Bluesky</a>, een andere geweldige bron om op de hoogte te blijven van wat er gebeurt in de wereld van db4free.net.',
 
     'p4b' => 'De beste bronnen om meer te weten te komen over MySQL zijn de <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, de <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> en <a href="https://planet.mysql.com/">PlanetMySQL</a>. De MySQL-website biedt een aantal <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a>, waarin veel van de nieuwe functies die in aankomende versies worden geïntroduceerd, in uitstekend detail worden uitgelegd.',
 

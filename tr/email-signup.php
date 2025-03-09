@@ -18,7 +18,7 @@ Lütfen 14 gün içerisinde aşağıdaki linki kullanarak kayıt işlemini tamam
 * veri kaybı her zaman olabilir (bununla ilgili tüm şikayetler yok sayılacaktır)
 * db4free.net ekibi hiçbir tür sorumluluğu ve garantiyi kabul etmeyecektir
 * db4free.net ekibi önceden bildirmeksizin hesap silme yada veritabanlarını silme hakkını saklı tutar
-* son gelişmeleri Twitter\'dan (https://twitter.com/db4free_net) ve db4free.net blog (https://www.mpopp.net/category/db4free/) üzerinden takip edebilirsiniz
+* son gelişmeleri Bluesky\'dan (https://bsky.app/profile/db4free-net.bsky.social) ve db4free.net blog (https://www.mpopp.net/category/db4free/) üzerinden takip edebilirsiniz
 * db4free.net sadece MySQL veritabanı sağlar, web alanı sağlamaz (dosyalarınızı yükleyecek bir alanınız olmayacak)
 
 Dahası:

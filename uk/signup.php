@@ -46,7 +46,7 @@ $translations = [
     'agm-li6' => 'Команда db4free.net залишає за собою право видалити базу даних і/або аккаунт без попередження
 ',
 
-    'agm-li7' => 'Ви можете отримати останню інформацію з <a href="/twitter.php">Twitter</a> і <a href="/blog.php">блогу db4free.net</a>',
+    'agm-li7' => 'Ви можете отримати останню інформацію з <a href="/bluesky.php">Bluesky</a> і <a href="/blog.php">блогу db4free.net</a>',
 
     'agm-li8' => 'db4free.net надає тільки бази даних MySQL, але не місце для файлів',
 

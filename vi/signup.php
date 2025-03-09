@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'nhóm db4free.net có quyền xóa bất kì cơ sỡ dữ liệu hay tài khoản nào mà không cần báo trước',
 
-    'agm-li7' => 'bạn có thể lấy thông tin mới nhất từ Twitter của chúng tôi <a href="/twitter.php">Twitter</a> hay <a href="/blog.php">db4free.net blog</a>',
+    'agm-li7' => 'bạn có thể lấy thông tin mới nhất từ Bluesky của chúng tôi <a href="/bluesky.php">Bluesky</a> hay <a href="/blog.php">db4free.net blog</a>',
 
     'agm-li8' => 'db4free.net chỉ cung cấp duy nhât cơ sở dữ liệu MySQL, không có dung lượng cho trang web (không có chỗ đễ lưu bất cứ tập tin nào)',
 

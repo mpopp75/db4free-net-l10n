@@ -45,7 +45,7 @@ $translations = [
 
     'agm-li6' => 'db4free.net टीम बिना सूचना के किसी भी समय डेटाबेस और / या अकाउंट को हटाने का अधिकार सुरक्षित रखती है',
 
-    'agm-li7' => 'ट्विटर (https://twitter.com/db4free_net) और db4free.net ब्लॉग (https://www.mpopp.net/category/db4free/) से नवीनतम जानकारी प्राप्त करना आपके ऊपर है',
+    'agm-li7' => 'ट्विटर (https://bsky.app/profile/db4free-net.bsky.social) और db4free.net ब्लॉग (https://www.mpopp.net/category/db4free/) से नवीनतम जानकारी प्राप्त करना आपके ऊपर है',
 
     'agm-li8' => 'db4free.net केवल एक MySQL डेटाबेस प्रदान करता है, लेकिन कोई वेब स्पेस नहीं है (कोई भी फाइल अपलोड करने के लिए कहीं नहीं है)',
 

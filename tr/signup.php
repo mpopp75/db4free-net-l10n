@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'db4free.net ekibi önceden bildirmeksizin hesap silme yada veritabanlarını silme hakkını saklı tutar.',
 
-    'agm-li7' => 'Son gelişmeleri <a href="/twitter.php">Twitter\'dan</a> ve <a href="/blog.php">db4free.net blog</a> üzerinden takip edebilirsiniz',
+    'agm-li7' => 'Son gelişmeleri <a href="/bluesky.php">Bluesky\'dan</a> ve <a href="/blog.php">db4free.net blog</a> üzerinden takip edebilirsiniz',
 
     'agm-li8' => 'db4free.net sadece MySQL veritabanı sağlar, web alanı sağlamaz (dosyalarınızı yükleyecek bir alanınız olmayacak)',
 

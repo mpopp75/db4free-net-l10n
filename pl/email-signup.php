@@ -18,7 +18,7 @@ Prosimy użyć odnośnika w dalszej części tej wiadomości w celu zakończenia
 * utrata danych czy też niedostępność serwisu mogą wystąpić w każdym momencie (jakiekolwiek skargi z tym związane zostaną bardzo prawdopodobnie po prostu zignorowane)
 * ekipa db4free.net nie daje żadnego rodzaju gwarancji na usługi i nie jest odpowiedzialna za jakiekolwiek straty wynikłe z nieprawidłowego działania serwisu
 * ekipa db4free.net zastrzega sobie prawo do kasowania baz danych/kont w każdym momencie i bez uprzedzenia
-* w Twoim interesie jest częste sprawdzanie co się dzieje z serwisem na Twitterze (https://twitter.com/db4free_net) oraz blogu db4free.net (https://www.mpopp.net/category/db4free/)
+* w Twoim interesie jest częste sprawdzanie co się dzieje z serwisem na Bluesky (https://bsky.app/profile/db4free-net.bsky.social) oraz blogu db4free.net (https://www.mpopp.net/category/db4free/)
 * db4free.net zapewnia bazę danych MySQL, lecz nie zapewnia przestrzeni dyskowej systemu plików (wgrywanie plików wszelkiego rodzaju jest niemożliwe)
 
 Następnie:

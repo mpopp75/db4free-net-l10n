@@ -18,7 +18,7 @@ $translations = [
 * Потери данных и недоступность могут случиться в любой момент (любые жалобы по этому поводу, будут игнорированы)
 * Команда db4free.net не предоставляет гарантий или обязательств любого рода
 * Команда db4free.net оставляет за собой право удалить базу данных и/или аккаунт без предупреждения
-* Вы можете получить самую последнюю информацию из Twitter (https://twitter.com/db4free_net) и блога db4free.net (https://www.mpopp.net/category/db4free/)
+* Вы можете получить самую последнюю информацию из Bluesky (https://bsky.app/profile/db4free-net.bsky.social) и блога db4free.net (https://www.mpopp.net/category/db4free/)
 * db4free.net предоставляет только базы данных MySQL, но не место под файлы
 
 Кроме того:

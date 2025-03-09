@@ -18,7 +18,7 @@ Use o link abaixo para confirmar o seu cadastro em, no máximo, 14 dias. Clicand
 * Perda de dados e interrupções no fornecimento de energia podem ocorrer a qualquer momento (qualquer reclamação relacionada será ignorada).
 * A equipe db4free.net não oferece garantias e não pode ser responsabilizada por nenhum tipo de dano.
 * A equipe db4free.net se reserva o direito de excluir contas ou bancos de dados sem aviso prévio.
-* Fica a seu critério buscar as últimas informações em nosso Twitter (https://twitter.com/db4free_net) ou no blog db4free.net (https://www.mpopp.net/category/db4free/).
+* Fica a seu critério buscar as últimas informações em nosso Bluesky (https://bsky.app/profile/db4free-net.bsky.social) ou no blog db4free.net (https://www.mpopp.net/category/db4free/).
 * O db4free.net disponibiliza apenas o banco de dados MySQL, sem hospedagem web (você não poderá fazer upload de arquivos).
 
 Mais informações:

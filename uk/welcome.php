@@ -24,7 +24,7 @@ $translations = [
 
     'h4' => 'Ресурси',
 
-    'p4a' => '<a href="https://www.mpopp.net/category/db4free/">Секція про db4free.net</a> у <a href="https://www.mpopp.net/">блозі mpopp.net</a> дозволяє дізнатися новини db4free.net. Будь ласка підпишіться на <a href="https://www.mpopp.net/category/db4free/feed/">RSS ленту</a>, щоб не прогавити ні однієї новини. db4free.net також є в <a href="/twitter.php">Twitter</a>, іншому гарному ресурсі, що розповідає, що відбувається в світі db4free.net.',
+    'p4a' => '<a href="https://www.mpopp.net/category/db4free/">Секція про db4free.net</a> у <a href="https://www.mpopp.net/">блозі mpopp.net</a> дозволяє дізнатися новини db4free.net. Будь ласка підпишіться на <a href="https://www.mpopp.net/category/db4free/feed/">RSS ленту</a>, щоб не прогавити ні однієї новини. db4free.net також є в <a href="/bluesky.php">Bluesky</a>, іншому гарному ресурсі, що розповідає, що відбувається в світі db4free.net.',
 
     'p4b' => 'Кращі ресурси для вивчення MySQL це <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> і <a href="https://planet.mysql.com/">PlanetMySQL</a>. Сайт MySQL містить перелік статей <a href="https://dev.mysql.com/tech-resources/articles/">Статті розробників</a> , багато з яких пояснюють роботу нових функцій, що були або будуть запроваджені у новій версії.',
 

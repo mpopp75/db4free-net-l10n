@@ -24,7 +24,7 @@ $translations = [
 
     'h4' => 'Sumber Lain',
 
-    'p4a' => 'Ada topik pembahasan <a href="https://www.mpopp.net/category/db4free/">db4free.net</a> di <a href="https://www.mpopp.net/">Blog mpopp.net</a> yang dapat memberikan Anda berita seputar db4free.net. Silakan subscribe di <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> sehingga Anda tidak melewatkan berita terbarunya. db4free.net juga mempunyai <a href="/twitter.php">Twitter</a>, sumber lainnya yang dapat Anda lihat di tweets tentang db4free.net.',
+    'p4a' => 'Ada topik pembahasan <a href="https://www.mpopp.net/category/db4free/">db4free.net</a> di <a href="https://www.mpopp.net/">Blog mpopp.net</a> yang dapat memberikan Anda berita seputar db4free.net. Silakan subscribe di <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> sehingga Anda tidak melewatkan berita terbarunya. db4free.net juga mempunyai <a href="/bluesky.php">Bluesky</a>, sumber lainnya yang dapat Anda lihat di tweets tentang db4free.net.',
 
     'p4b' => 'Sumber paling bagus untuk belajar lebih lanjut tentang MySQL ada di <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, juga <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> dan <a href="https://planet.mysql.com/">PlanetMySQL</a>. Situs MySQL memberikan segudang <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a> di mana banyak terdapat penjelasan tentang fitur terbaru yang akan diperkenalkan di versi yang akan datang selanjutnya dengan detil.',
 

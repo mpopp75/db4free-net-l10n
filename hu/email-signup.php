@@ -19,7 +19,7 @@ Kérlek kattints a lentebb lévő linkre a következő 14 napban, hogy befejezd 
 * Adatvesztések és üzemidő kiesések bármikor történhetnek (az ezzel kapcsolatos panaszok valószínűleg figyelmen kívül lesznek hagyva)
 * A db4free.net csapata nem biztosít semmilyen garanciát, felelősséget
 * A db4free.net csapata fenntartja a jogot, hogy bármikor, figyelmeztetés nélkül törölje az adatbázisod és/vagy fiókod
-* A db4free.net-tel kapcsolatos legfrissebb információkat elérheted a Twitteren (https://twitter.com/db4free_net) és a db4free.net blogon (https://www.mpopp.net/category/db4free/)
+* A db4free.net-tel kapcsolatos legfrissebb információkat elérheted a Blueskyen (https://bsky.app/profile/db4free-net.bsky.social) és a db4free.net blogon (https://www.mpopp.net/category/db4free/)
 * A db4free.net csak MySQL adatbázist biztosít, nem ad webtárhelyet (nincs lehetőséged itt tárolni a fájljaidat)
 
 Továbbiakban:

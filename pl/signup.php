@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'ekipa db4free.net zastrzega sobie prawo do kasowania baz danych/kont w każdym momencie i bez uprzedzenia',
 
-    'agm-li7' => 'w Twoim interesie jest częste sprawdzanie co się dzieje z serwisem na <a href="/twitter.php">Twitterze</a> oraz <a href="/blog.php">blogu db4free.net</a>',
+    'agm-li7' => 'w Twoim interesie jest częste sprawdzanie co się dzieje z serwisem na <a href="/bluesky.php">Bluesky</a> oraz <a href="/blog.php">blogu db4free.net</a>',
 
     'agm-li8' => 'db4free.net zapewnia bazę danych MySQL, lecz nie zapewnia przestrzeni dyskowej systemu plików (wgrywanie plików wszelkiego rodzaju jest niemożliwe)',
 

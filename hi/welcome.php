@@ -25,7 +25,7 @@ $translations = [
 
     'h4' => 'साधन',
 
-    'p4a' => '<a href="https://www.mpopp.net/">mpopp.net blog</a> में <a href="https://www.mpopp.net/category/db4free/"> db4free.net अनुभाग </a> है। आपको db4free.net के बारे में समाचार ला रहा है। कृपया यह सुनिश्चित करने के लिए कि आपसे कोई समाचार छूट ना जाए, कृपया <a href="https://www.mpopp.net/category/db4free/feed/"> RSS फ़ीड </a> की सदस्यता लें। db4free.net दुनिया में क्या हो रहा है, इसके शीर्ष पर बने रहने के लिए एक और बेहतरीन संसाधन <a href="/twitter.php"> Twitter </a> पर भी है।',
+    'p4a' => '<a href="https://www.mpopp.net/">mpopp.net blog</a> में <a href="https://www.mpopp.net/category/db4free/"> db4free.net अनुभाग </a> है। आपको db4free.net के बारे में समाचार ला रहा है। कृपया यह सुनिश्चित करने के लिए कि आपसे कोई समाचार छूट ना जाए, कृपया <a href="https://www.mpopp.net/category/db4free/feed/"> RSS फ़ीड </a> की सदस्यता लें। db4free.net दुनिया में क्या हो रहा है, इसके शीर्ष पर बने रहने के लिए एक और बेहतरीन संसाधन <a href="/Bluesky.php">Bluesky</a> पर भी है।',
 
     'p4b' => 'MySQL के बारे में अधिक जानने के लिए सर्वोत्तम संसाधन <a href="https://dev.mysql.com/"> MySQL डेवलपर ज़ोन </a>, <a href = "https://dev.mysql.com/doc/refman/8.0/en/">MySQL संदर्भ मैनुअल </a> और <a href="https://planet.mysql.com/"> PlanetMySQL </a>। MySQL वेबसाइट <a href="https://dev.mysql.com/tech-resources/articles/"> डेवलपर लेख </a> के कई नंबर प्रदान करती है, जिनमें से कई नए फीचर्स बताते हैं जो आगामी संस्करणों में पेश किए जा रहे हैं उत्कृष्ट विवरण।',
 

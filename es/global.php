@@ -15,7 +15,7 @@ $translations = [
 
     'topnav2' => 'Base de datos',
 
-    'topnav3' => 'Twitter',
+    'topnav3' => 'Bluesky',
 
     'topnav4' => 'Blog de mpopp.net',
 

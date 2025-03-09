@@ -23,7 +23,7 @@ $translations = [
 
     'h4' => 'Qabeenya',
 
-    'p4a' => 'Qabeenya <a href="https://www.mpopp.net/category/db4free/">db4free.net kutaa</a> jiru <a href="https://www.mpopp.net/">mpopp.net blog</a> keessatti argama kan siif oduu db4free.net kennu. <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> akka hin dhabin oduu hundaaf galmaa\'aa. db4free.net immoo <a href="/twitter.php">Twitter</a> irratti argama, madda gaarii ta\'ee kan yeroo hunda maal akka ta\'uuf siif ibsu.',
+    'p4a' => 'Qabeenya <a href="https://www.mpopp.net/category/db4free/">db4free.net kutaa</a> jiru <a href="https://www.mpopp.net/">mpopp.net blog</a> keessatti argama kan siif oduu db4free.net kennu. <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> akka hin dhabin oduu hundaaf galmaa\'aa. db4free.net immoo <a href="/bluesky.php">Bluesky</a> irratti argama, madda gaarii ta\'ee kan yeroo hunda maal akka ta\'uuf siif ibsu.',
 
     'p4b' => 'Qabeenya gaarii ta\'ee MySQL barachuuf <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> fi <a href="https://planet.mysql.com/">PlanetMySQL</a> dha. Marsariitii MySQL immoo <a href="https://dev.mysql.com/tech-resources/articles/">Maqaa Misoomaa</a> baay\'ee kanneen haaraa ta\'an ibsuuf qopheessan.',
 

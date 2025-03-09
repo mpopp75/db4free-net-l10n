@@ -18,7 +18,7 @@ Kliknite na link da bi završili proces registraciji u narednih 14 dana. Klikom 
 * izgubljeni podaci i prekidi rada se mogu desiti u bilo koje vreme (bilo kakvi prijave oko ovoga će verovatno biti ignorisane)
 * db4free.net tim ne daje bilo kakve garancije ili odgovornosti bilo koje vrste
 * db4free.net tim zadržava pravo da obriše bazu podataka i/ili profil u bilo kom vremenu bez najave
-* Na vama je da pratite poslednje informacije na Twitter-u (https://twitter.com/db4free_net) i db4free.net blogu (https://www.mpopp.net/category/db4free/)
+* Na vama je da pratite poslednje informacije na Bluesky-u (https://bsky.app/profile/db4free-net.bsky.social) i db4free.net blogu (https://www.mpopp.net/category/db4free/)
 * db4free.net pruža samo MySQL bazu podataka, ali ne web prostor (nemate nigde da uploadujete fajlove)
 
 Dalje:

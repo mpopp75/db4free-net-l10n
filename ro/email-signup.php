@@ -18,7 +18,7 @@ Vă rugăm utilizați următoarea legătură în decurs de 14 zile pentru a fina
 * Pierderi de date și pene de curent pot surveni în orice moment (orice plângeri legate de acestea vor fi, cel mai probabil, ignorate);
 * Echipa db4free.net nu furnizează nicio garanție și nu-și asumă niciun fel de responsabilitate;
 * Echipa db4free.net își rezervă dreptul de a șterge baze de date și/sau conturi în orice moment, fără preavizare;
-* Ține de dvs. să fiți la curent cu ultimele informații de pe Twitter (https://twitter.com/db4free_net) și de pe blog-ul db4free.net (https://www.mpopp.net/category/db4free/);
+* Ține de dvs. să fiți la curent cu ultimele informații de pe Bluesky (https://bsky.app/profile/db4free-net.bsky.social) și de pe blog-ul db4free.net (https://www.mpopp.net/category/db4free/);
 * db4free.net furnizează numai o bază de date MySQL, dar nu și spațiu web (nu există spațiu pentru încărcarea fișierelor).
 
 Pe deasupra:

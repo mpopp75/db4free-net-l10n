@@ -19,7 +19,7 @@ Utilice el siguiente enlace para terminar el proceso de registro dentro de los p
 * pueden ocurrir pérdidas de datos e interrupciones del servicio en cualquier momento. Las quejas acerca de estas situaciones serán ignoradas en su mayoría
 * el equipo de db4free.net no concede ningún tipo de garantía o responsabilidad de cualquier tipo
 * el equipo de db4free.net se reserva el derecho de eliminar las bases de datos y/o cuentas en cualquier momento sin previo aviso
-* le corresponde obtener la información más reciente de Twitter (https://twitter.com/db4free_net) y del blog de db4free.net (https://www.mpopp.net/category/db4free/)
+* le corresponde obtener la información más reciente de Bluesky (https://bsky.app/profile/db4free-net.bsky.social) y del blog de db4free.net (https://www.mpopp.net/category/db4free/)
 * db4free.net sólo proporciona una base de datos MySQL, pero no espacio en la web (no hay lugar para cargar algún archivo)
 
 Además:

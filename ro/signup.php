@@ -43,7 +43,7 @@ $translations = [
 
     'agm-li6' => 'Echipa db4free.net își rezervă dreptul de a șterge baze de date și/sau conturi în orice moment, fără preavizare;',
 
-    'agm-li7' => 'Ține de dvs. să fiți la curent cu ultimele informații de pe Twitter (https://twitter.com/db4free_net) și de pe blog-ul db4free.net (https://www.mpopp.net/category/db4free/);',
+    'agm-li7' => 'Ține de dvs. să fiți la curent cu ultimele informații de pe Bluesky (https://bsky.app/profile/db4free-net.bsky.social) și de pe blog-ul db4free.net (https://www.mpopp.net/category/db4free/);',
 
     'agm-li8' => 'db4free.net furnizează numai o bază de date MySQL, dar nu și spațiu web (nu există spațiu pentru încărcarea fișierelor).',
 

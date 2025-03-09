@@ -45,7 +45,7 @@ $translations = [
 
     'agm-li6' => 'db4free.net 團隊保留刪除資料庫以及帳號的權力，而不另行通知。',
 
-    'agm-li7' => '您可以從我們的 <a href="/twitter.php">Twitter</a> 或者是 <a href="/blog.php">db4free.net 部落格</a>獲取最新資訊。',
+    'agm-li7' => '您可以從我們的 <a href="/bluesky.php">Bluesky</a> 或者是 <a href="/blog.php">db4free.net 部落格</a>獲取最新資訊。',
 
     'agm-li8' => 'db4free.net 只提供 MySQL 資料庫服務，不提供網路空間。(沒有檔案上傳的機制)',
 

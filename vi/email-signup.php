@@ -18,7 +18,7 @@ Dùng đường dẫn bên dưới để hoàn thành việc đăng ký trong v�
 * mất dữ liệu và sụp hệ thống có thể xảy ra bất cứ lúc nào (tất cả những ý kiến về điều này gần như sẽ bị bỏ qua)
 * nhóm db4free.net không bảo hành hoặc trách nhiệm pháp lý của bất cứ trường hợp nào
 * nhóm db4free.net có quền xóa bất kì cơ sỡ dữ liệu hay tài khoản nào mà không cần báo trước
-* bạn có thể lấy thông tin mới nhất từ Twitter của chúng tôi (https://twitter.com/db4free_net) hay từ db4free.net blog (https://www.mpopp.net/category/db4free/)
+* bạn có thể lấy thông tin mới nhất từ Bluesky của chúng tôi (https://bsky.app/profile/db4free-net.bsky.social) hay từ db4free.net blog (https://www.mpopp.net/category/db4free/)
 * db4free.net chỉ cung cấp duy nhât cơ sở dữ liệu MySQL, không có dung lượng cho trang web (không có chỗ đễ lưu bất cứ tập tin nào)
 
 Phụ mục:

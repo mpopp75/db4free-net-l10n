@@ -19,7 +19,7 @@ $translations = [
 * 隨時都可能發生資料遺失以及損壞。(我們將忽略任何有關資料遺失的投訴)
 * db4free.net 團隊不提供任何擔保或責任。
 * db4free.net 團隊保留刪除資料庫以及帳號的權力，而不另行通知。
-* 您可以從我們的 Twitter 獲取最新資訊 (https://twitter.com/db4free_net) 或者是 db4free.net blog (https://www.mpopp.net/category/db4free/)
+* 您可以從我們的 Bluesky 獲取最新資訊 (https://bsky.app/profile/db4free-net.bsky.social) 或者是 db4free.net blog (https://www.mpopp.net/category/db4free/)
 * db4free.net 只提供使用 MySQL 資料庫，不提供網路空間。(沒有檔案上傳的機制)
 
 此外:

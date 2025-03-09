@@ -20,7 +20,7 @@ $translations = [
 * يمكن أن يحدث فقدان للبيانات في أي وقت ( أي شكوى بهذا الخصوص سيتمَ تجاهلها )
 * لا يقدم فريق db4free.net أي ضمانات أو مسؤوليات قانونية من أي نوع
 * يملك فريق db4free.net الحق بحذف قواعد البيانات أو أي حساب في أي وقت و دون إشعار مسبق
-* يمكنك الحصول على آخر المعلومات من تويتر  (https://twitter.com/db4free_net) ومن مدونة db4free.net   (https://www.mpopp.net/category/db4free/)
+* يمكنك الحصول على آخر المعلومات من تويتر  (https://bsky.app/profile/db4free-net.bsky.social) ومن مدونة db4free.net   (https://www.mpopp.net/category/db4free/)
 * db4free.net تقدم فقط قواعد بيانات MySQL ,  ولا تمنح أي مساحات ويب ( لايمكنك ترفيع أي ملفات )
 
 أيضاً:

@@ -45,7 +45,7 @@ $translations = [
 
     'agm-li6' => 'Db4free.net tým si vyhrazuje právo smazat databází a nebo účty kdykoliv bez předchozího upozornění',
 
-    'agm-li7' => 'Je na Vás, abyste jste se dozvěděli o novinkách na <a href="/twitter.php">Twitteru</a> a <a href="/blog.php">db4free.net blogu</a>',
+    'agm-li7' => 'Je na Vás, abyste jste se dozvěděli o novinkách na <a href="/bluesky.php">Bluesky</a> a <a href="/blog.php">db4free.net blogu</a>',
 
     'agm-li8' => 'Db4free.net poskytuje pouze databáze MySQL!',
 

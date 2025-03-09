@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'db4free.net lag förbehåller sig rätten att ta bort databaser och / eller konton när som helst utan förvarning',
 
-    'agm-li7' => 'det är upp till dig att få den senaste informationen från <a href="/twitter.php">Twitter</a> och <a href="/blog.php">db4free.net blogg</a>',
+    'agm-li7' => 'det är upp till dig att få den senaste informationen från <a href="/bluesky.php">Bluesky</a> och <a href="/blog.php">db4free.net blogg</a>',
 
     'agm-li8' => 'db4free.net tillhandahåller enbart en MySQL-databas (inget webbutrymme att ladda upp din webbplats på)',
 

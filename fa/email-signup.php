@@ -18,7 +18,7 @@ $translations = [
 * از دست دادن داده و اختلال‌ها می‌تواند در هر زمانی رخ دهد (شکایات در این خصوص به احتمال زیاد نادیده گرفته خواهد شد)
 * تیم db4free.net هیچ گونه گارانتی یا مسئولیتی ارائه نمی‌دهد
 * تیم db4free.net حق حذف پایگاه‌های داده و/یا حساب‌ها را بدون اطلاع از آن دارد
-* بر عهده شماست که آخرین اطلاعات را از Twitter (https://twitter.com/db4free_net) و وبلاگ db4free.net (https://www.mpopp.net/category/db4free/) بدست آورید
+* بر عهده شماست که آخرین اطلاعات را از Bluesky (https://bsky.app/profile/db4free-net.bsky.social) و وبلاگ db4free.net (https://www.mpopp.net/category/db4free/) بدست آورید
 * db4free.net تنها یک پایگاه داده MySQL فراهم می‌کند، اما هیچ فضای وب (جایی برای آپلود فایل‌ها) ندارد
 
 علاوه بر این:

@@ -24,7 +24,7 @@ $translations = [
 
     'h4' => 'Ressources',
 
-    'p4a' => 'La section <a href="https://www.mpopp.net/category/db4free/">db4free.net</a> sur le blog <a href="https://www.mpopp.net/">mpopp.net</a> rassemble les dernières informations sur db4free.net. Souscrivez au <a href="https://www.mpopp.net/category/db4free/feed/">flux RSS</a> pour ne rater aucune news. db4free.net est aussi sur <a href="/twitter.php">Twitter</a>, un autre moyen génial de rester au courant de ce qui se passe dans le monde de db4free.net.',
+    'p4a' => 'La section <a href="https://www.mpopp.net/category/db4free/">db4free.net</a> sur le blog <a href="https://www.mpopp.net/">mpopp.net</a> rassemble les dernières informations sur db4free.net. Souscrivez au <a href="https://www.mpopp.net/category/db4free/feed/">flux RSS</a> pour ne rater aucune news. db4free.net est aussi sur <a href="/bluesky.php">Bluesky</a>, un autre moyen génial de rester au courant de ce qui se passe dans le monde de db4free.net.',
 
     'p4b' => 'Les meilleures ressources pour apprendre à utiliser Mysql sont sur la <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, le <a href="https://dev.mysql.com/doc/refman/8.0/fr/index.html">Manuel de Référence MySQL</a> et sur <a href="https://planet.mysql.com/">PlanetMySQL</a>. Le site officiel propose également un grand nombre d\'<a href="https://dev.mysql.com/tech-resources/articles/">articles sur le développement de MySQL</a>, et beaucoup d\'entre eux expliquent en détail les nouvelles fonctionnalités prévues.',
 

@@ -43,7 +43,7 @@ $translations = [
 
     'agm-li6' => 'gareen db4free.net yeroo kamiyyuu beeksisa malee database fi/ ykn galmee fayyadamaa haquu danda\'a',
 
-    'agm-li7' => 'odeeffannoo haaraa <a href="/twitter.php">Twitter</a> fi <a href="/blog.php">blog db4free.net</a> irraa argachuu akka qabdu',
+    'agm-li7' => 'odeeffannoo haaraa <a href="/bluesky.php">Bluesky</a> fi <a href="/blog.php">blog db4free.net</a> irraa argachuu akka qabdu',
 
     'agm-li8' => 'db4free.net MySQL database qofa kenna, garuu bakka qubachiiftuu hin qabu (bakka faayilii kamiyyuu olkaa\'uu hin jiru)',
 

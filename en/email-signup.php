@@ -18,7 +18,7 @@ Please use the following link to finish the registration process within the next
 * data loss and outages can happen at any time (any complaints about that will likely be ignored)
 * the db4free.net team is not granting any warranty or liability of any kind
 * the db4free.net team reserves the right to delete databases and/or accounts at any time without notice
-* it is up to you to get the latest information from Twitter (https://twitter.com/db4free_net) and the db4free.net blog (https://www.mpopp.net/category/db4free/)
+* it is up to you to get the latest information from Bluesky (https://bsky.app/profile/db4free-net.bsky.social) and the db4free.net blog (https://www.mpopp.net/category/db4free/)
 * db4free.net provides only a MySQL database, but no web space (there is nowhere to upload any files)
 
 Further:

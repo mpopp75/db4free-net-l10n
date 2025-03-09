@@ -24,7 +24,7 @@ $translations = [
 
     'h4' => 'வளங்கள்',
 
-    'p4a' => 'இல்  <a href="https://www.mpopp.net/category/db4free/">db4free.net பிரிவு </a> உள்ளது. <a href="https://www.mpopp.net/">mpopp.net வலைப்பதிவு </a> db4free.net பற்றிய செய்திகளை உங்களுக்குக் கொண்டுவருகிறது. நீங்கள் எந்த செய்தியையும் இழக்கவில்லை என்பதை உறுதிப்படுத்த <a href="https://www.mpopp.net/category/db4free/feed/"> RSS Feed </a> க்கு குழு சேரவும். db4free.net <a href="/twitter.php"> ட்விட்டர் </a> இல் உள்ளது, இது db4free.net உலகில் என்ன நடக்கிறது என்பதற்கு மேல் இருக்க மற்றொரு சிறந்த ஆதாரமாகும்.',
+    'p4a' => 'இல்  <a href="https://www.mpopp.net/category/db4free/">db4free.net பிரிவு </a> உள்ளது. <a href="https://www.mpopp.net/">mpopp.net வலைப்பதிவு </a> db4free.net பற்றிய செய்திகளை உங்களுக்குக் கொண்டுவருகிறது. நீங்கள் எந்த செய்தியையும் இழக்கவில்லை என்பதை உறுதிப்படுத்த <a href="https://www.mpopp.net/category/db4free/feed/"> RSS Feed </a> க்கு குழு சேரவும். db4free.net <a href="/bluesky.php"> ட்விட்டர் </a> இல் உள்ளது, இது db4free.net உலகில் என்ன நடக்கிறது என்பதற்கு மேல் இருக்க மற்றொரு சிறந்த ஆதாரமாகும்.',
 
     'p4b' => 'MySQL பற்றி மேலும் அறிய சிறந்த ஆதாரங்கள் <a href="https://dev.mysql.com/"> MySQL டெவலப்பர் மண்டலம் </a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL குறிப்பு கையேடு </a> மற்றும்  <a href="https://planet.mysql.com/">PlanetMySQL</a>. MySQL வலைத்தளம் பல  <a href="https://dev.mysql.com/tech-resources/articles/">டெவலப்பர் கட்டுரைகள் </a> ஐ வழங்குகிறது, அவற்றில் பல வரவிருக்கும் பதிப்புகளில் அறிமுகப்படுத்தப்படும் புதிய அம்சங்களை விளக்குகின்றன சிறந்த விவரம்.',
 

@@ -17,7 +17,7 @@ $translations = [
 * データ損失やサーバーの停止はいつでも起こりえます(不満はどのような理由であれ無視されるでしょう)
 * db4free.netチームは保証も責任も一切、どのような理由であれ負いません。
 * db4free.netチームは事前通知なしにデータベースやアカウントをいつでも削除する権限を有しています
-* 最新情報はTwitter(https://twitter.com/db4free_net)またdb4free.netブログ(https://www.mpopp.net/category/db4free/)で確認することが可能です
+* 最新情報はBluesky(https://bsky.app/profile/db4free-net.bsky.social)またdb4free.netブログ(https://www.mpopp.net/category/db4free/)で確認することが可能です
 * db4free.netはMySQLデータベースのみ提供しています。Webページスペースは一切提供していません(どのようなファイルであれアップロードする場所は当サービス上にはありません)
 
 さらに:

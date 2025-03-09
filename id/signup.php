@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'tim db4free.net berhak menghapus database dan atau akun sekalipun tanpa pemberitahuan kepada pihak pengguna',
 
-    'agm-li7' => 'silakan kunjungi jika ingin mendapat informasi terbaru dari <a href="/twitter.php">Twitter</a> atau dari <a href="/blog.php">Blog db4free.net</a>',
+    'agm-li7' => 'silakan kunjungi jika ingin mendapat informasi terbaru dari <a href="/bluesky.php">Bluesky</a> atau dari <a href="/blog.php">Blog db4free.net</a>',
 
     'agm-li8' => 'db4free.net melayani database MySQL saja, tidak dengan web space (tidak ada tempat untuk mengupload segala macam berkas)',
 

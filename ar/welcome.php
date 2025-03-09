@@ -26,7 +26,7 @@ $translations = [
 
     'h4' => 'المصادر',
 
-    'p4a' => 'هذا  <a href="https://www.mpopp.net/category/db4free/">db4free.net قسم </a> في <a href="https://www.mpopp.net/">mpopp.net blog</a> أخبار ال  db4free.net. اشترك ب <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> للتأكد من متابعتك لآخر المستجدات . db4free.net <a href="/twitter.php">Twitter</a>, مصدر آخر للاطلاع على آخر أخبار عالم db4free.net.',
+    'p4a' => 'هذا  <a href="https://www.mpopp.net/category/db4free/">db4free.net قسم </a> في <a href="https://www.mpopp.net/">mpopp.net blog</a> أخبار ال  db4free.net. اشترك ب <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> للتأكد من متابعتك لآخر المستجدات . db4free.net <a href="/bluesky.php">Bluesky</a>, مصدر آخر للاطلاع على آخر أخبار عالم db4free.net.',
 
     'p4b' => 'أفض مصادر لتعلم  MySQL a <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL الدليل اليدوي</a> and <a href="https://planet.mysql.com/">PlanetMySQL</a>. The MySQL website offers a number of <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a> والتي معظمها تشرح المزايا الخاصة بالنسخ الجديدة والقادمة بتفاصيل رائعة.',
 

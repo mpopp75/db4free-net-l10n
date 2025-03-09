@@ -18,7 +18,7 @@ Vänligen använd följande länk för att avsluta registreringsprocessen inom d
 * Dataförlust och avbrott kan hända när som helst (klagomål om detta kommer sannolikt att ignoreras)
 * db4free.net laget utlovar ingen garanti eller ansvar av något slag
 * db4free.net laget förbehåller sig rätten att ta bort databaser och / eller konton när som helst utan förvarning
-* Det är upp till dig att få den senaste informationen från Twitter (https://twitter.com/db4free_net) och db4free.net blogg (https://www.mpopp.net/category/db4free/)
+* Det är upp till dig att få den senaste informationen från Bluesky (https://bsky.app/profile/db4free-net.bsky.social) och db4free.net blogg (https://www.mpopp.net/category/db4free/)
 * Db4free.net tillhandahåller endast en MySQL-databas, inget webbutrymme (det finns ingenstans att ladda upp några filer)
 
 Info:

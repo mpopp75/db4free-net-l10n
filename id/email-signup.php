@@ -18,7 +18,7 @@ Silakan gunakan link tersebut untuk melengkapi pendaftaran, berlaku 14 hari dari
 * kehilangan data dapat terjadi kapanpun (keluhan akan ini kemungkinan akan diabaikan)
 * tim db4free.net tidak memberikan jaminan atau garansi dalam bentuk apapun
 * tim db4free.net berhak menghapus database dan atau akun sekalipun tanpa pemberitahuan kepada pihak pengguna
-* silakan kunjungi jika ingin mendapat informasi terbaru dari Twitter (https://twitter.com/db4free_net) atau dari blog db4free.net (https://www.mpopp.net/category/db4free/)
+* silakan kunjungi jika ingin mendapat informasi terbaru dari Bluesky (https://bsky.app/profile/db4free-net.bsky.social) atau dari blog db4free.net (https://www.mpopp.net/category/db4free/)
 * db4free.net melayani database MySQL saja, tidak dengan web space (tidak ada tempat untuk mengupload segala macam berkas)
 
 Lebih lanjut:

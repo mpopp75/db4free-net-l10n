@@ -18,7 +18,7 @@ Per favore usa il collegamento seguente per completare la registrazione entro i 
 * Perdita di dati o sospensioni del servizio possono avvenire in qualsiasi momento (qualsiasi lamentela a questo proposito sarà molto probabilmente ignorata)
 * Il Team di db4free.net non ti fornisce nessuna garanzia nè si assume nessuna resposabilità di qualsiasi tipo
 * Il Team di db4free.net si riserva il diritto di cancellare i databases e/o gli accounts in qualsiasi momento senza avviso
-* E\' tua responsabilità restare informato seguento Twitter (https://twitter.com/db4free_net) e il blog di db4free.net (https://www.mpopp.net/category/db4free/)
+* E\' tua responsabilità restare informato seguento Bluesky (https://bsky.app/profile/db4free-net.bsky.social) e il blog di db4free.net (https://www.mpopp.net/category/db4free/)
 * db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c\'è nessuna funzione di upload files)
 
 Inoltre:

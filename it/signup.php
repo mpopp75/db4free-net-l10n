@@ -44,7 +44,7 @@ $translations = [
 
     'agm-li6' => 'Il Team di db4free.net si riserva il diritto di cancellare i databases e/o gli accounts in qualsiasi momento senza avviso',
 
-    'agm-li7' => 'E\' tua responsabilità restare informato seguendo <a href="https://twitter.com/db4free_net">Twitter</a> e il <a href="https://www.mpopp.net/category/db4free/">blog di db4free.net</a>',
+    'agm-li7' => 'E\' tua responsabilità restare informato seguendo <a href="https://bsky.app/profile/db4free-net.bsky.social">Bluesky</a> e il <a href="https://www.mpopp.net/category/db4free/">blog di db4free.net</a>',
 
     'agm-li8' => 'db4free.net fornisce solo un database MySQL, non fornisce spazio web (non c\'è nessuna funzione di upload files)',
 
