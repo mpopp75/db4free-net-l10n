@@ -4,7 +4,7 @@ Section: translate
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Hiikoo',
 
     'l10ncredits' => 'Galatoomaa hirmaattota hiikoo',
@@ -44,5 +44,4 @@ $translations = array(
     'p2m' => 'Yeroo hiikoon kee xumurame, commit gochuu fi GitHub repoositoorii kee irratti push gochuu. Branch kee haaraa GitHub irratti jijjiiri fi "New Pull Request" cuqaasi. Barreeffama gabaabaa hiikoo kee maal akka ta\'e, rakkoo ati qunnamte ykn maal fixuu hin dandeenyee fi kkf barreessi fi Pull Request ergi.',
 
     'p2n' => 'Yoo hirmaachuu barbaadde garuu gargaarsa dabalataa barbaadde dura akka jalqabu, <a href="https://github.com/mpopp75/db4free-net-l10n/issues">GitHub irratti Tikeetii Bani</a>.',
-);
-?>
+];

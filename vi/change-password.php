@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Đổi mật khẩu',
 
     'mysql-username' => 'Tên nguuời dùng MySQL',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Nhập mật khẩu mới',
 
     'ph4' => 'Nhập mật khẩu mới (nhập lại)',
-);
-?>
+];

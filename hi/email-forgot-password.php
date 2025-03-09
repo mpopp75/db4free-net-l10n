@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'email' => 'आपने अपने खाते के लिए एक नया पासवर्ड मांगा है"{$user}"
 
 आपका नया पासवर्ड है {$newData}
@@ -21,5 +22,4 @@ $translations = array(
 
 Db4free.net टीम
 https://www.db4free.net',
-);
-?>
+];

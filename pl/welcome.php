@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: welcome
 Language: Polish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Witamy w db4free.net',
 
     'p1a' => 'db4free.net dostarcza serwis testowy dla najnowszej, czasami nawet deweloperskiej wersji <a href="https://www.mysql.com/">serwera bazodanowego MySQL</a>. W łatwy sposób możesz <a href="/signup.php">założyć konto za darmo</a> i testować swoje aplikacje, na przykład wykonywać testy regresyjne po aktualizacji do najnowszej wersji MySQL. db4free.net jest także dobrym źródłem do nauki i poznawania nowych funkcjonalności, które zostały wprowadzone w nowych wydaniach.',
@@ -28,5 +29,4 @@ $translations = array(
     'p4b' => 'Najlepsze źródła wiedzy o MySQL to <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">Instrukcja MySQL</a> oraz <a href="https://planet.mysql.com/">PlanetMySQL</a>. Strona internetowa MySQL oferuje wiele <a href="https://dev.mysql.com/tech-resources/articles/">artykułów dla programistów</a>, z których wiele przedstawia w szczegółowy sposób nowe funkcjonalności, włączane w nadchodzących wersjach.',
 
     'p4c' => 'Jeśli znajdziesz błąd w serwerze MySQL, prosimy zgłoś go w <a href="https://bugs.mysql.com/">systemie śledzenia błędów MySQL</a>.',
-);
-?>
+];

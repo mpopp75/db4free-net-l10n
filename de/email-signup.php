@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: German
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Vielen Dank, dass Sie den Datenbank-Account {$user} bei db4free.net registriert haben.
 
 Nach Bestätigung des folgenden Freischaltungs-Links, haben Sie Zugriff auf db4free.net\'s MySQL 8.3 Datenbank-Server. Um auf den Server zugreifen zu können, müssen Sie als Hostnamen db4free.net und als Port 3306 eingeben. Sie können auch phpMyAdmin auf unserer Website verwenden, um auf den Server zuzugreifen.
@@ -35,5 +36,4 @@ Wir hoffen, dass Sie viel Freude mit Ihrer Datenbank haben!
 
 Ihr db4free.net Team
 https://www.db4free.net',
-);
-?>
+];

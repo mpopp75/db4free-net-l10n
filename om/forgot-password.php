@@ -4,7 +4,7 @@ Section: forgot-password
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Jecha iccitii kee dagatteettaa?',
 
     'username' => 'Maqaa fayyadamaa',
@@ -16,5 +16,5 @@ $translations = array(
     'error1' => 'Daataan galchite sirrii miti!',
 
     'success' => 'Imeelii waliin jecha iccitii haaraa argatteetta!',
-);
+];
 ?>

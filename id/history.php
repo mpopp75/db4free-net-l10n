@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Changelog',
-);
-?>
+];

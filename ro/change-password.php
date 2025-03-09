@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Schimbă parola',
 
     'mysql-username' => 'Nume utilizator MySQL',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Introduceți parola nouă',
 
     'ph4' => 'Introduceți parola nouă (din nou)',
-);
-?>
+];

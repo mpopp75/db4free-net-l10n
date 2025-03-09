@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Polish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Historia zmian',
-);
-?>
+];

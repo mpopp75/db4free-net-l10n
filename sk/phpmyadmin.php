@@ -1,11 +1,11 @@
 <?php
+
 /*
 Section: phpmyadmin
 Language: Slovak
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'phpMyAdmin',
-);
-?>
+];

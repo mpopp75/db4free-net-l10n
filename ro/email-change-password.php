@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Am primit cererea dvs. de schimbare a parolei.
 
 Noile acreditări sunt următoarele:
@@ -22,5 +23,4 @@ Sperăm că vă place să lucrați cu baza dvs. de date!
 
 Echipa db4free.net
 https://www.db4free.net',
-);
-?>
+];

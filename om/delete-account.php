@@ -4,7 +4,7 @@ Section: delete-account
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Akaawuntii Haquu',
 
     'mysql-username' => 'Maqaa fayyadamaa MySQL',
@@ -20,5 +20,5 @@ $translations = array(
     'error2' => 'Fayyadamaan hin jiru!',
 
     'error3' => 'Jecha darbii sirrii miti!',
-);
+];
 ?>

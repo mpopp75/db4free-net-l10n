@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL データベースを無料で発行できます',
@@ -48,5 +49,4 @@ $translations = array(
     'login' => 'ログイン',
 
     'switch_language' => '言語選択',
-);
-?>
+];

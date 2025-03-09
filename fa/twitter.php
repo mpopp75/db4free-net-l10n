@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: twitter
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'توییتر',
-);
-?>
+];

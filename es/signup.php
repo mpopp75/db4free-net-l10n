@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: signup
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Registro',
 
     'mysql-db-name' => 'Nombre de la base de datos MySQL',
@@ -61,5 +62,4 @@ $translations = array(
     'signup-error3' => 'Se ha producido un error al enviar el correo electrónico de confirmación.',
 
     'signup-success' => '¡Gracias por registrarse! Recibirá un correo electrónico para confirmar el registro.',
-);
-?>
+];

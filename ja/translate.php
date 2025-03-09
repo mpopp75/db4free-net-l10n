@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: translate
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'h1' => '翻訳',
 
     'l10ncredits' => '翻訳の協力者様、ありがとうございます。',
@@ -33,7 +34,7 @@ $translations = array(
 
     'p2h' => ' このディレクトリの中にあるファイルを英語から新しい言語に置き換えてください。IDを変えないようにご注意ください。例えばこのような感じに置き換えます:',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
+    'p2i' => "'h1' => 'Welcome to db4free.net',",
 
     'p2j' => 'を翻訳すると次のような感じになります。',
 
@@ -45,5 +46,4 @@ $translations = array(
 
     'p2n' => '
 もしさらにサポートできることがあれば、それを始める前に<a href="https://github.com/mpopp75/db4free-net-l10n/issues">GitHubでチケットを作成してください</a>。',
-);
-?>
+];

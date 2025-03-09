@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: conditions
 Language: Italian
 */
 
-$translations = array(
-    'h1' => 'Condizioni d\'uso',
+$translations = [
+    'h1' => "Condizioni d'uso",
 
     'p1' => 'In nessun caso noi, il team di sviluppo di db4free.net, potremo essere considerati responsabili in qualsiasi misura per danni diretti, indiretti, speciali, incidentali o consequenziali, includendo anche perdita di profitti, derivanti dall\'uso o dalla indisponibilità di questo server, del suo software, dei suoi servizi e della sua documentazione anche se l\'amministratore di questo server viene avvisato della possibilità che si verifichino questi danni.',
 
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'Manteniamo il diritto di modificare queste condizioni senza preavviso.',
 
     'p8' => 'Heidenreichstein, Austria<br>29 Giugno 2014',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Ta bort konto',
 
     'mysql-username' => 'MySQL användarnamn',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Användaren finns inte!',
 
     'error3' => 'Lösenordet är inte korrekt!',
-);
-?>
+];

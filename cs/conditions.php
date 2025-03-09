@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: conditions
 Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Podmínky použití',
 
     'p1' => 'V žádném případě nejsme odpovědni za vzniklé škody, včetně ušlého zisku, vyplývajícího z použití či nedostupnosti tímto hostitelem. Jeho software, služby, nebo jeho dokumentace, i když správce byl upozorněn na možnost vzniku takovýchto škod.',
@@ -23,5 +24,4 @@ $translations = array(
     'p7' => 'Vyhrazujeme si právo na změnu tohoto prohlášení bez předchozího upozornění.',
 
     'p8' => 'Heidenreichstein, Rakousko<br>29. června 2014',
-);
-?>
+];

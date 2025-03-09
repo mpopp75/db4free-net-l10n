@@ -4,7 +4,7 @@ Section: email-change-password
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'email' => 'Gaaffii keetiin jecha, jecha sirrii jijjiiruu barbaadde.
 
 Odeeffannoo haaraa armaan gadiiti:
@@ -22,5 +22,5 @@ Daataa kee waliin hojjachuu akka si gammachiisu abdanna!
 
 Team db4free.net
 https://www.db4free.net',
-);
+];
 ?>

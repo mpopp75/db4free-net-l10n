@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'email-signup' => '{$user}アカウントでdb4free.netのデータベースアカウントに登録していただき、誠にありがとうございます。
 以下にあるリンクをクリックすると、あなたはdb4free.netのMySQL 8.3データベースサーバーにアクセスすることができるようになります。データベースのホスト名はdb4free.net、ポートの3306です。また、私たちのサイト上のphpMyAdminを利用してサーバにログインすることも可能です。
 
@@ -36,5 +37,4 @@ We hope you enjoy working with your database!
 
 db4free.netチーム
 https://www.db4free.net',
-);
-?>
+];

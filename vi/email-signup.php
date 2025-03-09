@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Cám ơn bạn đã đăng ký tài khoản {$user} ở db4free.net.
 
 Sau khi xác nhận bằng đường dẫn bên đưới, bạn có quyền truy cập vào máy chủ cơ sở dữ liệu của db4free.net\'s MySQL 8.3. Tên máy chủ để truy cập là db4free.net và cổng là 3306. Bạn có thể dùng phpMyAdmin trên trang của chúng tôi để truy cập vào.
@@ -35,5 +36,4 @@ Chúng bạn có ngày làm việc vui vẻ cùng cơ sở dữ liệu!
 
 Nhóm db4free.net
 https://www.db4free.net',
-);
-?>
+];

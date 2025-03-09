@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'email' => 'Recebemos sua solicitação de alteração de senha.
 
 Abaixo estão seus novos dados de acesso:
@@ -23,5 +24,4 @@ Esperamos que aproveite o seu banco de dados!
 Atenciosamente,
 Equipe db4free.net
 https://www.db4free.net',
-);
-?>
+];

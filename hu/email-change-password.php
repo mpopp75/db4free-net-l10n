@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'email' => 'Megkaptuk a jelszó változtatási kérelmed.
 
 Az új adatok a következőek:
@@ -23,5 +24,4 @@ Reméljük élvezed a munkát az adatbázisoddal!
 
 A db4free.net csapata
 https://www.db4free.net',
-);
-?>
+];

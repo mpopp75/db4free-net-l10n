@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Dutch
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL Database gratis',
@@ -48,5 +49,4 @@ $translations = array(
     'login' => 'Inloggen',
 
     'switch_language' => 'Verander taal',
-);
-?>
+];

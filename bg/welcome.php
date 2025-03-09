@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: welcome
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Добре дошли в db4free.net',
 
     'p1a' => 'db4free.net предоставя услуга за тестване на най-последната - понякога даже в процес на разработка - версия на <a href="https://www.mysql.com/">MySQL Сървър</a>. Лесно можете да си <a href="/signup.php">създадете безплатен акаунт</a> и да тествате своите приложения, например за да сте сигурни, че все още ще работят след обновление на версията на Вашия MySQL. db4free.net е също добра възможност за обучение и запознанство с новите възможности въведени в новите версии.',
@@ -28,5 +29,4 @@ $translations = array(
     'p4b' => 'Най-добрият начин да научите повече за MySQL е <a href="https://dev.mysql.com/">Зоната за MySQL разработчици</a>, също <a href="https://dev.mysql.com/doc/refman/8.0/en/">Ръководство за MySQL</a> и <a href="https://planet.mysql.com/">PlanetMySQL</a>. Уеб сайта на MySQL предлага набор от <a href="https://dev.mysql.com/tech-resources/articles/">Статии за разработчици</a>, много от които обясняват в дълбоки подробности нови възможности внедрявани в идващите версии.',
 
     'p4c' => 'Ако немерите грешка в работата на MySQL сървъра, моля съобщете в <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
-);
-?>
+];

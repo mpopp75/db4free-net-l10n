@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'உங்கள் தரவுத்தள கணக்கை db4free.net உடன் பதிவு செய்ததற்கு நன்றி {$user}.
 
     கீழேயுள்ள இணைப்பை உறுதிசெய்த பிறகு, உங்களுக்கு db4free.net இன் MySQL 8.3 தரவுத்தள சேவையகத்திற்கான அணுகல் உள்ளது. சேவையகத்தை அணுக ஹோஸ்ட் பெயர் db4free.net மற்றும் போர்ட் 3306 ஆகும். சேவையகத்தில் உள்நுழைய எங்கள் வலைத்தளத்தில் phpMyAdmin ஐப் பயன்படுத்தலாம்.
@@ -35,5 +36,4 @@ Db4free.net இணையதளத்தில் தரவுத்தள கண
 
 Db4free.net குழு
 https://www.db4free.net',
-);
-?>
+];

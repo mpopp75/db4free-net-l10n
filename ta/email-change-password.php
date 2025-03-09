@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'email' => 'உங்கள் கடவுச்சொல்லை மாற்றுவதற்கான உங்கள் கோரிக்கையை நாங்கள் பெற்றுள்ளோம்.
 
     புதிய தரவு பின்வருமாறு :
@@ -23,5 +24,4 @@ Db4free.net இணையதளத்தில் உங்கள் தரவு
 
 Db4free.net குழு
 https://www.db4free.net',
-);
-?>
+];

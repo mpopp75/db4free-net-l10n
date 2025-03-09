@@ -4,7 +4,7 @@ Section: system-messages
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'database' => 'Daataa',
 
     'username' => 'Maqaa fayyadamaa',
@@ -54,5 +54,4 @@ $translations = array(
     'subject-delete-account' => 'Akaawuntii db4free.net keessan haquu',
 
     'subject-change-password' => 'Jecha darbii db4free.net keessan haaraa',
-);
-?>
+];

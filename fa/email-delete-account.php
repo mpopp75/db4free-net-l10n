@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'email' => 'ما درخواست شما برای حذف حساب کاربری db4free.net "{$user}" را دریافت کرده‌ایم.
 
 لطفاً با کلیک بر روی پیوند زیر حذف را تأیید کنید. لطفاً به آگاه باشید که تمامی داده‌های شما در این پایگاه داده به طور غیرقابل برگشت حذف می‌شود!
@@ -17,5 +18,4 @@ $translations = array(
 
 تیم db4free.net
 https://www.db4free.net',
-);
-?>
+];

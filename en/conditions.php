@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: conditions
 Language: English
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Conditions of use',
 
     'p1' => 'In no event shall we, the db4free.net team, be liable to any party for direct, indirect, special, incidental, or consequential damages, including lost profits, arising out of the use of or the unavailability of this host, its software, its services or its documentation even if the administrator has been advised of the possibility of such damage.',
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'We retain the right to modify this statement without notice.',
 
     'p8' => 'Heidenreichstein, Austria<br>29 June 2014',
-);
-?>
+];

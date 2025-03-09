@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'email' => 'Du har begärt ett nytt lösenord för ditt konto "{$user}"
 
 Ditt nya lösenord är: {$newData}
@@ -19,5 +20,4 @@ Vi hoppas du gillade att arbeta med din databas!
 
 db4free.net laget
 https://www.db4free.net',
-);
-?>
+];

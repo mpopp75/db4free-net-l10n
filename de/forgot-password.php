@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: German
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Password vergessen?',
 
     'username' => 'Benutzername',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Die eingegebenen Daten sind nicht korrekt!',
 
     'success' => 'Sie haben eine Email mit Ihrem neuen Passwort erhalten!',
-);
-?>
+];

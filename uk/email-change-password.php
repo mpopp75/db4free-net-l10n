@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Ukrainian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Ми отримали ваш запит на зміну пароля.
 
 Нові данні для авторизації:
@@ -18,5 +19,4 @@ $translations = array(
 
 Команда db4free.net
 https://www.db4free.net',
-);
-?>
+];

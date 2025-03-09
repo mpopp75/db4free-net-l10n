@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'email' => 'Şifre değiştirme talebinizi aldık.
 
 Yeni verileriniz şu şekildedir:
@@ -21,5 +22,4 @@ Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
 https://www.db4free.net',
-);
-?>
+];

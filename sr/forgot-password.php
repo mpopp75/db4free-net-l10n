@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Zaboravili ste šifru?',
 
     'username' => 'Korisničko ime',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Podaci koje ste uneli nisu korektni!',
 
     'success' => 'Dobili ste email sa vašom novom šifrom!',
-);
-?>
+];

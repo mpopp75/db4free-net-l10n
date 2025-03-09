@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Cadastre-se',
 
     'mysql-db-name' => 'Nome do banco de dados MySQL',
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error3' => 'Erro ao enviar o e-mail de confirmação!',
 
     'signup-success' => 'Obrigado por se cadastrar! Você receberá um e-mail para confirmação de seu cadastro.',
-);
-?>
+];

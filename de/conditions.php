@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: conditions
 Language: German
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Nutzungsbestimmungen',
 
     'p1' => 'Wir, das db4free.net-Team, sind in keinster Weise haftbar für direkten oder indirekten Schaden, welcher Art auch immer, einschließlich entgangenem Gewinn, welcher durch die Benutzung von db4free.net, dessen Software, Leistungen oder Dokumentationen entsteht, selbst wenn der Administrator über die Möglichkeit eines eventuellen Schadens informiert wurde.',
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'Wir behalten uns das Recht vor, diese Nutzungsbestimmungen ohne Ankündigung zu ändern.',
 
     'p8' => 'Heidenreichstein, Österreich<br>29. Juni 2014',
-);
-?>
+];

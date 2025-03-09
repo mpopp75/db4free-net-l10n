@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Ați cerut o nouă parolă pentru contul "{$user}"
 
 Noua parolă este {$newData}
@@ -19,5 +20,4 @@ Sperăm că vă place să lucrați cu baza dvs. de date!
 
 Echipa db4free.net
 https://www.db4free.net',
-);
-?>
+];

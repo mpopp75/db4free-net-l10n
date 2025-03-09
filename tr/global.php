@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'Ücretsiz MySQL Veritabanı',
@@ -48,5 +49,4 @@ $translations = array(
     'login' => 'Giriş',
 
     'switch_language' => 'Dili Değiştir',
-);
-?>
+];

@@ -4,7 +4,7 @@ Section: email-signup
 Language: Afaan Oromo
 */
 
-$translations = array(
+$translations = [
     'email-signup' => "Akkam jirtuu {$user}, galmee keessan db4free.net irratti galmeessitan. Galatoomaa!
 
 Liinkii gadii mirkaneessuudhaan, tajaajila MySQL 8.3 db4free.net fayyadamuu dandeessu.  
@@ -39,5 +39,5 @@ Database keessan fayyadamuun gammachuu isiniif haa ta’u!
 
 Garee db4free.net  
 https://www.db4free.net"
-);
+];
 ?>

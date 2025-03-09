@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: donations
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'h1' => 'நன்கொடைகள்',
 
     'p1' => '<b>நீங்கள் நன்கொடை அளிப்பதன் மூலம் சிறந்த வன்பொருளில் முதலீடு செய்யவும் இன்னும் சிறந்த சேவையை வழங்கவும் எங்களுக்கு உதவலாம்.</b>',
@@ -12,5 +13,4 @@ $translations = array(
     'amount' => 'தொகை',
 
     'currency' => 'செலாவணி',
-);
-?>
+];

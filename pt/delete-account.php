@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Apagar conta',
 
     'mysql-username' => 'Nome de usuário MySQL',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Esse usuário não existe!',
 
     'error3' => 'A senha está incorreta!',
-);
-?>
+];

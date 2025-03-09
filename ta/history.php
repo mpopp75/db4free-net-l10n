@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'h1' => 'முந்தைய பதிவுகள்',
-);
-?>
+];

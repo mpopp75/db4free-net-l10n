@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'email' => 'Vi har tagit emot din begäran om att ta bort ditt konto på db4free.net account "{$user}".
 
 Bekräfta borttagningen genom att klicka på följande länk. Tänk på att alla din data i denna databas försvinner för evigt!
@@ -16,5 +17,4 @@ Vi hoppas du gillade att arbeta med din databas!
 
 db4free.net laget
 https://www.db4free.net',
-);
-?>
+];

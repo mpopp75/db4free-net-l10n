@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: translate
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Çeviriler',
 
     'l10ncredits' => 'Çevirmenlere çok teşekkürler',
@@ -33,7 +34,7 @@ $translations = array(
 
     'p2h' => 'Bu klasör içindeki dosyalarda, İngilizce metinleri kendi dilinizle değiştirin. Lütfen ID leri değiştirmemeye dikkat edin. Örneğin:',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\'',
+    'p2i' => "'h1' => 'Welcome to db4free.net'",
 
     'p2j' => 'böyle değiştirin',
 
@@ -44,5 +45,4 @@ $translations = array(
     'p2m' => 'Çeviri bittiğinde kaynağı gitHub deponuza aktarınız. Yeni branşa geçininiz ve  "New Pull Request" a tıklayınız. Değiştirdikleriniz, karşılaştığınız zorluklar ve tamamlamadığınız kısımlar hakkında kısa bir açıklama giriniz. Ve isteği gönderiniz.',
 
     'p2n' => 'Katkıda bulunmak istiyor ve daha fazla yardıma ihtiyacınız var, lütfen göz atın: <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Open a Ticket at GitHub</a>.',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'email' => 'Recebemos sua solicitação para deletar sua conta no db4free.net "{$user}".
 
 Clique no link a seguir para confirmar a exclusão. Todos os seus dados neste banco de dados serão deletados permanentemente!
@@ -17,5 +18,4 @@ Esperados que seu trabalho tenha sido proveitoso com nosso banco de dados.
 
 Equipe db4free.net
 https://www.db4free.net',
-);
-?>
+];

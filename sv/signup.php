@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Registrera',
 
     'mysql-db-name' => 'MySQL databas namn',
@@ -17,7 +18,7 @@ $translations = array(
 
     'email-address' => 'E-post',
 
-	'agree-conditions' => 'I have read the <a href="conditions.php">conditions of use</a> and I agree with them.',
+    'agree-conditions' => 'I have read the <a href="conditions.php">conditions of use</a> and I agree with them.',
 
     'ph1' => '6-16 tecken, ej versaler, måste börja med bokstav',
 
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error3' => 'Problem att skicka e-postbekräftelse!',
 
     'signup-success' => 'Tack för din anmälan! Du kommer att få ett mail för att bekräfta registreringen.',
-);
-?>
+];

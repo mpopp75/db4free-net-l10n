@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Dobili smo zahtev za brisanje vašeg db4free.net profila "{$user}".
 
 
@@ -18,5 +19,4 @@ Nadamo se da uživate u radu sa vašom bazom podataka!
 
 db4free.net tim
 https://www.db4free.net',
-);
-?>
+];

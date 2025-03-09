@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: English
 */
 
-$translations = array(
+$translations = [
     'email' => 'We have received your request to delete your db4free.net account "{$user}".
 
 Please confirm the deletion by clicking the following link. Please be aware that all of your data in this database is irrevocably deleted!
@@ -17,5 +18,4 @@ We hope you enjoyed working with your database!
 
 The db4free.net team
 https://www.db4free.net',
-);
-?>
+];

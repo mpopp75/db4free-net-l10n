@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: conditions
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Uslovi korišćenja',
 
     'p1' => 'Ni u kom slučaju db4free.net tim, nije odgovoran za direktne, indirektne, posebne, slučajne ili posledične štete, uključujući izgubljen profit, koji proizilazi od upotrebe ili nedostupnosti ovog hosta, programa, servisa ili dokumentacije čak i ako je administrator savetovan o mogućnosti takve štete.',
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'Zadržavamo pravo da promenimo ovu izjavu bez najave.',
 
     'p8' => 'Heidenreichstein, Austria<br>29. Jun 2014.',
-);
-?>
+];

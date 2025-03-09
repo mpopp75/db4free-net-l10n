@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: إنشاء حساب
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'email-signup' => '
 شكراً لإنشاءك حساب قاعدة البيانات {$user} على موقع db4free.net.
 بعد تأكيدك للرابط التالي فإنك ستتمكن من الوصول لمخدم قاعدة البيانات db4free.net\'s MySQL 8.3.
@@ -37,6 +38,4 @@ $translations = array(
 
 The db4free.net فريق
 https://www.db4free.net',
-);
-?>
-
+];

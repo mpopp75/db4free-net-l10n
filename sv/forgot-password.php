@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Glömt ditt lösenord?',
 
     'username' => 'Användarnamn',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Informationen som du angav är inte korrekt!',
 
     'success' => 'Du har fått ett mejl med ditt nya lösenord!',
-);
-?>
+];

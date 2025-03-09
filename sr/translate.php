@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: translate
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Prevodi',
 
     'l10ncredits' => 'Mnogo zahvalnosti prevodicima',
@@ -33,16 +34,15 @@ $translations = array(
 
     'p2h' => 'U fajlovima unutar foldera, zamenite Engleske tekstove sa tekstovima na vašem jeziku. Molimo vas, budite pažljivi da ne zamenite ID. Na primer zamenite: ',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
+    'p2i' => "'h1' => 'Welcome to db4free.net',",
 
     'p2j' => 'by',
 
-    'p2k' => '\'h1\' => \'Bienvenido a db4free.net\',',
+    'p2k' => "'h1' => 'Bienvenido a db4free.net',",
 
     'p2l' => 'Ako je tekst isti na Engleskom i na jeziku na koji vi prevodite, možete obrisati liniju ili je ostaviti.',
 
     'p2m' => 'Kada je vaš prevod završen, izvršite commit i push na vaš GitHub repozitorijum. Prebacite na vašu novu granu na GitHub-u i kliknite "New Pull Request". Unesite kratak opis vašeg prevoda, bilo kakve probleme sa kojima se susretnete ili što niste uspeli da završite i pošaljite Pull Request.',
 
     'p2n' => 'Ako želite da doprinesete ali vam treba pomoć pre nego što počnete, molimo vas <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Otvorite ticket na GitHub-u</a>.',
-);
-?>
+];

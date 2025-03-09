@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'Безплатна MySQL база данни',
@@ -48,5 +49,4 @@ $translations = array(
     'login' => 'Вход',
 
     'switch_language' => 'Смяна на език',
-);
-?>
+];

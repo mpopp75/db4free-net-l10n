@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Ubah kata sandi',
 
     'mysql-username' => 'Nama pengguna MySQL',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Masukkan kata sandi baru',
 
     'ph4' => 'Masukkan kata sandi baru (lagi)',
-);
-?>
+];

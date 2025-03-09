@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Ukrainian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Реєстрація',
 
     'mysql-db-name' => 'Ім\'я бази даних MySQL',
@@ -63,5 +64,4 @@ $translations = array(
     'signup-error3' => 'Помилка відправлення підтверджуючого E-mail!',
 
     'signup-success' => 'Дякуємо за реєстрацію! Вам відправлено лист для підтвердження вашої E-mail адреси.',
-);
-?>
+];

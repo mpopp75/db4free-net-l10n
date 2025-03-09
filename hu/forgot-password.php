@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Elfelejtetted a jelszavad?',
 
     'username' => 'Felhasználónév',
@@ -17,5 +18,4 @@ $translations = array(
     'error1' => 'A beírt adatok nem megfelelőek!',
 
     'success' => 'Kapni fogsz egy emailt az új jelszavaddal!',
-);
-?>
+];

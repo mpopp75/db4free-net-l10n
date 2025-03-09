@@ -4,7 +4,7 @@ Section: imprint
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Imprint',
 
     'p1' => '&copy; 2005-%d kan',
@@ -22,5 +22,5 @@ $translations = array(
     'p5' => 'Qopheessaan marsariitii kanaa odeeffannoo kennamuuf yeroo, sirrii, guutuu ykn qulqullina isaa irratti itti gaafatamummaa hin fudhatu. Itti gaafatamummaan miidhaa kan ka\'e odeeffannoo kennamu kamiyyuu fayyadamuun, odeeffannoo kamiyyuu kan hin guutamne ykn sirrii hin taane dabalatee, ni haalamti.',
 
     'p6' => 'Qopheessaan marsariitii kanaa qabiyyee kamiyyuu kan marsariitii kana irraa walqabatee ykn eerameef itti gaafatamummaa hin qabu.',
-);
+];
 ?>

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: welcome
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Bienvenido a db4free.net',
 
     'p1a' => 'db4free.net ofrece un servicio de pruebas para la última versión - a veces en desarrollo - de un <a href="https://www.mysql.com/">servidor MySQL</a>. Usted puede fácilmente <a href="/signup.php">crear una cuenta gratis</a> y probar sus aplicaciones, por ejemplo, para asegurarse de que siguen funcionando después de una actualización de la versión de MySQL. db4free.net es también un buen recurso educacional para familiarizarse con las nuevas características de las versiones mas recientes.',
@@ -29,5 +30,4 @@ $translations = array(
     'p4b' => 'Los mejores recursos para aprender más acerca de MySQL son la <a href="https://dev.mysql.com/">Zona de Desarrolladores de MySQL (en inglés)</a>, el <a href="https://dev.mysql.com/doc/refman/8.0/en/">Manual de Referencia de MySQL (en inglés)</a> y en <a href="http://es.planet.mysql.com/">PlanetMySQL</a>. El sitio web de MySQL ofrece una serie de <a href="https://dev.mysql.com/tech-resources/articles/">artículos para desarrolladores</a>, muchos de los cuales explican las nuevas características que se están introduciendo en las versiones recientes, detalladas de manera excelente.',
 
     'p4c' => 'Si usted encuentra un error en el servidor MySQL, por favor repórtelo en el <a href="https://bugs.mysql.com/">sistema de seguimiento de fallos de MySQL</a>.',
-);
-?>
+];

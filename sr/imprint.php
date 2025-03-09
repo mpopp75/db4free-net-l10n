@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: imprint
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Otisak',
 
     'p1' => '&copy; 2005-%d by',
@@ -22,5 +23,4 @@ $translations = array(
     'p5' => 'Autor ovog sajta zadržava pravo da ne bude odgovoran za aktuelnost, ispravnost, potpunost ili kvalitet pruženih informacija. Potraživanja u vezi štete izazvane korišćenjem pruženih informacija, uključujući i bilo kakvu informaciju koja je nepotpuna ili netačna, biće odbijena.',
 
     'p6' => 'Autor ovog sajta nije odgovoran za sadržaj povezanih ili preporučenih stranica.',
-);
-?>
+];

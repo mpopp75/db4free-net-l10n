@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'V-ați uitat parola?',
 
     'username' => 'Nume utilizator',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Acreditările introduse sunt incorecte!',
 
     'success' => 'Ați primit un email cu noua dvs. parolă!',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: imprint
 Language: Dutch
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Afdruk',
 
     'p1' => '&copy; 2005-%d door',
@@ -22,5 +23,4 @@ $translations = array(
     'p5' => 'De auteur van deze website behoudt zich het recht voor niet verantwoordelijk te zijn voor de actualiteit, juistheid, volledigheid of kwaliteit van de verstrekte informatie. Aansprakelijkheidsclaims met betrekking tot schade veroorzaakt door het gebruik van enige informatie, inclusief enige vorm van informatie die onvolledig of onjuist is, worden daarom afgewezen.',
 
     'p6' => 'De auteur van deze website is niet verantwoordelijk voor de inhoud waarnaar wordt verwezen vanaf deze site.',
-);
-?>
+];

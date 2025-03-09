@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: English
 */
 
-$translations = array(
+$translations = [
     'email' => 'You have requested a new password for your account "{$user}"
 
 Your new password is {$newData}
@@ -19,5 +20,4 @@ We hope you enjoy working with your database!
 
 The db4free.net team
 https://www.db4free.net',
-);
-?>
+];

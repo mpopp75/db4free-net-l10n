@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'ثبت‌ نام',
 
     'mysql-db-name' => 'نام پایگاه داده MySQL',
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error2' => 'خطا در ثبت اطلاعات برای پایگاه داده MySQL شما!',
 
     'signup-error3' => 'خطا در ارسال ایمیل تأیید!',
-);
-?>
+];

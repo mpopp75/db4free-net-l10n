@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: تغيير كلمة المرور
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'h1' => 'تغيير كلمة المرور',
 
     'mysql-username' => 'MySQL اسم مستخدم',
@@ -22,6 +23,4 @@ $translations = array(
     'ph3' => 'أدخل كلمة المرور الجديدة',
 
     'ph4' => 'أدخل كلمة المرور الجديدة (مرة أخرى)',
-);
-?>
-
+];

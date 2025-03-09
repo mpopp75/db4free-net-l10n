@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: signup
 Language: Simplified Chinese 简体中文
 Translator: Luo Haojing
 */
 
-$translations = array(
+$translations = [
     'h1' => '注册',
 
     'mysql-db-name' => 'MySQL 数据库名称',
@@ -61,5 +62,4 @@ $translations = array(
     'signup-error3' => '发送验证邮件时发生错误！',
 
     'signup-success' => '感谢您的注册，您将收到账号确认邮件！',
-);
-?>
+];

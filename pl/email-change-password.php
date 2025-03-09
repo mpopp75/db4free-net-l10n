@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Polish
 */
 
-$translations = array(
+$translations = [
     'email' => 'Otrzymaliśmy Twoją prośbę o zmianę hasła.
 
 Nowe dane dostępowe przedstawiają się następująco:
@@ -22,5 +23,4 @@ Jeśli to nie Ty prosiłeś o zmianę hasła do swojego konta bazodanowego na st
 
 Ekipa db4free.net
 https://www.db4free.net',
-);
-?>
+];

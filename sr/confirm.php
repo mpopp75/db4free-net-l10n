@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: confirm
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Potvrda',
-);
-?>
+];

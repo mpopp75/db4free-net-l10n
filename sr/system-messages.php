@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'database' => 'Baza podataka',
 
     'username' => 'Korisničko ime',
@@ -54,5 +55,4 @@ $translations = array(
     'subject-delete-account' => 'Obrišite vaš db4free.net profil',
 
     'subject-change-password' => 'Nova db4free.net šifra',
-);
-?>
+];

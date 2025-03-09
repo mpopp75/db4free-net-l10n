@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'email' => 'Bạn đã yêu cần mật khẩu mới cho tài khoản "{$user}"
 
 Mật khẩu mới của bạn là {$newData}
@@ -19,5 +20,4 @@ Chúng bạn có ngày làm việc vui vẻ cùng cơ sở dữ liệu!
 
 Nhóm db4free.net
 https://www.db4free.net',
-);
-?>
+];

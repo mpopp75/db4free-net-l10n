@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: change-password
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'h1' => 'पासवर्ड बदलें',
 
     'mysql-username' => 'MySQL यूज़रनेम',
@@ -23,5 +24,4 @@ $translations = array(
     'ph3' => 'अपना नया पासवर्ड दर्ज करें',
 
     'ph4' => 'अपना नया पासवर्ड (फिर से) दर्ज करें',
-);
-?>
+];

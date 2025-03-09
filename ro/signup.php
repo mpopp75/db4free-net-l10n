@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Înregistrare',
 
     'mysql-db-name' => 'Nume bază de date MySQL',
@@ -28,8 +29,6 @@ $translations = array(
     'explanation' => 'Numele de utilizator și al bazei de date poate conține numai minuscule, numere și sublinieri și trebuie să aibă între 6 și 16 caractere. Nu folosiți <a href="https://dev.mysql.com/doc/refman/8.0/en/keywords.html">cuvinte-cheie rezervate</a>!',
 
     'maintenance-notice' => 'Datorită întreținerii bazei de date, înregistrarea este indisponibilă momentan.',
-
-    'agm-p1' => 'By registering for a db4free.net account you agree that:',
     'agm-p1' => 'Înregistrându-vă pe db4free.net, sunteți de acord cu următoarele:',
 
     'agm-li1' => 'db4free.net este un mediu de testare;',
@@ -61,5 +60,4 @@ $translations = array(
     'signup-error3' => 'A survenit o eroare la trimiterea email-ului de confirmare!',
 
     'signup-success' => 'Mulțumim pentru înregistrare! Veți primi un email pentru confirmarea înregistrării.',
-);
-?>
+];

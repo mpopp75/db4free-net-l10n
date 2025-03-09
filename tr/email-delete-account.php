@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'email' => 'db4free.net hesabınızı silme talebinizi aldık "{$user}".
 
 Lütfen aşağıdaki linke tıklayarak bu talebinizi doğrulayınız. Hesabınızı sildiğiniz takdirde bu veritabanındaki tüm veriler kalıcı olarak silinecektir!
@@ -17,5 +18,4 @@ Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
 https://www.db4free.net',
-);
-?>
+];

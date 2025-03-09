@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: German
 */
 
-$translations = array(
+$translations = [
     'database' => 'Datenbank',
 
     'username' => 'Benutzername',
@@ -52,5 +53,4 @@ $translations = array(
     'subject-delete-account' => 'Löschung Ihres db4free.net Accounts',
 
     'subject-change-password' => 'Ihr neues db4free.net Passwort',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Благодарим Ви за регистрацията на Вашият акаунт {$user} за база данни от db4free.net.
 
 След потвържение, чрез щракане въху връзката по-долу, ще имате достъп до сървърът със MySQL 8.3 на db4free.net. Името на хоста за достъп до сървъра е db4free.net, а порта е 3306. Можете да използвате phpMyAdmin на нашата уеб страница за да се свържете и влезете в сървъра.
@@ -35,5 +36,4 @@ $translations = array(
 
 Екипът на db4free.net
 https://www.db4free.net',
-);
-?>
+];

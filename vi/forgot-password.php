@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Quên mật khẩu?',
 
     'username' => 'Tên người dùng',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Dữ liệu bạn nhập không chính xác!',
 
     'success' => 'Bạn đã nhận được thư với mật khẩu mới!',
-);
-?>
+];

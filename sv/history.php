@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Ändringslogg',
-);
-?>
+];

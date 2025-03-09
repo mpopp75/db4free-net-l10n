@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: conditions
 Language: Dutch
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Gebruiksvoorwaarden',
 
     'p1' => 'In geen geval zijn wij, het db4free.net-team, aansprakelijk voor directe, indirecte, bijzondere, incidentele of gevolgschade, inclusief verloren winst, voortvloeiend uit het gebruik van of de onbeschikbaarheid van deze host, de software, de diensten of de documentatie, zelfs als de beheerder op de hoogte is gesteld van de mogelijkheid van dergelijke schade.',
@@ -17,10 +18,9 @@ $translations = array(
 
     'p5' => 'Wij raden u af om een db4free.net-database te gebruiken voor kritieke gegevens en voor een kritiek doel! Hoewel wij - de mensen achter dit project - gerelateerd zijn aan elkaar via een bedrijf, is dit nog steeds een privé en niet-commercieel project. Wij wijzen elke garantie en aansprakelijkheid af!',
 
-    'p6' => 'Het db4free.net-team neemt geen enkele aansprakelijkheid voor de inhoud van gelinkte webpagina\'s.',
+    'p6' => "Het db4free.net-team neemt geen enkele aansprakelijkheid voor de inhoud van gelinkte webpagina's.",
 
     'p7' => 'Wij behouden ons het recht voor om deze verklaring zonder kennisgeving te wijzigen.',
 
     'p8' => 'Heidenreichstein, Oostenrijk<br>29 juni 2014',
-);
-?>
+];

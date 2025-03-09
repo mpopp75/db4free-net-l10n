@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Вие поискахте нова парола за Вашия акаунт с потребителско име "{$user}"
 
 Новата Ви парола е {$newData}
@@ -19,5 +20,4 @@ $translations = array(
 
 Екипът на db4free.net
 https://www.db4free.net',
-);
-?>
+];

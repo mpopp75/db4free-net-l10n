@@ -1,11 +1,10 @@
 <?php
+
 /*
 Section: تأكيد
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'h1' => 'تأكيد',
-);
-?>
-
+];

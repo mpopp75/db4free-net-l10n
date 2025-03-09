@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'database' => 'Veritabanı',
 
     'username' => 'Kullanıcı Adı',
@@ -54,5 +55,4 @@ $translations = array(
     'subject-delete-account' => 'db4free.net hesabınızın silinmesi',
 
     'subject-change-password' => 'Yeni db4free.net şifreniz',
-);
-?>
+];

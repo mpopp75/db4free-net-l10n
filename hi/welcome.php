@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: welcome
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Db4free.net में आपका स्वागत है',
 
     'p1a' => 'db4free.net नवीनतम के लिए एक परीक्षण सेवा प्रदान करता है - कभी-कभी विकास भी - <a href="https://www.mysql.com/"> MySQL सर्वर </a> का संस्करण। आप आसानी से <a href="/signup.php"> मुफ्त में एक खाता बना सकते हैं </a> और अपने अनुप्रयोगों का परीक्षण कर सकते हैं, उदाहरण के लिए यह सुनिश्चित करने के लिए कि वे अभी भी एक MySQL संस्करण अद्यतन के बाद काम करते हैं। db4free.net भी शिक्षा के लिए और नए संस्करणों में पेश की गई नई सुविधाओं से खुद को परिचित करने के लिए एक अच्छा संसाधन है।',
@@ -29,5 +30,4 @@ $translations = array(
     'p4b' => 'MySQL के बारे में अधिक जानने के लिए सर्वोत्तम संसाधन <a href="https://dev.mysql.com/"> MySQL डेवलपर ज़ोन </a>, <a href = "https://dev.mysql.com/doc/refman/8.0/en/">MySQL संदर्भ मैनुअल </a> और <a href="https://planet.mysql.com/"> PlanetMySQL </a>। MySQL वेबसाइट <a href="https://dev.mysql.com/tech-resources/articles/"> डेवलपर लेख </a> के कई नंबर प्रदान करती है, जिनमें से कई नए फीचर्स बताते हैं जो आगामी संस्करणों में पेश किए जा रहे हैं उत्कृष्ट विवरण।',
 
     'p4c' => 'यदि आपको MySQL सर्वर में एक बग मिलता है, तो कृपया इसे <a href="https://bugs.mysql.com/"> MySQL बग ट्रैकिंग सिस्टम </a> में रिपोर्ट करें।',
-);
-?>
+];

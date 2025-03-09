@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Регистрация',
 
     'mysql-db-name' => 'Име на MySQL база данни',
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error3' => 'Грешка при изпращане на писмо за потвърждение по електронната поща!',
 
     'signup-success' => 'Благодарим за Вашата регистрация! Ще получите писмо по електронната поща за потвърждение на регистрацията.',
-);
-?>
+];

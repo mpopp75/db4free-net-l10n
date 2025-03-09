@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'email' => 'あなたは「{$user}」アカウントに対してパスワード変更を要求しました。
 新しいパスワードは次の通りです: {$newData}
 
@@ -19,5 +20,4 @@ We hope you enjoy working with your database!
 
 db4free.netチーム
 https://www.db4free.net',
-);
-?>
+];

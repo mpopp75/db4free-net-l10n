@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: confirm
 Language: Italian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Conferma',
-);
-?>
+];

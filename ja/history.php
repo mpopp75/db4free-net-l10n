@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'h1' => '変更履歴',
-);
-?>
+];

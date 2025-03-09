@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Obriši profil',
 
     'mysql-username' => 'MySQL korisničko ime',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Korisnik ne postoji!',
 
     'error3' => 'Šifra je pogrešna!',
-);
-?>
+];

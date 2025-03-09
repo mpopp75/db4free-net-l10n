@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: translate
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Traduceri',
 
     'l10ncredits' => 'Multe mulțumiri celor care au contribuit la traduceri',
@@ -33,17 +34,14 @@ $translations = array(
 
     'p2h' => 'În fișierele din acest dosar, înlocuiți textul în engleză cu textul în noua limbă. Vă rugăm aveți grijă să nu schimbați și ID-ul. De exemplu, înlocuiți:',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
+    'p2i' => "'h1' => 'Welcome to db4free.net',",
 
     'p2j' => 'cu',
 
-    'p2k' => '\'h1\' => \'Bienvenido a db4free.net\',',
+    'p2k' => "'h1' => 'Bienvenido a db4free.net',",
 
     'p2l' => 'Dacă un text este în engleză la fel ca în limba în care traduceți, puteți șterge linia sau s-o lăsați așa.',
 
     'p2m' => 'Când ați terminat de tradus, faceți "commit" si "push" în depozitul dvs. GitHub. Comutați pe noul "branch" și apăsați pe "New Pull Request". Introduceți o scurtă descriere expunând ce ați tradus, ce dificultăți ați întâmpinat sau ce nu ați reușit să terminați etc. și trimiteți "pull request".',
-
-    'p2n' => 'If you like to contribute but you need further assistance before you can get started, please <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Open a Ticket at GitHub</a>.',
     'p2n' => 'Dacă doriți să contribuiți dar aveți nevoie de asistență ulterioară înainte de a începe, vă rugăm <a href="https://github.com/mpopp75/db4free-net-l10n/issues">deschideți un bilet de suport pe GitHub</a>.',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'アカウントを削除する',
 
     'mysql-username' => 'MySQLユーザー名',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'そのようなユーザーは存在しません!',
 
     'error3' => 'パスワードが一致しません!',
-);
-?>
+];

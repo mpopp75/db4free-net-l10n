@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Смяна на парола',
 
     'mysql-username' => 'MySQL потребителско име',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Въведете нова парола',
 
     'ph4' => 'Въведете нова парола (отново)',
-);
-?>
+];

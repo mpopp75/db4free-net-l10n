@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL தரவுத்தளம் முற்றிலும் இலவசமாக',
@@ -49,5 +50,4 @@ $translations = array(
     'login' => 'உள் நுழைய',
 
     'switch_language' => 'மொழியை மாற்ற',
-);
-?>
+];

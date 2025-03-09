@@ -1,9 +1,10 @@
 <?php
+
 /*
 Section: delete-account
 Language: Ukrainian*/
 
-$translations = array(
+$translations = [
     'h1' => 'Видалення аккаунту',
 
     'mysql-username' => 'Ім\'я користувача MySQL',
@@ -19,5 +20,4 @@ $translations = array(
     'error2' => 'Вказаний вами користувач не існує!',
 
     'error3' => 'Вказаний вами пароль невірний!',
-);
-?>
+];

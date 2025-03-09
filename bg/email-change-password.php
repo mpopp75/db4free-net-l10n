@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Получихме Вашето искане за смяна на парола.
 
 Новите данни за влизане в системата следват:
@@ -22,5 +23,4 @@ $translations = array(
 
 Екипът на db4free.net
 https://www.db4free.net',
-);
-?>
+];

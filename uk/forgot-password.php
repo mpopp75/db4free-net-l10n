@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Ukrainian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Забули пароль?',
 
     'username' => 'Ім\'я користувача',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Введені вами дані невірні!',
 
     'success' => 'Новий пароль відправлено на ваш E-mail!',
-);
-?>
+];

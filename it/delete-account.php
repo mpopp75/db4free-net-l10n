@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Italian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Cancella Account',
 
     'mysql-username' => 'Nome Utente MySQL',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Il nome utente non esiste!',
 
     'error3' => 'La password non è corretta!',
-);
-?>
+];

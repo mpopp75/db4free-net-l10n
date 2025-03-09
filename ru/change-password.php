@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Russian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Изменение пароля',
 
     'mysql-username' => 'Имя пользователя MySQL',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Введите новый пароль',
 
     'ph4' => 'Введите новый пароль (повторно)',
-);
-?>
+];

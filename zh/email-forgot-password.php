@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Simplified Chinese 简体中文
 Translator: Luo Haojing
 */
 
-$translations = array(
+$translations = [
     'email' => '我们已经收到你的重设密码请求，db4free.net账号： "{$user}"
 
 你的新密码是：{$newData}
@@ -20,5 +21,4 @@ $translations = array(
 
 The db4free.net team
 https://www.db4free.net',
-);
-?>
+];

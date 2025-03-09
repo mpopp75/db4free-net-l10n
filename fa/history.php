@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'سیاق‌نگاری تغییرات',
-);
-?>
+];

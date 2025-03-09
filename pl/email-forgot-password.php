@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Polish
 */
 
-$translations = array(
+$translations = [
     'email' => 'Otrzymaliśmy Twoją prośbę o nowe hasło do Twojego konta "{$user}"
 
 Twoje nowe hasło to {$newData}
@@ -19,5 +20,4 @@ Jeśli to nie Ty prosiłeś o utworzenie nowego hasła do swojego konta bazodano
 
 Ekipa db4free.net
 https://www.db4free.net',
-);
-?>
+];

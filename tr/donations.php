@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: donations
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Bağış',
 
     'p1' => '<b>Bağış yaparak daha iyi donanımla daha iyi hizmet vermemize yardım edebilirsiniz.</b>',
@@ -12,5 +13,4 @@ $translations = array(
     'amount' => 'Miktar',
 
     'currency' => 'Para birimi',
-);
-?>
+];

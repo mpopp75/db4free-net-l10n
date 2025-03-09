@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'email' => 'हमें आपका db4free.net अकाउंट डिलीट का आपका अनुरोध प्राप्त हुआ है"{$user}".
 
 
@@ -20,5 +21,4 @@ $translations = array(
 
 Db4free.net टीम
 https://www.db4free.net',
-);
-?>
+];

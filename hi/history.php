@@ -1,11 +1,11 @@
 <?php
+
 /*
 Section: history
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'h1' => 'बदलाव',
-);
-?>
+];

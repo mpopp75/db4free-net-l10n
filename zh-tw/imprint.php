@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: imprint
 Language: Traditional Chinese 繁體中文
 Translator: Trey Lin, SiderealArt
 */
 
-$translations = array(
+$translations = [
     'h1' => '版權說明',
 
     'p1' => '&copy; 2005-%d by',
@@ -23,5 +24,4 @@ $translations = array(
     'p5' => '本站作者保留對其所提供之資訊的時事性，正確性，完整性以及品質的免責權利。作者不負責及不承擔任何因使用本站資訊，包含不完整、不正確的資訊而造成的損害或損失。',
 
     'p6' => '本站作者不對其網站連結的網站及內容承擔任何責任。',
-);
-?>
+];

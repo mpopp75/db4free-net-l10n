@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: global
 Language: Simplified Chinese 简体中文
 Translator: Luo Haojing
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => '免费的 MySQL 数据库',
@@ -49,5 +50,4 @@ $translations = array(
     'login' => '登陆',
 
     'switch_language' => '切换语言',
-);
-?>
+];

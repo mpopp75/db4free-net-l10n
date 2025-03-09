@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'h1' => 'கணக்கை நீக்க',
 
     'mysql-username' => 'MySQL பயனர்பெயர்',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'பயனர் இல்லை!',
 
     'error3' => 'கடவுச்சொல் சரியாக இல்லை!',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Изтриване на акаунт',
 
     'mysql-username' => 'MySQL потребителско име',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Указаният от вас потребител не съществува!',
 
     'error3' => 'Указаната от вас парола не е вярна!',
-);
-?>
+];

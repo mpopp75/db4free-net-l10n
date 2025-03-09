@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: delete-account
 Language: Traditional Chinese 繁體中文
 Translator: Trey Lin, SiderealArt
 */
 
-$translations = array(
+$translations = [
     'h1' => '刪除帳號',
 
     'mysql-username' => 'MySQL 使用者名稱',
@@ -21,5 +22,4 @@ $translations = array(
     'error2' => '此使用者不存在！',
 
     'error3' => '密碼錯誤！',
-);
-?>
+];

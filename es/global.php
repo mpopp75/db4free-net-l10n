@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: global
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'Base de datos MySQL gratuita',
@@ -49,5 +50,4 @@ $translations = array(
     'login' => 'Iniciar sesión',
 
     'switch_language' => 'Cambiar el idioma',
-);
-?>
+];

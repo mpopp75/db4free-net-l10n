@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Lịch sử thay đổi',
-);
-?>
+];

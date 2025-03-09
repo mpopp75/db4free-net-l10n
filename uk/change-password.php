@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Ukrainian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Зміна пароля',
 
     'mysql-username' => 'Ім\'я користувача MySQL',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Введіть новий пароль',
 
     'ph4' => 'Введіть новий пароль (повторно)',
-);
-?>
+];

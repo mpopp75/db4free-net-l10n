@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: translate
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Översättningar',
 
     'l10ncredits' => 'Stort tack till de bidragande översättarna!',
@@ -33,7 +34,7 @@ $translations = array(
 
     'p2h' => 'Ersätta de engelska texterna med texter i det nya språket. Var noga med att inte ändra ID framför texten. Exempel på översättning:',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
+    'p2i' => "'h1' => 'Welcome to db4free.net',",
 
     'p2j' => 'till',
 
@@ -44,5 +45,4 @@ $translations = array(
     'p2m' => 'När din översättningar är klar, publicera en "commit" och gör sedan en "push" för att skicka upp filerna till ditt GitHub konto. Växla till din nya "branch" på GitHub och klicka på "New Pull Request". Skriv en kort beskrivning vad dina översättningar innehåller, eventuella svårigheter du möter eller vad du kanske inte har kunnat avsluta etc. Skicka sedan iväg en "Pull Request"',
 
     'p2n' => 'Om du vill bidra men behöver ytterligare hjälp innan du kan komma igång, vänligen <a href="https://github.com/mpopp75/db4free-net-l10n/issues">skapa ett ärende på GitHub</a>.',
-);
-?>
+];

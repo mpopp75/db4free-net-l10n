@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: imprint
 Language: Polish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Autor',
 
     'p1' => '&copy; 2005-%d przez',
@@ -22,5 +23,4 @@ $translations = array(
     'p5' => 'Autor tej strony internetowej zastrzega sobie prawo do braku odpowiedzialności za tematyczność, poprawność, spójność czy też jakość przedstawianych informacji. Wszelkie żądania zadośćuczynienia za szkody spowodowane użytkowaniem przedstawionych tu informacji, włączając w to każdy rodzaj niekompletnej bądź nieprawdziwej informacji, nie będą miały żadnej podstawy prawnej.',
 
     'p6' => 'Autor tej strony nie jest odpowiedzialny za jakiekolwiek treści powiązane lub odnoszące się do treści zawartych na tej stronie.',
-);
-?>
+];

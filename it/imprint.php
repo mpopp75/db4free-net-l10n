@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: imprint
 Language: Italian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Imprint',
 
     'p1' => '&copy; 2005-%d by',
@@ -22,5 +23,4 @@ $translations = array(
     'p5' => 'L\'autore di questo sito web si riserva il diritto di non essere responsabile per l\'accuratezza, la correttezza, completezza o qualità delle informazioni fornite. Richieste di responsabilità riguardanti danni causati dall\'uso delle informazioni fornite, includendo informazioni incomplete o incorrette saranno pertanto rigettati.',
 
     'p6' => 'L\'autore di questo sito web non è responsabile per qualsiasi contenuto collegato e referenziato da questo sito.',
-);
-?>
+];

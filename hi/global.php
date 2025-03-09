@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: global
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL Database for free',
@@ -49,5 +50,4 @@ $translations = array(
     'login' => 'लॉग इन करें',
 
     'switch_language' => 'भाषा बदले',
-);
-?>
+];

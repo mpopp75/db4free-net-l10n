@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'email' => 'Ha solicitado una nueva contraseña para su cuenta "{$user}"
 
 Su nueva contraseña es {$newData}
@@ -20,5 +21,4 @@ Si no fue usted quien ha solicitado una nueva contraseña en el sitio web de db4
 
 El equipo de db4free.net
 https://www.db4free.net',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Kaydol',
 
     'mysql-db-name' => 'MySQL veritabanı adı',
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error3' => 'Doğrulama epostası gönderme hatası!',
 
     'signup-success' => 'Kaydolduğunuz için teşekkürler! Kayıt doğrulaması için bir eposta alacaksınız.',
-);
-?>
+];

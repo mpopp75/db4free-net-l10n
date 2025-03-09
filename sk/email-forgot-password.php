@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Slovak
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'email' => 'Žiadosť o vybavenie nového hesla pre "{$user}"
 
 Vaše nové heslo je {$newData}
@@ -20,5 +21,4 @@ S prianím pekného dňa
 
 Tým db4free.net
 https://www.db4free.net',
-);
-?>
+];

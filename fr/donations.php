@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: donations
 Language: French Français
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Dons',
 
     'p1' => '<b>En faisant un don, vous pouvez nous aider à investir dans du matériel et fournir un service encore meilleur</b>',
@@ -12,5 +13,4 @@ $translations = array(
     'amount' => 'Montant',
 
     'currency' => 'Devise',
-);
-?>
+];

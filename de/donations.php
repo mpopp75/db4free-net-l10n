@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: donations
 Language: German
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Spenden',
 
     'p1' => '<b>Mit einer Spende können Sie uns helfen, in bessere Hardware zu investieren und ein noch besseres Service bieten zu können.</b></p>
@@ -14,5 +15,4 @@ $translations = array(
     'amount' => 'Betrag',
 
     'currency' => 'Währung',
-);
-?>
+];

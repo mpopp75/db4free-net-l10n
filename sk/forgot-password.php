@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Slovak
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Zabudli ste heslo?',
 
     'username' => 'Prihlasovacie meno',
@@ -17,5 +18,4 @@ $translations = array(
     'error1' => 'Dáta, ktoré ste zadali, sú nesprávne!',
 
     'success' => 'Do minútky obdržíte email s novým heslom!',
-);
-?>
+];

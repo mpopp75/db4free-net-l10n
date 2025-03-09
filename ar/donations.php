@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: التبرعات
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'h1' => 'التبرعات',
 
     'p1' => ' بقيامك بالتبرع ستساهم في استثمار عتاد أفضل والتزود بخدمات أفضل.',
@@ -12,6 +13,4 @@ $translations = array(
     'amount' => 'الكمية',
 
     'currency' => 'العملة',
-);
-?>
-
+];

@@ -1,9 +1,10 @@
 <?php
+
 /*
 Section: delete-account
 Language: Dutch
 */
-$translations = array(
+$translations = [
     'h1' => 'Verwijder Account',
 
     'mysql-username' => 'MySQL gebruikersnaam',
@@ -19,5 +20,4 @@ $translations = array(
     'error2' => 'De gebruiker bestaat niet!',
 
     'error3' => 'Het wachtwoord is niet correct!',
-);
-?>
+];

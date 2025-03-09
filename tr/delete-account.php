@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Hesap Sil',
 
     'mysql-username' => 'MySQL kullanıcı adı',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Kullanıcı bulunamadı!',
 
     'error3' => 'Şifre hatalı!',
-);
-?>
+];

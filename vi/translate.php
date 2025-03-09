@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: translate
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Phiên dịch',
 
     'l10ncredits' => 'Cám ơn những đóng góp của các thông dịch',
@@ -33,16 +34,15 @@ $translations = array(
 
     'p2h' => 'Trong các tập tin bên trong thư mục này, thay thế các văn bản tiếng Anh với các văn bản của các ngôn ngữ mới. Hãy cẩn thận không thay đổi ID. Ví dụ thay thế:',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
+    'p2i' => "'h1' => 'Welcome to db4free.net',",
 
     'p2j' => 'bằng',
 
-    'p2k' => '\'h1\' => \'Bienvenido a db4free.net\',',
+    'p2k' => "'h1' => 'Bienvenido a db4free.net',",
 
     'p2l' => 'Nếu một văn bản là giống nhau trong tiếng Anh và các ngôn ngữ mà bạn đang dịch, bạn có thể xóa dòng hoặc chỉ đơn giản là để yên đó.',
 
     'p2m' => 'Khi bản dịch của bạn được hoàn tất, commit và push vào GitHub của bạn. Chuyển sang branch mới của bạn trên GitHub và bấm "New Pull Request". Nhập mô tả ngắn những gì bản dịch của bạn, bất kỳ khó khăn mà bạn phải đối mặt hoặc những gì bạn có thể không có khả năng để hoàn thành hãy hủy yêu cầu Pull.',
 
     'p2n' => 'Nếu bạn muốn đóng góp nhưng bạn cần hỗ trợ thêm trước khi bạn có thể bắt đầu, hãy <a href="https://github.com/mpopp75/db4free-net-l10n/issues">tạo 1 yêu cầu trên GitHub</a>.',
-);
-?>
+];

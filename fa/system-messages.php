@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'database' => 'پایگاه داده',
 
     'username' => 'نام کاربری',
@@ -54,5 +55,4 @@ $translations = array(
     'subject-delete-account' => 'حذف حساب db4free.net شما',
 
     'subject-change-password' => 'رمز عبور جدید db4free.net شما',
-);
-?>
+];

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: global
 Language: Traditional Chinese 繁體中文
 Translator: Trey Lin, SiderealArt
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => '免費的 MySQL 資料庫',
@@ -49,5 +50,4 @@ $translations = array(
     'login' => '登入',
 
     'switch_language' => '切換語言',
-);
-?>
+];

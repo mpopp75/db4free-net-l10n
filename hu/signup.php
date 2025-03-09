@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: signup
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Regisztráció',
 
     'mysql-db-name' => 'MySQL adatbázis név',
@@ -61,5 +62,4 @@ $translations = array(
     'signup-error3' => 'Hiba lépett fel a megerősítő email küldése közben!',
 
     'signup-success' => 'Köszönjük a regisztrációt! Hamarosan kapsz egy megerősítő emailt!',
-);
-?>
+];

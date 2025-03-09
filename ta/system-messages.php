@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'database' => 'தரவுத் தளம்',
 
     'username' => 'பயனர்பெயர்',
@@ -54,5 +55,4 @@ $translations = array(
     'subject-delete-account' => 'உங்கள் db4free.net கணக்கை நீக்குதல்',
 
     'subject-change-password' => 'உங்கள் புதிய db4free.net கடவுச்சொல்',
-);
-?>
+];

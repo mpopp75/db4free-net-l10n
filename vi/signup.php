@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Đăng ký',
 
     'mysql-db-name' => 'Tên cơ sở dữ liệu MySQL',
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error3' => 'Lỗi gửi thư xác nhận!',
 
     'signup-success' => 'Cám ơn bạn đã đăng ký! Bạn sẽ nhận được thư để xác nhận việc đăng ký.',
-);
-?>
+];

@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Spisak promena',
-);
-?>
+];

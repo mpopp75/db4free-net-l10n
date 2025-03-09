@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: إنشاء حساب
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'h1' => 'إنشاء حساب',
 
     'mysql-db-name' => 'MySQL اسم قاعدة البيانات',
@@ -60,6 +61,4 @@ $translations = array(
     'signup-error3' => 'خطأ في إرسال البريد الالكتروني الخاص عملية التأكيد!',
 
     'signup-success' => 'شكرا على التسجيل ! ستستقبل بريد الكتروني لاستكمال عملية التسجيل.',
-);
-?>
-
+];

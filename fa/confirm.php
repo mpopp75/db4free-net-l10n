@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: confirm
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'تایید',
-);
-?>
+];

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: global
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL adatbázis ingyen',
@@ -49,5 +50,4 @@ $translations = array(
     'login' => 'Belépés',
 
     'switch_language' => 'Nyelvválasztás',
-);
-?>
+];

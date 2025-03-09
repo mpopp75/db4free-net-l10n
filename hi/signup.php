@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: signup
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'h1' => 'साइन अप करें',
 
     'mysql-db-name' => 'MySQL डेटाबेस नाम',
@@ -61,5 +62,4 @@ $translations = array(
     'signup-error3' => 'पुष्टिकरण ईमेल भेजने में त्रुटि!',
 
     'signup-success' => 'आपके पंजीकरण के लिए आपका धन्यवाद! आपको पंजीकरण की पुष्टि करने के लिए एक ईमेल प्राप्त होगा।',
-);
-?>
+];

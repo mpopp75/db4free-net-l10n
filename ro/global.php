@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'Baze de date MySQL gratuite',
@@ -48,5 +49,4 @@ $translations = array(
     'login' => 'Autentificare',
 
     'switch_language' => 'Schimbare limbă',
-);
-?>
+];

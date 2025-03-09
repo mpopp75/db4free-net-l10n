@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Ändra lösenord',
 
     'mysql-username' => 'MySQL användarnamn',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Ange ditt nya lösenord',
 
     'ph4' => 'Ange ditt nya lösenord (igen)',
-);
-?>
+];

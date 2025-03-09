@@ -1,15 +1,16 @@
 <?php
+
 /*
 Section: conditions
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Termos de uso',
 
     'p1' => 'Em nenhuma hipótese nós, da equipe db4free.net, deveremos ser responsabilizados perante quaisquer partes por danos diretos, indiretos, especiais ou acidentais, incluindo, mas não limitados à, perda de lucros, decorrentes do uso ou da indisponibilidade deste servidor, de seu software, seus serviços ou sua documentação, mesmo que tenhamos sido avisados da possibilidade de tais danos.',
 
-	'p2' => 'Estamos isentos de qualquer tipo de garantia, incluindo, mas não limitado a, garantias implícitas de comercialização e adequação para um uso particular. O software e o servidor são fornecidos "tal como estão", e nos eximimos de fornecer manutenção, suporte técnico, atualizações, melhorias ou modificações, bem como da contínua disponibilidade dos serviços. Reservamo-nos o direito de descontinuar este serviço sem prévio aviso e de deletar os bancos de dados de forma irrevogável.',
+    'p2' => 'Estamos isentos de qualquer tipo de garantia, incluindo, mas não limitado a, garantias implícitas de comercialização e adequação para um uso particular. O software e o servidor são fornecidos "tal como estão", e nos eximimos de fornecer manutenção, suporte técnico, atualizações, melhorias ou modificações, bem como da contínua disponibilidade dos serviços. Reservamo-nos o direito de descontinuar este serviço sem prévio aviso e de deletar os bancos de dados de forma irrevogável.',
 
     'p3' => 'Aos usuários do db4free.net não é permitido publicar seus dados de acesso, bem como dados específicos do servidor, para terceiros.',
 
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'Nós temos o direito de alterar esses termos sem aviso prévio.',
 
     'p8' => 'Heidenreichstein, Áustria<br>29 de Junho de 2014',
-);
-?>
+];

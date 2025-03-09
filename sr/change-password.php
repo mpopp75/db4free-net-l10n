@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Promeni šifru',
 
     'mysql-username' => 'MySQL korisničko ime',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Unesite vašu novu šfiru',
 
     'ph4' => 'Unesite ponovo vašu novu šifru',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: conditions
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Kullanım şartları',
 
     'p1' => 'db4free.net ekibi olarak herhangi bir durumda herhangi bir kişiye/kuruma;bu anasistemin kullanımından yada kendisinin, hizmetlerinin, yazılımının, erişim dışı kalışından kaynaklanan kazanç kaybı da dahil olmak üzere, doğrudan, dolaylı, spesifik, tesadüfi veya zamanla hasıl olan zararlardan dolayı yönetim bu zararlara karşı uyarılmış olsa da sorumluluk kabul etmeyeceğimizi bildirmek isteriz.',
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'Sözleşmeyi önceden bildiri yapmadan değiştirme hakkını saklı tutarız.',
 
     'p8' => 'Heidenreichstein, Avusturya<br>29 Haziran 2014',
-);
-?>
+];

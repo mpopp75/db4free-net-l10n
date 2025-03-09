@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: welcome
 Language: Simplified Chinese 简体中文
 Translator: Luo Haojing
 */
 
-$translations = array(
+$translations = [
     'h1' => '欢迎来到 db4free.net',
 
     'p1a' => 'db4free.net 提供最新版本、甚至是开发者版本的 <a href="https://www.mysql.com/">MySQL 服务器</a>测试服务。 您可以轻易地 <a href="/signup.php">注册免费账号</a> 测试您的应用。例如，您可以测试在MySQL版本升级后您的应用是否依然能够正常运行。 db4free.net 也是让您学习并熟悉新版本功能及操作的极佳资源',
@@ -29,5 +30,4 @@ $translations = array(
     'p4b' => '以下网站是你学习MySQL的最佳网络资源，<a href="https://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> 和 <a href="https://planet.mysql.com/">PlanetMySQL</a>. MySQL官方网站也提供大量的 <a href="https://dev.mysql.com/tech-resources/articles/">开发者文章</a> 其中许多文章详细介绍了下个版本新增的许多功能。',
 
     'p4c' => '如果您发现 MySQL 服务器的任何错误，请到 <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a> 报告错误。',
-);
-?>
+];

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: global
 Language: Slovak
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL databázy zdarma',
@@ -49,5 +50,4 @@ $translations = array(
     'login' => 'Prihlásiť sa',
 
     'switch_language' => 'Zmeniť jazyk',
-);
-?>
+];

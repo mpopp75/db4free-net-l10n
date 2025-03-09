@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: French Français
 */
 
-$translations = array(
+$translations = [
     'email' => 'Nous avons reçu votre demande de changement de mot de passe.
 
 Vos nouveaux identifiants sont :
@@ -21,5 +22,4 @@ Profitez-bien de votre base de données!
 
 L\'équipe db4free.net
 https://www.db4free.net',
-);
-?>
+];

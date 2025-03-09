@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'از ثبت نام حساب پایگاه داده‌ی خود با نام کاربری {$user} در db4free.net سپاسگزاریم.
 
 بعد از تأیید پیوند زیر، شما به سرور پایگاه داده MySQL 8.3 db4free.net دسترسی خواهید داشت. نام میزبان برای دسترسی به سرور db4free.net و پورت 3306 است. شما می‌توانید از phpMyAdmin در وب‌سایت ما برای ورود به سرور استفاده کنید.
@@ -35,5 +36,4 @@ $translations = array(
 
 تیم db4free.net
 https://www.db4free.net',
-);
-?>
+];

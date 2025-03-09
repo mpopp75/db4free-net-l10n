@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: translate
 Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Překlady',
 
     'l10ncredits' => 'Mnohokrát děkujeme všem překladatelům',
@@ -34,7 +35,7 @@ $translations = array(
 
     'p2h' => 'V souborech uvnitř tohoto adresáře, nahradite anglické texty novým překladem. Prosím, buďte opatrní, abyste nezměnily ID. Příklad nahrazení:',
 
-    'p2i' => '\'h1\' => \'Welcome on db4free.net\',',
+    'p2i' => "'h1' => 'Welcome on db4free.net',",
 
     'p2j' => 'na',
 
@@ -45,5 +46,4 @@ $translations = array(
     'p2m' => 'Pokud jste soubor přeložily, pak už jen stačí nahrát tyto soubory na úložiště GitHubu. Přepnout na novou pobočku na GitHubu a kliknout na tlačítko "Nový Pull Požadavek". Zadejte krátký popisek a je hotovo.',
 
     'p2n' => 'Chcete-li přispívat, ale budete potřebovat další pomoc, než budete moci začít, prosím <a href="https://github.com/mpopp75/db4free-net-l10n/issues">otevřete nový požadavek na GitHubu</a>.',
-);
-?>
+];

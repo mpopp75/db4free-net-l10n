@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Russian
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Спасибо за регистрацию аккаунта {$user} на db4free.net.
 
 После подтверждения по ссылки ниже, вы получите доступ к серверу MySQL 8.3 db4free.net\'s. В качестве имени сервера используйте db4free.net, а также порт 3306. Вы можете использовать phpMyAdmin на нашем сайте, для входа на сервер MySQL.
@@ -35,5 +36,4 @@ $translations = array(
 
 Команда db4free.net
 https://www.db4free.net',
-);
-?>
+];

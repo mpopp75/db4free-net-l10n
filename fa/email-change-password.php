@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'email' => 'ما درخواست شما برای تغییر رمز عبور حساب کاربری پایگاه داده خود را دریافت کرده‌ایم.
 
     اطلاعات جدید به صورت زیر است:
@@ -21,6 +22,5 @@ $translations = array(
     امیدواریم که از کار با پایگاه داده خود لذت ببرید!
     
     تیم db4free.net
-    https://www.db4free.net',    
-);
-?>
+    https://www.db4free.net',
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'database' => 'Databas',
 
     'username' => 'Användarnamn',
@@ -54,5 +55,4 @@ $translations = array(
     'subject-delete-account' => 'Radering av ditt db4free.net konto',
 
     'subject-change-password' => 'Ditt nya lösenord hos db4free.net',
-);
-?>
+];

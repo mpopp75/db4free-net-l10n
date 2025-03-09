@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: translate
 Language: English
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Translations',
 
     'l10ncredits' => 'Many thanks to the translation contributors',
@@ -33,16 +34,15 @@ $translations = array(
 
     'p2h' => 'In the files inside this directory, replace the English texts with texts of the new language. Please be careful not to change the ID. For example replace:',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
+    'p2i' => "'h1' => 'Welcome to db4free.net',",
 
     'p2j' => 'by',
 
-    'p2k' => '\'h1\' => \'Bienvenido a db4free.net\',',
+    'p2k' => "'h1' => 'Bienvenido a db4free.net',",
 
     'p2l' => 'If a text is the same in English and the language you are translating to, you may delete the line or simply leave it.',
 
     'p2m' => 'When your translations are finished, commit and push them to your GitHub repository. Switch to your new branch on GitHub and click "New Pull Request". Enter a short description what your translations are, any difficulties you faced or what you may not have been able to finish etc. and send off the Pull Request.',
 
     'p2n' => 'If you like to contribute but you need further assistance before you can get started, please <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Open a Ticket at GitHub</a>.',
-);
-?>
+];

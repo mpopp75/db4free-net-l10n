@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Dobili smo zahtev za promenu vaše lozinke.
 
 Novi podaci su sledeći:
@@ -22,5 +23,4 @@ Nadamo se da uživate u radu sa vašom bazom podataka!
 
 db4free.net tim
 https://www.db4free.net',
-);
-?>
+];

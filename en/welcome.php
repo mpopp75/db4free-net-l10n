@@ -1,15 +1,16 @@
 <?php
+
 /*
 Section: welcome
 Language: English
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Welcome to db4free.net',
 
     'p1a' => 'db4free.net provides a testing service for the latest - sometimes even development - version of the <a href="https://www.mysql.com/">MySQL Server</a>. You can easily <a href="/signup.php">create an account for free</a> and test your applications, for example to make sure that they still work after a MySQL version update. db4free.net is also a good resource for education and to make yourself familiar with new features that were introduced in new versions.',
 
-    'p1b' => 'db4free.net aims to always provide either the latest production release or the latest development release. db4free.net\'s MySQL server will be updated very soon after a new version is released, usually on the same day or very soon after.',
+    'p1b' => "db4free.net aims to always provide either the latest production release or the latest development release. db4free.net's MySQL server will be updated very soon after a new version is released, usually on the same day or very soon after.",
 
     'p1c' => 'To access your data in a convenient way, db4free.net also provides an up-to-date version of <a href="https://www.phpmyadmin.net">phpMyAdmin</a>. phpMyAdmin will also be updated very frequently, so you always get the very latest.',
 
@@ -28,5 +29,4 @@ $translations = array(
     'p4b' => 'The best resources to learn more about MySQL are the <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> and <a href="https://planet.mysql.com/">PlanetMySQL</a>. The MySQL website offers a number of <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a> many of which explain new features that are being introduced in upcoming versions in excellent detail.',
 
     'p4c' => 'If you find a bug in the MySQL Server, please report it in the <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
-);
-?>
+];

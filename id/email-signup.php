@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Terima kasih telah mendaftarkan nama pengguna database {$user} di db4free.net.
 
 Setelah konfirmasi link di bawah, Anda akan mendapat akses di db4free.net\'s MySQL 8.3 database server. Hostname untuk mengakses server adalah db4free.net dengan port 3306. Anda dapat menggunakan phpMyAdmin di website kami untuk masuk ke server.
@@ -35,5 +36,4 @@ We hope you enjoy working with your database!
 
 The db4free.net team
 https://www.db4free.net',
-);
-?>
+];

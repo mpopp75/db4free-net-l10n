@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: donations
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Дарения',
 
     'p1' => '<b>Правейки дарение, можете да ни помогнете да закупим по-добро оборудване и да предоставим по-добра услуга.</b>',
@@ -12,5 +13,4 @@ $translations = array(
     'amount' => 'Сума',
 
     'currency' => 'Валута',
-);
-?>
+];

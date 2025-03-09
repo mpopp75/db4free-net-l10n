@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'email' => 'Obdrželi jsme váš požadavek na změnu hesla.
 
 Vaše nynější přihlašovací údaje:
@@ -23,5 +24,4 @@ S přáním pěkného dne
 
 Tým db4free
 https://www.db4free.net',
-);
-?>
+];

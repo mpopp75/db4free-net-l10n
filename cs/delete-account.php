@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: delete-account
 Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Smazání účtu',
 
     'mysql-username' => 'MySQL jméno',
@@ -21,5 +22,4 @@ $translations = array(
     'error2' => 'Je nám líto, ale tento uživatel neexistuje!',
 
     'error3' => 'Heslo není správné, zkuste to ještě jednou!',
-);
-?>
+];

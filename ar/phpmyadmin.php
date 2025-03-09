@@ -1,11 +1,10 @@
 <?php
+
 /*
 Section: phpmyadmin
 Language: Arabic
 */
 
-$translations = array(
+$translations = [
     'h1' => 'phpMyAdmin',
-);
-?>
-
+];

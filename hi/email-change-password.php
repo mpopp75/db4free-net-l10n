@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'email' => 'हमें आपका पासवर्ड बदलने का अनुरोध मिला है।
 
 नया डेटा इस प्रकार है:
@@ -25,5 +26,4 @@ $translations = array(
 
 Db4free.net टीम
 https://www.db4free.net',
-);
-?>
+];

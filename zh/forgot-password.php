@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Simplified Chinese 简体中文
 Translator: Luo Haojing
 */
 
-$translations = array(
+$translations = [
     'h1' => '忘记密码？',
 
     'username' => '用户名',
@@ -17,5 +18,4 @@ $translations = array(
     'error1' => '您输入的信息有误！',
 
     'success' => '您将会收到包含新密码的邮件！',
-);
-?>
+];

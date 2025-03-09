@@ -4,7 +4,7 @@ Section: global
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL Database bilisaan',
@@ -48,5 +48,5 @@ $translations = array(
     'login' => 'Seeni',
 
     'switch_language' => 'Afaan Jijjiiri',
-);
+];
 ?>

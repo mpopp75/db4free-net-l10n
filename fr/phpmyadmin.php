@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: phpmyadmin
 Language: French Français
 */
 
-$translations = array(
+$translations = [
     'h1' => 'phpMyAdmin',
-);
-?>
+];

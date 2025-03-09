@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'email' => '私たちは「{$user}」アカウントの削除リクエストを受け取りました。
 
 この操作を確定するには、以下にあるリンクをクリックしてください。この操作を実行するとデータベースのデータは全て削除され、復旧不可能になりますのでご注意ください!
@@ -17,5 +18,4 @@ $translations = array(
 
 db4free.netチーム
 https://www.db4free.net',
-);
-?>
+];

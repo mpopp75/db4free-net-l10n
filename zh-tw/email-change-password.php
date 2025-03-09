@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Traditional Chinese 繁體中文
 Translator: Trey Lin, SiderealArt
 */
 
-$translations = array(
+$translations = [
     'email' => '我們已經收到你變更密碼的請求。
 
 你的新資料如下:
@@ -23,5 +24,4 @@ $translations = array(
 
 db4free.net 團隊
 https://www.db4free.net',
-);
-?>
+];

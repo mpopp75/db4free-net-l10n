@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'h1' => 'பதிவுசெய்ய',
 
     'mysql-db-name' => 'MySQL தரவுத்தள பெயர்',
@@ -61,5 +62,4 @@ $translations = array(
     'signup-error3' => 'உறுதிப்படுத்தல் மின்னஞ்சலை அனுப்புவதில் பிழை!',
 
     'signup-success' => 'உங்கள் பதிவுக்கு நன்றி! பதிவை உறுதிப்படுத்த நீங்கள் ஒரு மின்னஞ்சலைப் பெறுவீர்கள்.',
-);
-?>
+];

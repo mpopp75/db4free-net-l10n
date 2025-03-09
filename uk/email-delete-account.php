@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Ukrainian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Ми отримали ваш запит на видалення аккаунту "{$user}" з db4free.net.
 
 Будь ласка затвердіть видалення, клацнувши посилання нижче. Пам\'ятайте, що всі ваші дані будуть безповоротно видалені!
@@ -15,5 +16,4 @@ $translations = array(
 
 Команда db4free.net
 https://www.db4free.net',
-);
-?>
+];

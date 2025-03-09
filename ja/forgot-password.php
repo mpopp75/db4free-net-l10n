@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'パスワードをお忘れですか?',
 
     'username' => 'ユーザー名',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'あなたが入力したデータに誤りがあります!',
 
     'success' => 'あなたのメールに新しいパスワードを記載して送信しましたのでご確認ください!',
-);
-?>
+];

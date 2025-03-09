@@ -1,10 +1,11 @@
 <?php
+
 /*
-Section: أهلا بك 
+Section: أهلا بك
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'h1' => 'أهلا بك في  db4free.net',
 
     'p1a' => 'db4free.net تقدم لك خدمة اختبار بأحدث  - وأحيانا حتى التطوير - نسخ من <a href="https://www.mysql.com/">MySQL Server</a>. يمكنك بسهولة <a href="/signup.php">إنشاء حساب مجاناً</a> 
@@ -30,6 +31,4 @@ $translations = array(
     'p4b' => 'أفض مصادر لتعلم  MySQL a <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, the <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL الدليل اليدوي</a> and <a href="https://planet.mysql.com/">PlanetMySQL</a>. The MySQL website offers a number of <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a> والتي معظمها تشرح المزايا الخاصة بالنسخ الجديدة والقادمة بتفاصيل رائعة.',
 
     'p4c' => 'عند ظهور مشكلة في مخدم  MySQL,من فضلك قم بإضافة تقرير إلى  <a href="https://bugs.mysql.com/">MySQLنظام تتبع الأخطاء </a>.',
-);
-?>
-
+];

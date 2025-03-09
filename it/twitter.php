@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: twitter
 Language: Italian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Twitter',
-);
-?>
+];

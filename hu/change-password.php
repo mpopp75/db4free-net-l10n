@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: change-password
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Jelszó megváltoztatása',
 
     'mysql-username' => 'MySQL felhasználónév',
@@ -23,5 +24,4 @@ $translations = array(
     'ph3' => 'Írd be az új jelszavadat',
 
     'ph4' => 'Írd be az új jelszavadat (újra)',
-);
-?>
+];

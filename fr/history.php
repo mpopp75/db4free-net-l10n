@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: French Français
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Changelog',
-);
-?>
+];

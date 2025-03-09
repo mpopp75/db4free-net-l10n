@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'email' => '私たちはパスワード変更のリクエストを受け取りました。
 
 新しいアカウント情報は次の通りです:
@@ -23,5 +24,4 @@ $translations = array(
 The db4free.net team
 db4free.netチーム
 https://www.db4free.net',
-);
-?>
+];

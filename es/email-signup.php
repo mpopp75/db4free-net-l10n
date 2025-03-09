@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-signup
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Gracias por registrar su cuenta de base de datos {$user} en db4free.net.
 
 Después de confirmar el enlace de abajo, usted tendrá acceso al servidor de base de datos MySQL 8.3 de db4free.net. El nombre de host para acceder al servidor es db4free.net y el puerto es el 3306. Puede usar phpMyAdmin en nuestro sitio web para iniciar sesión en el servidor.
@@ -36,5 +37,4 @@ Si no ha sido usted quien ha registrado una cuenta de base de datos en la págin
 
 El equipo de db4free.net
 https://www.db4free.net',
-);
-?>
+];

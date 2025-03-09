@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Hapus Akun',
 
     'mysql-username' => 'nama pengguna MySQL',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Nama pengguna tidak ada!',
 
     'error3' => 'Kata sandi tidak cocok!',
-);
-?>
+];

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: system-messages
 Language: Traditional Chinese 繁體中文
 Translator: Trey Lin, SiderealArt
 */
 
-$translations = array(
+$translations = [
     'database' => '資料庫',
 
     'username' => '使用者名稱',
@@ -55,5 +56,4 @@ $translations = array(
     'subject-delete-account' => '刪除您在 db4free.net 的帳號',
 
     'subject-change-password' => '您在 db4free.net 的新密碼',
-);
-?>
+];

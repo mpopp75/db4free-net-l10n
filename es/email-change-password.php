@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
-$translations = array(
+$translations = [
     'email' => 'Hemos recibido su solicitud para cambiar la contraseña.
 
 Los nuevos datos son los siguientes:
@@ -23,5 +24,4 @@ Si no fue usted quien ha solicitado cambiar su contraseña de la cuenta de base 
 
 El equipo de db4free.net
 https://www.db4free.net',
-);
-?>
+];

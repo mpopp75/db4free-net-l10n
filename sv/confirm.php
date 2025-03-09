@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: confirm
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Bekräftelse',
-);
-?>
+];

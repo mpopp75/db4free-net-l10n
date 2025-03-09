@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: change-password
 Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Změna hesla',
 
     'mysql-username' => 'MySQL jméno',
@@ -23,5 +24,4 @@ $translations = array(
     'ph3' => 'Zadejte nové heslo',
 
     'ph4' => 'Zadejte nové heslo ještě jednou pro oveření',
-);
-?>
+];

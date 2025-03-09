@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Alterar senha',
 
     'mysql-username' => 'Nome de usuário MySQL',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Digite a nova senha',
 
     'ph4' => 'Repita sua nova senha',
-);
-?>
+];

@@ -4,7 +4,7 @@ Section: email-delete-account
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'email' => 'Gaafii akka iddoo fayyadamaa db4free.net keeti akka haqamuuf ergiteera "{$user}".
 
 Maqaa haqamuu mirkaneessuuf linkii armaan gadii cuqaasi. Maaloo hubadhu, odeeffannoon kee hundi kuusaa odeeffannoo kana keessatti haqumaadha!
@@ -17,5 +17,4 @@ Kuusaa odeeffannoo kee waliin hojjachuu akka si gammachiise abdanna!
 
 Teamii db4free.net
 https://www.db4free.net',
-);
-?>
+];

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: delete-account
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Eliminar Cuenta',
 
     'mysql-username' => 'Nombre de usuario MySQL',
@@ -21,5 +22,4 @@ $translations = array(
     'error2' => '¡El usuario proporcionado no existe.',
 
     'error3' => 'La contraseña proporcionada no es válida.',
-);
-?>
+];

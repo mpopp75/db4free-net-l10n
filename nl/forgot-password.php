@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Dutch
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Wachtwoord vergeten?',
 
     'username' => 'Gebruikersnaam',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'De ingevoerde gegevens zijn niet correct!',
 
     'success' => 'U heeft een e-mail ontvangen met uw nieuwe wachtwoord!',
-);
-?>
+];

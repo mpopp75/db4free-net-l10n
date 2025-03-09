@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Dutch
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Verander wachtwoord',
 
     'mysql-username' => 'MySQL gebruikersnaam',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Geef uw nieuw wachtwoord in',
 
     'ph4' => 'Geef uw nieuw wachtwoord in (opnieuw)',
-);
-?>
+];

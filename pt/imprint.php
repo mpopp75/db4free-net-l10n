@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: imprint
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Ficha técnica',
 
     'p1' => '&copy; 2005-%d by',
@@ -22,5 +23,4 @@ $translations = array(
     'p5' => 'O autor deste site reserva-se o direito de não ser responsabilizado pela atualidade, exatidão, integridade ou qualidade das informações fornecidas. Quaisquer reivindicações de responsabilidade referentes a danos causados pelo uso de informações disponibilizadas, inclusive aquelas que estiverem incompletas ou incorretas, serão prontamente rejeitadas.',
 
     'p6' => 'O autor deste site não se responsabiliza por quaisquer conteúdos vinculados ou referenciados neste site.',
-);
-?>
+];

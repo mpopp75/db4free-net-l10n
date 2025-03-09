@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: signup
 Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Registrace',
 
     'mysql-db-name' => 'MySQL Databáze',
@@ -61,5 +62,4 @@ $translations = array(
     'signup-error3' => 'Chyba při odesílání potvrzovacího emailu',
 
     'signup-success' => 'Děkujeme za Vaši registraci! Obdržíte e-mail pro potvrzení registrace.',
-);
-?>
+];

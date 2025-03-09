@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'email' => 'உங்கள் கணக்கிற்கு புதிய கடவுச்சொல்லைக் கோரியுள்ளீர்கள் "{$user}"
 
     உங்களின் புதிய கடவுச்சொல் {$newData}
@@ -19,5 +20,4 @@ Db4free.net இணையதளத்தில் புதிய கடவுச
 
 Db4free.net குழு
 https://www.db4free.net',
-);
-?>
+];

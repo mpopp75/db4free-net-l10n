@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Xóa Tài Khoản',
 
     'mysql-username' => 'Tên người dùng MySQL',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Người dùng không tồn tại!',
 
     'error3' => 'Mật khẩu không chính xác!',
-);
-?>
+];

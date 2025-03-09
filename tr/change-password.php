@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Şifre değiştir',
 
     'mysql-username' => 'MySQL kullanıcı adı',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'Yeni şifrenizi girin',
 
     'ph4' => 'Yeni şifrenizi girin (tekrar)',
-);
-?>
+];

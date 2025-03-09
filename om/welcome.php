@@ -4,7 +4,7 @@ Section: welcome
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Baga nagaan dhufte db4free.net',
 
     'p1a' => 'db4free.net tajaajila qorannoo tajaajila MySQL Server haaraa - yeroo tokko tokko immoo kan misoomaa - kenniti. Akka salphatti <a href="/signup.php">akka galmaa\'uuf</a> fi tajaajila kee qoratuf, fakkeenyaaf, erga MySQL haaromfametti hojjachuu isaanii mirkaneessuuf. db4free.net immoo madda barnootaa gaarii fi haala haaraa kanneen haaraa ta\'an barachuuf gaarii dha.',
@@ -28,5 +28,4 @@ $translations = array(
     'p4b' => 'Qabeenya gaarii ta\'ee MySQL barachuuf <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> fi <a href="https://planet.mysql.com/">PlanetMySQL</a> dha. Marsariitii MySQL immoo <a href="https://dev.mysql.com/tech-resources/articles/">Maqaa Misoomaa</a> baay\'ee kanneen haaraa ta\'an ibsuuf qopheessan.',
 
     'p4c' => 'Yoo badii tokko MySQL Server keessatti argite, <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a> keessatti gabaasi.',
-);
-?>
+];

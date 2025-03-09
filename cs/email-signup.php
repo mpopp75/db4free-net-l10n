@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-signup
 Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Děkujeme {$user} za registraci databázového účtu na db4free.net.
 
 Po potvrzení kliknetě na níže uvedený odkaz, tak budete mít přístup k MySQL 8.3 databázového serveru. Název hostitele pro přístup k serveru je db4free.net a port je 3306. Můžete použít phpMyAdmin na našich webových stránkách pro přihlášení k serveru.
@@ -34,5 +35,4 @@ Pokud jste to nebyly vy, kdo si zaregistroval účet databáze na internetových
 
 S přáním pěkného dne a děkujeme za vaší přízeň
 https://www.db4free.net',
-);
-?>
+];

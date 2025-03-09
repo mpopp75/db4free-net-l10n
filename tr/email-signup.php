@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'db4free.net hesabınızı kaydettirdiğiniz için teşekkürler {$user}.
 
 Aşağıdaki linki onayladıktan sonra, db4free.net\'in MySQL 8.3 veritabanı sunucularına erişiminiz olacaktır. Sunucuya erişmek için host adı: db4free.net ve port: 3306 olacaktır. Websitemizdeki phpMyAdmin panelini kullanarak sunucuya giriş yapabilirsiniz.
@@ -35,5 +36,4 @@ Umarız veritabanınızla çalışırken eğlenirsiniz!
 
 db4free.net ekibi
 https://www.db4free.net',
-);
-?>
+];

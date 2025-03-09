@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: French Français
 */
 
-$translations = array(
+$translations = [
     'email' => 'Nous avons reçu une demande de suppression de votre compte "{$user}" sur le site db4free.net.
 
 Merci de confirmer cette suppression en cliquant sur le lien suivant. Attention, toutes vos bases et les données qu\'elles contiennent seront supprimées de manière irréversible !
@@ -17,5 +18,4 @@ Nous espérons que vous avez bien profité de votre base !
 
 L\'équipe db4free.net
 https://www.db4free.net',
-);
-?>
+];

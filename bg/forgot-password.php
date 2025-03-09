@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Забравена парола?',
 
     'username' => 'Потребителско име',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Въведените от вас данни са неправилни!',
 
     'success' => 'Новата парола Ви е изпратена чрез електронна поща!',
-);
-?>
+];

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: delete-account
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'h1' => 'अकाउंट डिलीट करे',
 
     'mysql-username' => 'MySQL यूज़रनेम',
@@ -21,5 +22,4 @@ $translations = array(
     'error2' => 'यूज़र उपलब्ध नहीं है!',
 
     'error3' => 'पासवर्ड सही नहीं है!',
-);
-?>
+];

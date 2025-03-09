@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: welcome
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Üdvözlünk a db4free.net-en',
 
     'p1a' => 'A db4free.net egy tesztelő szolgáltatás a legutóbbi - néha még fejlesztés alatt álló - <a href="https://www.mysql.com/">MySQL szerver</a> teszteléséhez. Egyszerűen <a href="/signup.php">regisztrálhatsz ingyen</a>, és elkezdheted tesztelni programjaidat, pl. megbizonyosodhatsz, hogy a programjaid még mindig működnek a legfrissebb MySQL verzióval. A db4free.net egy jó oldal tanuláshoz is, megismerkedhetsz az új funkciókkal, amelyeket a legújabb verzióban vezettek be.',
@@ -29,5 +30,4 @@ $translations = array(
     'p4b' => 'A legjobb forrás, hogy többet tudj a MySQL-ről, az a <a href="https://dev.mysql.com/">MySQL Fejlesztői Zóna</a>, a <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Referencia leírás</a> és a <a href="https://planet.mysql.com/">PlanetMySQL</a>. MySQL oldalán sok <a href="https://dev.mysql.com/tech-resources/articles/">fejlesztői cikket</a> találsz, sok ezek közül bemutatja azon funkciókat, amelyek a következő verziókban fognak megjelenni.',
 
     'p4c' => 'Ha találsz egy bugot a MySQL szerverben, kérjük jelezd a <a href="https://bugs.mysql.com/">MySQL bugkövető rendszerben</a>.',
-);
-?>
+];

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: change-password
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Cambiar contraseña',
 
     'mysql-username' => 'Usuario MySQL',
@@ -23,5 +24,4 @@ $translations = array(
     'ph3' => 'Ingrese su nueva contraseña',
 
     'ph4' => 'Repita la nueva contraseña',
-);
-?>
+];

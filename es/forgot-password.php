@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
-$translations = array(
+$translations = [
     'h1' => '¿Olvidó su contraseña?',
 
     'username' => 'Nombre de usuario',
@@ -17,5 +18,4 @@ $translations = array(
     'error1' => '¡La información que ha introducido no es correcta!',
 
     'success' => 'Ha recibido un correo electrónico con su nueva contraseña.',
-);
-?>
+];

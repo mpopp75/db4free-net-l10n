@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Daftar',
 
     'mysql-db-name' => 'Nama database MySQL',
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error3' => 'Gagal mengirim email konfirmasi',
 
     'signup-success' => 'Terima kasih telah mendaftar! Anda akan menerima email untuk mengkonfirmasi permohonan pendaftaran.',
-);
-?>
+];

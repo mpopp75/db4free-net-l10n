@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'email' => 'Kami telah menerima permohonan kata sandi baru untuk nama pengguna "{$user}"
 
 Kata sandi baru Anda adalah: {$newData}
@@ -19,5 +20,4 @@ Kami harap Anda puas bekerja dengan database Anda!
 
 Tim db4free.net
 https://www.db4free.net',
-);
-?>
+];

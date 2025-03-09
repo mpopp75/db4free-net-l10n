@@ -1,13 +1,14 @@
 <?php
+
 /*
 Seção: welcome
 Idioma: Português (Brasileiro)
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Bem-vindo ao db4free.net',
 
-	'p1a' => 'O db4free.net oferece um serviço para testes com as versões mais recentes - às vezes versões em desenvolvimento - do <a href="https://www.mysql.com/">MySQL Server</a>. Você pode facilmente <a href="/signup.php">criar uma conta grátis</a> e testar suas aplicações, por exemplo, para garantir que seus sistemas continuarão funcionando após a atualização do MySQL. O db4free.net também é um bom recurso de aprendizado para ajudá-lo a se familiarizar com as novidades introduzidas em novas versões.',
+    'p1a' => 'O db4free.net oferece um serviço para testes com as versões mais recentes - às vezes versões em desenvolvimento - do <a href="https://www.mysql.com/">MySQL Server</a>. Você pode facilmente <a href="/signup.php">criar uma conta grátis</a> e testar suas aplicações, por exemplo, para garantir que seus sistemas continuarão funcionando após a atualização do MySQL. O db4free.net também é um bom recurso de aprendizado para ajudá-lo a se familiarizar com as novidades introduzidas em novas versões.',
 
     'p1b' => 'O db4free.net sempre visa disponibilizar a última versão final ou a última versão em desenvolvimento do MySQL Server. O MySQL Server do db4free.net será atualizado pouco tempo depois do lançamento de uma nova versão do MySQL, normalmente no mesmo dia ou pouco depois.',
 
@@ -28,5 +29,4 @@ $translations = array(
     'p4b' => 'O melhor recurso para aprender sobre o MySQL é a <a href="https://dev.mysql.com/">MySQL Developer Zone (link em inglês)</a>, o <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual (link em inglês)</a> e o <a href="https://planet.mysql.com/">PlanetMySQL (link em inglês)</a>. O site do MySQL oferece inúmeros <a href="https://dev.mysql.com/tech-resources/articles/">Artigos para Desenvolvedores (link em inglês)</a>, muitos deles explicando detalhadamente as novas funcionalidades introduzidas em versões recentes do MySQL.',
 
     'p4c' => 'Se você encontrar um bug no MySQL Server, relate-o para o <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
-);
-?>
+];

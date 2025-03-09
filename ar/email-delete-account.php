@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: حذف حساب البريد الالكتروني
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'email' => 'لقد استقبلنا طلبا بحذف حسابك على  db4free.net  "{$user}".
 	من فضلك قم بتأكيد عملية الحذف من خلال الرابط التالي. و كن متأكد أن كامل البيانات في قاعدة البيانات سيتم حذفها نهائياً
 
@@ -15,6 +16,4 @@ $translations = array(
 
 The db4free.net فريق
 https://www.db4free.net',
-);
-?>
-
+];

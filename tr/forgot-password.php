@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Şifrenizi mi unuttunuz?',
 
     'username' => 'Kullanıcı adı',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Girdiğiniz bilgi doğru değildir!',
 
     'success' => 'Yeni şifrenizi içeren bir e-posta aldınız!',
-);
-?>
+];

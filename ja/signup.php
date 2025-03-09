@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'サインアップ',
 
     'mysql-db-name' => 'MySQL データベース名',
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error3' => '確認メールの送信でエラーが発生いたしました!',
 
     'signup-success' => '登録ありがとうございます! 登録確認のメールをお送りしましたのでご確認ください。',
-);
-?>
+];

@@ -1,11 +1,10 @@
 <?php
+
 /*
 Section: السجل
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'h1' => 'تغيير السجل',
-);
-?>
-
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Dutch
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Registratie',
 
     'mysql-db-name' => 'MySQL-databasenaam',
@@ -62,5 +63,4 @@ $translations = array(
     'signup-error3' => 'Fout bij het verzenden van de bevestigingse-mail!',
 
     'signup-success' => 'Bedankt voor uw registratie! U ontvangt een e-mail om de registratie te bevestigen.',
-);
-?>
+];

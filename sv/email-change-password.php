@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'email' => 'Vi har tagit emot din begäran om att byta lösenord.
 
 Den nya uppgifter är följande:
@@ -22,5 +23,4 @@ Vi hoppas att du tycker om att arbeta med din databas!
 
 db4free.net laget
 https://www.db4free.net',
-);
-?>
+];

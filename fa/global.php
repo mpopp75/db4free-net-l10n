@@ -1,52 +1,52 @@
 <?php
+
 /*
 Section: global
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
-'sitetitle2' => 'پایگاه داده MySQL رایگان',
+    'sitetitle2' => 'پایگاه داده MySQL رایگان',
 
-'topnav1' => 'خوش آمدید',
+    'topnav1' => 'خوش آمدید',
 
-'topnav2' => 'پایگاه داده',
+    'topnav2' => 'پایگاه داده',
 
-'topnav3' => 'توییتر',
+    'topnav3' => 'توییتر',
 
-'topnav4' => 'وبلاگ mpopp.net',
+    'topnav4' => 'وبلاگ mpopp.net',
 
-'topnav5' => 'phpMyAdmin',
+    'topnav5' => 'phpMyAdmin',
 
-'sidebar_1_2' => 'کمک‌ها',
+    'sidebar_1_2' => 'کمک‌ها',
 
-'sidebar_1_3' => 'ترجمه‌ها',
+    'sidebar_1_3' => 'ترجمه‌ها',
 
-'sidebar_1_4' => 'تغییرات',
+    'sidebar_1_4' => 'تغییرات',
 
-'sidebar_1_5' => 'درباره',
+    'sidebar_1_5' => 'درباره',
 
-'sidebar_2_1' => 'درباره db4free.net',
+    'sidebar_2_1' => 'درباره db4free.net',
 
-'sidebar_2_2' => 'شرایط استفاده',
+    'sidebar_2_2' => 'شرایط استفاده',
 
-'sidebar_2_3' => 'ثبت‌ نام',
+    'sidebar_2_3' => 'ثبت‌ نام',
 
-'sidebar_2_4' => 'تغییر رمز عبور',
+    'sidebar_2_4' => 'تغییر رمز عبور',
 
-'sidebar_2_5' => 'حذف حساب',
+    'sidebar_2_5' => 'حذف حساب',
 
-'sidebar_2_6' => 'رمز عبور خود را فراموش کرده‌اید؟',
+    'sidebar_2_6' => 'رمز عبور خود را فراموش کرده‌اید؟',
 
-'pmalogin' => 'ورود به phpMyAdmin',
+    'pmalogin' => 'ورود به phpMyAdmin',
 
-'username' => 'نام کاربری',
+    'username' => 'نام کاربری',
 
-'password' => 'رمز عبور',
+    'password' => 'رمز عبور',
 
-'login' => 'ورود',
+    'login' => 'ورود',
 
-'switch_language' => 'تغییر زبان',
-);
-?>
+    'switch_language' => 'تغییر زبان',
+];

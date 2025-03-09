@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Zahtevali ste novu šifru za vaš korisnički nalog "{$user}"
 
 Vaša nova šifra je {$newData}
@@ -19,5 +20,4 @@ Nadamo se da uživate u radu sa vašom bazom podataka!
 
 Vaš db4free.net tim
 https://www.db4free.net',
-);
-?>
+];

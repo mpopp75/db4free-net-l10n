@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: translate
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Terjemahan',
 
     'l10ncredits' => 'Beribu-ribu terima kasih pada setiap kontributor penerjemah',
@@ -33,16 +34,15 @@ $translations = array(
 
     'p2h' => 'Di berkas dalam direktori ini, ganti teks berbahasa Inggris dengan terjemahan Anda yang baru. Mohon hati-hati untuk tidak merubah Variabel ID. Contohnya:',
 
-    'p2i' => '\'h1\' => \'Welcome to db4free.net\',',
+    'p2i' => "'h1' => 'Welcome to db4free.net',",
 
     'p2j' => 'menjadi',
 
-    'p2k' => '\'h1\' => \'Selamat datang di db4free.net\',',
+    'p2k' => "'h1' => 'Selamat datang di db4free.net',",
 
     'p2l' => 'Jika teksnya sama berbahasa Inggris dengan bahasa yang Anda terjemahkan, Anda dapat membiarkannya.',
 
     'p2m' => 'Saat Anda sudah selesai menerjemahkan semuanya, <em>commit</em> dan <em>push</em> terjemahan Anda ke repositori akun GitHub Anda. Pindah ke <em>branch</em> terbaru Anda di GitHub dan klik "New Pull Request". Masukkan deskripsi pendek tentang terjemahan Anda, apapun kesusahan yang Anda hadapi atau Anda tidak bisa menyelesaikannya, dll; Anda tetap bisa mengirim kami "Pull Request".',
 
     'p2n' => 'Jika Anda ingin berkontribusi tapi membutuhkan bantuan lebih lanjut sebelum Anda memulainya, silakan <a href="https://github.com/mpopp75/db4free-net-l10n/issues">Buka topik pembahasan baru di GitHub</a>.',
-);
-?>
+];

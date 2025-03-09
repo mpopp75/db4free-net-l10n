@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: conditions
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Felhasználási feltételek',
 
     'p1' => 'Semmilyen esetben sem a db4free.net csapata tehető felelőssé az esetleges közvetlen, közvetett, különleges, véletlen vagy következményes károkért, beleértve a használatból fakadó bevételkiesést vagy az oldal  szoftverének, szolgáltatásának vagy dokumentációjának elérhetetlenségéből fakadó bármilyen kárért, még ha az adminisztrátort értesítették az ilyen hiba lehetőségéről.',
@@ -23,5 +24,4 @@ $translations = array(
     'p7' => 'Fenntartjuk magunknak a jogot, hogy ezen állításokat figyelmeztetés nélkül megváltoztatjuk.',
 
     'p8' => 'Heidenreichstein, Ausztria<br>2014. június 29.',
-);
-?>
+];

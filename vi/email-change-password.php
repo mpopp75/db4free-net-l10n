@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'email' => 'Chúng tôi đã nhận được yêu cầu thay đổi mật khẩu từ bạn.
 
 Thông tin mới như sau:
@@ -22,5 +23,4 @@ Chúng bạn có ngày làm việc vui vẻ cùng cơ sở dữ liệu!
 
 Nhóm db4free.net
 https://www.db4free.net',
-);
-?>
+];

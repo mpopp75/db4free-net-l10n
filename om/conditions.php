@@ -4,7 +4,7 @@ Section: conditions
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Shurufaalee fayyadamaa',
 
     'p1' => 'Yeroo kamiyyuu, nuti, garee db4free.net, balaa kallattii, al-kallattii, addaa, tasaa, ykn kanneen biroo, dabalatee bu\'aa dhaban, kan ka\'u fayyadama ykn dhabamuu tajaajila kana, softiweera isaa, tajaajiloota isaa ykn galmee isaa irraa kan ka\'eef itti gaafatamummaa hin qabnu, yoo ta\'e illee itti gaafatamaan balaa sanaa beeksifameera.',
@@ -22,5 +22,5 @@ $translations = array(
     'p7' => 'Nuti mirga ibsa kana beeksisa malee jijjiiruu qabna.',
 
     'p8' => 'Heidenreichstein, Awustiriyaa<br>29 Waxabajjii 2014',
-);
+];
 ?>

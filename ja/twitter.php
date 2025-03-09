@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: twitter
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Twitter',
-);
-?>
+];

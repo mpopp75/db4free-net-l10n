@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Russian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Мы получили ваш запрос на изменение пароля.
 
 Новые данные для авторизации:
@@ -22,5 +23,4 @@ $translations = array(
 
 Команда db4free.net
 https://www.db4free.net',
-);
-?>
+];

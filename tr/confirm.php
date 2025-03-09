@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: confirm
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Doğrulama',
-);
-?>
+];

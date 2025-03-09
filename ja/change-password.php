@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Japanese
 */
 
-$translations = array(
+$translations = [
     'h1' => 'パスワードを変更',
 
     'mysql-username' => 'MySQL ユーザー名',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => '新しく設定するパスワードを入力してください',
 
     'ph4' => '新しく設定するパスワードを再度入力してください',
-);
-?>
+];

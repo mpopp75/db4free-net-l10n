@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: French Français
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'Base de données MySQL gratuite',
@@ -29,7 +30,7 @@ $translations = array(
 
     'sidebar_2_1' => 'A propos de db4free.net',
 
-    'sidebar_2_2' => 'Conditions d\'utilisation',
+    'sidebar_2_2' => "Conditions d'utilisation",
 
     'sidebar_2_3' => 'Se connecter',
 
@@ -41,12 +42,11 @@ $translations = array(
 
     'pmalogin' => 'phpMyAdmin Login',
 
-    'username' => 'Nom d\'utilisateur',
+    'username' => "Nom d'utilisateur",
 
     'password' => 'Mot de passe',
 
     'login' => 'Login',
 
     'switch_language' => 'Changez la langue',
-);
-?>
+];

@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Dutch
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Changelog',
-);
-?>
+];

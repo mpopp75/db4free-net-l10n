@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL Cơ sở dữ liệu miễn phí',
@@ -48,5 +49,4 @@ $translations = array(
     'login' => 'Đăng nhập',
 
     'switch_language' => 'Đổi ngôn ngữ',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Persian
 */
 
-$translations = array(
+$translations = [
     'email' => 'شما درخواست یک رمز عبور جدید برای حساب کاربری "{$user}" خود داده‌اید.
 
 رمز عبور جدید شما {$newData} است
@@ -19,5 +20,4 @@ $translations = array(
 
 تیم db4free.net
 https://www.db4free.net',
-);
-?>
+];

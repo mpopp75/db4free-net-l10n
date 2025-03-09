@@ -1,11 +1,11 @@
 <?php
+
 /*
 Section: twitter
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'h1' => 'ट्विटर',
-);
-?>
+];

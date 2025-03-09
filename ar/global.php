@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: عام
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL Database المجاني',
@@ -48,6 +49,4 @@ $translations = array(
     'login' => 'تسجيل الدخول',
 
     'switch_language' => 'تبديل اللغة',
-);
-?>
-
+];

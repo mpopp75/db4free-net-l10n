@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: German
 */
 
-$translations = array(
+$translations = [
     'email' => 'Wir haben eine Anfrage erhalten, Ihr Passwort zu ändern.
 
 Ihre neuen Daten lauten:
@@ -22,5 +23,4 @@ Wir hoffen, dass Sie viel Freude mit Ihrer Datenbank haben!
 
 Ihr db4free.net Team
 https://www.db4free.net',
-);
-?>
+];

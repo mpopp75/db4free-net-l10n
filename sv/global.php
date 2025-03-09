@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'MySQL Databaser gratis',
@@ -48,5 +49,4 @@ $translations = array(
     'login' => 'Logga in',
 
     'switch_language' => 'Byt Språk',
-);
-?>
+];

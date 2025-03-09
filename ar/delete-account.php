@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: حذف الحساب
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'h1' => 'حذف الحساب',
 
     'mysql-username' => 'MySQL اسم المستخدم',
@@ -20,6 +21,4 @@ $translations = array(
     'error2' => 'المستخدم غير موجود !',
 
     'error3' => 'كلمة المرور غير صحيحة !',
-);
-?>
-
+];

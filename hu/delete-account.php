@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: delete-account
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Fiók törlése',
 
     'mysql-username' => 'MySQL felhasználónév',
@@ -21,5 +22,4 @@ $translations = array(
     'error2' => 'A felhasználó nem létezik!',
 
     'error3' => 'A jelszó helytelen!',
-);
-?>
+];

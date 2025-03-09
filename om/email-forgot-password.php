@@ -4,7 +4,7 @@ Section: email-forgot-password
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'email' => 'Akkawuntii keetiif jecha password haaraa gaafatteerta "{$user}"
 
 Password haaraan kee {$newData}
@@ -19,5 +19,5 @@ Daataa beeksisuu waliin hojjachuu akka si gammachiisu abdanna!
 
 Teamii db4free.net
 https://www.db4free.net',
-);
+];
 ?>

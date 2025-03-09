@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: signup
 Language: Traditional Chinese 繁體中文
 Translator: Trey Lin, SiderealArt
 */
 
-$translations = array(
+$translations = [
     'h1' => '註冊',
 
     'mysql-db-name' => 'MySQL 資料庫名稱',
@@ -61,5 +62,4 @@ $translations = array(
     'signup-error3' => '傳送認證信件時發生錯誤！',
 
     'signup-success' => '感謝您的註冊，您將收到帳號確認信函！',
-);
-?>
+];

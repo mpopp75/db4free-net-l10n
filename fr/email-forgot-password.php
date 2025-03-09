@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: French Français
 */
 
-$translations = array(
+$translations = [
     'email' => 'Nous avons reçu une demande de réinitialisation de mot de passe pour votre compte "{$user}"
 
 Votre nouveau mot de passe est : {$newData}
@@ -19,5 +20,4 @@ Profitez bien de votre base de données !
 
 L\'équipe db4free.net
 https://www.db4free.net',
-);
-?>
+];

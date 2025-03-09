@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: confirm
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Konfirmasi',
-);
-?>
+];

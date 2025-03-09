@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: conditions
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Condiții de utilizare',
 
     'p1' => 'În orice circumstanță noi, echipa db4free.net, nu vom fi ținuți răspunzători de către nicio parte pentru eventualele daune directe sau indirecte, de natură specială, incidentală sau subsidiară, incluzând pierderea de profit, survenite în urma folosirii sau indisponibilității acestei gazde, software-ului, serviciilor sau documentației acesteia, deși administratorul a fost înștiințat cu privire la eventualitatea unei asemenea daune.',
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'Menținem dreptul de a modifica aceste declarații fără preavizare.',
 
     'p8' => 'Heidenreichstein, Austria<br>29 iunie 2014',
-);
-?>
+];

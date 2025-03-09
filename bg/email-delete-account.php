@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-delete-account
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Получихме Вашето искане за изтриване на Вашият акаунт за db4free.net с потребителско име "{$user}".
 
 Моля потвърдете изтриването като щракнете върхъ връзката по-долу. Имайте предвид, че всички ваши данни ще бъдат безвъзвратно изтрити и загубени!
@@ -17,5 +18,4 @@ $translations = array(
 
 Екипът на db4free.net
 https://www.db4free.net',
-);
-?>
+];

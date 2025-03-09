@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: global
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'sitetitle1' => 'db4free.net',
 
     'sitetitle2' => 'Hosting gratis database MySQL',
@@ -48,5 +49,4 @@ $translations = array(
     'login' => 'Masuk',
 
     'switch_language' => 'Ganti Bahasa',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Lupa kata sandi?',
 
     'username' => 'Nama pengguna',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'Data yang Anda masukkan tidak cocok!',
 
     'success' => 'Kami telah mengirim sebuah email dengan kata sandi baru Anda!',
-);
-?>
+];

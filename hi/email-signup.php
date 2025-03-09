@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-signup
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Db4free.net के साथ अपने डेटाबेस खाते {$user} को पंजीकृत करने के लिए धन्यवाद।
 
 नीचे दिए गए लिंक की पुष्टि करने के बाद, आपके पास db4free.net का MySQL 8.3 डेटाबेस सर्वर को उपयोग कर सकते है। सर्वर का उपयोग के लिए होस्ट नाम db4free.net और पोर्ट 3306 है। आप सर्वर पर लॉग इन करने के लिए हमारी वेबसाइट पर phpMyAdmin का उपयोग कर सकते हैं।
@@ -36,5 +37,4 @@ $translations = array(
 
 Db4free.net टीम
 https://www.db4free.net',
-);
-?>
+];

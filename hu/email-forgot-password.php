@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'email' => 'Új jelszót kértél a "{$user}" felhasználónevű fiókodba
 
 Az új jelszavad: {$newData}
@@ -20,5 +21,4 @@ Reméljük élvezed a munkát az adatbázisoddal!
 
 A db4free.net csapata
 https://www.db4free.net',
-);
-?>
+];

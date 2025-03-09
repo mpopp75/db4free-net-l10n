@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Log de alterações',
-);
-?>
+];

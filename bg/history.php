@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Bulgarian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Списък с промени',
-);
-?>
+];

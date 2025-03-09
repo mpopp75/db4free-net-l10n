@@ -4,7 +4,7 @@ Section: history
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Seenaa Jijjiirraa',
-);
+];
 ?>

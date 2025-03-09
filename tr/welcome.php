@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: welcome
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'db4free.net e Hoşgeldiniz',
 
     'p1a' => 'db4free.net son hatta geliştirme aşamasındaki <a href="https://www.mysql.com/">MySQL Server</a> için test ortamı sunar. Kolaylıkla <a href="/signup.php"> ücretsiz hesap oluşturabilir</a> ve uygulamalarınızı test edebilirsiniz, örnek olarak MySQL ün son güncellemesinden sonra sisteminizin çalışırlığını test edebilirsiniz. db4free.net ayrıca eğitim amaçlı olarak veya son gelişmeler hakkında bilgi sahibi olmak için kullanacağınız bir ortamdır.',
@@ -28,5 +29,4 @@ $translations = array(
     'p4b' => 'MySQL öğrenmek için en iyi kaynaklar <a href="https://dev.mysql.com/">MySQL Geliştirici Bölgesi</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Kullanım Kılavuzu</a> ve <a href="https://planet.mysql.com/">PlanetMySQL</a>. MySQL websitesi bir çok <a href="https://dev.mysql.com/tech-resources/articles/">Geliştirici Makaleleri</a> sunar bu makaleler yayınlanan son versiyonlar hakkında daha detaylı bilgiler içerir.',
 
     'p4c' => 'Eğer MySQL Serverda bir açık bulduysanız, lütfen <a href="https://bugs.mysql.com/">MySQL Hata İzleme Sistemi</a> nden bildiriniz.',
-);
-?>
+];

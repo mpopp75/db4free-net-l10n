@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: welcome
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Selamat datang di db4free.net',
 
     'p1a' => 'db4free.net merupakan layanan tes untuk versi terbaru - terkadang versi pengembangan - dari <a href="https://www.mysql.com/">MySQL Server</a>. Anda dapat dengan mudah <a href="/signup.php">membuat akun dengan gratis</a> dan melakukan tes terhadap aplikasi Anda, contohnya Anda ingin mengetahui apa aplikasi Anda masih bekerja setelah MySQL update ke versi terbaru. db4free.net bagus untuk bahan edukasi dan membuat Anda terbiasa dengan fitur terbaru di versi MySQL yang terbaru.',
@@ -28,5 +29,4 @@ $translations = array(
     'p4b' => 'Sumber paling bagus untuk belajar lebih lanjut tentang MySQL ada di <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, juga <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> dan <a href="https://planet.mysql.com/">PlanetMySQL</a>. Situs MySQL memberikan segudang <a href="https://dev.mysql.com/tech-resources/articles/">Developer Articles</a> di mana banyak terdapat penjelasan tentang fitur terbaru yang akan diperkenalkan di versi yang akan datang selanjutnya dengan detil.',
 
     'p4c' => 'Jika Anda menemukan <em>bug</em> di MySQL Server, silakan beritahu bug tersebut ke <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: conditions
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Syarat Penggunaan',
 
     'p1' => 'Kami tim db4free.net, tidak akan bertanggung jawab kepada pihak pengguna langsung, atau tidak langsung; apabila terjadi kerusakan khusus, fatal, maupun ringan; termasuk kehilangan keuntungan yang terjadi akibat penggunaan. Jika demikian kami telah memberitahu pada pihak pengguna tentang kemungkinan kerusakan tersebut.',
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'Kami berhak merubah pernyataan ini tanpa memberitahu pengguna.',
 
     'p8' => 'Heidenreichstein, Austria<br/>29 Juni 2014',
-);
-?>
+];

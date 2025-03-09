@@ -1,9 +1,10 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Dutch
 */
-$translations = array(
+$translations = [
     'email' => 'We hebben uw aanvraag om uw wactwoord te veranderen ontvangen.
 
 De nieuwe gegevens zijn als volgt:
@@ -21,5 +22,4 @@ We hopen dat u plezier beleeft aan het werken met uw database!
 
 Het db4free.net-team
 https://www.db4free.net',
-);
-?>
+];

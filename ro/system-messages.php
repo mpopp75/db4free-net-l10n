@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'database' => 'Bază de date',
 
     'username' => 'Nume utilizator',
@@ -54,5 +55,4 @@ $translations = array(
     'subject-delete-account' => 'Ștergerea contului dvs. de pe db4free.net',
 
     'subject-change-password' => 'Noua dvs. parolă pe db4free.net',
-);
-?>
+];

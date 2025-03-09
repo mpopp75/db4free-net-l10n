@@ -1,10 +1,11 @@
 <?php
+
 /*
-Section:تغيير كلمة  المرور 
+Section:تغيير كلمة  المرور
 Language: العربية
 */
 
-$translations = array(
+$translations = [
     'email' => 'لقد تم استقبال طلبك لتغيير كلمة المرور .
 
 البيانات الجديدة هي كالتالي:
@@ -22,6 +23,4 @@ $translations = array(
 
 The db4free.net فريق
 https://www.db4free.net',
-);
-?>
-
+];

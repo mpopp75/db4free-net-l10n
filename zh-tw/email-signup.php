@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-signup
 Language: Traditional Chinese 繁體中文
 Translator: Trey Lin, SiderealArt
 */
 
-$translations = array(
+$translations = [
     'email-signup' => '感謝您在 db4free.net 註冊了資料庫帳號 {$user}。
 
 當您點擊下面的帳號確認連結後，您將擁有存取 db4free.net\'s MySQL 8.3 資料庫伺服器的權限。存取的網域名稱為：db4free.net，連接埠為：3306。您也可以利用網站介面 phpMyAdmin 來連接資料庫伺服器。
@@ -36,5 +37,4 @@ $translations = array(
 
 db4free.net 團隊
 https://www.db4free.net',
-);
-?>
+];

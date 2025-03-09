@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: change-password
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'h1' => 'கடவுச்சொல்லை மாற்ற',
 
     'mysql-username' => 'MySQL பயனர்பெயர்',
@@ -22,5 +23,4 @@ $translations = array(
     'ph3' => 'உங்கள் புதிய கடவுச்சொல்லை உள்ளிடவும்',
 
     'ph4' => 'உங்கள் புதிய கடவுச்சொல்லை உள்ளிடவும் (மீண்டும்)',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'email' => 'Hesabınız için yeni bir şifre talep ettiniz "{$user}"
 
 Yeni şifreniz : {$newData}
@@ -19,5 +20,4 @@ Veritabanınızı kullanmayı sevdiğinizi umuyoruz!
 
 db4free.net ekibi
 https://www.db4free.net',
-);
-?>
+];

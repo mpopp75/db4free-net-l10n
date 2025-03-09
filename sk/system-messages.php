@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: system-messages
 Language: Slovak
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'database' => 'databázy',
 
     'username' => 'Užívateľské meno',
@@ -55,5 +56,4 @@ $translations = array(
     'subject-delete-account' => 'Vymazanie Vášho účtu db4free.net',
 
     'subject-change-password' => 'Vaše nové db4free.net heslo',
-);
-?>
+];

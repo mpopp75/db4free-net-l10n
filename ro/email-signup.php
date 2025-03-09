@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Mulțumim pentru înregistrarea contului dvs. {$user} pe db4free.net.
 
 După accesarea legăturii de mai jos pentru confirmare, veți avea acces pe server-ul de bază de date MySQL 8.3 al db4free.net. Numele de gazdă pentru accesarea server-ului este db4free.net, iar portul este 3306. Puteți folosi phpMyAdmin pe website-ul nostru pentru a vă autentifica în server.
@@ -35,5 +36,4 @@ Sperăm că vă va plăcea să lucrați cu baza dvs. de date!
 
 Echipa db4free.net
 https://www.db4free.net',
-);
-?>
+];

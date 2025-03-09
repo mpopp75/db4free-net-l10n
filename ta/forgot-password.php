@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: forgot-password
 Language: Tamil
 */
 
-$translations = array(
+$translations = [
     'h1' => 'உங்கள் கடவுச்சொல்லை மறந்து விட்டீர்களா?',
 
     'username' => 'பயனர்பெயர்',
@@ -16,5 +17,4 @@ $translations = array(
     'error1' => 'நீங்கள் உள்ளிட்ட தரவு சரியானதல்ல!',
 
     'success' => 'உங்கள் புதிய கடவுச்சொல்லுடன் ஒரு மின்னஞ்சலைப் பெற்றுள்ளீர்கள்!',
-);
-?>
+];

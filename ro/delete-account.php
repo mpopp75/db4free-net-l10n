@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: delete-account
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Șterge contul',
 
     'mysql-username' => 'Nume utilizator MySQL',
@@ -20,5 +21,4 @@ $translations = array(
     'error2' => 'Utilizatorul nu există!',
 
     'error3' => 'Parola este greșită!',
-);
-?>
+];

@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: system-messages
 Language: Hindi
 Translator: Vipul Kumar
 */
 
-$translations = array(
+$translations = [
     'database' => 'डेटाबेस',
 
     'username' => 'यूज़रनेम',
@@ -55,5 +56,4 @@ $translations = array(
     'subject-delete-account' => 'आपके db4free.net अकाउंट का डिलीटशन',
 
     'subject-change-password' => 'आपका नया db4free.net पासवर्ड',
-);
-?>
+];

@@ -1,9 +1,10 @@
 <?php
+
 /*
 Section: فقدان كلمة مرور الإيميل
 Language: العربية
 */
-$translations = array(
+$translations = [
     'email' => 'قد قمت بطلب كلمة مرور جديدة لحسابك "{$user}"
 
 كلمة المرور الجديدة هي {$newData}
@@ -17,5 +18,4 @@ $translations = array(
 
 The db4free.net فريق
 https://www.db4free.net',
-);
-?>
+];

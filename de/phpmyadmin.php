@@ -1,9 +1,8 @@
 <?php
+
 /*
 Section: phpmyadmin
 Language: German
 */
 
-$translations = array(
-);
-?>
+$translations = [];

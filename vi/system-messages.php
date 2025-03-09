@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: Vietnamese
 */
 
-$translations = array(
+$translations = [
     'database' => 'Cơ sở dữ liệu',
 
     'username' => 'Tên người dùng',
@@ -54,5 +55,4 @@ $translations = array(
     'subject-delete-account' => 'Xóa tài khoản db4free.net của bạn',
 
     'subject-change-password' => 'Mật khẩu mới cho db4free.net ',
-);
-?>
+];

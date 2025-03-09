@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: German
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Registrierung',
 
     'mysql-db-name' => 'MySQL Datenbank-Name',
@@ -62,5 +63,4 @@ $translations = array(
     'signup-error3' => 'Fehler beim Versenden des Bestätigungs-Emails!',
 
     'signup-success' => 'Danke für die Registrierung! Sie erhalten eine Email, um die Registrierung zu bestätigen.',
-);
-?>
+];

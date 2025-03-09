@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: system-messages
 Language: Italian
 */
 
-$translations = array(
+$translations = [
     'database' => 'Database',
 
     'username' => 'Nome utente',
@@ -37,9 +38,9 @@ $translations = array(
 
     'email-invalid' => 'L\'indirizzo email non è valido.',
 
-    'user-not-exist' => 'L\'utente non esiste.',
+    'user-not-exist' => "L'utente non esiste.",
 
-    'user-not-confirmed' => 'L\'utente non ha ancora confermato la mail di verifica.',
+    'user-not-confirmed' => "L'utente non ha ancora confermato la mail di verifica.",
 
     'password-not-correct' => 'La password non è corretta.',
 
@@ -54,5 +55,4 @@ $translations = array(
     'subject-delete-account' => 'Cancellazione del tuo account su db4free.net',
 
     'subject-change-password' => 'La tua nuova password su db4free.net',
-);
-?>
+];

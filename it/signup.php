@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Italian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Registrazione',
 
     'mysql-db-name' => 'Nome del database MySQL',
@@ -53,12 +54,11 @@ $translations = array(
 
     'agm-li10' => 'Per favore, rimuovi i dati di cui non hai più bisogno, o <a href="/delete-account.php">cancella il tuo account</a> se non ti serve più. Questo fa in modo che sia più facile eseguire il recover nel caso avvenisse un crash sul server.',
 
-    'signup-error1' => 'Devi accettare le condizioni d\'uso illustrate!',
+    'signup-error1' => "Devi accettare le condizioni d'uso illustrate!",
 
     'signup-error2' => 'Errore nella registrazione dei dati per il tuo database MySQL!',
 
-    'signup-error3' => 'Errore nell\'invio della mail di conferma!',
+    'signup-error3' => "Errore nell'invio della mail di conferma!",
 
     'signup-success' => 'Grazie per esserti registrato! Riceverai una email di conferma della registrazione.',
-);
-?>
+];

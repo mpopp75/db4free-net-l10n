@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: system-messages
 Language: Simplified Chinese 简体中文
 Translator: Luo Haojing
 */
 
-$translations = array(
+$translations = [
     'database' => '数据库',
 
     'username' => '用户名',
@@ -55,5 +56,4 @@ $translations = array(
     'subject-delete-account' => '注销您的 db4free.net 账号',
 
     'subject-change-password' => '您在 db4free.net 的新密码',
-);
-?>
+];

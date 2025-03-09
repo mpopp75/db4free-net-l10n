@@ -1,10 +1,11 @@
-﻿<?php
+<?php
+
 /*
 Section: imprint
 Language: Turkish, Türkçe
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Künye',
 
     'p1' => '&copy; 2005-%d by',
@@ -22,5 +23,4 @@ $translations = array(
     'p5' => 'Site sahibi sitede sunulan bilgilerin doğruluğu, güncelliği, tamlığı veya kalitesi hakkında sorumluluk almama hakkını saklı tutar. Sitedeki eksik yada yanlış bilgiler dahil olmak üzere herhangi bir bilgiden kaynaklanan zararlar sebep gösterilerek yapılan şikayetler reddedilecektir.',
 
     'p6' => 'Site sahibi bağlantılanan veya alıntılanan herhangi bir içerikten sorumlu değildir.',
-);
-?>
+];

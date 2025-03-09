@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: imprint
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Jejak',
 
     'p1' => '&copy; 2005-%d oleh',
@@ -22,5 +23,4 @@ $translations = array(
     'p5' => 'Penulis dari situs ini berhak untuk tidak bertanggung jawab atas aktualitas, kebenaran, kelengkapan atau kualitas informasi yang diberikan. Tuntutan kewajiban mengenai kerusakan yang disebabkan oleh penggunaan informasi yang diberikan, termasuk jenis informasi yang tidak lengkap atau tidak benar, itu akan ditolak.',
 
     'p6' => 'Penulis dari situs ini tidak bertanggung jawab atas isi dan halaman situs terkait lainnya.',
-);
-?>
+];

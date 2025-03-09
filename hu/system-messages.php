@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: system-messages
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'database' => 'Adatbázis',
 
     'username' => 'Felhasználónév',
@@ -55,5 +56,4 @@ $translations = array(
     'subject-delete-account' => 'A db4free.net fiókod törlése',
 
     'subject-change-password' => 'A db4free.net fiókod jelszóváltoztatása',
-);
-?>
+];

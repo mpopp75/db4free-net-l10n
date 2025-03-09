@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: welcome
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Bun venit pe db4free.net',
 
     'p1a' => 'db4free.net furnizează un serviciu de testare pentru cele mai actuale versiuni - uneori chiar și în stagiul de dezvoltare - ale <a href="https://www.mysql.com/">Server-ului MySQL</a>. Puteți <a href="/signup.php">crea un cont gratuit</a> cu ușurință pentru a vă testa aplicațiile, de exemplu, să vă asigurați că încă lucrează după o actualizare a versiunii MySQL. db4free.net este, de asemenea, o resursă adecvată pentru pentru educație și pentru a vă familiariza cu noile caracteristici introduse în versiunile noi.',
@@ -26,8 +27,5 @@ $translations = array(
     'p4a' => 'Există o <a href="https://www.mpopp.net/category/db4free/">secțiune db4free.net</a> pe <a href="https://www.mpopp.net/">blog-ul mpopp.net</a> cu știri despre db4free.net. Vă rugăm abonați-vă la <a href="https://www.mpopp.net/category/db4free/feed/">RSS Feed</a> pentru a vă asigura că nu ratați nicio știre. db4free.net este, de asemenea, pe <a href="/twitter.php">Twitter</a>, o altă resursă valoroasă pentru a fi la curent cu ce se întâmplă în domeniul db4free.net.',
 
     'p4b' => 'Cele mai bune resurse pentru a învăța mai multe despre MySQL sunt <a href="https://dev.mysql.com/">MySQL Developer Zone</a>, <a href="https://dev.mysql.com/doc/refman/8.0/en/">MySQL Reference Manual</a> și <a href="https://planet.mysql.com/">PlanetMySQL</a>. Website-ul MySQL oferă variate <a href="https://dev.mysql.com/tech-resources/articles/">Articole de Dezvoltare</a>, dintre care multe explică foarte detaliat noile caracteristici pe cale de a fi introduse în versiunile viitoare.',
-
-    'p4c' => 'If you find a bug in the MySQL Server, please report it in the <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
     'p4c' => 'Dacă găsiți o pană în Server-ul MySQL, vă rugăm raportați-o pe <a href="https://bugs.mysql.com/">MySQL Bug Tracking System</a>.',
-);
-?>
+];

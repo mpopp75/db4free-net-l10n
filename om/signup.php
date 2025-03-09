@@ -4,7 +4,7 @@ Section: signup
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Galmaa\'ii',
 
     'mysql-db-name' => 'Maqaa MySQL database',
@@ -62,5 +62,4 @@ $translations = array(
     'signup-error3' => 'Dogoggora ergaa imeelii mirkaneessaa!',
 
     'signup-success' => 'Galatoomi galmeessuun kee! Imeelii mirkaneessaa ni argatta.',
-);
-?>
+];

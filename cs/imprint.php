@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: imprint
 Language: Czech
 Translator: SierraHawk <sierrahawk@outlook.com>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Tiráž',
 
     'p1' => '&copy; 2005-%d by',
@@ -23,5 +24,4 @@ $translations = array(
     'p5' => 'Autor této webové stránky si vyhrazuje právo nebýt zodpovědný za aktuálnost, správnost, úplnost nebo kvalitu poskytovaných informací. Nároky na ručení týkající se škody způsobené použitím jakýchkoli poskytnutých informací, včetně jakékoliv informace, které jsou neúplné nebo nesprávné, nebude akceptována',
 
     'p6' => 'Autor tohoto webu nezodpovídá za obsah odkazovaných z těchto stránek.',
-);
-?>
+];

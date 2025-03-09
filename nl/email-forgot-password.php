@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Dutch
 */
 
-$translations = array(
+$translations = [
     'email' => 'U heeft een nieuw wachtwoord voor uw account "{$user}" aangevraagt.
 
 Uw new wachtwoord is {$newData}
@@ -19,5 +20,4 @@ We wensen u veel plezier met uw database!
 
 Het db4free.net-team
 https://www.db4free.net',
-);
-?>
+];

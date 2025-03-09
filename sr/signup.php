@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: signup
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Registruj se',
 
     'mysql-db-name' => 'Ime MySQL baze podataka',
@@ -60,5 +61,4 @@ $translations = array(
     'signup-error3' => 'Greška prilikom slanja email-a za potvrdu!',
 
     'signup-success' => 'Hvala vam na registraciji! Dobićete email da potvrdite vašu registraciju.',
-);
-?>
+];

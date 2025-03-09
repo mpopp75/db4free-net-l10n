@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-change-password
 Language: Bahasa Indonesia
 */
 
-$translations = array(
+$translations = [
     'email' => 'Kami telah menerima permohonan perubahan kata sandi Anda.
 
 Data terbaru Anda saat ini:
@@ -22,5 +23,4 @@ Kami harap Anda puas bekerja dengan database Anda!
 
 Tim db4free.net
 https://www.db4free.net',
-);
-?>
+];

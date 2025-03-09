@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-signup
 Language: Serbian
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Hvala vam na registraciji vašeg profila za bazu podataka {$user} na db4free.net.
 
 Posle potvrđivanja klikom na link ispod, dobićete pristup na db4free.net MySQL 8.3 serveru. Host ime za pristup serveru je db4free.net i port je 3306. Možete koristiti phpMyAdmin na našem web sajtu da se ulogujete na server.
@@ -35,5 +36,4 @@ Nadamo se da uživate radeći sa vašom bazom podataka!
 
 Vaš db4free.net tim
 https://www.db4free.net',
-);
-?>
+];

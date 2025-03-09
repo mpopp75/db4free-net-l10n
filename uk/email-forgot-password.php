@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Ukrinian
 */
 
-$translations = array(
+$translations = [
     'email' => 'Ви запитали новий пароль для аккаунту "{$user}"
 
 Ваш новий пароль {$newData}
@@ -19,5 +20,4 @@ $translations = array(
 
 Команда db4free.net
 https://www.db4free.net',
-);
-?>
+];

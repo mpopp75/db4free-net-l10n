@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Romanian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Raport de schimbări',
-);
-?>
+];

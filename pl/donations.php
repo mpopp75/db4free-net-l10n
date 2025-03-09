@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: donations
 Language: Polish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Darowizny',
 
     'p1' => '<b>Wspierając nas dowolną kwotą pomagasz nam w zakupie lepszego sprzętu a tym samym w dostarczaniu jeszcze lepszej jakości usług.</b>',
@@ -12,5 +13,4 @@ $translations = array(
     'amount' => 'Kwota',
 
     'currency' => 'Waluta',
-);
-?>
+];

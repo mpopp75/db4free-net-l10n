@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: imprint
 Language: Spanish Español
 Translator: Cristiam Mercado <cristiammercadoj@gmail.com> & Juan Castaño <github.com/JuanSKr>
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Publicación',
 
     'p1' => '&copy; 2005-%d por',
@@ -23,5 +24,4 @@ $translations = array(
     'p5' => 'El autor de esta web se reserva el derecho de no ser responsable de la pertinencia, corrección, integridad o calidad de la información proporcionada. Se rechazarán las reclamaciones de responsabilidad por daños causados por el uso de cualquier información proporcionada, incluyendo cualquier información que sea incompleta o incorrecta.',
 
     'p6' => 'El autor de esta web no se hace responsable de ningún contenido enlazado o referido de este sitio.',
-);
-?>
+];

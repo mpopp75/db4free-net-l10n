@@ -4,7 +4,7 @@ Section: change-password
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Jecha icciitii jijjiiri',
 
     'mysql-username' => 'Maqaa fayyadamaa MySQL',
@@ -22,5 +22,5 @@ $translations = array(
     'ph3' => 'Jecha icciitii haaraa galchi',
 
     'ph4' => 'Jecha icciitii haaraa galchi (irra deebi\'ii)',
-);
+];
 ?>

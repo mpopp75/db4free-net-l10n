@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: donations
 Language: Swedish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Donationer',
 
     'p1' => '<b>Genom att donera så kan du hjälpa oss att investera i bättre hårdvara och samtidigt förbättra servicen</b>',
@@ -12,5 +13,4 @@ $translations = array(
     'amount' => 'Belopp',
 
     'currency' => 'Valuta',
-);
-?>
+];

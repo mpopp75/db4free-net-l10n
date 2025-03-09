@@ -4,7 +4,7 @@ Section: phpmyadmin
 Language: Afaan Oromoo
 */
 
-$translations = array(
+$translations = [
     'h1' => 'phpMyAdmin',
-);
+];
 ?>

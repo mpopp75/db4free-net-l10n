@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: conditions
 Language: Polish
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Warunki użytkowania',
 
     'p1' => 'Pod żadnym pozorem ekipa db4free.net nie jest odpowiedzialna w stosunku do nikogo za bezpośrednie, pośrednie, wyjątkowe, przypadkowe lub wynikowe szkody, włączając w to straty pieniężne czy materialne, wynikające z czasowej niedostępności tego serwisu, jego oprogramowania, usług czy dokumentacji nawet jeśli administrator bazy danych został pouczony o możliwości wystąpienia tego typu szkód.',
@@ -22,5 +23,4 @@ $translations = array(
     'p7' => 'Zastrzegamy sobie prawo do zmian powyższych postanowień bez wcześniejszego uprzedzenia.',
 
     'p8' => 'Heidenreichstein, Austria<br>29. czerwca 2014',
-);
-?>
+];

@@ -1,10 +1,11 @@
 <?php
+
 /*
 Section: email-forgot-password
 Language: Portuguese (Brazilian)
 */
 
-$translations = array(
+$translations = [
     'email' => 'Você solicitou uma nova senha para sua conta "{$user}"
 
 Sua nova senha é {$newData}
@@ -19,5 +20,4 @@ Esperamos que aproveite o seu banco de dados!
 
 Equipe db4free.net
 https://www.db4free.net',
-);
-?>
+];

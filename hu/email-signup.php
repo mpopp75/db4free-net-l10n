@@ -1,11 +1,12 @@
 <?php
+
 /*
 Section: email-signup
 Language: Hungarian
 Translator: uno20001 <regisztralo111@gmail.com>
 */
 
-$translations = array(
+$translations = [
     'email-signup' => 'Köszönjük, hogy regisztráltál a db4free.net weboldalon (felh.:{$user}).
 
 Miután megerősítetted a regisztrációdat a lentebb lévő linkkel, elérheted a db4free.net MySQL szerverét a "db4free.net" szervercímen és a "3306" porton éred el. Használhatsz phpMyAdmint a weboldalunkon, hogy belépj a szerverre.
@@ -36,5 +37,4 @@ Reméljük élvezed a munkát az adatbázisoddal!
 
 A db4free.net csapata
 https://www.db4free.net',
-);
-?>
+];

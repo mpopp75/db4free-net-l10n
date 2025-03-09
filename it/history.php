@@ -1,10 +1,10 @@
 <?php
+
 /*
 Section: history
 Language: Italian
 */
 
-$translations = array(
+$translations = [
     'h1' => 'Storico',
-);
-?>
+];
